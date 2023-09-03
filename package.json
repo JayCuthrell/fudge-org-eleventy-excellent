@@ -21,7 +21,6 @@
     "url": "https://github.com/madrilene/eleventy-excellent.git"
   },
   "dependencies": {
-    "@11ty/eleventy": "^2.0.0",
     "@11ty/eleventy-fetch": "^4.0.0",
     "@11ty/eleventy-img": "^3.0.0",
     "@11ty/eleventy-plugin-bundle": "^1.0.4",
@@ -31,6 +30,7 @@
     "tailwindcss": "^3.0.23"
   },
   "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
     "@toycode/markdown-it-class": "^1.2.4",
     "autoprefixer": "^10.4.13",
     "clean-css": "^5.3.1",
