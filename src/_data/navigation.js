@@ -5,12 +5,8 @@ module.exports = {
       url: '/about/'
     },
     {
-      text: 'Get started',
-      url: '/get-started/'
-    },
-    {
-      text: 'Built with',
-      url: '/built-with/'
+      text: 'Fudge Sunday',
+      url: '/archive/'
     },
     {
       text: 'Blog',
