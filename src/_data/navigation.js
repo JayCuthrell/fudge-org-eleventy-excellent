@@ -5,7 +5,7 @@ module.exports = {
       url: '/about/'
     },
     {
-      text: 'Fudge Sunday',
+      text: 'Archive',
       url: '/archive/'
     },
     {
