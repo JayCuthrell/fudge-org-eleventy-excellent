@@ -1,17 +1,15 @@
 ---
 permalink: /index.html
-title: ' Eleventy Excellent'
-description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
+title: 'Fudge Sunday weekly newsletter'
+description: 'archives from Fudge Sunday weekly newsletter and blog posts from 1998 to Present'
 layout: 'home'
 blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+  title: 'Welcome to fudge.org'
+  intro: "the perpetually under construction on again off again blog of Jay Cuthrell"
 ---
 
-## An Eleventy starter
+## A new-ish beginning...
 
-This (opiniated) [Eleventy](https://www.11ty.dev/) starter is based on [Andy Bell's](https://mastodon.social/@andy@bell.bz) talk 'Be the browser’s mentor, not its micromanager' and it's companion website buildexcellentwebsit.es.
+I was going back and forth on GatsbyJS and decided that Eleventy was worth trying for 2023.
 
-In his words, it's about hinting the browser rather than micromanaging it, using progressive enhancement, CSS layout, fluid type & spacing, as well as modern CSS features.
-
-This way we can shape frontends that look good to everyone, regardless of device, connection speed or context.
+I'll slowly be going from directories to flat files again while carving up frontmatter.
