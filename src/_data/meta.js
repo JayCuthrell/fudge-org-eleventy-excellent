@@ -41,6 +41,13 @@ module.exports = {
     email: 'jay@cuthrell.com',
     cif: ''
   },
+  "feed": {
+    "subtitle": "the on again off again ramblings of Jay Cuthrell.",
+    "filename": "rss.xml",
+    "path": "/rss.xml",
+    "url": "https://fudge.org/rss.xml",
+    "id": "https://fudge.org/"
+  },
   menu: {
     closedText: 'Menu'
   }
