@@ -24,5 +24,24 @@ layout: base
     </li>
 
     {% endfor %}
-  </ul>
+
+<li class="card flow overflow-hidden">
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/jaycuthrell"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.fudge.org', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  
+  <input type="submit" value="Subscribe" />
+  <input type="hidden" name="tag" value="11ty" />
+  <p>
+    <a href="https://buttondown.email/refer/jaycuthrell" target="_blank">Powered by Buttondown.</a>
+  </p>
+</form>
+</li>
+</ul>
 </article>
