@@ -7,10 +7,6 @@ module.exports = {
     {
       text: 'Archive',
       url: '/archive/'
-    },
-    {
-      text: 'Blog',
-      url: '/blog/'
     }
   ],
   bottom: [

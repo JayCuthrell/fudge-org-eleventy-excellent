@@ -2,6 +2,7 @@
 title: "The Fudge FAQ"
 description: 'originally written on 1998-12-12 00:00:00+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
 date: 1998-12-12 00:00:00+00:00
+tags: post
 
 ---
 
