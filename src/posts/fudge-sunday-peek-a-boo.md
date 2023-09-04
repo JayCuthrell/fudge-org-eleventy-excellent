@@ -1,0 +1,118 @@
+---
+title: "Fudge Sunday - Peek A Boo"
+description: 'originally written on 2022-02-14 00:04:04+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+date: 2022-02-14 00:04:04+00:00
+
+---
+
+[View online](https://sunday.fudge.org/issues/fudge-sunday-peek-a-boo-1026756?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)
+
+[![Start the week more informed](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4892b2a2-ec84-45fb-8fc3-55806217a50f_1200x115.png "Start the week more informed")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4892b2a2-ec84-45fb-8fc3-55806217a50f_1200x115.png)This week we peek at meta newsletter reading on TypeScript, Prototyping, Consumerized Enterprise, Edge Computing, and the Uncanny Valley.
+
+[![Devo - Peek A Boo (Official Music Video)](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7d00bd96-34c6-4b4f-9d66-0d584862a118_600x450.jpeg "Devo - Peek A Boo (Official Music Video)")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7d00bd96-34c6-4b4f-9d66-0d584862a118_600x450.jpeg)Devo - Peek A Boo (Official Music Video)
+
+ **Getting Informed**
+
+Previously, I’ve shared my appreciation for [Matter](https://sunday.fudge.org/issues/fudge-sunday-zettelkasten-end-of-year-favorites-930157?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) and [Obsidian](https://sunday.fudge.org/issues/fudge-sunday-zettelkasten-end-of-year-favorites-930157?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) in my pursuit of a [zettelkasten](https://sunday.fudge.org/issues/fudge-sunday-zettelkasten-end-of-year-favorites-930157?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). So, I was really excited when the Matter team published a repository on GitHub for Obsidian users.
+
+[![The Matter Obsidian plugin...](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/34afbbed-4d2e-4225-b118-5cd46bf9e020_600x300.png "The Matter Obsidian plugin...")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F34afbbed-4d2e-4225-b118-5cd46bf9e020_600x300.png)**[The Matter Obsidian plugin...](https://github.com/getmatterapp/obsidian-matter?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+
+The [Matter Obsidian plugin](https://github.com/getmatterapp/obsidian-matter?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) provides all the elements to extend to customize workflows. As such, yet another weekend project is in my near future.🤓
+
+Source:
+
+[github.com](https://github.com/getmatterapp/obsidian-matter?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+
+To understand how powerful the [Matter Obsidian plugin](https://github.com/getmatterapp/obsidian-matter?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) can be, it’s worth watching how [Matt Birchler](https://twitter.com/mattbirchler?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) from [“A Better Computer”](https://www.youtube.com/watch?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter&v=GqTyyQBi3hA) is leveraging it to simplify his own workflow.
+
+[![Example of blogging workflow with Matter, Shortcuts, Ghost, and more](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/820ca81a-139d-44e6-b0e7-92d0b5afedad_600x450.jpeg "Example of blogging workflow with Matter, Shortcuts, Ghost, and more")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F820ca81a-139d-44e6-b0e7-92d0b5afedad_600x450.jpeg)Example of blogging workflow with Matter, Shortcuts, Ghost, and more
+
+ **My own Matter Obsidian plugin activity last week**
+
+This week I’ve used the Matter Obsidian plugin to help build this newsletter albeit manually. Essentially, these are the highlighted posts for my Matter reading on everything from TypeScript to Prototyping to Consumerized Enterprise to Edge Computing to the Uncanny Valley.
+
+That’s quite the journey, eh?
+
+Here are my favorite pull quotes from each topic linked to each writer:
+
+📖🤔🖍
+
+**TypeScript…**
+
+*“AWS CDK, Hashicorp CDK, Pulumi and more support Typescript as a first-class citizen.”* Source: [Matt Rickard](https://matt-rickard.com/why-typescript-for-infrastructure/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+
+**Prototyping…**
+
+*“Using a deliberately lo-fi idea also makes it so you spend less time on the prototype itself. It’s a hack to getting to a better feature.”* Source: [Greg Meyer](https://www.finddataops.com/p/everything-starts-out-looking-like-649?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+
+**Consumerized Enterprise…**
+
+*“When done right, [Consumerized Enterprise]s deploying a product led growth strategy can grow like consumer business, with adoption occurring quickly by end users, not dragged out by lengthy sales cycles.”* Source: [Kara Nortman](https://ventureinside.com/the-consumerized-enterprise-is-the-best-thing-to-happen-to-software-since-its-name-changed-to-saas-bde1f61573d7?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+
+**Edge Computing…**
+
+*“Enterprise technology is about to be transformed yet again — the need to process and analyze some data at the point where it is both created and consumed is becoming a business requirement as mandatory as moving other parts of the technology stack into central locations in the cloud.”* Source: [Lonne Jaffe and George Mathew](https://www.insightpartners.com/blog/edge-computing-techs-next-trillion-dollar-opportunity/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+
+**The Uncanny Valley…**
+
+*“It’s so good that it makes you question how long actors will really be needed at all.”* Source: [M.G. Siegler](https://500ish.com/you-havent-aged-a-day-7d01b5e0cb46?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+
+ **Work Plug!**
+
+As a reminder, I work at [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter). What’s [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) you ask?🤔🤔🤔🤔
+
+[Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) provides clientele with cloud data services across [hyperscale providers](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) to maximize innovation and [multicloud](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) outcomes.🤓☁️📊🚀
+
+[We’re hiring](https://grnh.se/66f4d22d4us?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) at Faction!🎉🤓☁️🚀
+
+To see our current openings [click here](https://grnh.se/66f4d22d4us?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).⬅️🤓☁️🚀
+
+G&A
+
+* [Executive Assistant / Chief of Staff](https://www.factioninc.com/company/careers?gh_jid=4229474004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+* [Recruiter](https://www.factioninc.com/company/careers?gh_jid=4114604004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+* [Technical Recruiter](https://www.factioninc.com/company/careers?gh_jid=4293908004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+
+Marketing
+
+* [Director of Marketing](https://www.factioninc.com/company/careers?gh_jid=4288821004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+* [Senior Product Marketing Manager](https://www.factioninc.com/company/careers?gh_jid=4304400004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+* [Vice President, Marketing](https://www.factioninc.com/company/careers?gh_jid=4191674004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+
+Operations
+
+* [Deployment Manager](https://www.factioninc.com/company/careers?gh_jid=4310263004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+* [Infrastructure Manager](https://www.factioninc.com/company/careers?gh_jid=4310326004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+
+Product Management
+
+* [Cloud Data Services Leader](https://www.factioninc.com/company/careers?gh_jid=4023220004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+* [Product Manager, Alliances & OEM (Cloud Technology)](https://www.factioninc.com/company/careers?gh_jid=4055866004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+* [Product Manager, Networking (FIX)](https://www.factioninc.com/company/careers?gh_jid=4276569004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+* [UI/UX Designer](https://www.factioninc.com/company/careers?gh_jid=4276577004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+
+Sales
+
+* [Alliance Business Development Manager (Cloud Technology)](https://www.factioninc.com/company/careers?gh_jid=4186247004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+* [Sales Executive](https://www.factioninc.com/company/careers?gh_jid=4186332004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+
+Technology
+
+* [Product Development Engineer](https://www.factioninc.com/company/careers?gh_jid=4048366004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+* [Senior Back-End Engineer](https://www.factioninc.com/company/careers?gh_jid=4022750004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+* [Senior Infrastructure Engineer (Cloud)](https://www.factioninc.com/company/careers?gh_jid=4022889004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+* [Senior Network Engineer](https://www.factioninc.com/company/careers?gh_jid=4023192004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+* [Sr. Software Engineer](https://www.factioninc.com/company/careers?gh_jid=4022896004&gh_src=66f4d22d4us&utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)
+
+ **Disclosure**
+
+I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).
+
+In order to unsubscribe, click [here](#).
+
+If you were forwarded this newsletter and you like it, you can subscribe [here](https://sunday.fudge.org/?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=Start+the+week+more+informed).
+
+Created with [Revue by Twitter](https://www.getrevue.co/?utm_source=Start the week more informed&utm_medium=email&utm_content=footerlink&utm_campaign=Issue).
+
+1903 Live Oak St #92 Beaufort, NC 28516-0092
+

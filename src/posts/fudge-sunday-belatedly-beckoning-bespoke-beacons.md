@@ -1,0 +1,88 @@
+---
+title: "Fudge Sunday - Belatedly Beckoning Bespoke Beacons"
+description: 'originally written on 2022-01-10 00:04:40+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+date: 2022-01-10 00:04:40+00:00
+
+---
+
+[View online](https://sunday.fudge.org/issues/fudge-sunday-belatedly-beckoning-bespoke-beacons-967743?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)
+
+[![Start the week more informed](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d12a5cca-05e4-413c-b259-557548f90da8_1200x115.png "Start the week more informed")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd12a5cca-05e4-413c-b259-557548f90da8_1200x115.png)This week we take a look at Ultra-Wideband (UWB) over the years and recent [@Techmeme metacoverage](https://www.techmeme.com/220109/p2?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a220109p2).
+
+ **Getting Informed**
+
+Back in 2009, one of my favorite presentation topics covered the trends that facilities based broadband service providers should know about. It was a pattern of research that I have tried to keep up over the years.
+
+Ultra-Wideband (UWB) was just one of the trends I was interested in at the time. My specific interest was due to increasingly diverse mobile device form factors including smart(er) phones and the ability to pair more devices with their own RF capabilities to form a [personal area network](https://en.wikipedia.org/wiki/Personal_area_network?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+
+**[Personal area network - Wikipedia](https://en.wikipedia.org/wiki/Personal_area_network?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+
+*“A personal area network ([PAN](https://en.wikipedia.org/wiki/Personal_area_network?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)) is a computer network for interconnecting electronic devices within an individual person’s workspace.”*
+
+[en.wikipedia.org](https://en.wikipedia.org/wiki/Personal_area_network?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+
+My inspiration for [Social Telecom 2030](https://fudge.org/social-telecom-2030/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) was [Social Telecom](https://fudge.org/social-telecom/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Also, the inspiration for [Social Telecom](https://fudge.org/social-telecom/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) was [2010: A Service Provider Odyssey](https://www.slideshare.net/JayCuthrell/2010-a-service-provider-odyssey-150063447?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) that I presented at several trade events and conferences of the time.
+
+[![2010: A Service Provider Odyssey](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9d199568-3eea-40e7-90a8-6010c92f2d07_600x450.png "2010: A Service Provider Odyssey")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9d199568-3eea-40e7-90a8-6010c92f2d07_600x450.png)**[2010: A Service Provider Odyssey](https://www.slideshare.net/JayCuthrell/2010-a-service-provider-odyssey-150063447?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+
+*[2010: A Service Provider Odyssey](https://www.slideshare.net/JayCuthrell/2010-a-service-provider-odyssey-150063447?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) by Jay Cuthrell of Cuthrell Consulting*
+
+[www.slideshare.net](https://www.slideshare.net/JayCuthrell/2010-a-service-provider-odyssey-150063447?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+
+A few years later I tweeted a reminder for anyone that may have forgotten how pervasive and ubiquitous the devices around us were becoming. I even used all capital letters to mimic the memes of the time and it was heavily retweeted manually and (re)appropriated as was the custom before the retweet button came into existence later that year.
+
+**“BREAKING NEWS: RADIOS WITHIN MOBILE DEVICES COMMUNICATE WITH THINGS THAT HAVE A KNOWN LOCATION” – @qthrul 2011-04-22**
+
+As such, I would recommend digesting the [Techmeme metacoverage of UWB](https://www.techmeme.com/220109/p2?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a220109p2) as it becomes newsworthy (again?). Essentially, the concept of my tweet from over a decade ago has not changed but the pervasive and ubiquitous arrival of UWB will be far more uniform in our near future.
+
+[![Techmeme metacoverage of UWB](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/35278e4a-e542-4774-b7df-b563512991b1_600x300.jpeg "Techmeme metacoverage of UWB")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F35278e4a-e542-4774-b7df-b563512991b1_600x300.jpeg)**[Techmeme metacoverage of UWB](https://www.techmeme.com/220109/p2?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a220109p2)**
+
+*“Techmeme: A look at the opportunities and challenges of ultra-wideband, as UWB beacons see widespread adoption in smartphones, smartwatches, and other devices”*
+
+[www.techmeme.com](https://www.techmeme.com/220109/p2?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a220109p2)
+
+ **Work Plug!**
+
+As a reminder, I work at [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). What’s [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) you ask?🤔🤔🤔🤔
+
+[Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) provides clientele with cloud data services across [hyperscale providers](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) to maximize innovation and [multicloud](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) outcomes.🤓☁️📊🚀
+
+[We’re hiring](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) at Faction!🎉🤓☁️🚀
+
+To see our current openings [click here](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).⬅️🤓☁️🚀
+
+In fact, [there are at least a dozen openings](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) as of this issue!⓬🤓☁️🚀
+
+⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+
+1. [Executive Assistant / Chief of Staff](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+2. [Vice President, Marketing](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+3. [Solutions Delivery Manager](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+4. [Cloud Data Services Leader](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+5. [Product Manager, Alliances & OEM (Cloud Technology)](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+6. [Alliance Business Development Manager (Cloud Technology)](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+7. [Enterprise Sales Executive (Cloud Technology)](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+8. [Sales Executive](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+9. [Product Development Engineer](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+10. [Senior Back-End Engineer](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+11. [Senior DevOps Engineer](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+12. [Senior Infrastructure Engineer (Cloud)](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+
+⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
+
+[See a fit for you or someone in your network](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)?✅🤓☁️🚀
+
+Please don’t hesitate to [reach out to me](https://jaycuthrell.com/contact/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).☎️🤓☁️🚀
+
+ **Disclosure**
+
+I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
+
+In order to unsubscribe, click [here](#).
+
+If you were forwarded this newsletter and you like it, you can subscribe [here](https://sunday.fudge.org/?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=Start+the+week+more+informed).
+
+Created with [Revue by Twitter](https://www.getrevue.co/?utm_source=Start the week more informed&utm_medium=email&utm_content=footerlink&utm_campaign=Issue).
+
+1903 Live Oak St #92 Beaufort, NC 28516-0092
+
