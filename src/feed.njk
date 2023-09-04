@@ -1,33 +1,37 @@
----
-permalink: /rss.xml
-eleventyExcludeFromCollections: true
-excludeFromSitemap: true
+---json
+{
+  "permalink": "rss.xml",
+  "eleventyExcludeFromCollections": true,
+  "metadata": {
+    "title": "Fudge Sunday newsletter and blog posts from 1998-Present",
+    "subtitle": "the on again off again blog and newsletter of Jay Cuthrell",
+    "language": "en",
+    "url": "https://fudge.org/",
+    "author": {
+      "name": "Jay Cuthrell",
+      "email": "jay@cuthrell.com"
+    }
+  }
+}
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ meta.url }}/">
-  <title>{{ meta.blog.name }}</title>
-  <subtitle>{{ meta.blog.description }}</subtitle>
-  <link href="{{ meta.url }}/feed.xml" rel="self" />
-  <link href="{{ meta.url }}/" />
-  {% set postslist = collections.posts %}
-  <updated>{{ postslist | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
-  <id>{{ meta.url }}/</id>
-  <author>
-    <name>{{ meta.author }}</name>
-    <email>{{ meta.authorEmail }}</email>
-  </author>
-  {%- for post in postslist %} {%- set absolutePostUrl = post.url | absoluteUrl(meta.url)
-  %}
-  <entry>
-    <title>{{ post.data.title }}</title>
-    <link href="{{ absolutePostUrl }}" />
-    <updated>{{ post.date | dateToRfc3339 }}</updated>
-    <id>{{ absolutePostUrl }}</id>
-    <content
-      xml:lang="{{ locale }}"
-      type="html"
-      >{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content
-    >
-  </entry>
-  {%- endfor %}
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="{{ metadata.url }}" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ metadata.title }}</title>
+    <link>{{ metadata.url }}</link>
+    <atom:link href="{{ permalink | absoluteUrl(metadata.url) }}" rel="self" type="application/rss+xml" />
+    <description>{{ metadata.subtitle }}</description>
+    <language>{{ metadata.language }}</language>
+    {%- for post in collections.posts | reverse %}
+    {%- set absolutePostUrl = post.url | absoluteUrl(metadata.url) %}
+    <item>
+      <title>{{ post.data.title }}</title>
+      <link>{{ absolutePostUrl }}</link>
+      <description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
+      <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
+      <dc:creator>{{ metadata.author.name }}</dc:creator>
+      <guid>{{ absolutePostUrl }}</guid>
+    </item>
+    {%- endfor %}
+  </channel>
+</rss>
