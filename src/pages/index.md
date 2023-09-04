@@ -1,6 +1,6 @@
 ---
 permalink: /index.html
-title: 'Fudge Sunday weekly newsletter'
+title: 'Fudge Sunday'
 description: 'archives from Fudge Sunday weekly newsletter and blog posts from 1998 to Present'
 layout: 'home'
 blog:
