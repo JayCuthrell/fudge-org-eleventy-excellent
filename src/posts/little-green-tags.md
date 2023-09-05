@@ -20,15 +20,7 @@ Perhaps you are being asked to do more with A.I. in a public cloud. Perhaps you 
 
 Now it's time for reading 📖, listening 🎧, watching 📺 suggestions:
 
-- First, [📖 Managing Cloud Cost Anomalies](https://www.finops.org/wg/managing-cloud-cost-anomalies/) in which [Angel Alves](https://www.linkedin.com/in/alvesangel/),
-[Keith Knowles](https://www.linkedin.com/in/keithdavidknowles/),
-[Sounthar Manickavasagam](https://www.linkedin.com/in/msounthar/),
-[Victoria Levy](https://www.linkedin.com/in/victoriarlevy/),
-[Yogendra Joshi](https://www.linkedin.com/in/yogendrajoshi/),
-[Usha Ganesh](https://www.linkedin.com/in/uganesh/),
-[Mala Vengatesan](https://www.linkedin.com/in/malavengat/),
-[Ira Cohen](https://www.linkedin.com/in/ira-cohen-1615491/), and 
-[Sivaprakash Durairaj](https://www.linkedin.com/in/sivaprakash-durairaj-finops/) make the case for a more financially informed approach to cloud consumption with an eye towards outliers.
+- First, [📖 Managing Cloud Cost Anomalies](https://www.finops.org/wg/managing-cloud-cost-anomalies/) in which [Angel Alves](https://www.linkedin.com/in/alvesangel/), [Keith Knowles](https://www.linkedin.com/in/keithdavidknowles/), [Sounthar Manickavasagam](https://www.linkedin.com/in/msounthar/), [Victoria Levy](https://www.linkedin.com/in/victoriarlevy/), [Yogendra Joshi](https://www.linkedin.com/in/yogendrajoshi/), [Usha Ganesh](https://www.linkedin.com/in/uganesh/), [Mala Vengatesan](https://www.linkedin.com/in/malavengat/), [Ira Cohen](https://www.linkedin.com/in/ira-cohen-1615491/), and [Sivaprakash Durairaj](https://www.linkedin.com/in/sivaprakash-durairaj-finops/) make the case for a more financially informed approach to cloud consumption with an eye towards outliers.
 
 - Second, [🎧 Financial Challenges of M.L./A.I. Ops](https://player.captivate.fm/episode/f6bebc9c-ab25-433e-99bc-a27f83b03637) in which [Joe Daly](https://www.linkedin.com/in/joe-daly-52789220/) abandons ChatGPT intros before he interviews [Thiago Gil](https://www.linkedin.com/in/thiago-bittencourt-gil/) on the junction of costs and implications across financial as well as societal concerns for compute selections with respect to the newest generation of workloads.
 
