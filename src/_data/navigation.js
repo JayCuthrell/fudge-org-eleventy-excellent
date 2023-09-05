@@ -11,12 +11,8 @@ module.exports = {
   ],
   bottom: [
     {
-      text: 'Imprint',
-      url: '/imprint/'
-    },
-    {
-      text: 'Privacy',
-      url: '/privacy/'
+      text: 'Disclosure',
+      url: 'https://jaycuthrell.com/disclosure'
     }
   ]
 };
