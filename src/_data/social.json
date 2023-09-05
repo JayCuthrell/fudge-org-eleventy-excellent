@@ -5,6 +5,16 @@
     "icon": "github.svg"
   },
   {
+    "platform": "contact",
+    "url": "https://jaycuthrell.com",
+    "icon": "contact.svg"
+  },
+  {
+    "platform": "linkedin",
+    "url": "https://www.linkedin.com/in/jaycuthrell",
+    "icon": "linkedin.svg"
+  },
+  {
     "platform": "mastodon",
     "url": "https://cuthrell.com/@jay",
     "icon": "mastodon.svg"
