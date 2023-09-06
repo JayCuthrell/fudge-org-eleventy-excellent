@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Cloud in Public: Status Dashboards"
-description: 'originally written on 2021-10-03 21:12:39+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-10-03 21:12:39+00:00
 
 ---

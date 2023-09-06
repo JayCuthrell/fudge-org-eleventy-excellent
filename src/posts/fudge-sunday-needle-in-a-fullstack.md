@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Needle in a Fullstack"
-description: 'originally written on 2022-03-27 20:29:31+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-03-27 20:29:31+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Who Said The AI ML Was Fair?"
-description: 'originally written on 2023-08-21 00:57:53.750145+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-08-21 00:57:53.750145+00:00
 
 ---

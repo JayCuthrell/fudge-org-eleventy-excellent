@@ -1,6 +1,6 @@
 ---
 title: "Under the guise of simplicity"
-description: 'originally written on 2007-01-20 23:31:57+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2007-01-20 23:31:57+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Buf.build Your REST"
-description: 'originally written on 2023-03-06 02:10:56.785300+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-03-06 02:10:56.785300+00:00
 
 ---

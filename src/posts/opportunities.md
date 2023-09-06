@@ -1,6 +1,6 @@
 ---
 title: "There's A Lot of Opportunities "
-description: 'originally written on 2023-06-18 23:50:29.115649+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-06-18 23:50:29.115649+00:00
 
 ---

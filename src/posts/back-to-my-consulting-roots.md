@@ -1,6 +1,6 @@
 ---
 title: "Back to my consulting roots"
-description: 'originally written on 2009-01-31 17:55:27+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2009-01-31 17:55:27+00:00
 
 ---

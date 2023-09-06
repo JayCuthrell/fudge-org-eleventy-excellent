@@ -1,6 +1,6 @@
 ---
 title: "The 5 Ps of Workloads"
-description: 'originally written on 2014-01-17 00:00:00+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2014-01-17 00:00:00+00:00
 
 ---

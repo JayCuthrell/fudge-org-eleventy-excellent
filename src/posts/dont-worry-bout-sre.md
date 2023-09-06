@@ -1,6 +1,6 @@
 ---
 title: "Don't Worry 'Bout SRE"
-description: 'originally written on 2022-11-28 00:42:04.765000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-11-28 00:42:04.765000+00:00
 
 ---

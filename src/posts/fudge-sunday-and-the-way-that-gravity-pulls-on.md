@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - And the way that gravity pulls on everyone"
-description: 'originally written on 2021-07-04 16:39:01+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-07-04 16:39:01+00:00
 
 ---

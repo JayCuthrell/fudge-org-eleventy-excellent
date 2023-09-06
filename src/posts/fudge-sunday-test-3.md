@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday Test 3"
-description: 'originally written on 2022-06-26 15:44:59.524000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-06-26 15:44:59.524000+00:00
 
 ---

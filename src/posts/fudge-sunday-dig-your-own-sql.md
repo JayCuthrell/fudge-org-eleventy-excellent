@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Dig Your Own SQL"
-description: 'originally written on 2021-08-23 00:21:05+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-08-23 00:21:05+00:00
 
 ---

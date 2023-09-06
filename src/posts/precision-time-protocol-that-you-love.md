@@ -1,6 +1,6 @@
 ---
 title: "Precision Time Protocol That You Love"
-description: 'originally written on 2022-10-02 22:44:33.004000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-10-02 22:44:33.004000+00:00
 
 ---

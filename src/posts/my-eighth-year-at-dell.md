@@ -1,6 +1,6 @@
 ---
 title: "My Eighth Year at Dell"
-description: 'originally written on 2018-10-08 00:00:00+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2018-10-08 00:00:00+00:00
 
 ---

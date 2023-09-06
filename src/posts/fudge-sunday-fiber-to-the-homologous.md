@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Fiber To The Homologous"
-description: 'originally written on 2022-01-17 00:57:36+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-01-17 00:57:36+00:00
 
 ---

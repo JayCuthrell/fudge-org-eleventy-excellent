@@ -1,6 +1,6 @@
 ---
 title: "One IDP piece at a time"
-description: 'originally written on 2023-05-07 16:05:54.730000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-05-07 16:05:54.730000+00:00
 
 ---

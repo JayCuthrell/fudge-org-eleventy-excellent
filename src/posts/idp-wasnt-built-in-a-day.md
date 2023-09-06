@@ -1,6 +1,6 @@
 ---
 title: "IDP Wasn't Built in a Day"
-description: 'originally written on 2023-02-26 23:11:01.879659+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-02-26 23:11:01.879659+00:00
 
 ---

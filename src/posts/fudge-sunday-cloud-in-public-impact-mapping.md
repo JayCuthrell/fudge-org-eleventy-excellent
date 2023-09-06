@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Cloud in Public: Impact Mapping"
-description: 'originally written on 2021-11-01 00:00:00+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-11-01 00:00:00+00:00
 
 ---

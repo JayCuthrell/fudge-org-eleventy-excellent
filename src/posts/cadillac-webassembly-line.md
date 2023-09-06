@@ -1,6 +1,6 @@
 ---
 title: "Cadillac WebAssembly Line"
-description: 'originally written on 2022-10-31 00:28:41.312000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-10-31 00:28:41.312000+00:00
 
 ---

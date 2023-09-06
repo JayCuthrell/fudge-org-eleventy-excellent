@@ -1,6 +1,6 @@
 ---
 title: "What's Golden Path?"
-description: 'originally written on 2023-04-16 23:59:15.525000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-04-16 23:59:15.525000+00:00
 
 ---

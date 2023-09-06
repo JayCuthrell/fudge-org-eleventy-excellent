@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Cloud in Public: Mean Time To RCA"
-description: 'originally written on 2021-10-25 01:27:33+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-10-25 01:27:33+00:00
 
 ---

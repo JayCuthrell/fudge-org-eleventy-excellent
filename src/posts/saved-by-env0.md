@@ -1,6 +1,6 @@
 ---
 title: "Saved by env0"
-description: 'originally written on 2023-04-03 01:37:01.427232+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-04-03 01:37:01.427232+00:00
 
 ---

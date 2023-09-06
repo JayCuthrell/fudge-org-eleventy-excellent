@@ -1,6 +1,6 @@
 ---
 title: "Zettelkasten End of Year for 2022"
-description: 'originally written on 2022-12-19 00:37:15.328771+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-12-19 00:37:15.328771+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Private Podcasting and Max Headroom"
-description: 'originally written on 2019-05-27 05:08:23+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2019-05-27 05:08:23+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "GitOps Down On It"
-description: 'originally written on 2023-06-11 21:00:04.076725+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-06-11 21:00:04.076725+00:00
 
 ---

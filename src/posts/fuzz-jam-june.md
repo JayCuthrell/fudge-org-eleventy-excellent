@@ -1,6 +1,6 @@
 ---
 title: "Fuzz Jam June"
-description: 'originally written on 2023-07-02 23:33:07.473396+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-07-02 23:33:07.473396+00:00
 
 ---

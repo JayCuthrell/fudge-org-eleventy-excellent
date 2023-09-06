@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Our Low Code No Code Past, Present, and Future"
-description: 'originally written on 2021-12-06 03:28:33+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-12-06 03:28:33+00:00
 
 ---

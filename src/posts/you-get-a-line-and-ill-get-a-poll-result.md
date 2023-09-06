@@ -1,6 +1,6 @@
 ---
 title: "You Get A Line and I'll Get A Poll Result"
-description: 'originally written on 2022-08-29 00:22:54.893000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-08-29 00:22:54.893000+00:00
 
 ---

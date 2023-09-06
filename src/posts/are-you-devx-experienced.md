@@ -1,6 +1,6 @@
 ---
 title: "R U DevX Experienced?"
-description: 'originally written on 2023-04-30 16:19:58.364000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-04-30 16:19:58.364000+00:00
 
 ---

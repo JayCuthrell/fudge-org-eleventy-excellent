@@ -1,6 +1,6 @@
 ---
 title: "SoC It To Me"
-description: 'originally written on 2022-09-11 17:09:09.150000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-09-11 17:09:09.150000+00:00
 
 ---

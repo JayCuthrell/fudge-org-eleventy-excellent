@@ -1,6 +1,6 @@
 ---
 title: "Cat Diapers"
-description: 'originally written on 2005-02-12 16:44:44+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2005-02-12 16:44:44+00:00
 
 ---

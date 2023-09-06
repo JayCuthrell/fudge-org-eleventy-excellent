@@ -1,6 +1,6 @@
 ---
 title: "Here It Comes"
-description: 'originally written on 2001-09-14 00:00:00+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2001-09-14 00:00:00+00:00
 
 ---

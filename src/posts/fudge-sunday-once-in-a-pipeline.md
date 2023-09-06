@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Once in a Pipeline"
-description: 'originally written on 2022-03-20 21:49:21+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-03-20 21:49:21+00:00
 
 ---

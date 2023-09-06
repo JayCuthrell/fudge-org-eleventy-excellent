@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - The Turning"
-description: 'originally written on 2022-04-10 20:26:19+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-04-10 20:26:19+00:00
 
 ---

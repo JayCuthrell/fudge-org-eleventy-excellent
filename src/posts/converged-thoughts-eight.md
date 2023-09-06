@@ -1,6 +1,6 @@
 ---
 title: "Converged Thoughts Eight"
-description: 'originally written on 2017-01-05 00:00:00+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2017-01-05 00:00:00+00:00
 
 ---

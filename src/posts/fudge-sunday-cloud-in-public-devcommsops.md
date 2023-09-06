@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Cloud in Public: DevCommsOps"
-description: 'originally written on 2021-10-18 00:01:32+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-10-18 00:01:32+00:00
 
 ---

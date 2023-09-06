@@ -1,6 +1,6 @@
 ---
 title: "Mic Check 123"
-description: 'originally written on 2019-03-11 00:00:00+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2019-03-11 00:00:00+00:00
 
 ---

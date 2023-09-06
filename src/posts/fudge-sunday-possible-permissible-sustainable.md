@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Possible, Permissible, Sustainable, Repeatable, Advisable"
-description: 'originally written on 2021-08-30 00:53:31+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-08-30 00:53:31+00:00
 
 ---

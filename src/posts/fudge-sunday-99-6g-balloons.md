@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - 99 6G Balloons"
-description: 'originally written on 2022-02-07 02:23:44+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-02-07 02:23:44+00:00
 
 ---

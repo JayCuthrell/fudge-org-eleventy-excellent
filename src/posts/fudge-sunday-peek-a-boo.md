@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Peek A Boo"
-description: 'originally written on 2022-02-14 00:04:04+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-02-14 00:04:04+00:00
 
 ---

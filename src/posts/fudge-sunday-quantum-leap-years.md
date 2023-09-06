@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Quantum Leap Years"
-description: 'originally written on 2019-03-04 05:25:03+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2019-03-04 05:25:03+00:00
 
 ---

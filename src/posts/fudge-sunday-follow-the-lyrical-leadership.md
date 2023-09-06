@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Follow the Lyrical Leadership Listicles"
-description: 'originally written on 2022-05-23 00:50:44+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-05-23 00:50:44+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Consolidation"
-description: 'originally written on 2005-04-04 02:30:27+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2005-04-04 02:30:27+00:00
 
 ---

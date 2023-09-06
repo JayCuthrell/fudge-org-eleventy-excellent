@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Cut Me Some Slack"
-description: 'originally written on 2022-01-31 00:19:16+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-01-31 00:19:16+00:00
 
 ---

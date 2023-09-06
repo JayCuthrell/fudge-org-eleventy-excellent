@@ -1,6 +1,6 @@
 ---
 title: "Can't Buy Me Lead Time"
-description: 'originally written on 2023-07-09 21:16:37.798735+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-07-09 21:16:37.798735+00:00
 
 ---

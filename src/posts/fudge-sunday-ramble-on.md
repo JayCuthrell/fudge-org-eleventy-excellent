@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Ramble On"
-description: 'originally written on 2022-05-29 20:44:40+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-05-29 20:44:40+00:00
 
 ---

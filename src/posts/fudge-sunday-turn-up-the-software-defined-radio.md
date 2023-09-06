@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Turn Up the (Software Defined) Radio"
-description: 'originally written on 2022-01-03 01:13:12+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-01-03 01:13:12+00:00
 
 ---

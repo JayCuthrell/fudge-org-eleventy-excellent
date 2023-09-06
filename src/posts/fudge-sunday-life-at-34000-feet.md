@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Life at 34,000 Feet"
-description: 'originally written on 2019-04-01 04:23:18+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2019-04-01 04:23:18+00:00
 
 ---

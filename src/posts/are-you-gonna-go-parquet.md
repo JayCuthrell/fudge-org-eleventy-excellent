@@ -1,6 +1,6 @@
 ---
 title: "Are You Gonna Go Parquet"
-description: 'originally written on 2023-08-28 00:44:19.541000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-08-28 00:44:19.541000+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Multicloud, XaaS, and Service Mesh"
-description: 'originally written on 2021-12-13 01:42:56+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-12-13 01:42:56+00:00
 
 ---

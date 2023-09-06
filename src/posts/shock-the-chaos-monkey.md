@@ -1,6 +1,6 @@
 ---
 title: "Shock the Chaos Monkey"
-description: 'originally written on 2023-07-17 00:33:45.699582+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-07-17 00:33:45.699582+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Everything Counts in Ops Amounts"
-description: 'originally written on 2022-03-14 02:31:09+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-03-14 02:31:09+00:00
 
 ---

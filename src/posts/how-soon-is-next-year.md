@@ -1,6 +1,6 @@
 ---
 title: "How Soon is Next Year?"
-description: 'originally written on 2022-12-26 01:22:16.950955+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-12-26 01:22:16.950955+00:00
 
 ---

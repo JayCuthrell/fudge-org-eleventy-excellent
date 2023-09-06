@@ -1,6 +1,6 @@
 ---
 title: "Happy When It Toolchains"
-description: 'originally written on 2023-01-08 21:43:23.331800+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-01-08 21:43:23.331800+00:00
 
 ---

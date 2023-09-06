@@ -1,6 +1,6 @@
 ---
 title: "AI Feel You"
-description: 'originally written on 2023-07-23 20:36:29.885430+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-07-23 20:36:29.885430+00:00
 
 ---

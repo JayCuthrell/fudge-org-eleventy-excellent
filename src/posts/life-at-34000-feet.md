@@ -1,6 +1,6 @@
 ---
 title: "Life at 34000 Feet"
-description: 'originally written on 2019-04-01 00:00:00+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2019-04-01 00:00:00+00:00
 
 ---

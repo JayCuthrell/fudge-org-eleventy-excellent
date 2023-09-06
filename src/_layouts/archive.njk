@@ -16,12 +16,12 @@ layout: base
 
 <article class="wrapper region">
   <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    {% set postslist = collections.posts %} {% for post in postslist %}
+    {% set postslist = collections.posts %} {% for post in postslist.slice(0, 4) %}
 
     <li class="card flow overflow-hidden">
-      <h2>
+      <h3>
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
-      </h2>
+      </h3>
       {% set definedDate = post.date %} {% include "partials/date.njk" %}
       <p>{{ post.data.description }}</p>
     </li>

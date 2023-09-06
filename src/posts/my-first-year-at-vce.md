@@ -1,6 +1,6 @@
 ---
 title: "My First Year at VCE"
-description: 'originally written on 2011-10-18 00:00:00+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2011-10-18 00:00:00+00:00
 
 ---

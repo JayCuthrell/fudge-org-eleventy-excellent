@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Max Headroom, OSINT, and Today's Tom Sawyer"
-description: 'originally written on 2022-03-07 02:40:03+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-03-07 02:40:03+00:00
 
 ---

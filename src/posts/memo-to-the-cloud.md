@@ -1,6 +1,6 @@
 ---
 title: "Memo to the Cloud"
-description: 'originally written on 2010-07-01 23:12:47+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2010-07-01 23:12:47+00:00
 
 ---

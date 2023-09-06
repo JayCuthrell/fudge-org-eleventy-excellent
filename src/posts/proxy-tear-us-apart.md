@@ -1,6 +1,6 @@
 ---
 title: "Proxy Tear Us Apart"
-description: 'originally written on 2022-12-11 15:10:50.325363+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-12-11 15:10:50.325363+00:00
 
 ---

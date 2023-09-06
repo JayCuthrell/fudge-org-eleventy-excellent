@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - And All Points In Between"
-description: 'originally written on 2021-07-11 14:56:41+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-07-11 14:56:41+00:00
 
 ---

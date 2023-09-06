@@ -1,6 +1,6 @@
 ---
 title: "And for my next trick"
-description: 'originally written on 2002-07-08 19:46:31+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2002-07-08 19:46:31+00:00
 
 ---

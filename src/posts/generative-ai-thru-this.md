@@ -1,6 +1,6 @@
 ---
 title: "Generative AI Thru This"
-description: 'originally written on 2023-06-26 00:07:44.377000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-06-26 00:07:44.377000+00:00
 
 ---

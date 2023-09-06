@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Las Vegas Edition"
-description: 'originally written on 2019-05-06 05:04:27+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2019-05-06 05:04:27+00:00
 
 ---

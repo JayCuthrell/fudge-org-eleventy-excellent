@@ -1,6 +1,6 @@
 ---
 title: "Social Telecom 2030"
-description: 'originally written on 2020-11-25 00:00:00+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2020-11-25 00:00:00+00:00
 
 ---

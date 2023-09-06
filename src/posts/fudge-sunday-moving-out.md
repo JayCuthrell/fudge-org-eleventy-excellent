@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Moving Out"
-description: 'originally written on 2022-06-05 20:55:38+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-06-05 20:55:38+00:00
 
 ---

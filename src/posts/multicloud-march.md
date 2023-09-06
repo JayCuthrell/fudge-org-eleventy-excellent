@@ -1,6 +1,6 @@
 ---
 title: "Multicloud March"
-description: 'originally written on 2021-04-10 00:00:00+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-04-10 00:00:00+00:00
 
 ---

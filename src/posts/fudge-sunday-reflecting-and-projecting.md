@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Reflecting and Projecting"
-description: 'originally written on 2021-06-27 17:53:34+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-06-27 17:53:34+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Quaterly Roundup Edition"
-description: 'originally written on 2023-03-26 23:34:56.390000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-03-26 23:34:56.390000+00:00
 
 ---

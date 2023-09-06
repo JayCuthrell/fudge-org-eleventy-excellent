@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - I Don't Know Where I'll Be Tomorrow"
-description: 'originally written on 2021-08-01 18:39:44+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-08-01 18:39:44+00:00
 
 ---

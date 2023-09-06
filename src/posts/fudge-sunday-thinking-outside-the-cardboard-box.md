@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Thinking Outside the Cardboard Box"
-description: 'originally written on 2019-05-20 05:09:47+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2019-05-20 05:09:47+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Three recommendations walk into a bar..."
-description: 'originally written on 2021-11-14 23:37:06+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-11-14 23:37:06+00:00
 
 ---

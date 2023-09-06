@@ -1,6 +1,6 @@
 ---
 title: "Union of the Cloud"
-description: 'originally written on 2022-08-07 23:51:09.837000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-08-07 23:51:09.837000+00:00
 
 ---

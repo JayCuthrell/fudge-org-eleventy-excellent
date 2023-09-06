@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - FinOps Erase and Rewind"
-description: 'originally written on 2022-04-24 18:48:29+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-04-24 18:48:29+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "A Cold Shot and Chaser"
-description: 'originally written on 2022-08-22 00:21:47.947000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-08-22 00:21:47.947000+00:00
 
 ---

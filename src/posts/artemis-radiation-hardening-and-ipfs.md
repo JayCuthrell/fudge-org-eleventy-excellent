@@ -1,6 +1,6 @@
 ---
 title: "Artemis, Radiation Hardening, and IPFS"
-description: 'originally written on 2022-09-04 21:54:41.790000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-09-04 21:54:41.790000+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "20 Years of Blogging"
-description: 'originally written on 2018-12-12 00:00:00+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2018-12-12 00:00:00+00:00
 
 ---

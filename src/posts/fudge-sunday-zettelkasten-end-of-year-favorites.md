@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Zettelkasten End of Year Favorites"
-description: 'originally written on 2021-12-20 00:50:53+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-12-20 00:50:53+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "South by Southwest Bound and Down"
-description: 'originally written on 2023-08-07 00:13:58.613000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-08-07 00:13:58.613000+00:00
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Fediverse Moving over the Face of the Waters"
-description: 'originally written on 2022-12-03 21:21:49.425681+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-12-03 21:21:49.425681+00:00
 
 ---

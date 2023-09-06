@@ -1,6 +1,6 @@
 ---
 title: "On Metrics"
-description: 'originally written on 2011-07-23 03:51:55+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2011-07-23 03:51:55+00:00
 
 ---

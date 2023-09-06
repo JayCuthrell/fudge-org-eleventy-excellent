@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - All Along the Watchtower"
-description: 'originally written on 2021-07-18 14:30:04+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-07-18 14:30:04+00:00
 
 ---

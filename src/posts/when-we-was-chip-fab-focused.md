@@ -1,6 +1,6 @@
 ---
 title: "When We Was Chip Fab Focused"
-description: 'originally written on 2022-07-31 23:02:17.463000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-07-31 23:02:17.463000+00:00
 
 ---

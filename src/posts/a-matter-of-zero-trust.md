@@ -1,6 +1,6 @@
 ---
 title: "A Matter of Zero Trust"
-description: 'originally written on 2022-11-06 23:56:58.501000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-11-06 23:56:58.501000+00:00
 
 ---

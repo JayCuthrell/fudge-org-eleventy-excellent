@@ -1,6 +1,6 @@
 ---
 title: "Tech Journalism"
-description: 'originally written on 2012-04-23 00:00:00+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2012-04-23 00:00:00+00:00
 
 ---

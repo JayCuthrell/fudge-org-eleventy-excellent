@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - SaaS Trendspotting"
-description: 'originally written on 2021-11-22 00:54:48+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-11-22 00:54:48+00:00
 
 ---

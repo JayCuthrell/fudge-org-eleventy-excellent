@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Data Portability"
-description: 'originally written on 2021-09-06 00:34:16+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-09-06 00:34:16+00:00
 
 ---

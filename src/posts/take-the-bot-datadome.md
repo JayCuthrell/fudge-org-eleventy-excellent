@@ -1,6 +1,6 @@
 ---
 title: "Take the Bot DataDome"
-description: 'originally written on 2023-04-10 00:19:41.356000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-04-10 00:19:41.356000+00:00
 
 ---

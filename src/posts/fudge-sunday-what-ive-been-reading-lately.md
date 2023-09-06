@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - What I've been reading lately"
-description: 'originally written on 2021-06-20 17:00:06+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2021-06-20 17:00:06+00:00
 
 ---

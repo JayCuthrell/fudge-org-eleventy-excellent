@@ -1,6 +1,6 @@
 ---
 title: "Tel Aviv Traceroute"
-description: 'originally written on 2000-04-29 00:59:10+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2000-04-29 00:59:10+00:00
 
 ---

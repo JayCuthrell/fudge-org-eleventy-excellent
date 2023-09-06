@@ -1,6 +1,6 @@
 ---
 title: "Google Service (Dream) Weaver"
-description: 'originally written on 2023-03-12 22:16:13.626568+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-03-12 22:16:13.626568+00:00
 
 ---

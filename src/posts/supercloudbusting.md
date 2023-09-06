@@ -1,6 +1,6 @@
 ---
 title: "SuperCloudbusting"
-description: 'originally written on 2022-07-03 22:24:21.092000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-07-03 22:24:21.092000+00:00
 
 ---

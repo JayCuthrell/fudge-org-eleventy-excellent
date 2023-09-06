@@ -1,6 +1,6 @@
 ---
 title: "Build a Cloud Platform Foundation"
-description: 'originally written on 2022-09-25 21:28:46.170000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-09-25 21:28:46.170000+00:00
 
 ---

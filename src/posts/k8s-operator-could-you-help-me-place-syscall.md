@@ -1,6 +1,6 @@
 ---
 title: "k8s Operator, Could You Help Me Place SysCall?"
-description: 'originally written on 2023-02-13 01:29:11.592900+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2023-02-13 01:29:11.592900+00:00
 
 ---

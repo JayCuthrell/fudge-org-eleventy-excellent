@@ -1,6 +1,6 @@
 ---
 title: "Get It All While You Can"
-description: 'originally written on 2022-07-25 00:50:43.864000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-07-25 00:50:43.864000+00:00
 
 ---

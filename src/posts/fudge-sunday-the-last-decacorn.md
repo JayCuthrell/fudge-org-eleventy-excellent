@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - The Last Decacorn"
-description: 'originally written on 2022-02-20 23:58:55+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-02-20 23:58:55+00:00
 
 ---

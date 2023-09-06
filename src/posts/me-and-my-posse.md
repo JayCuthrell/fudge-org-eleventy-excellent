@@ -1,6 +1,6 @@
 ---
 title: "Me and My POSSE"
-description: 'originally written on 2022-06-19 17:30:21.410000+00:00 on LAMP with vi, WordPress, Jekyll, Gatsby Cloud, Netlify, Revue, Substack, or Buttondown'
+description: ''
 date: 2022-06-19 17:30:21.410000+00:00
 
 ---
