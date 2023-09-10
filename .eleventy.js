@@ -54,6 +54,7 @@ const pluginRss = require('@11ty/eleventy-plugin-rss');
 const inclusiveLangPlugin = require('@11ty/eleventy-plugin-inclusive-language');
 const bundlerPlugin = require('@11ty/eleventy-plugin-bundle');
 const embeds = require("eleventy-plugin-embed-everything");
+const timeToRead = require('eleventy-plugin-time-to-read');
 
 module.exports = eleventyConfig => {
   // 	--------------------- Custom Watch Targets -----------------------
@@ -116,6 +117,7 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPlugin(inclusiveLangPlugin);
   eleventyConfig.addPlugin(bundlerPlugin);
   eleventyConfig.addPlugin(embeds);
+  eleventyConfig.addPlugin(timeToRead);
 
   // 	--------------------- Passthrough File Copy -----------------------
   // same path

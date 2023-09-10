@@ -11,6 +11,7 @@ preloads:
 <article class="region blog">
   <div class="wrapper flow prose">
     <h1 class="gradient-text">{{ title }}</h1>
+    <h6 class=>Reading time: {{ 'text' | timeToRead }}</h6>
 
     {% set definedDate = date %} {% include "partials/date.njk" %}
 
