@@ -55,8 +55,89 @@ const inclusiveLangPlugin = require('@11ty/eleventy-plugin-inclusive-language');
 const bundlerPlugin = require('@11ty/eleventy-plugin-bundle');
 const embeds = require("eleventy-plugin-embed-everything");
 const editOnGithub = require('eleventy-plugin-edit-on-github');
+const EleventyFetch = require("@11ty/eleventy-fetch");
+const pluginUnfurl = require("eleventy-plugin-unfurl");
 
-module.exports = eleventyConfig => {
+// unfurl plug section
+
+const templateReturn = (template, boolean) => {
+  if (boolean) {
+    return template;
+  } else {
+    return "";
+  }
+};
+
+const imageTemplate = ({ url, width, height }) => `
+  <img
+    class="unfurl__image"
+    src="${url}"
+    width="${width}"
+    height="${height}"
+    alt="Page preview image"
+  />
+`;
+
+const titleTemplate = ({ url, title }) => `
+  <h4 class="unfurl__heading">
+    <a class="unfurl__link" href="${url}">${title}</a>
+  </h4>
+`;
+
+const descriptionTemplate = (description) => `
+  <p class="unfurl__description">${description}</p>
+`;
+
+const logoTemplate = ({ url, width, height }) => `
+  <img
+    class="unfurl__logo"
+    src="${url}"
+    width="${width}"
+    height="${height}"
+    alt="Logo"
+  />
+`;
+
+const publisherTemplate = (publisher) => `
+  <span class="unfurl__publisher">${publisher}</span>
+`;
+
+const template = ({ title, url, image, description, logo, publisher }) => `
+  <article class="unfurl">
+    ${templateReturn(titleTemplate({ title, url }), title)}
+    ${templateReturn(imageTemplate(image), image)}
+    ${templateReturn(descriptionTemplate(description), description)}
+    <small class="unfurl__meta">
+      ${templateReturn(logoTemplate(logo), logo)}
+      ${templateReturn(publisherTemplate(publisher), publisher)}
+    </small>
+  </article>
+`;
+
+module.exports = (eleventyConfig, options = {}) => {
+
+  //    --------------------- Unfurl Related ---------------------
+
+  eleventyConfig.addAsyncShortcode("unfurl", async (link) => {
+    try {
+      const metadata = await EleventyFetch(
+        `https://api.microlink.io/?url=${link}`,
+        {
+          duration: options.duration || "1m",
+          type: "json",
+        }
+      );
+
+      if (options.template) {
+        return options.template(metadata.data);
+      }
+      return template(metadata.data);
+    } catch (error) {
+      console.error(error);
+      return link;
+    }
+  });
+  
   // 	--------------------- Custom Watch Targets -----------------------
   eleventyConfig.addWatchTarget('./src/assets');
   eleventyConfig.addWatchTarget('./utils/*.js');
@@ -129,6 +210,7 @@ module.exports = eleventyConfig => {
     github_edit_attributes: 'target="_blank" rel="noopener"',
     github_edit_wrapper: undefined, //ex: "<div stuff>${edit_on_github}</div>"
   });
+//  eleventyConfig.addPlugin(pluginUnfurl); 
 
   // 	--------------------- Passthrough File Copy -----------------------
   // same path
