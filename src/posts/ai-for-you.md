@@ -64,4 +64,4 @@ Stay tuned!
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
-[^IBMer]: Shout out to [Bella Church](https://www.linkedin.com/in/bella-church/)1G
+[^IBMer]: Shout out to [Bella Church](https://www.linkedin.com/in/bella-church/)
