@@ -54,7 +54,6 @@ const pluginRss = require('@11ty/eleventy-plugin-rss');
 const inclusiveLangPlugin = require('@11ty/eleventy-plugin-inclusive-language');
 const bundlerPlugin = require('@11ty/eleventy-plugin-bundle');
 const embeds = require("eleventy-plugin-embed-everything");
-const timeToRead = require('eleventy-plugin-time-to-read');
 const editOnGithub = require('eleventy-plugin-edit-on-github');
 
 module.exports = eleventyConfig => {
@@ -118,7 +117,6 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPlugin(inclusiveLangPlugin);
   eleventyConfig.addPlugin(bundlerPlugin);
   eleventyConfig.addPlugin(embeds);
-  eleventyConfig.addPlugin(timeToRead);
   eleventyConfig.addPlugin(editOnGithub, {
     // required
     github_edit_repo: 'https://github.com/JayCuthrell/fudge-org-eleventy-excellent',
