@@ -5,7 +5,7 @@ date: 2023-03-06 02:10:56.785300+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [Earth, Wind & Fire - Build Your Nest (1973)](https://www.youtube.com/watch?v=T1w3nM8HrSg)
 

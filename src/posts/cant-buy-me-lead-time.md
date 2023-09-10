@@ -5,7 +5,7 @@ date: 2023-07-09 21:16:37.798735+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [The Beatles - Can't Buy Me Love (1964)](https://www.youtube.com/watch?v=TBSpmoA8V78)
 

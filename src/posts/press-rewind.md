@@ -5,7 +5,7 @@ date: 2023-04-24 00:40:18.394696+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [Del the Funky Homosapien - Press Rewind (2000)](https://www.youtube.com/watch?v=Y9lWPxI2zCc)
 

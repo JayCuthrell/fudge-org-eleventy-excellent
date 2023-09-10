@@ -5,7 +5,7 @@ date: 2023-04-16 23:59:15.525000+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [Jurassic 5 - What's Golden (2002)](https://www.youtube.com/watch?v=XsZKrctSDaw)
 

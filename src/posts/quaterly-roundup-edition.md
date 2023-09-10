@@ -5,7 +5,7 @@ date: 2023-03-26 23:34:56.390000+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [James Elmore - Quarter Past Nine (1954)](https://www.youtube.com/watch?v=iMpv-kCz5O4)
 

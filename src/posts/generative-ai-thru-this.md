@@ -5,7 +5,7 @@ date: 2023-06-26 00:07:44.377000+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [Daniel Bedingfield - Gotta Get Thru This (2001)](https://www.youtube.com/watch?v=b4eMyOzD9UI)
 

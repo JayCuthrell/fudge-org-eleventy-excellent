@@ -5,7 +5,7 @@ date: 2023-05-07 16:05:54.730000+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [Johnny Cash - One Piece at a Time (1976)](https://www.youtube.com/watch?v=pmeVwYojB-s)
 

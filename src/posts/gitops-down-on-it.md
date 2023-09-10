@@ -5,7 +5,7 @@ date: 2023-06-11 21:00:04.076725+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [Kool & The Gang - "Get Down On It" (1981)](https://www.youtube.com/watch?v=qchPLaiKocI)
 

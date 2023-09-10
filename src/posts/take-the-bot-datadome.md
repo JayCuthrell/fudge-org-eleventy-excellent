@@ -5,7 +5,7 @@ date: 2023-04-10 00:19:41.356000+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [Supertramp - Take the Long Way Home (1979)](https://www.youtube.com/watch?v=\_Pts0jqX-yY)
 

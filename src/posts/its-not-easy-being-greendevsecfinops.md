@@ -5,7 +5,7 @@ date: 2023-05-14 22:05:42.835000+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [Kermit the Frog - It's Not Easy Bein' Green (1970)](https://www.youtube.com/watch?v=51BQfPeSK8k)
 

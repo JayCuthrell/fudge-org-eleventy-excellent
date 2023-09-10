@@ -5,7 +5,7 @@ date: 2023-03-12 22:16:13.626568+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [Gary Wright - Dream Weaver (1975)](https://www.youtube.com/watch?v=xZKuzwPOefs)
 

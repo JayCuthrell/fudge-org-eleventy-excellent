@@ -5,7 +5,7 @@ date: 2023-06-18 23:50:29.115649+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [Pet Shop Boys - Opportunities (1986)](https://www.youtube.com/watch?v=di60NYGu03Y)
 

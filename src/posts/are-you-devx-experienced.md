@@ -1,11 +1,9 @@
 ---
 title: "R U DevX Experienced?"
-description: ''
+description: 'a look at recent Developer Experience (DevX) coverage and articles that caught my attention'
 date: 2023-04-30 16:19:58.364000+00:00
 
 ---
-
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
 
 Music: [Devo - Are U X-perienced? (1984)](https://www.youtube.com/watch?v=YVCt\_mAAZpQ)
 

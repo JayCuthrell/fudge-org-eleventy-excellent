@@ -5,7 +5,7 @@ date: 2023-07-23 20:36:29.885430+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 This week's musical inspiration in title and lyrics: 
 

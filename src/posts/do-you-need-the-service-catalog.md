@@ -5,7 +5,7 @@ date: 2023-05-21 23:16:18.709000+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [Tubeway Army - Do You Need The Service? (1979)](https://www.youtube.com/watch?v=1XjhHxd-6S0)
 

@@ -5,7 +5,7 @@ date: 2023-06-05 02:00:19.651000+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [Gossip - Pop Goes the World (2009)](https://www.youtube.com/watch?v=IFLWfj\_r7kY)
 

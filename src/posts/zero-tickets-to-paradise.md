@@ -5,7 +5,7 @@ date: 2023-05-29 01:25:35.882000+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [Eddie Money - Two Tickets to Paradise (1977)](https://www.youtube.com/watch?v=JxcUmAVG3RQ)
 

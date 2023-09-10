@@ -5,7 +5,7 @@ date: 2023-04-03 01:37:01.427232+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [The Fixx - Saved by Zero (1983)](https://www.youtube.com/watch?v=JOiZP8FS5Ww)
 

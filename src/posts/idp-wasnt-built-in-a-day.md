@@ -5,7 +5,7 @@ date: 2023-02-26 23:11:01.879659+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\* 
+  
 
 Music: [Morcheeba - Rome Wasn't Built in a Day (2000)](https://www.youtube.com/watch?v=FLGJXbl6g8o)
 

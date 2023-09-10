@@ -5,7 +5,7 @@ date: 2023-07-02 23:33:07.473396+00:00
 
 ---
 
-\*[Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday) to sponsor Fudge Sunday and post jobs!\*
+ 
 
 Music: [The Lazy Eyes - Fuzz Jam (2022)](https://www.youtube.com/watch?v=GFyNk8w1opw)
 
