@@ -55,6 +55,7 @@ const inclusiveLangPlugin = require('@11ty/eleventy-plugin-inclusive-language');
 const bundlerPlugin = require('@11ty/eleventy-plugin-bundle');
 const embeds = require("eleventy-plugin-embed-everything");
 const timeToRead = require('eleventy-plugin-time-to-read');
+const editOnGithub = require('eleventy-plugin-edit-on-github');
 
 module.exports = eleventyConfig => {
   // 	--------------------- Custom Watch Targets -----------------------
@@ -118,6 +119,18 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPlugin(bundlerPlugin);
   eleventyConfig.addPlugin(embeds);
   eleventyConfig.addPlugin(timeToRead);
+  eleventyConfig.addPlugin(editOnGithub, {
+    // required
+    github_edit_repo: 'https://github.com/JayCuthrell/fudge-org-eleventy-excellent',
+    // optional: defaults
+    github_edit_path: undefined, // non-root location in git url. root is assumed
+    github_edit_branch: 'main',
+    github_edit_text: 'Edit on Github', // html accepted, or javascript function: (page) => { return page.inputPath}
+    github_edit_class: 'edit-on-github',
+    github_edit_tag: 'a',
+    github_edit_attributes: 'target="_blank" rel="noopener"',
+    github_edit_wrapper: undefined, //ex: "<div stuff>${edit_on_github}</div>"
+  });
 
   // 	--------------------- Passthrough File Copy -----------------------
   // same path
