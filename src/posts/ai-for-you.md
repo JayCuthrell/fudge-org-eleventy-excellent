@@ -6,7 +6,7 @@ tags: newsletter
 
 ---
 
-This week we take a look at the proliferation of A.I. across the Enterprise knowledge worker stack.
+This week we take a look at the proliferation of M.L. and A.I. across the Enterprise knowledge worker stack.
 
 This week's musical inspiration in title and lyrics:
 
