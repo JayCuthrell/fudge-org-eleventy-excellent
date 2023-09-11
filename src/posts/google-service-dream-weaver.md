@@ -30,7 +30,7 @@ So, I don't have any inside knowledge — but it is safe to say that Service Wea
 
 For a great roundup post, check out what [Matt Campbell](https://www.linkedin.com/in/mbcampbell360/) put together over at [InfoQ](https://www.infoq.com/news/2023/03/google-weaver-framework/).
 
-https://www.infoq.com/news/2023/03/google-weaver-framework/
+{% unfurl "https://www.infoq.com/news/2023/03/google-weaver-framework/" %}
 
 ## Maybe to an astral plane 🎶
 

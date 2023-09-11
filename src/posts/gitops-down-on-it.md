@@ -13,7 +13,7 @@ This week we take a look (again) at GitOps and the limits of Generative AI.
 
 Last week we learned that [the definition of GitOps was fluid](https://fudge.org/archive/gitops-goes-the-world/).
 
-https://fudge.org/archive/gitops-goes-the-world/
+{% unfurl "https://fudge.org/archive/gitops-goes-the-world/" %}
 
 Today's inspiration comes from antimetabole[^ antimetabole], chiasmus[^chiasmus], and an attempt to expend ~500 words. Also, I get to use [Google Bard](https://bard.google.com) now that [Google Workspace users can be enabled](https://workspaceupdates.googleblog.com/2023/05/admin-control-for-bard-access.html).
 

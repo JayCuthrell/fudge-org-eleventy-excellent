@@ -29,7 +29,7 @@ After ![Screenshot 2023-08-13 at 1.11.11 AM.png](https://buttondown.imgix.net/im
 
 Thanks in advance! Also, if you are a LinkedIn user and want to see what others are promoting, use this link to [search for panel picker sorted by most recent references in the last month](https://www.linkedin.com/search/results/content/?datePosted=%22past-month%22&keywords=panelpicker.sxsw.com&origin=FACETED\_SEARCH&sid=ax.&sortBy=%22date\_posted%22): 
 
-https://www.linkedin.com/search/results/content/?datePosted=%22past-month%22&keywords=panelpicker.sxsw.com&origin=FACETED\_SEARCH&sid=ax.&sortBy=%22date\_posted%22
+{% unfurl "https://www.linkedin.com/search/results/content/?datePosted=%22past-month%22&keywords=panelpicker.sxsw.com&origin=FACETED\_SEARCH&sid=ax.&sortBy=%22date\_posted%22" %}
 
 [![Screenshot 2023-08-12 at 8.05.07 PM.png](https://buttondown.imgix.net/images/8a98b7ff-1044-4540-835c-f58e185ae3e6.png?w=480&fit=max)](https://www.linkedin.com/search/results/content/?datePosted=%22past-month%22&keywords=panelpicker.sxsw.com&origin=FACETED\_SEARCH&sid=ax.&sortBy=%22date\_posted%22)
 
@@ -77,21 +77,21 @@ So, if an answer to better balancing cyber risk and policy rates is to get the p
 
 Today, if you look for funding of startups in the cyber insurance and risk marketplace you'll find several examples. Some recent VC funding for cyber insurance and risk startups from the past 12 months include:
 
-https://www.techmeme.com/230807/p16#a230807p16
+{% unfurl "https://www.techmeme.com/230807/p16#a230807p16" %}
 
-https://techcrunch.com/2023/01/31/guardz-emerges-from-stealth-with-10m-for-smb-security-and-cyber-insurance-to-protect-against-attack-as-a-service-breaches/
+{% unfurl "https://techcrunch.com/2023/01/31/guardz-emerges-from-stealth-with-10m-for-smb-security-and-cyber-insurance-to-protect-against-attack-as-a-service-breaches/" %}
 
-https://www.techmeme.com/221219/p32#a221219p32
+{% unfurl "https://www.techmeme.com/221219/p32#a221219p32" %}
 
-https://www.techmeme.com/221007/p15#a221007p15
+{% unfurl "https://www.techmeme.com/221007/p15#a221007p15" %}
 
-https://techcrunch.com/2022/08/04/axio-lands-23m-to-help-companies-quantify-cyber-risk/
+{% unfurl "https://techcrunch.com/2022/08/04/axio-lands-23m-to-help-companies-quantify-cyber-risk/" %}
 
 As for my $0.02 on this topic... I believe that there is going to be time when ONLY machine learning and artificial intelligence real-time risk ratings are trusted to shift the cyber insurance market over time into niche pockets of bundled policies. For example, being able to a la carte the specific coverages will be a maturity not unlike what we see in vehicle coverage today where the app on your phone or an [OBD-II device](https://ims.tech/knowledge-hub/insurance-telematics-service-providers-obd2-device/) is real-time rating a driver's driving habits — with some painfully learned lessons along the way.
 
 Or, as I shared in a recent Fudge Sunday issue... in a future world, HAL may not be pleased with your infrastructure as code choices...
 
-https://fudge.org/archive/ai-feel-you/
+{% unfurl "https://fudge.org/archive/ai-feel-you/" %}
 
 So, what will be the next big thing in the cyber insurance and cyber risk marketplaces?
 

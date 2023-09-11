@@ -15,7 +15,7 @@ This week we look at similarities in platform engineering, data operations (Data
 
 As mentioned previously in Fudge Sunday, an Internal Developer Platform (IDP) can be thought of a uniquely custom stack or toolchain. The group of engineers that support that stack or toolchain are the platform team.
 
-https://fudge.org/archive/happy-when-it-toolchains/?utm\_source=jaycuthrell&utm\_medium=email
+{% unfurl "https://fudge.org/archive/happy-when-it-toolchains/?utm\_source=jaycuthrell&utm\_medium=email" %}
 
 From my perspective, if you compare the goals and stacks of a platform team to the goals and stacks of a go-to-market (GTM) data operations (DataOps) or revenue operations (RevOps) team, the argument can be made that there are a particular set of learnings to be had from interlock. I also believe there are similarities in the advantages to managed alternatives to replace more manually intensive design choices.
 
@@ -35,7 +35,7 @@ You could say this question really plucked a string or struck a chord (nerve?) â
 
 Also, I've been reading the newsletter of another [Customer Data Automation Community](https://syncari.com/customer-data-automation-community/) team member, [Greg Meyer](https://www.linkedin.com/in/gregmeyer/). You should subscribe right now if my reply struck a chord with you too.
 
-https://www.finddataops.com/
+{% unfurl "https://www.finddataops.com/" %}
 
 Naturally, I believe my opinionated reply was much faster because I have been reading Greg's newsletter.
 
@@ -49,7 +49,7 @@ Of course, adopting a \_managed to-be\_ toolchain that replaces the \_manual as-
 
 Speaking of \_pipelines\_ that are survivable designs, I do believe that [my attempt at a Wardley map last week](https://fudge.org/archive/map-of-the-platformatique/) points to a future where Cloud Service Providers (CSP) will have opinionated stacks that can replace portions of the custom layers within toolchains and, perhaps, those toolchains within an IDP.[^2]
 
-https://www.infoq.com/news/2023/02/aws-deployment-pipelines/
+{% unfurl "https://www.infoq.com/news/2023/02/aws-deployment-pipelines/" %}
 
 So, what will be the next big thing in platform engineering, data operations, and revenue operations? 
 

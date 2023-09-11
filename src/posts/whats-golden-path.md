@@ -19,7 +19,7 @@ https://open.spotify.com/playlist/2ZALK6TiXvBVztITrrybkN?si=7b839925fe094998
 
 Speaking of Spotify, back in 2020 the engineering team posted using the term "golden path". To paraphrase, a "golden path" in this context describes a journey towards conspicuous and continuous improvements in the essential toolchain for a growing software development team. 
 
-https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/
+{% unfurl "https://engineering.atspotify.com/2020/08/how-we-use-golden-paths-to-solve-fragmentation-in-our-software-ecosystem/" %}
 
 So, does a "golden path" help with avoiding periodic existential crises of [bike shed door paint Pantone selection](https://en.wikipedia.org/wiki/Law\_of\_triviality) in the software development organization as a whole? That's harder to say with any level of certainty.
 
@@ -33,7 +33,7 @@ Let's take a quick survey of blog posts and references to a golden path and gold
 
 At first, I assumed this was a Ruby on Rails community meme.
 
-https://speakerdeck.com/matt\_aimonetti/railsconf-2009-rails-3-stepping-off-of-the-golden-path
+{% unfurl "https://speakerdeck.com/matt\_aimonetti/railsconf-2009-rails-3-stepping-off-of-the-golden-path" %}
 
 The first reference I could find on Twitter (if search is to be trusted at this stage in the lifecycle) seems to be close.
 

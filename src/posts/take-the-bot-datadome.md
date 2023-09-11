@@ -25,7 +25,7 @@ So, how are tickets selling out so fast online? In a word: Bots.
 
 Perhaps you read recently about artists taking a different route to selling tickets. The reason why is artists are increasingly aware that the bots (for supplying secondary markets / resellers / aka scalpers) and the convenience fees are ruining the fun for their concert going fans.
 
-https://www.vulture.com/2023/04/maggie-rogers-tour-tickets-in-person.html
+{% unfurl "https://www.vulture.com/2023/04/maggie-rogers-tour-tickets-in-person.html" %}
 
 To be clear, this issue of Fudge Sunday is not going to weigh in on the [ merits of free markets / convenience fees / the music industry / captured venue regulations / political lobbying / online sales exclusivity / unregulated monopolies / counterfeiting / etc...](https://pitchfork.com/thepitch/6-ways-to-fix-the-broken-concert-ticketing-system/) but I will weigh in on anti-bot technology... and the bot technology escalations of recent years.
 
@@ -35,25 +35,25 @@ In fact, for any scarce items sold online from sneakers to limited edition colle
 
 Think back a few years and you might recall funding of companies that protect e-commerce storefronts from bots.
 
-https://www.techmeme.com/210526/p14#a210526p14
+{% unfurl "https://www.techmeme.com/210526/p14#a210526p14" %}
 
 Then a few months later the scraping (scalping?) community would respond in kind...
 
-https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/
+{% unfurl "https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/" %}
 
 Correlation? Causation? Maybe? 
 
 Frustration? Absolutely.
 
-https://www.hola.com/us/celebrities/20211210307325/olivia-rodrigo-debut-tour-sells-out-in-minutes/
+{% unfurl "https://www.hola.com/us/celebrities/20211210307325/olivia-rodrigo-debut-tour-sells-out-in-minutes/" %}
 
 Then a year later, the scraping / reseller (scalping?) community would become burnished as a side hustle culture...
 
-https://www.complex.com/sneakers/how-to-use-sneaker-bots
+{% unfurl "https://www.complex.com/sneakers/how-to-use-sneaker-bots" %}
 
 Then a year later, the funding arrives once more for startups that seeks to protect retailers from the bad actors that have evolved and escalated their anti-anti-bot tools...
 
-https://www.techmeme.com/230330/p17#a230330p17
+{% unfurl "https://www.techmeme.com/230330/p17#a230330p17" %}
 
 Here is a short list of the players in this space: (alphabetically)
 
@@ -81,7 +81,7 @@ Huge list, right? Clearly, there is more than just repackaged [OWASP](https://ow
 
 So what is so interesting about DataDome? In a word: Accessibility.
 
-https://docs.datadome.co/docs
+{% unfurl "https://docs.datadome.co/docs" %}
 
 In fact, as far back as 2021, DataDome made the following claims:
 
@@ -93,11 +93,11 @@ Source: [DataDome](https://datadome.co/your-website-is-under-attack/)
 
 In 2023, there are new realities like "bypass" guides that call out Data Dome by name and myriad references on sub reddit and deep web sites that cater to the anti-anti-bot community.
 
-https://www.zenrows.com/blog/datadome-bypass#how-does-datadome-detect-bots
+{% unfurl "https://www.zenrows.com/blog/datadome-bypass#how-does-datadome-detect-bots" %}
 
 All signs point to this back and forth continuously iterating and increasingly leveraging AI/ML infused escalation as well as proliferation. As such, it's not shocking that analysts from Forrester Research are weighing in to educate, inform, and provide guidance.
 
-https://www.forrester.com/blogs/avoid-a-bot-waterloo/?ref\_search=0\_1681082722372
+{% unfurl "https://www.forrester.com/blogs/avoid-a-bot-waterloo/?ref\_search=0\_1681082722372" %}
 
 So, what will be the next big thing in anti-bot solutions and anti-anti-bot technologies?
 

@@ -68,11 +68,11 @@ If only there was AI for pricing models. Actually, that probably exists somewher
 
 And it would seem that [x.ai (aka Bizzabo in 2021)](https://web.archive.org/web/20230000000000\*/x.ai) has a potentially new lease on life... 
 
-https://www.bizzabo.com/blog/bizzabo-acquires-x-ai
+{% unfurl "https://www.bizzabo.com/blog/bizzabo-acquires-x-ai" %}
 
 Or at least the FQDN and domain name do... 
 
-https://www.techmeme.com/230414/p18#a230414p18
+{% unfurl "https://www.techmeme.com/230414/p18#a230414p18" %}
 
 Now it appears that their old domain name will come to life with new purpose and all those that linked or praised x.ai (like me) are subject to link rot retcon.
 

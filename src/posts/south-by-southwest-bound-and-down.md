@@ -61,7 +61,7 @@ I just \_successfully\_ purchased a badge for SxSW 2024 and, for now, have marve
 
 [![Screenshot 2023-08-06 at 5.33.52 PM.png](https://buttondown.imgix.net/images/66c2ff78-fc20-47b0-a84d-289db7dc69fc.png?w=960&fit=max)](https://cart.sxsw.com/products/reg-plat)
 
-https://cuthrell.com/@jay/110815209862880755
+{% unfurl "https://cuthrell.com/@jay/110815209862880755" %}
 
 Granted, SxSW is a polarizing prohibitively pricey event for most, and as someone that lived in Austin, Texas for years — yes, I understand that vibe. Still, my goal is to visit, learn, share knowledge, and contribute to the local economy whenever possible / practical.
 

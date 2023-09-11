@@ -35,7 +35,7 @@ I'm reminded that [FAIR principles](https://www.go-fair.org/fair-principles/) ar
 
 As I've said before... ethics and empathy are needed.
 
-https://fudge.org/archive/esteem-is-stem-plus-ethics-plus-empathy/
+{% unfurl "https://fudge.org/archive/esteem-is-stem-plus-ethics-plus-empathy/" %}
 
 ## But if they can, they'll find a way 🎶
 
