@@ -42,15 +42,15 @@ Is there a FinOps for A.I. required? Will there be newer players besides AWS, Az
 
 Perhaps there was an earlier answer back in late 2021.
 
-https://www.techmeme.com/211111/p36#a211111p36
+{% unfurl "https://www.techmeme.com/211111/p36#a211111p36" %}
 
 Perhaps that answer was confirmed again last week.
 
-https://www.techmeme.com/230803/p24#a230803p24
+{% unfurl "https://www.techmeme.com/230803/p24#a230803p24" %}
 
 In fact, there was a case made last month for avoiding hyperscale public cloud service providers entirely — and embracing the [10th Other "R" of cloud... i.e. Repatriation](https://fudge.org/archive/fudge-sunday-reflecting-and-projecting/).
 
-https://www.techmeme.com/220803/p20#a220803p20
+{% unfurl "https://www.techmeme.com/220803/p20#a220803p20" %}
 
 So, what will be the next big thing in FinOps strategies for A.I. workloads?
 

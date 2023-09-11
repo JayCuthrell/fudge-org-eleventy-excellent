@@ -25,11 +25,11 @@ Now let's look at a few recent funding, mergers, and acquisitions that relate to
 
 Machine learning operations (MLOps) has just a few references[^MLOPs] in Fudge Sunday but it is reasonable to expect funding for MLOPs companies to increase in the coming years. So, congrats to the [Striveworks](https://www.techmeme.com/230613/p16#a230613p16) team on their new funding!
 
-https://www.techmeme.com/230613/p16#a230613p16
+{% unfurl "https://www.techmeme.com/230613/p16#a230613p16" %}
 
 You might recall several companies referenced in [Do You Need the Service Catalog](https://fudge.org/archive/do-you-need-the-service-catalog/) will see more funding in the coming years. So, congrats to the [Cortex](https://www.techmeme.com/230531/p36#a230531p36) team on their recent round!
 
-https://www.techmeme.com/230531/p36#a230531p36
+{% unfurl "https://www.techmeme.com/230531/p36#a230531p36" %}
 
 ## I'm looking for a partner, regardless of expense 🎶
 
@@ -37,11 +37,11 @@ Meanwhile, in addition to funding there have been a few mergers and acquisition 
 
 First, platform engineering isn't limited to specific countries or regions — it is global. So, here's to a warm welcome to the [Agyla SAS](https://www.linkedin.com/feed/update/urn:li:activity:7074719647400390656) team!
 
-https://www.linkedin.com/feed/update/urn:li:activity:7074719647400390656
+{% unfurl "https://www.linkedin.com/feed/update/urn:li:activity:7074719647400390656" %}
 
 Second, platform engineering fuses multiple disciplines and technologies for the benefit of ongoing improvements in the developer experience. So, here is a double duty warm welcome to [NS1](https://www.techmeme.com/230413/p30#a230413p30) and hearty congrats to the [NetBox Labs](https://www.techmeme.com/230413/p30#a230413p30) team on their funding!
 
-https://www.techmeme.com/230413/p30#a230413p30
+{% unfurl "https://www.techmeme.com/230413/p30#a230413p30" %}
 
 So, what will be the next big thing in funding, mergers, and acquisitions related to platform engineering?
 
