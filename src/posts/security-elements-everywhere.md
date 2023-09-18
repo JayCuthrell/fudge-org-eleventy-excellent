@@ -9,7 +9,7 @@ date: 2010-06-03 00:00:00+00:00
 
 I’ve been asked the same question a few times these past few weeks
 
-**So, Jay… What would it take for you to [come back to Facebook](http://fudge.org/its-complicated/)?**
+**So, Jay… What would it take for you to [come back to Facebook](http://fudge.org/archive/its-complicated/)?**
 
 It’s a valid question.  Sure.  Let’s work through this as a mental exercise.  In fact, I did just that.  I thought long and hard about it.  What would Facebook have to show me to regain my trust?
 

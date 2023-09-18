@@ -55,7 +55,7 @@ Source:
 
  **🎶 Still water sometimes runs very deep 🎶**
 
-If [software is eating the world](https://fudge.org/social-telecom-2030/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), then the world is fast becoming an ever larger and ever more varied collection of code. So identifying the costs of time to productive contribution for a new hire on *sprawling high risk high probability high drama committee consensus likely to break the build global monolithic repository* vs. *discrete de-risked specific modular codebase that empowers smaller more autonomous distributed teams* isn’t just a metrics driven mindset – it’s sound fiscal policy.
+If [software is eating the world](https://fudge.org/archive/social-telecom-2030/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), then the world is fast becoming an ever larger and ever more varied collection of code. So identifying the costs of time to productive contribution for a new hire on *sprawling high risk high probability high drama committee consensus likely to break the build global monolithic repository* vs. *discrete de-risked specific modular codebase that empowers smaller more autonomous distributed teams* isn’t just a metrics driven mindset – it’s sound fiscal policy.
 
 For example:
 

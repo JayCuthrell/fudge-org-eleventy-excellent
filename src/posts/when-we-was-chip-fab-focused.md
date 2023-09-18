@@ -130,7 +130,7 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [1](#footnote-anchor-1)Read: [Defy Data Gravity](https://defydatagravity.com)
 
-[2](#footnote-anchor-2)Read: [Social Telecom 2030](https://fudge.org/social-telecom-2030/)
+[2](#footnote-anchor-2)Read: [Social Telecom 2030](https://fudge.org/archive/social-telecom-2030/)
 
 [3](#footnote-anchor-3)Read: [Chapter 313 property tax incentives program applications to the State of Texas](https://www.cnbc.com/2022/07/22/samsung-electronics-seeks-tax-breaks-on-192-billion-potential-chip-plants-in-texas.html)
 

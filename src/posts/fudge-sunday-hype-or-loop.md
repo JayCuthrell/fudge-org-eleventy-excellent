@@ -13,11 +13,11 @@ date: 2022-01-24 01:28:48+00:00
 
 Let’s start with a perspective from 10 years ago. The year was 2012.
 
-[![The Loop of Technology Journalism circa 2012](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f1717f98-dfc9-445a-b5c4-7704a67182bf_600x600.jpeg "The Loop of Technology Journalism circa 2012")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1717f98-dfc9-445a-b5c4-7704a67182bf_600x600.jpeg)**[The Loop of Technology Journalism circa 2012](https://fudge.org/tech-journalism?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+[![The Loop of Technology Journalism circa 2012](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f1717f98-dfc9-445a-b5c4-7704a67182bf_600x600.jpeg "The Loop of Technology Journalism circa 2012")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1717f98-dfc9-445a-b5c4-7704a67182bf_600x600.jpeg)**[The Loop of Technology Journalism circa 2012](https://fudge.org/archive/tech-journalism?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 2012 was a big year for technology companies. Specifically, 2012 was a year of legal disputes, interoperability loss, M&A activity, IPO activities, and FAANG was born.
 
-At the same time, coverage of technology companies was changing into an endless loop of hot takes and narrowing sources. Technology journalism had become [a seemingly endless loop](https://fudge.org/tech-journalism?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) of horse race metaphors, hyperbole, and all while avoiding external links to sources in pursuit of capturing more eyeballs.
+At the same time, coverage of technology companies was changing into an endless loop of hot takes and narrowing sources. Technology journalism had become [a seemingly endless loop](https://fudge.org/archive/tech-journalism?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) of horse race metaphors, hyperbole, and all while avoiding external links to sources in pursuit of capturing more eyeballs.
 
 For example, the loop somehow lost interest in streaming the [Perseverance Rover’s Descent and Touchdown on Mars](https://www.youtube.com/watch?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter&v=4czjS9h4Fpg). Instead, the coverage lended itself to curious references to product placement for [Amazon](https://www.techmeme.com/120811/p1?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a120811p1), [Apple](https://www.techmeme.com/120806/p67?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a120806p67), and cord-cutting services like [Ustream](https://www.techmeme.com/120808/p44?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a120808p44).
 
@@ -36,7 +36,7 @@ In terms of meta coverage, the sources that were prolific in 2012 is worth notin
 
 Source:
 
-[fudge.org](https://fudge.org/tech-journalism?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[fudge.org](https://fudge.org/archive/tech-journalism?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 Now, cut to the present day. What has changed?
 

@@ -94,7 +94,7 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [8](#footnote-anchor-8)Read: <https://en.wikipedia.org/wiki/Zero_trust_security_model>
 
-[9](#footnote-anchor-9)Read: [Thinking Remotely](https://fudge.org/thinking-remotely/)
+[9](#footnote-anchor-9)Read: [Thinking Remotely](https://fudge.org/archive/thinking-remotely/)
 
 [10](#footnote-anchor-10)Read: <https://news.ycombinator.com/item?id=31842778>
 

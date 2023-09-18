@@ -11,7 +11,7 @@ The screenshot above is from a trip to Tokyo back in 2012 during my global road 
 
 Fast forward to 2020. Now it’s 5G making headlines and 6G futures are coming eventually if you subscribe to [futurecasting](https://www.ericsson.com/en/blog/2020/9/tech-trends-innovation-ericsson-research) from companies with an established history in telecommunications.
 
-The inspiration for this social telecom 2030 post is derived from my last [10 years with Dell Technologies](/my-tenth-year-at-vce/), a couple of Twitter status updates, interaction with the [2030 Cloud community](https://at.the2030.cloud/about), and a series of [Lunchclub.ai](https://lunchclub.com/?invite_code=jayc11) sessions while [thinking remotely](/thinking-remotely). The challenge I’ve accepted is to think forward another 10 years by considering my 2010 era [social telecom](https://fudge.org/social-telecom/) blog post for today and looking ahead to 2030.
+The inspiration for this social telecom 2030 post is derived from my last [10 years with Dell Technologies](/archive/my-tenth-year-at-vce/), a couple of Twitter status updates, interaction with the [2030 Cloud community](https://at.the2030.cloud/about), and a series of [Lunchclub.ai](https://lunchclub.com/?invite_code=jayc11) sessions while [thinking remotely](/thinking-remotely). The challenge I’ve accepted is to think forward another 10 years by considering my 2010 era [social telecom](https://fudge.org/archive/social-telecom/) blog post for today and looking ahead to 2030.
 
 What was social telecom in 2010?
 ================================
@@ -131,7 +131,7 @@ My reasoning is that today’s economics and not necessarily tomorrow’s econom
 * There will be a precipitous drop in memory costs and the future of egregious egress fees for cloud hosting providers is going to shift from awkward to completely unjustifiable.
 * Cloud egress fees are the 2020s version of long distance charges from the 1990s.
 * Pressure on purely asymmetrical performing facilities based broadband providers will continue but only in the most competitive US markets. This pressure (combined with increased remote work use cases) will extend to CGNAT and likely push most US markets into IPv6 by 2030.
-* Startups will iterate consumer accessible capabilities by combining intuitive UX/UI and “neural engine” filters with affordable devices to approximate the [Cisco TelePresence wow factor circa 2011](https://fudge.org/airwaves-vs-airlines).
+* Startups will iterate consumer accessible capabilities by combining intuitive UX/UI and “neural engine” filters with affordable devices to approximate the [Cisco TelePresence wow factor circa 2011](https://fudge.org/archive/airwaves-vs-airlines).
 
 #### Space, the eventual (but not final) frontier
 

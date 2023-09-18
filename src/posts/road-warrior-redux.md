@@ -5,7 +5,7 @@ date: 2019-03-18 00:00:00+00:00
 
 ---
 
-If you follow my annual blog updates you already know [I’ve been off the road for just over a year](https://fudge.org/my-eighth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). As with any decrease in travel frequency there are opportunities to learn and plan for an eventual increase. This week I’ll explore some of the things I’ve learned over the past +20 years of being in regular motion around the globe.
+If you follow my annual blog updates you already know [I’ve been off the road for just over a year](https://fudge.org/archive/my-eighth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). As with any decrease in travel frequency there are opportunities to learn and plan for an eventual increase. This week I’ll explore some of the things I’ve learned over the past +20 years of being in regular motion around the globe.
 
 
 
@@ -29,17 +29,17 @@ The 1st Wave: 1999-2006
 
 From 1999 to 2002 there was a lot of travel I signed up for as a global .com era consultant dealing with software and systems engineering or what was then called infrastructure engineering. Sometimes I would have down time and blog but most of it was pithy and ubiquitous connectivity like broadband was still just become a reality around the globe. Dial-up was pretty common unless you were in an office, had two channels of ISDN at home or the first of the xDSL or maybe even pre-DOCSIS cable internet services at home.
 
-[Tel Aviv Traceroute ( 2000 )](https://fudge.org/tel-aviv-traceroute/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[Tel Aviv Traceroute ( 2000 )](https://fudge.org/archive/tel-aviv-traceroute/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/tel-aviv-traceroute/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/69bRb4?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/tel-aviv-traceroute/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/69bRb4?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 Because it’s totally normal to blog about a traceroute?
 
 There was a time when a flight from RDU to EWR was $88 round trip on an airline that no longer exists. That year was 2001 and it was in the wake of 9/11.
 
-[Here It Comes ( 2001 )](https://fudge.org/here-it-comes/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[Here It Comes ( 2001 )](https://fudge.org/archive/here-it-comes/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/here-it-comes/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/WRNDWv?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/here-it-comes/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/WRNDWv?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 It was another time.
 
@@ -83,9 +83,9 @@ Jay’s Way Circa 2010
 
 After semi-retiring and consulting for a few years it was getting easier to travel when I wanted and where I wanted. Broadband was really hitting stride and the number of companies innovating in streaming collaborative screen sharing were on the rise. It was a time when proxemics and being there were quickly becoming more than just a richer conference call.
 
-[Airwaves vs Airlines ( 2010 )](https://fudge.org/airwaves-vs-airlines/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[Airwaves vs Airlines ( 2010 )](https://fudge.org/archive/airwaves-vs-airlines/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[jaycuthrell.com](https://fudge.org/airwaves-vs-airlines/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/dM8V7O?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[jaycuthrell.com](https://fudge.org/archive/airwaves-vs-airlines/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/dM8V7O?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 In which I wondered if there was a better way to be *there*.
 

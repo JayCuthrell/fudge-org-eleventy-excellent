@@ -41,15 +41,15 @@ Source:
 
 [www.techmeme.com](https://www.techmeme.com/220404/p8?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a220404p8)
 
-**[Shot: Multicloud March (2021)](https://fudge.org/multicloud-march/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Shot: Multicloud March (2021)](https://fudge.org/archive/multicloud-march/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
-In March I reflected on multicloud but waited until after April 1st 2021 to post it because the Internet. So, April 10, 2021 it was. I still maintain that my predictions in [Social Telecom 2030](https://fudge.org/social-telecom-2030?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) will eventually become true…
+In March I reflected on multicloud but waited until after April 1st 2021 to post it because the Internet. So, April 10, 2021 it was. I still maintain that my predictions in [Social Telecom 2030](https://fudge.org/archive/social-telecom-2030?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) will eventually become true…
 
 Cloud egress fees are the 2020s version of long distance charges from the 1990s.
 
 Source:
 
-[fudge.org](https://fudge.org/multicloud-march/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[fudge.org](https://fudge.org/archive/multicloud-march/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 **[Chaser: AWS Price Reductions (2022)](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-data-transfer-price-reduction-privatelink-transit-gateway-client-vpn-services/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 

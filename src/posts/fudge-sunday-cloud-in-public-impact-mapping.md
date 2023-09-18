@@ -23,7 +23,7 @@ As of this issue, we now have historical perspectives and definitions for [stat
 
  **Impact Mapping in practice**
 
-Over the past four weeks, we covered *Who*, *What*, *Where, and When* for cloud companies that “write it down” to pursue goals for [The Perfect Team](https://fudge.org/the-perfect-team/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). This issue will get to the final remaining question: *Why*.
+Over the past four weeks, we covered *Who*, *What*, *Where, and When* for cloud companies that “write it down” to pursue goals for [The Perfect Team](https://fudge.org/archive/the-perfect-team/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). This issue will get to the final remaining question: *Why*.
 
 To get an understanding of Impact Mapping, you could start with a book of the same title. For now, assume Impact Mapping answers the question, *Why*.
 
@@ -111,7 +111,7 @@ In summary, there are **incredibly** **stark variations** amongst the hypersca
 * ***Google Cloud emphasis is on 1. System Design*** curiously with no comparable pillars to others since the end goal is to drive towards documentation, decoupling, and managed services adoption before seeking similar pillars of other frameworks.
 * ***Azure and Oracle Cloud emphasis is on 3. Cost Optimization*** whereas AWS and Google Cloud has 5. Cost Optimization
 * ***Emphasis on Performance is the last or next to last pillar for Alibaba Cloud, Azure, AWS, Oracle Cloud, and Google Cloud.***
-* Looking back across these five newsletter issues, (stark) variations discovered seem to mirror similar findings from my blog post from March 2021 [Multicloud March](https://fudge.org/multicloud-march/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) on low latency high bandwidth connectivity options.
+* Looking back across these five newsletter issues, (stark) variations discovered seem to mirror similar findings from my blog post from March 2021 [Multicloud March](https://fudge.org/archive/multicloud-march/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) on low latency high bandwidth connectivity options.
 
  **Conclusions**
 
@@ -121,7 +121,7 @@ So, let’s get a quick overview of [business value engineering](https://www.you
 
 [![Matt Smith, IFS discussing Business Value Engineering on SiliconANGLE Media's theCUBE](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f2a161de-6a18-44a7-9a0a-99b199c808fe_600x338.jpeg "Matt Smith, IFS discussing Business Value Engineering on SiliconANGLE Media's theCUBE")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2a161de-6a18-44a7-9a0a-99b199c808fe_600x338.jpeg)Matt Smith, IFS discussing Business Value Engineering on SiliconANGLE Media's theCUBE
 
-Each hyperscale public cloud service provider will have to anticipate customers at various stages of a journey from status quo to one cloud or [the eventuality of mutlicloud](https://fudge.org/multicloud-march/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). So, having a business value engineering framework in place will ensure the following:
+Each hyperscale public cloud service provider will have to anticipate customers at various stages of a journey from status quo to one cloud or [the eventuality of mutlicloud](https://fudge.org/archive/multicloud-march/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). So, having a business value engineering framework in place will ensure the following:
 
 1. Key business initiatives prioritization
 2. Key stakeholders in a living RACI matrix

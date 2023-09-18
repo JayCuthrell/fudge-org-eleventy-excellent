@@ -16,7 +16,7 @@ First, you might recall my shot and chaser format from prior issues. Essentially
 
 ### Shot: IQT Day = Dell Technologies Analyst Event (2017)
 
-The setting was late 2017 — a year after $67B worth of successful concurrent nested mergers and acquisitions. On our latest work badges was Dell Technologies after having Dell EMC, EMC, VCE (VMware, Cisco, EMC), and Acadia [badges dating back to 2010](https://fudge.org/my-tenth-year-at-dell-technologies/). 
+The setting was late 2017 — a year after $67B worth of successful concurrent nested mergers and acquisitions. On our latest work badges was Dell Technologies after having Dell EMC, EMC, VCE (VMware, Cisco, EMC), and Acadia [badges dating back to 2010](https://fudge.org/archive/my-tenth-year-at-dell-technologies/). 
 
 On October 10, 2017 an analyst event for Dell Technologies combined the notion of human intelligence quotient (IQ) and Internet of Things (IoT) as an *IQT Day*. Somehow, I was lucky enough to attend *IQT Day* with Dell Technologies leaders, industry experts, industry pundits, and peers.
 

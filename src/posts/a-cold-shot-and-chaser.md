@@ -98,9 +98,9 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [1](#footnote-anchor-1)Query: <https://duckduckgo.com/?q=%22ubiquitous+workload+substrate%22>
 
-[2](#footnote-anchor-2)Read: <https://fudge.org/my-third-year-at-vce/>
+[2](#footnote-anchor-2)Read: <https://fudge.org/archive/my-third-year-at-vce/>
 
-[3](#footnote-anchor-3)Read: <https://fudge.org/augmented-reality/>
+[3](#footnote-anchor-3)Read: <https://fudge.org/archive/augmented-reality/>
 
 [4](#footnote-anchor-4)Read: 
 

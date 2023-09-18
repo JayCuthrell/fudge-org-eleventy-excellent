@@ -125,7 +125,7 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [2](#footnote-anchor-2)Read: [HashiCorp 2022 State of Cloud Strategy Survey](https://www.hashicorp.com/state-of-the-cloud)
 
-[3](#footnote-anchor-3)Read: [The Perfect Team](https://fudge.org/the-perfect-team/)
+[3](#footnote-anchor-3)Read: [The Perfect Team](https://fudge.org/archive/the-perfect-team/)
 
 [4](#footnote-anchor-4)Read: [Orange Julius (via wikipedia.org)](https://en.wikipedia.org/wiki/Orange_Julius)
 

@@ -107,7 +107,7 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [4](#footnote-anchor-4)Read: [Blog by Tomasz Tunguz](https://tomtunguz.com)
 
-[5](#footnote-anchor-5)Read: [Tech Journalism](https://fudge.org/tech-journalism/)
+[5](#footnote-anchor-5)Read: [Tech Journalism](https://fudge.org/archive/tech-journalism/)
 
 [6](#footnote-anchor-6)Read: [Communication complexity of approximate Nash equilibria](https://dl.acm.org/doi/pdf/10.1145/3055399.3055407)
 

@@ -13,7 +13,7 @@ Crystal Fighters - Follow (2012)
 
  **Getting Informed**
 
-Change is hard. So, if we assume that culture eats strategy for breakfast it also means we can only conclude [software is a villain that wants great abs](https://fudge.org/software-is-a-villian-that-wants-great-abs/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+Change is hard. So, if we assume that culture eats strategy for breakfast it also means we can only conclude [software is a villain that wants great abs](https://fudge.org/archive/software-is-a-villian-that-wants-great-abs/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
 Leadership books from Lencioni, Covey, [Grove](https://apenwarr.ca/log/20190926?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), Scott, and others could fill a very deep well with perspectives on influencing folks to achieve a desired outcome. However, following the leader might be easier said than done over a long enough timeline.
 

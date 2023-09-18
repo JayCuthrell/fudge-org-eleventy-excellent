@@ -112,9 +112,9 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [1](#footnote-anchor-1)Read: [About Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
 
-[2](#footnote-anchor-2)Read: [Van Halen ISO 9000](https://fudge.org/van-halen-iso-9000/)
+[2](#footnote-anchor-2)Read: [Van Halen ISO 9000](https://fudge.org/archive/van-halen-iso-9000/)
 
-[3](#footnote-anchor-3)Read: [Balkanize, Rinse, Repeat ad infinitum](https://fudge.org/balkanize-rinse-repeat-ad-infinitum/)
+[3](#footnote-anchor-3)Read: [Balkanize, Rinse, Repeat ad infinitum](https://fudge.org/archive/balkanize-rinse-repeat-ad-infinitum/)
 
 [4](#footnote-anchor-4)Read: [A Belgian hacker redirected the links in Trump’s old tweets](https://www.theverge.com/2017/2/3/14495978/belgian-hacker-trump-twitter-links)
 
@@ -122,5 +122,5 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [6](#footnote-anchor-6)Read: [Ev Williams is the Forrest Gump of Internet](https://www.theatlantic.com/technology/archive/2016/06/ev-williams-is-the-forrest-gump-of-the-internet/486899/)
 
-[7](#footnote-anchor-7)Read: [On Twitter](https://fudge.org/on-twitter/)
+[7](#footnote-anchor-7)Read: [On Twitter](https://fudge.org/archive/on-twitter/)
 

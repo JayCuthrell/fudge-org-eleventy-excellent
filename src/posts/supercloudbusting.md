@@ -78,7 +78,7 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [1](#footnote-anchor-1)[It was the freshest move I’ve ever seen – like he was floating on air – I’ve never seen anything like it in my life](https://en.wikipedia.org/wiki/Something_Good_(Utah_Saints_song)) i.e. [Click here to relive 2008-2009](https://www.youtube.com/watch?v=m97WlpsuU74)
 
-[2](#footnote-anchor-2)Read: [Cloud Data Services Ahead](https://fudge.org/cloud-data-services-ahead/)
+[2](#footnote-anchor-2)Read: [Cloud Data Services Ahead](https://fudge.org/archive/cloud-data-services-ahead/)
 
 [3](#footnote-anchor-3)Read: [supercloud.cs.cornell.edu](http://supercloud.cs.cornell.edu)
 

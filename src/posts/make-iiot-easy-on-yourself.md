@@ -124,7 +124,7 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 
 [11](#footnote-anchor-11)Read [Several authors explain what this quote by Arthur C. Clarke conjures up for them](https://lab.cccb.org/en/arthur-c-clarke-any-sufficiently-advanced-technology-is-indistinguishable-from-magic/)
 
-[12](#footnote-anchor-12)Read [Social Telecom 2030](https://fudge.org/social-telecom-2030/)
+[12](#footnote-anchor-12)Read [Social Telecom 2030](https://fudge.org/archive/social-telecom-2030/)
 
 [13](#footnote-anchor-13)Read [Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud](https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5)
 

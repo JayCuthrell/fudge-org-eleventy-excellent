@@ -18,7 +18,7 @@ More, more, more
 
 In the more category I am spending even more time in VCE Customer meetings with VCE Partners lately. This is on top of increased VCE cross functional team velocity. That means conversations with lots and lots of new VCE Customers and returning to meet with repeat VCE Customers.
 
-Since my last [timely](http://fudge.org/a-timely-question/) post a few things have been consuming my time away from this blog.
+Since my last [timely](http://fudge.org/archive/a-timely-question/) post a few things have been consuming my time away from this blog.
 
 * drumming up interest for my SxSW panel submission [A Wheel Of Pain: How I Learned To Love Enterprise](http://panelpicker.sxsw.com/vote/18104)
 * there are a few [more places](http://thebackupwindow.emc.com/author/jay_cuthrell/) I’ve been [publishing](https://blog.vce.com/author/jay-cuthrell/)

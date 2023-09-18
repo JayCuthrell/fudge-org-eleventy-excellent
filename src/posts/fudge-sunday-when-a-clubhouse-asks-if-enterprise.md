@@ -159,17 +159,17 @@ This marked the close of the conversation and it wasn’t clear if there would b
 
  **Recent blog posts on fudge.org**
 
-**[Cloud Data Services Ahead](https://fudge.org/cloud-data-services-ahead?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Cloud Data Services Ahead](https://fudge.org/archive/cloud-data-services-ahead?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 A quick update on joining Faction and my thoughts on the rise of Cloud Data Services for Multi-Cloud
 
-[fudge.org](https://fudge.org/cloud-data-services-ahead?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[fudge.org](https://fudge.org/archive/cloud-data-services-ahead?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
-**[Social Telecom 2030](https://fudge.org/social-telecom-2030?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Social Telecom 2030](https://fudge.org/archive/social-telecom-2030?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 Thoughts on telecommunications looking ahead to 2030
 
-[fudge.org](https://fudge.org/social-telecom-2030?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[fudge.org](https://fudge.org/archive/social-telecom-2030?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 In order to unsubscribe, click [here](#).
 

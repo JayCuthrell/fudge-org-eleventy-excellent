@@ -25,13 +25,13 @@ Perhaps you recall my blog post from 2017 about low leveling my Twitter account(
 
 I don’t actively participate in Twitter in 2022. However, if you had told me the Eternal September Bots / Trolls and NFT reply spam would be this bad, I’d have assumed you were talking about 2000s era email and never looked back again *or* doubled down on Block Party (I used it successfully in 2021).
 
-**[On Twitter by Jay Cuthrell (Jun 2017)](https://fudge.org/on-twitter?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[On Twitter by Jay Cuthrell (Jun 2017)](https://fudge.org/archive/on-twitter?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 An examination of my Twitter archives
 
 Source:
 
-[fudge.org](https://fudge.org/on-twitter?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[fudge.org](https://fudge.org/archive/on-twitter?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 **[Block Party](https://www.blockpartyapp.com/use-cases/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 

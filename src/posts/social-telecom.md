@@ -13,7 +13,7 @@ The panel included me. Oh, and AT&T, Verizon, and Comcast… oh wait… **Comcas
 
 I was on the panel to represent the outsider. I wasn’t a carrier. I wasn’t a wireless operator with spectrum, lobbying forces, and a war chest. I was just a person lucky enough to know folks that knew folks that might enjoy my specific brand of insight and humor on the stage.
 
-As I sat in front of the assembled group with the titans of telecom to my right and to my left I remarked to my fellow panelists that I’d be putting [my favorite devices](http://fudge.org/who-am-i-kidding/) in front of me. To my left I placed my Verizon Wireless BlackBerry International Edition and to my right I placed my AT&T Wireless iPhone 3G.
+As I sat in front of the assembled group with the titans of telecom to my right and to my left I remarked to my fellow panelists that I’d be putting [my favorite devices](http://fudge.org/archive/who-am-i-kidding/) in front of me. To my left I placed my Verizon Wireless BlackBerry International Edition and to my right I placed my AT&T Wireless iPhone 3G.
 
 One of the benefits of Comcast not showing up was that we could talk about them. Good times. Good times.
 
@@ -41,7 +41,7 @@ This could be two users in the same CIDR block where an update arrives via third
 
 This might have some meat to it. After discussing this amongst some others in the same general field I am in the consensus was “yeah, why not”. In general this would form the basis of an ad-hoc class action customer experience fee recovery system.
 
-Assuming the [AUP/ToS](http://en.wikipedia.org/wiki/Terms_of_Service) did not preclude a resident agent/process with this goal in mind (and really, that’s not the point) one could feed back a quasi-SLA to residential tiers of service. This is part of my larger focus on the shift to a truly utility approach to granular billing if [“the cap”](http://en.wikipedia.org/wiki/Bandwidth_cap) ever makes it out of the [ham fisted iterations](http://fudge.org/bandwidth-caps-are-broken) we’ve seen so far.
+Assuming the [AUP/ToS](http://en.wikipedia.org/wiki/Terms_of_Service) did not preclude a resident agent/process with this goal in mind (and really, that’s not the point) one could feed back a quasi-SLA to residential tiers of service. This is part of my larger focus on the shift to a truly utility approach to granular billing if [“the cap”](http://en.wikipedia.org/wiki/Bandwidth_cap) ever makes it out of the [ham fisted iterations](https://fudge.org/archive/bandwidth-caps-are-broken) we’ve seen so far.
 
 ### [XMPP](http://en.wikipedia.org/wiki/Xmpp) of the customer experience as a [sparkline](http://en.wikipedia.org/wiki/Sparkline)
 
@@ -79,11 +79,11 @@ What we might still call \_ TV’s \_ are going to be shipping in the wake of CE
 
 ### The application mix and managed routers will evolve to [WAAS](http://en.wikipedia.org/wiki/Cisco_waas) like features that improve branch to branch experience
 
-I wasn’t specifically calling out [Cisco](http://fudge.org/straight-pool/) solutions but this was something I obviously had in mind. At work, everything you experience with broadband at home is a reasonable (if not double) expectation for business class services at a job site. Yet, business class services often are slower in areas where higher speed residential broadband is available.
+I wasn’t specifically calling out [Cisco](https://fudge.org/archive/straight-pool/) solutions but this was something I obviously had in mind. At work, everything you experience with broadband at home is a reasonable (if not double) expectation for business class services at a job site. Yet, business class services often are slower in areas where higher speed residential broadband is available.
 
 During the panel, things like cloud computing and low latency or high throughput applications came up as reasons why the business class expectations will change. [IP Centrex](http://en.wikipedia.org/wiki/Centrex) phone services based on VoIP with a SIP trunks model is growing at a faster pace now due to economic benefits but it is unclear that the connectivity has kept pace.
 
-That said, the point of bringing up [Cisco’s role in this](http://fudge.org/straight-pool/) was to point out that the same topology and traffic management concerns of larger enterprises is now being packed into the form factor of a common Cisco ISR and would likely become a fire and forget feature to address chatty and high overhead protocols. The availability of such technology will mean a lot to the small remote office connected to a regional office. The natural conclusion is to see this played back in subscriber CPE.
+That said, the point of bringing up [Cisco’s role in this](https://fudge.org/archive/straight-pool/) was to point out that the same topology and traffic management concerns of larger enterprises is now being packed into the form factor of a common Cisco ISR and would likely become a fire and forget feature to address chatty and high overhead protocols. The availability of such technology will mean a lot to the small remote office connected to a regional office. The natural conclusion is to see this played back in subscriber CPE.
 
 Putting the intelligence in endpoints is the key to seeing benefits overall. Again, it’s about pushing the envelope with what social oriented technology brings as a demand.
 

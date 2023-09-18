@@ -139,11 +139,11 @@ Forrester summarizes a growing body of trends around low-code development platfo
 
  **2014**
 
-[![ESTEEM is STEM plus Ethics plus Empathy](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/66369ffb-a519-4fb5-a228-b01c0412a9bf_600x479.jpeg "ESTEEM is STEM plus Ethics plus Empathy")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F66369ffb-a519-4fb5-a228-b01c0412a9bf_600x479.jpeg)**[ESTEEM is STEM plus Ethics plus Empathy](https://fudge.org/esteem-stem-ethics-empathy/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+[![ESTEEM is STEM plus Ethics plus Empathy](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/66369ffb-a519-4fb5-a228-b01c0412a9bf_600x479.jpeg "ESTEEM is STEM plus Ethics plus Empathy")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F66369ffb-a519-4fb5-a228-b01c0412a9bf_600x479.jpeg)**[ESTEEM is STEM plus Ethics plus Empathy](https://fudge.org/archive/esteem-stem-ethics-empathy/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
-By 2014, you couldn’t go very far on Internet or modern media before the term STEM is mentioned or extolled as a target to reach. STEM was the backronym for science, technology, engineering, and mathematics. I like word games so [I wrote a blog post about two important missing letters](https://fudge.org/esteem-stem-ethics-empathy/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+By 2014, you couldn’t go very far on Internet or modern media before the term STEM is mentioned or extolled as a target to reach. STEM was the backronym for science, technology, engineering, and mathematics. I like word games so [I wrote a blog post about two important missing letters](https://fudge.org/archive/esteem-stem-ethics-empathy/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
-[fudge.org](https://fudge.org/esteem-stem-ethics-empathy/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[fudge.org](https://fudge.org/archive/esteem-stem-ethics-empathy/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 Around this same time, Forrester doubles down on the categorization of Low Code platforms.
 

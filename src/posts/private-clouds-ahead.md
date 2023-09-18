@@ -23,7 +23,7 @@ I’m still based in Research Triangle Park, NC and Missoula, MT but anyone that
 
 *Why join forces with VCE / Acadia?*
 
-I’m going to be perfectly frank. I think [Vblock](http://acadia.com/solutions/vblock/index.htm) architecture rocks. Oh, you wanted more? Well, as you may know, I have an affinity for startups, service providers, and investment groups.  Previously, I’ve been a CTO, VP, GM, Infrastructure Architect, and most recently an independent consultant with [my own consulting practice](http://fudge.org/back-to-my-consulting-roots/). During my career I’ve *been arm in arm with service providers* as their data centers have evolved *and* I’ve also *been the service provider* experiencing that evolution first hand. Having sat on both sides of the table, this is an exciting time for me.
+I’m going to be perfectly frank. I think [Vblock](http://acadia.com/solutions/vblock/index.htm) architecture rocks. Oh, you wanted more? Well, as you may know, I have an affinity for startups, service providers, and investment groups.  Previously, I’ve been a CTO, VP, GM, Infrastructure Architect, and most recently an independent consultant with [my own consulting practice](http://fudge.org/archive/back-to-my-consulting-roots/). During my career I’ve *been arm in arm with service providers* as their data centers have evolved *and* I’ve also *been the service provider* experiencing that evolution first hand. Having sat on both sides of the table, this is an exciting time for me.
 
 *What caused you to make this move?*
 
@@ -51,7 +51,7 @@ I’m hopeful my time management skills will permit me to reach out on subjects 
 
 *Does this mean fudge.org becomes a corporately controlled blog?*
 
-Nope. I’ll be updating my [disclosure](http://fudge.org/disclosure/) statement to be less terse and adding some pertinent boilerplate which will make it even more boring. Again, this blog will always be 100% USDA certified Jay Cuthrell aka [@qthrul](http://twitter.com/qthrul). I’ll be writing about things I care about. That won’t ever change. Hey, maybe Friday Fudge will come back into regular circulation again. We shall see.
+Nope. I’ll be updating my [disclosure](http://jaycuthrell.com/disclosure/) statement to be less terse and adding some pertinent boilerplate which will make it even more boring. Again, this blog will always be 100% USDA certified Jay Cuthrell aka [@qthrul](http://twitter.com/qthrul). I’ll be writing about things I care about. That won’t ever change. Hey, maybe Friday Fudge will come back into regular circulation again. We shall see.
 
 *Speaking of [@qthrul](http://twitter.com/qthrul)… Does this mean [@qthrul](http://twitter.com/qthrul) on Twitter becomes a corporately controlled Twitter account?*
 

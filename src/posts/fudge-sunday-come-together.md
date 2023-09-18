@@ -11,7 +11,7 @@ The Beatles - Come Together (1969)
 
  **Getting Informed**
 
-Each year I spent with what is now known as Dell Technologies involved an [anniversary blog post](https://fudge.org/my-tenth-year-at-dell-technologies/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Looking back, I had many email addresses due to the nature of starting at a joint venture funded by VMware, Cisco, EMC, and Intel (seed).
+Each year I spent with what is now known as Dell Technologies involved an [anniversary blog post](https://fudge.org/archive/my-tenth-year-at-dell-technologies/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Looking back, I had many email addresses due to the nature of starting at a joint venture funded by VMware, Cisco, EMC, and Intel (seed).
 
 Acadia formed then became VCE which joined EMC Federation that merged with Dell to become Dell EMC and is known as Dell Technologies. So, while I wasn’t in IT, my email address progression was something like…
 

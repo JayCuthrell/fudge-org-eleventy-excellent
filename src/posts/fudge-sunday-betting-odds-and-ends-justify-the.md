@@ -53,7 +53,7 @@ For the past 15-20 years, virtual private servers (VPS) then cloud computing the
 
 Recent coverage of AWS margin estimates are interesting. There’s an old saying in the service provider world that when your margins exceed 20 points there will be new competitors that arrive to challenge that margin.
 
-It’s entirely possible that, within a decade, the history of [AWS, Azure, GCP, OCI, AliCloud, IBM](https://fudge.org/multicloud-march?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), and others will public filings will point to a time when margins *were* amazing before they were far more normalized. Also, it is likely that scaled execution, fiscal discipline, and newer niche entrants (not M&A) that determines true differences between market share leaders.
+It’s entirely possible that, within a decade, the history of [AWS, Azure, GCP, OCI, AliCloud, IBM](https://fudge.org/archive/multicloud-march?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), and others will public filings will point to a time when margins *were* amazing before they were far more normalized. Also, it is likely that scaled execution, fiscal discipline, and newer niche entrants (not M&A) that determines true differences between market share leaders.
 
 [www.techmeme.com](https://www.techmeme.com/210906/p9?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a210906p9)
 

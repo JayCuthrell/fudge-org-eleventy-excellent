@@ -58,15 +58,15 @@ Source:
 
 [towardsdatascience.com](https://towardsdatascience.com/the-non-engineers-guide-to-bad-data-c5325d2b1458?gi=2bffa0997d9d&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
-**[Are you Van Halen ISO 9000 ready?](https://fudge.org/van-halen-iso-9000/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+**[Are you Van Halen ISO 9000 ready?](https://fudge.org/archive/van-halen-iso-9000/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
-If *“75% of executives don’t trust their data”* then you can bet that 100% of the Van Halen production team in the late 1970s and 1980s [didn’t trust 100% of the venue promoters to read the rider](https://fudge.org/van-halen-iso-9000/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+If *“75% of executives don’t trust their data”* then you can bet that 100% of the Van Halen production team in the late 1970s and 1980s [didn’t trust 100% of the venue promoters to read the rider](https://fudge.org/archive/van-halen-iso-9000/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
-(Warning: [This link](https://fudge.org/van-halen-iso-9000/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) includes a David Lee Roth YouTube video that contains NSFW language)
+(Warning: [This link](https://fudge.org/archive/van-halen-iso-9000/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) includes a David Lee Roth YouTube video that contains NSFW language)
 
 Source:
 
-[fudge.org](https://fudge.org/van-halen-iso-9000/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[fudge.org](https://fudge.org/archive/van-halen-iso-9000/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
  **Of Moose and Poka-yoke**
 

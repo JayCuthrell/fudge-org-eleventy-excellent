@@ -23,7 +23,7 @@ As of this issue, we now have historical perspectives and definitions for [statu
 
  **Meant Time To Root Cause Analysis in practice**
 
-Last week we covered *Who*, *What*, and *Where* for cloud companies that “write it down” to pursue goals for [The Perfect Team](https://fudge.org/the-perfect-team/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). This issue will get to one of the two remaining questions, *When*, and next week we will explore *Why*.
+Last week we covered *Who*, *What*, and *Where* for cloud companies that “write it down” to pursue goals for [The Perfect Team](https://fudge.org/archive/the-perfect-team/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). This issue will get to one of the two remaining questions, *When*, and next week we will explore *Why*.
 
 Now, perhaps, is time for another neologism. This neologism is Mean Time To RCA. As of now, the only search engine results for [“Mean Time To RCA”](https://www.google.com/search?q=%22Mean%20Time%20To%20RCA%22&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) will likely return this newsletter, and [“Mean Time To Root Cause Analysis”](https://www.google.com/search?q=%22Mean%20Time%20To%20Root%20Cause%20Analysis%22&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) will likely return [Splunk](https://lantern.splunk.com/IT_Use_Case_Guidance/Infrastructure_Performance_Monitoring/Virtualization_Monitoring/Monitoring_VMware_virtualization_infrastructure?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) too.
 

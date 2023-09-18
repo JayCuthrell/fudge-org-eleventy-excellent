@@ -47,7 +47,7 @@ Well, this is one of the coolest documentaries that I’ve come across and I’m
 
 [www.apple.com](https://www.apple.com/tv-pr/originals/watch-the-sound-with-mark-ronson/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
-Finally, readers of my long form blog at fudge.org might recall this snippet from [Social Telecom 2030](https://fudge.org/social-telecom-2030?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) that has become the radio edit inspiration for this installment of my newsletter.
+Finally, readers of my long form blog at fudge.org might recall this snippet from [Social Telecom 2030](https://fudge.org/archive/social-telecom-2030?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) that has become the radio edit inspiration for this installment of my newsletter.
 
 
 > Possible - can it be done

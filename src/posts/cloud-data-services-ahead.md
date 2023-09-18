@@ -12,7 +12,7 @@ So, a quick couple of updates…
 
 This will be a quick and final blog post for 2020.
 
-If you read my blog then you might recall my [last day at Dell Technologies](https://fudge.org/my-tenth-year-at-dell-technologies) was on the 4 year anniversary of [the Dell EMC combination](https://fudge.org/my-sixth-year-at-vce-and-my-sixth-week-at-dell-emc). When I shared updates on LinkedIn it was awesome to have folks virtually drop by to leave a like, comment, or [Calendly](https://jaycuthrell.com/contact/) request to catch up by Zoom in these social gesture distancing times.
+If you read my blog then you might recall my [last day at Dell Technologies](https://fudge.org/archive/my-tenth-year-at-dell-technologies) was on the 4 year anniversary of [the Dell EMC combination](https://fudge.org/archive/my-sixth-year-at-vce-and-my-sixth-week-at-dell-emc). When I shared updates on LinkedIn it was awesome to have folks virtually drop by to leave a like, comment, or [Calendly](https://jaycuthrell.com/contact/) request to catch up by Zoom in these social gesture distancing times.
 
 **So, I’m super pumped to share I’ve joined [Faction](https://factioninc.com) in a new servant leader role.**
 
