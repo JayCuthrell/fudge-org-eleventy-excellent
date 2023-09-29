@@ -35,7 +35,7 @@ Well, yes, yes it does. Are you getting the feeling we've talked about this befo
 
 You're not wrong.
 
-{% unfurl "https://fudge.org/archive/fudge-sunday-needle-in-a-fullstack" %}
+https://fudge.org/archive/fudge-sunday-needle-in-a-fullstack
 
 But, there's is also the notion of fuzzing the toolchain \*itself\*.
 

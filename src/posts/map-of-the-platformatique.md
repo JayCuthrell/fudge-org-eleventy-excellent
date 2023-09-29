@@ -17,7 +17,7 @@ As background, Wardley Mapping[^1] can be a useful approach for visualizing the 
 
 Last month, Fudge Sunday covered the humble Internal Developer Platform (IDP).
 
-{% unfurl "https://fudge.org/archive/idp-clearly-now/" %}
+https://fudge.org/archive/idp-clearly-now/
 
 
 So, how long will it be until an IDP is as commonplace as choosing from a preference delivered widely through industrial output?

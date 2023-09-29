@@ -44,7 +44,7 @@ As you might expect, the market is producing listicles that markets seeking matu
 
 Indeed, I can think of someone that is very excited for this issue of Fudge Sunday... and all fingers for counting will be exhausted.
 
-{% unfurl "https://en.wikipedia.org/wiki/Count\_von\_Count" %}
+https://en.wikipedia.org/wiki/Count\_von\_Count
 
 ### Four (4!)
 
@@ -70,7 +70,7 @@ At this point you might be asking if this progression keeps going or someone tap
 
 Stepping back from numerical listicle progressions, there are clearly tools involved in any IDP. However, it is important to remember that even common hand tools have characteristics too — or parts — and one example is the common hand file.
 
-{% unfurl "https://www.wonkeedonkeetools.co.uk/files/what-are-the-basic-parts-of-a-file" %}
+https://www.wonkeedonkeetools.co.uk/files/what-are-the-basic-parts-of-a-file
 
 Simply grabbing a common hand file by itself to begin use is not ideal experience[^farmerfile] due to the short pointy tang and angular heel. Instead, a handle added to the common hand file is a far more pleasant experience.
 

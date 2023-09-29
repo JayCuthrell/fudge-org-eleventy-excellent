@@ -17,7 +17,7 @@ This newsletter and my blog have described the progression of application deploy
 
 Along the way there are corresponding progressions in how security and observability are implemented in each of these deployment options — including the growth in use of Operators covered in our last issue.
 
-{% unfurl "https://fudge.org/archive/smooth-k8s-operator/" %}
+https://fudge.org/archive/smooth-k8s-operator/
 
 If you consider the growth of containerized environments and squint hard, you'll appreciate the sage security and observability wisdom from the cult classic movie Airplane:
 
@@ -33,13 +33,13 @@ https://www.youtube.com/watch?v=alx38YdvvzA
 
 Next, imagine the ability to be on the lookout for gnarly system calls (syscalls) attempting a means to escalate privilege for the operating system. Now, consider the practical application of the seccomp notifier — once again — from [Sascha Grunert](https://www.linkedin.com/in/sascha-grunert/).
 
-{% unfurl "https://kubernetes.io/blog/2022/12/02/seccomp-notifier/" %}
+https://kubernetes.io/blog/2022/12/02/seccomp-notifier/
 
 ## You can keep the dime 🎶
 
 Now, while this adversarial concern might sound extravagant or exotic, sadly it isn't — so, to connect those dots, this newsletter will feature a ["Swing Out Sister"](https://www.youtube.com/watch?v=IIOJdMdS56k) security equivalent to Rickroll related issue in the future. Until then, to learn more about k8s Security Profiles Operator, you can visit the GitHub repository:
 
-{% unfurl "https://github.com/kubernetes-sigs/security-profiles-operator" %}
+https://github.com/kubernetes-sigs/security-profiles-operator
 
 Once there, you can also review the SPO Roadmap:
 
@@ -52,19 +52,19 @@ Indeed, you can find the timeline over the past few years for including gRPC API
 
 ![Screenshot 2023-02-12 at 12.11.21 PM.png](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/90a72b24-c173-4d4a-ae61-dff3c4dc1aa2.png)
 
-{% unfurl "https://github.com/kubernetes-sigs/security-profiles-operator/pull/469" %}
+https://github.com/kubernetes-sigs/security-profiles-operator/pull/469
 
-{% unfurl "https://github.com/kubernetes-sigs/security-profiles-operator/pull/140" %}
+https://github.com/kubernetes-sigs/security-profiles-operator/pull/140
 
 Now, let's connect the dots. Last year, this newsletter covered WebAssembly (Wasm).
 
-{% unfurl "https://fudge.org/archive/cadillac-webassembly-line/" %}
+https://fudge.org/archive/cadillac-webassembly-line/
 
 And...
 
 Free and Open source Software Developers' European Meeting (FOSDEM) 2023 content is appearing online now. This means you can learn about memory and resource hungry k8s hippos and the possibilities of Wasm Operators from [Merlijn Sebrechts](https://www.linkedin.com/in/merlijn-sebrechts):
 
-{% unfurl "https://fosdem.org/2023/schedule/event/container\_kubernetes\_operators\_wasm/" %}
+https://fosdem.org/2023/schedule/event/container\_kubernetes\_operators\_wasm/
 
 https://www.youtube.com/watch?v=E5o81Wldshk
 

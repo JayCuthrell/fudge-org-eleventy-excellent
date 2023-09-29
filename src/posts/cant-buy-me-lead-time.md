@@ -61,7 +61,7 @@ Or, as I was saying...
 
 
 
-{% unfurl "http://www.techmeme.com/230706/p35#a230706p35" %}
+http://www.techmeme.com/230706/p35#a230706p35
 
 To be clear, getting a shorter "lead time" should not be due to lowering quality or completeness — and cannot be the result of bypassing security considerations. 
 

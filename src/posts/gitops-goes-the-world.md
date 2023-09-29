@@ -15,9 +15,9 @@ This week we take a look at GitOps and Policy-as-Code (PaC).
 
 Fudge Sunday readers might recall the pipeline topic and the shifting left stories previously covered.
 
-{% unfurl "https://fudge.org/archive/underneath-the-cncf-tech-radar/" %}
+https://fudge.org/archive/underneath-the-cncf-tech-radar/
 
-{% unfurl "https://fudge.org/archive/fudge-sunday-once-in-a-pipeline/" %}
+https://fudge.org/archive/fudge-sunday-once-in-a-pipeline/
 
 Clearly there are many [Cloud Native Computing Foundation (CNCF)](https://cncf.io) projects. Projects are often the result of seeking answers to questions. But there are still questions to be answered...
 
@@ -38,7 +38,7 @@ Such questions were provoked companies bringing software into existence using Ia
 
 Until OpenGitOps has \_the\_ definition, there are some history blog posts in the wild written and some by, well, vendors. And, [The History of GitOps](https://www.weave.works/blog/the-history-of-gitops) from [Weaveworks](https://www.weave.works) is a great place to start:
 
-{% unfurl "https://www.weave.works/blog/the-history-of-gitops" %}
+https://www.weave.works/blog/the-history-of-gitops
 
 And now, on to the next CNCF project...
 

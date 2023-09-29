@@ -21,6 +21,6 @@ Here's some good reading until Sunday:
 
 > Yan, Ziyou. (Sep 2023). Evaluation & Hallucination Detection for Abstractive Summaries. eugeneyan.com. 
 
-{% unfurl "https://eugeneyan.com/writing/abstractive/" %}
+https://eugeneyan.com/writing/abstractive/
 
 🤓

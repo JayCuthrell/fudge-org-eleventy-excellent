@@ -59,9 +59,9 @@ Bottom line: Convergence of SDLC disciplines is ripe to enable progression to pr
 
 If you are having Fudge Sunday déjà vu — it is warranted. Chaos engineering was covered back in 2021 in [Fudge Sunday #113](https://fudge.org/archive/fudge-sunday-cloud-in-public-impact-mapping) for several hyperscale public cloud service providers as the last issue of [a five (5) part series on "Cloud in Public"](https://fudge.org/archive/fudge-sunday-cloud-in-public-status-dashboards).
 
-{% unfurl "https://fudge.org/archive/fudge-sunday-cloud-in-public-mean-time-to-rca" %}
+https://fudge.org/archive/fudge-sunday-cloud-in-public-mean-time-to-rca
 
-{% unfurl "https://fudge.org/archive/fudge-sunday-cloud-in-public-impact-mapping" %}
+https://fudge.org/archive/fudge-sunday-cloud-in-public-impact-mapping
 
 So, what will be the next big thing in chaos engineering within platform teams?
 

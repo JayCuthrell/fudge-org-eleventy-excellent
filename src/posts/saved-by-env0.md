@@ -37,7 +37,7 @@ Looking back at prior issues of Fudge Sunday there are a few [IaC trends](https:
 
 And now, as of late last month...
 
-{% unfurl "https://www.techmeme.com/230330/p36#a230330p36" %}
+https://www.techmeme.com/230330/p36#a230330p36
 
 ## Thoughts that leave me 🎶
 
@@ -45,15 +45,15 @@ You might be asking... what is [env0](https://www.env0.com/why-env0)? When in do
 
 In this case, ask [KMac](https://www.linkedin.com/in/kdamaso).
 
-{% unfurl "https://www.linkedin.com/posts/kdamaso\_funding-announcement-powered-by-restream-activity-7047279785923809280-7-65?utm\_source=share&utm\_medium=member\_desktop" %}
+https://www.linkedin.com/posts/kdamaso\_funding-announcement-powered-by-restream-activity-7047279785923809280-7-65?utm\_source=share&utm\_medium=member\_desktop
 
 Perhaps you've wondered out loud about ChatOps or GitOps and wanted to see an example. Well, [env0 has a fun example](https://docs.env0.com/docs/plan-and-apply-from-pr-comments).
 
-{% unfurl "https://docs.env0.com/docs/plan-and-apply-from-pr-comments" %}
+https://docs.env0.com/docs/plan-and-apply-from-pr-comments
 
 Perhaps you also wondered out loud if IaC could get expensive as mentioned [last year in Fudge Sunday](https://fudge.org/archive/fudge-sunday-everything-counts-in-ops-amounts). Again, [env0 has heard you](https://docs.env0.com/docs/cost-monitoring).
 
-{% unfurl "https://docs.env0.com/docs/cost-monitoring" %}
+https://docs.env0.com/docs/cost-monitoring
 
 \_[ Jay brings back the teenager public cloud again ]\_
 

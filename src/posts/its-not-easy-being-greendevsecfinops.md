@@ -43,7 +43,7 @@ Indeed, after talking with Nat, it got me thinking about our world getting acces
 
 Of course, you can probably make the case that FinOps practitioners could lead the way with carbon inclusion within existing capital oriented tooling. For example, InfraCost blog briefly touched on the topic of carbon oriented preflight checks in 2021.
 
-{% unfurl "https://www.infracost.io/blog/carbon-costs/" %}
+https://www.infracost.io/blog/carbon-costs/
 
 It's not hard to imagine a world where CIOs will recoil at the very notion of leaving a virtual machine running -- let alone a grossly underutilized bare metal host -- in perpetuity was like someone leaving several dozen 300W light bulbs on in an otherwise empty room for weeks, months, or years at a time. However, it isn't clear that all CIOs think this way today or when they all will.
 
@@ -71,7 +71,7 @@ Thinking out loud, I feel like this issue of Fudge Sunday is more questions than
 
 Indeed, anyone can start now with simple design choices. For example, one might consider adding a JavaScript library that provides access to the green web API in order to estimate the emissions for a software endeavor.
 
-{% unfurl "https://github.com/thegreenwebfoundation/co2.js" %}
+https://github.com/thegreenwebfoundation/co2.js
 
 \_(And we're approaching 1000 words already. So, let's wrap it up now...)\_
 

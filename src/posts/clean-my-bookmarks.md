@@ -28,15 +28,15 @@ Now it's time for reading 📖, listening 🎧, and watching 📺 suggestions:
 
 It's been almost five (5!) years since the social-bookmarking site, Del.icio.us, was shut down after being acquired by another social-bookmarking site, Pinboard.
 
-{% unfurl "https://www.techmeme.com/170601/p10#a170601p10" %}
+https://www.techmeme.com/170601/p10#a170601p10
 
-{% unfurl "https://www.techmeme.com/181020/p14#a181020p14" %}
+https://www.techmeme.com/181020/p14#a181020p14
 
 ## But I keep falling when I'm higher 🎶
 
 Two (2!) years have gone by since I first fell down the rabbit hole with [Matter](https://hq.getmatter.com).
 
-{% unfurl "https://www.techmeme.com/210922/p44#a210922p44" %}
+https://www.techmeme.com/210922/p44#a210922p44
 
 As I've mentioned before, I tend to use Safari Bookmark or Reading List with every intention of going back and... it happens sometimes. Yet, even flirting with reader aggregation oriented apps, I still find myself abandoning the technique for more portable alternatives.
 
@@ -48,7 +48,7 @@ Over the next few issues of this newsletter there will be a formatting change.
 - Embedded rich cards for URLs will likely shift from mikrolink (thank you!) to an alternative
 - I'll try to wrap up all of these and any other changes in time for a Zettelkasten end of year for 2023
 
-{% unfurl "https://fudge.org/archive/zettelkasten-end-of-year-for-2022/" %}
+https://fudge.org/archive/zettelkasten-end-of-year-for-2022/
 
 So, what will be the next big thing in bookmarking services?
 
