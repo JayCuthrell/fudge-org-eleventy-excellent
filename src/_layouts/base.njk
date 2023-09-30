@@ -21,7 +21,7 @@
     <title>
       {% if seo.title %} {{ seo.title }}
       {% elif title %}
-      {{ title }}
+      {{ title }} ({{ date | formatDate('YYYY') }})
       {% else %}
       {{ meta.siteName }}
       {% endif %}

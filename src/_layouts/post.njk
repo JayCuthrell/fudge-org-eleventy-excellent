@@ -12,10 +12,13 @@ preloads:
   <div class="wrapper flow prose">
     <h1 class="gradient-text">{{ title }}</h1>
     
-    {% set definedDate = date %} {% include "partials/date.njk" %}
+    {% set definedDate = date %} {% include "partials/date.njk" %} by <a href="/about/">{{ meta.author }}</a>
 
     {{ content | safe }}
 
+  <p align="right">  
   ✍️ 🤓 {% gh_edit page %} 🐙 ✍️
+  </p>
+
   </div>
 </article>
