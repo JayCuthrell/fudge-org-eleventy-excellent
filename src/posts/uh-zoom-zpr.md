@@ -22,7 +22,7 @@ Now it's time for reading 📖 and watching 📺 suggestions:
 
 - First, [📖 " Zero Trust was supposed to revolutionize cybersecurity. Here’s why that hasn’t happened yet "](https://siliconangle.com/2023/06/28/zero-trust-supposed-revolutionize-cybersecurity-heres-hasnt-happened-yet/) in which [David Strom](https://www.linkedin.com/in/davidstrom/) at [SiliconANGLE](https://siliconangle.com) covers the highs and lows so far for all things Zero Trust related. (HT to [Michael Coté's Wunderkammer](https://newsletter.cote.io))
 
-- Second, [📺 Creator of Zero Trust Gives You a 30 Second Elevator Pitch](https://www.youtube.com/watch?v=Ck0cPjb5_sg) in which [Kevin Bocek]() interviews [John Kindervag]() on the perils of anthropomorphized packets.
+- Second, [📺 Creator of Zero Trust Gives You a 30 Second Elevator Pitch](https://www.youtube.com/watch?v=Ck0cPjb5_sg) in which [Kevin Bocek](https://www.linkedin.com/in/kevinbocek/) interviews [John Kindervag](https://www.linkedin.com/in/john-kindervag-40572b1/) on the perils of anthropomorphized packets.
 
 ##  I eat up a decade 🎶
 
