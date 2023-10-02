@@ -86,7 +86,7 @@ More links:
 
 - [What ZPR does](https://zpr.org/what-zpr-does/)
 - [Digital Object Identifier (DOI) for the ZPR paper](https://doi.org/10.21428/60abf910.5e8e3001) 
-- [Hillis, W. D.](https://www.linkedin.com/in/danny-hillis-37b16167/), [Douglas, D.](https://www.linkedin.com/in/daviddouglas3/), [Dubno, M.](Michael Dubno), [Kastenholz, F.](https://www.linkedin.com/in/frank-kastenholz-a081132/), [Kolehmainen, M.](https://www.linkedin.com/in/mathiask/), [Tucker, L.](https://www.linkedin.com/in/lewtucker/), [Willis, S.](https://doi.org/10.21428/60abf910.5e8e3001), [Walker, B.](https://www.linkedin.com/in/bjnwalker/) (2023). An Overview of Zero-trust Packet Routing. Zero-Trust Packet Routing. https://doi.org/10.21428/60abf910.5e8e3001
+- [Hillis, W. D.](https://www.linkedin.com/in/danny-hillis-37b16167/), [Douglas, D.](https://www.linkedin.com/in/daviddouglas3/), [Dubno, M.](https://www.linkedin.com/in/michaeldubno/), [Kastenholz, F.](https://www.linkedin.com/in/frank-kastenholz-a081132/), [Kolehmainen, M.](https://www.linkedin.com/in/mathiask/), [Tucker, L.](https://www.linkedin.com/in/lewtucker/), [Willis, S.](https://doi.org/10.21428/60abf910.5e8e3001), [Walker, B.](https://www.linkedin.com/in/bjnwalker/) (2023). An Overview of Zero-trust Packet Routing. Zero-Trust Packet Routing. https://doi.org/10.21428/60abf910.5e8e3001
 - [Read more about ZPR on PubPub](https://zpr.pubpub.org)
 - [ZPR Paper (HTML)](https://zpr.pubpub.org/pub/0tdynxii/release/1)
 - [ZPR Paper (PDF)](https://zpr.org/wp-content/uploads/2023/09/An-Overview-of-Zero-trust-Packet-Routing.pdf)
