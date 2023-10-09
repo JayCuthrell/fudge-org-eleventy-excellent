@@ -91,6 +91,9 @@ https://open.spotify.com/playlist/2ZALK6TiXvBVztITrrybkN?si=6fdbe6d567464b3a
 
 3. 🤔 If you were wondering how to spend 30 minutes ⏳ of your day on Tue, Oct 24, 2023 at 12:30 PM EDT — good news! 🎉 I will be joining [Randy Arseneau](https://www.linkedin.com/in/randyarseneau/) to discuss ["The X(II) Factor: Modernizing Your Apps and Your Infrastructure"](https://ibm.webcasts.com/starthere.jsp?ei=1633985&tp_key=5415c284e9) — 🤓👉 [Register here!](https://ibm.webcasts.com/starthere.jsp?ei=1633985&tp_key=5415c284e9) 👈🤓
 
+# Addendum 09-Oct-2023
+
+📖 A day after I posted: [A.I. Risks](https://www.schneier.com/blog/archives/2023/10/ai-risks.html) by [Bruce Schneier](https://www.linkedin.com/pulse/my-only-linkedin-post-yes-really-bruce-schneier)
 
 # Disclosure
 
