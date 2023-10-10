@@ -5,9 +5,7 @@ date: 2021-06-27 17:53:34+00:00
 
 ---
 
-[View online](https://sunday.fudge.org/issues/fudge-sunday-reflecting-and-projecting-664131?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)
-
-[![Start the week more informed](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7ce9c3a6-82f8-43e2-a7ef-446083ed398b_1200x115.png "Start the week more informed")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7ce9c3a6-82f8-43e2-a7ef-446083ed398b_1200x115.png)This post is a quick stroll through the past 20 years and looking ahead to the future. What happens when an emerging pattern becomes ubiquitous?
+This post is a quick stroll through the past 20 years and looking ahead to the future. What happens when an emerging pattern becomes ubiquitous?
 
  **Reflecting on 2000 to 2020**
 
@@ -25,7 +23,7 @@ By 2020, the idea of flying somewhere to collaborate would seem odd.
 
 The Internet will be *commercial*.
 
-[fudge.org](https://fudge.org/archive/tel-aviv-traceroute?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[https://fudge.org/archive/tel-aviv-traceroute](https://fudge.org/archive/tel-aviv-traceroute?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 By 2005, I had come to understand just how jarring the LACK of Internet access would come to be in just a few more years. Essentially, this was a time of realization for the coming societal stratification for access to information services.
 
@@ -37,7 +35,7 @@ Bt 2020, the idea of being without Internet would become associated with a “di
 
 The Internet is only limited by *incumbency*.
 
-[fudge.org](https://fudge.org/archive/internet-access?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[https://fudge.org/archive/internet-access](https://fudge.org/archive/internet-access?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 Just before 2010, there were several events that shaped my perception of the Internet once again. I had been involved in telecommunications for just over a decade and the social web was becoming social media.
 
@@ -49,7 +47,7 @@ By 2020, the concept of social media had become everything from “political dis
 
 The Internet experiment becomes *social*.
 
-[fudge.org](https://fudge.org/archive/social-telecom?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[https://fudge.org/archive/social-telecom](https://fudge.org/archive/social-telecom?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 Helping build a multi billion dollar run rate business for converged infrastructure and hyperconverged infrastructure by 2015 meant two things. First, it meant that IT consumption patterns were shifting as the decade of post public cloud brought in private cloud and hybrid cloud control planes. Second, the things connecting were going to be less about humans being social and more about machines being social or augmenting their human benefactors.
 
@@ -59,7 +57,7 @@ By 2020, the notion of companies buying servers, storage arrays, and networking 
 
 The Internet is connecting more *things* than ever.
 
-[fudge.org](https://fudge.org/archive/my-fifth-year-at-vce?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[https://fudge.org/archive/my-fifth-year-at-vce](https://fudge.org/archive/my-fifth-year-at-vce?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
 Getting to 2020 was not so much planned as much as it was a very comfortable ride. Looking back on that time between 2015 and 2020, there was a geometric expansion of topics, specializations, and the pace of innovation was staggering.
 
@@ -69,7 +67,7 @@ By 2020, like the Gartner nexus of forces (social, mobile, cloud, information) h
 
 The Internet is changing the meaning of the *edge*.
 
-[fudge.org](https://fudge.org/archive/my-tenth-year-at-dell-technologies?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+[https://fudge.org/archive/my-tenth-year-at-dell-technologies](https://fudge.org/archive/my-tenth-year-at-dell-technologies?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
  **Projecting**
 
@@ -113,12 +111,3 @@ Oh, and about those Gartner nexus of forces… perhaps…
 4. The Information becomes Fabric then Fluid
 
 This is getting long. I will go into more detail in the next newsletter. Maybe?
-
-In order to unsubscribe, click [here](#).
-
-If you were forwarded this newsletter and you like it, you can subscribe [here](https://sunday.fudge.org/?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=Start+the+week+more+informed).
-
-Created with [Revue by Twitter](https://www.getrevue.co/?utm_source=Start the week more informed&utm_medium=email&utm_content=footerlink&utm_campaign=Issue).
-
-1903 Live Oak St #92 Beaufort, NC 28516-0092
-
