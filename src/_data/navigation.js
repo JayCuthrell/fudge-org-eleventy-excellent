@@ -1,10 +1,6 @@
 module.exports = {
   top: [
     {
-      text: 'Subscribe',
-      url: 'https://buttondown.fudge.org'
-    },
-    {
       text: 'About',
       url: '/about/'
     },
