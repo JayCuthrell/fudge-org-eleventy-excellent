@@ -1,11 +1,15 @@
 ---
 title: "Map of the Platformatique"
-description: ''
+description: 'A look at platform engineering services, internal developer platforms, and Wardley maps making the rounds.'
 date: 2023-02-20 01:13:05.404000+00:00
+tags:
+  - platform engineering
+  - idp
+  - wardley mapping
+  - marketplaces
+  - csp
 
 ---
-
-\*Do you want to sponsor Fudge Sunday and post jobs?\* [Click here](https://fudgesunday.pallet.com/hire?pallet=fudgesunday)
 
 Music: [Muse - "Map of the Problematique" (2007)](https://www.youtube.com/watch?v=Nw5AMCEiZms)
 

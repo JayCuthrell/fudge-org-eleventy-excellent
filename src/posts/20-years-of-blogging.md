@@ -1,7 +1,28 @@
 ---
 title: "20 Years of Blogging"
-description: ''
+description: 'A look back at 20 years of blogging from 1998 to 2018'
 date: 2018-12-12 00:00:00+00:00
+tags: 
+  - crawlers
+  - cdn
+  - data protection
+  - urls
+  - telegram
+  - signal
+  - pelican
+  - linkedin
+  - hyde
+  - hugo
+  - bing
+  - google
+  - wordpress
+  - perl
+  - cms
+  - jekyll
+  - ruby
+  - headless
+  - flickr
+  - analytics
 
 ---
 

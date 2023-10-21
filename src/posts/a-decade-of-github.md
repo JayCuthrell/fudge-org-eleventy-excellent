@@ -1,13 +1,19 @@
 ---
 title: "A Decade of GitHub"
-description: ''
+description: 'A look at 10 years of GitHub stars from 2009 to 2019'
 date: 2019-03-25 00:00:00+00:00
+tags:
+  - github
+  - equity
+  - ansible
+  - ipsec
+  - ascii art
+  - twitter
+  - learning
 
 ---
 
 I’ve been using GitHub for ~10 years. Over time I used GitHub more socially than for source code publishing. As my use increased so did my bookmarking via the “stars” function. Let’s see what I kept after my most recent Spring purge of GitHub stars…
-
-
 
 ---
 
