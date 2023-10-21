@@ -3,7 +3,7 @@ title: "A New Map"
 description: 'Of Tommy Boy and Simon Wardley'
 date: 2017-07-08 00:00:00+00:00
 tags:
-  - wardley mapping
+  - wardley-mapping
   - strategy
 
 ---

@@ -7,6 +7,12 @@ tags:
   - ai
   - ml
   - hype
+  - gartner
+  - microsoft
+  - amazon
+  - azure
+  - aws
+
 ---
 
 This week we take a look at the hype cycle for Artificial Intelligence (A.I.) and what's next.

@@ -2,7 +2,10 @@
 title: "The Fudge FAQ"
 description: ''
 date: 1998-12-12 00:00:00+00:00
-tags: post
+tags: 
+  - blogpost
+  - qthrul
+  - fudge
 
 ---
 

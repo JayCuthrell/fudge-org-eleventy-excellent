@@ -2,7 +2,13 @@
 title: "Little Green Tags"
 description: 'A look at the past, present, and future of FinOps strategies for A.I. workloads'
 date: 2023-09-03 23:29:48.998000+00:00
-tags: newsletter
+tags: 
+  - newsletter
+  - ai
+  - finops
+  - ml
+  - landing-zones
+  - repatriation
 
 ---
 

@@ -2,7 +2,13 @@
 title: "Clean My Bookmarks"
 description: "A look at rise, fall, and rebirth of bookmarking services"
 date: 2023-09-17
-tags: newsletter
+tags: 
+  - newsletter
+  - bookmarks
+  - backstage
+  - idp
+  - platform engineering
+  - Zettelkasten
 
 ---
 

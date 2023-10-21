@@ -4,6 +4,11 @@ description: A look at the past, present, and future of homomorphic encryption
 date: 2023-09-24
 tags:
   - newsletter
+  - encryption
+  - homomorphic
+  - analytics
+  - drones
+
 ---
 This week we take a look at the past, present, and future of homomorphic encryption.
 

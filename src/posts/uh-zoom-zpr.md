@@ -5,6 +5,11 @@ date: 2023-10-01
 tags:
   - newsletter
   - zero-trust
+  - zta
+  - ztna
+  - zpr
+  - nortel
+
 ---
 This week we take a look at Zero-Trust Packet Routing (ZPR).
 

@@ -2,7 +2,15 @@
 title: "A.I. For You"
 description: "A look at the proliferation of M.L. and A.I. across the Enterprise knowledge worker stack"
 date: 2023-09-10
-tags: newsletter
+tags: 
+  - newsletter
+  - ai
+  - gartner
+  - Atlassian
+  - ServiceNow
+  - Workday
+  - Salesforce
+  - isv
 
 ---
 

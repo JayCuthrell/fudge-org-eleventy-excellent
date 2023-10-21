@@ -2,7 +2,11 @@
 title: "Out of Sequence Update"
 description: 'Not Sunday. Yet here we go.'
 date: 2023-09-06
-tags: newsletter
+tags: 
+  - newsletter
+  - obsidian
+  - Zettelkasten
+  - 
 
 ---
 

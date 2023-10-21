@@ -7,6 +7,7 @@ tags:
   - ipaas
   - repatriation
   - dictation
+  
 ---
 
 This week we take a look at speech to text, edge core cloud directions, and open source iPaaS.

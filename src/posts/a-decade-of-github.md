@@ -7,7 +7,7 @@ tags:
   - equity
   - ansible
   - ipsec
-  - ascii art
+  - ascii-art
   - twitter
   - learning
 

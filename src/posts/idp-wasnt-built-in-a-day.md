@@ -3,8 +3,8 @@ title: "IDP Wasn't Built in a Day"
 description: ''
 date: 2023-02-26 23:11:01.879659+00:00
 tags:
-  - wardley mapping
-  - platform engineering
+  - wardley-mapping
+  - platform-engineering
   - dataops
   - revops
   - idp

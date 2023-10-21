@@ -5,7 +5,7 @@ date: 2022-11-06 23:56:58.501000+00:00
 tags:
   - ztna
   - vpn
-  - borderless networks
+  - borderless-networks
   - zta
   - zero trust
   - ycombinator

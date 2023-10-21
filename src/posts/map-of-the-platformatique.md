@@ -3,9 +3,9 @@ title: "Map of the Platformatique"
 description: 'A look at platform engineering services, internal developer platforms, and Wardley maps making the rounds.'
 date: 2023-02-20 01:13:05.404000+00:00
 tags:
-  - platform engineering
+  - platform-engineering
   - idp
-  - wardley mapping
+  - wardley-mapping
   - marketplaces
   - csp
 

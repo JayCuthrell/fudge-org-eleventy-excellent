@@ -5,7 +5,7 @@ date: 2018-12-12 00:00:00+00:00
 tags: 
   - crawlers
   - cdn
-  - data protection
+  - data-protection
   - urls
   - telegram
   - signal

@@ -3,8 +3,8 @@ title: "A Cold Shot and Chaser"
 description: ''
 date: 2022-08-22 00:21:47.947000+00:00
 tags:
-  - knowledge centers
-  - information centers
+  - knowledge-centers
+  - information-centers
   - cloud
   - webex
   - web
@@ -24,8 +24,8 @@ tags:
   - augmented
   - amazon
   - aws
-  - shot and chaser
-  - ubiquitous workload substrate
+  - shot-and-chaser
+  - ubiquitous-workload-substrate
 ---
 
 *[Stevie Ray Vaughan & Double Trouble - Cold Shot (1984)](https://www.youtube.com/watch?v=oqBtVaLXPw0)*
