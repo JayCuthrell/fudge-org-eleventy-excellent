@@ -28,6 +28,7 @@ const {
   minifyCss,
   minifyJs,
   mdInline,
+  sortObjectByKey,
   splitlines
 } = require('./config/filters/index.js');
 
@@ -98,6 +99,7 @@ module.exports = (eleventyConfig, options = {}) => {
   eleventyConfig.addFilter('splitlines', splitlines);
   eleventyConfig.addFilter('keys', Object.keys);
   eleventyConfig.addFilter('values', Object.values);
+  eleventyConfig.addFilter('sortObjectByKey', sortObjectByKey);
   eleventyConfig.addFilter('entries', Object.entries);
 
   // 	--------------------- Custom shortcodes ---------------------

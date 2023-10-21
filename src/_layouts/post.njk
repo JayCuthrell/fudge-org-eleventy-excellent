@@ -13,7 +13,14 @@ preloads:
     <h1 class="gradient-text">{{ title }}</h1>
     
     {% set definedDate = date %} {% include "partials/date.njk" %} by <a href="/about/">{{ meta.author }}</a>
-
+    <p>
+    Tags:       
+      {% for tag in tags %}
+        {% if tag != "posts" and tag != "newsletter" %}
+          <a href="/tags/{{ tag }}">{{ tag }}</a>
+        {% endif %}
+      {% endfor %}
+    </p>
     {{ content | safe }}
 
   <p align="right">  

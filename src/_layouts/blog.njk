@@ -24,6 +24,10 @@ layout: base
       </h3>
       {% set definedDate = post.date %} {% include "partials/date.njk" %}
       <p>{{ post.data.description }}</p>
+      <details>
+      <summary>Tags</summary>
+      {% include "partials/tag-loop.njk" %}
+      </details>
     </li>
 
     {% endfor %}
