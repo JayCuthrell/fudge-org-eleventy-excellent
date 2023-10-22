@@ -80,3 +80,7 @@ Now it appears that their old domain name will come to life with new purpose and
 
 > [And when they start interacting with one another, it’s yet another layer.](https://mgs.blog/a-synthetic-social-network-cca4c8b4bc36)
 
+And let's all endeavor to find our 75% thresholds...
+
+https://www.youtube.com/watch?v=p3PfKf0ndik
+
