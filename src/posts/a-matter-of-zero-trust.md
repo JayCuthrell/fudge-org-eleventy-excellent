@@ -7,7 +7,7 @@ tags:
   - vpn
   - borderless-networks
   - zta
-  - zero trust
+  - zero-trust
   - ycombinator
   - wikipedia
   - wiki
