@@ -2,6 +2,11 @@
 title: "Fudge Sunday - Multicloud, XaaS, and Service Mesh"
 description: ''
 date: 2021-12-13 01:42:56+00:00
+tags:
+  - service-mesh
+  - ebpf
+  - istio
+  - multicloud
 
 ---
 
