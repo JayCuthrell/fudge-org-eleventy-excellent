@@ -89,20 +89,6 @@ Finally, just imagine those remixed cultural artifacts eventually going viral on
   
 Enable 3rd party cookies or use another browserPlace your bets…
 
-Work Plug
-=========
-
-As a reminder, I work at [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter). [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) provides clientele with cloud data services across [hyperscale providers](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) to maximize innovative [multicloud](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) outcomes.🤓☁️📊🚀
-
-If you’re curious about [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) please check this links roundup of our latest media coverage from April 2022 to June 2022:
-
-* [Dataversity: The Rise of Enterprise Data Inflation](https://www.dataversity.net/the-rise-of-enterprise-data-inflation/)
-* [Coruzant Digital Executive Podcast](https://coruzant.com/profiles/luke-norris/)
-* [Authority Magazine: Agile Businesses: On How Businesses Pivot and Stay Relevant In The Face of Disruptive Technologies](https://medium.com/authority-magazine/agile-businesses-matt-wallace-of-faction-on-how-businesses-pivot-and-stay-relevant-in-the-face-of-56bc27a6fea4)
-* [GRC Outlook: Data Security - Going Back to Basics](https://grcoutlook.com/data-security-going-back-to-basics/)
-* [InsideBIGDATA: Heard on the Street](https://insidebigdata.com/2022/06/01/heard-on-the-street-6-1-2022/)
-* [Dataversity: Five Ways Multi-Cloud is Accelerating Medical Science](https://www.dataversity.net/five-ways-multi-cloud-is-accelerating-medical-science/)
-* [The Enterpriser's Project: Moving Cloud Workloads - 4 Essential Strategies](https://enterprisersproject.com/article/2022/6/moving-cloud-workloads)
 
 Disclosure
 ==========

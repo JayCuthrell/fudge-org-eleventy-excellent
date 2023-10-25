@@ -100,13 +100,9 @@ So, at the risk of a shot and chaser playback… sometimes, I’m scary accurate
 
 Until then… Place your bets!
 
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d9418f32-6424-4302-9e6a-1df33d029d2c_940x788.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9418f32-6424-4302-9e6a-1df33d029d2c_940x788.png)A long time ago in an oEmbed far, far away...Work Plug
-=========
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d9418f32-6424-4302-9e6a-1df33d029d2c_940x788.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9418f32-6424-4302-9e6a-1df33d029d2c_940x788.png)A long time ago in an oEmbed far, far away...
 
-As a reminder, I work at Taos, an IBM Company. If you’d like to learn more about Taos and how we help companies embrace the Age of Platform Engineering, check out this video: 
-
-Disclosure
-==========
+# Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 

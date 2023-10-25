@@ -67,11 +67,11 @@ Gregory R. Price on making the mix amazing everywhere every single time.
 
 Thank you again – all 7 of you– for subscribing and reading. My goals for 2019 are simple. I’m trying to pick a theme per week to summarize with a 10-20 year history. It’s likely the theme is technology but will crossover to science and socioeconomic topics. The fits and starts in late 2016 were about convergence and that’s still a big part of what occupies my mind each day.
 
-In order to unsubscribe, click [here](#).
 
-If you were forwarded this newsletter and you like it, you can subscribe [here](https://sunday.fudge.org/?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=Start+the+week+more+informed).
 
-Created with [Revue by Twitter](https://www.getrevue.co/?utm_source=Start the week more informed&utm_medium=email&utm_content=footerlink&utm_campaign=Issue).
 
-1903 Live Oak St #92 Beaufort, NC 28516-0092
+
+
+
+
 

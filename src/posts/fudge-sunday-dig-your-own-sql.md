@@ -110,11 +110,11 @@ Nvidia says part of its April keynote was led by a virtual replica of CEO Jensen
 
  [4:30 PM - 12 Aug 2021](https://twitter.com/Techmeme/status/1425917707053006849)
 
-In order to unsubscribe, click [here](#).
 
-If you were forwarded this newsletter and you like it, you can subscribe [here](https://sunday.fudge.org/?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=Start+the+week+more+informed).
 
-Created with [Revue by Twitter](https://www.getrevue.co/?utm_source=Start the week more informed&utm_medium=email&utm_content=footerlink&utm_campaign=Issue).
 
-1903 Live Oak St #92 Beaufort, NC 28516-0092
+
+
+
+
 

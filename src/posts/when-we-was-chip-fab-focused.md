@@ -11,20 +11,7 @@ date: 2022-07-31 23:02:17.463000+00:00
 
 ---
 
-We’ll get to the whim based infrastructure in a moment… 
 
-Thanks for reading Fudge Sunday! Subscribe for free to receive new posts and support my work.
-
-But first…
-
-Work Plug - Update
-==================
-
-594 days ago, I joined [Faction](https://www.factioninc.com) to provide servant leadership for an amazing team of technologists delivering [multicloud data services](https://www.factioninc.com/solutions/multi-cloud-data-services/) to global Enterprise clientele by maximizing innovation outcomes.🤓☁️📊🚀
-
-Today was my last day at [Faction](https://www.factioninc.com) and I am incredibly thankful for being given the opportunity to serve the team at [Faction](https://www.factioninc.com). Looking back and looking ahead, I’m proud of all we accomplished together at [Faction](https://www.factioninc.com) and believe [Faction](https://www.factioninc.com) will continue to enable innovation focused companies to [defy data gravity](https://defydatagravity.com).[1](#footnote-1)
-
-Soon, I’ll be sharing ***what’s next*** for me. Stay tuned!
 
 Getting Informed
 ================

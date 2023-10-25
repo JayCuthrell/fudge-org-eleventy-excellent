@@ -90,11 +90,6 @@ Circa 2005… off Google Secure Access VPN
 
 Until then… Place your bets!
 
-Work Plug
-=========
-
-As a reminder, I work at Taos, an IBM Company. If you’d like to learn more about Taos and how we help companies embrace the platform business model, check out this video:
-
 Disclosure
 ==========
 

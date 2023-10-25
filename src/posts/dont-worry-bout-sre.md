@@ -138,11 +138,6 @@ Until then… Place your bets!
 
 Be like Kermit y’all
 
-Work Plug
-=========
-
-As a reminder, I work at Taos, an IBM Company. If you’d like to learn more about Taos and how we help companies make compliance easier with System Security Services Daemon (SSSD), check out this video:
-
 Disclosure
 ==========
 

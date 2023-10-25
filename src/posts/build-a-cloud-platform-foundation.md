@@ -52,11 +52,6 @@ To summarize, there are four (4) key questions to answer in digital organization
 
 Until next time… Place your bets!
 
-Work Plug!
-==========
-
-As a reminder, I work at Taos, an IBM Company. If you’d like to learn more about Taos, enjoy this video on the importance of a [Cloud Platform Foundation](https://www.youtube.com/watch?v=RBEC_aO5K3w) that provides landing zones for the goals of a developer community — *as a service*.
-
 Disclosure
 ==========
 

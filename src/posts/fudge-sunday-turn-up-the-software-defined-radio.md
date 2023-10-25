@@ -103,48 +103,8 @@ Granted, I’ve been using social media since it came into existence and this wi
 
 So, my use of Twitter and LinkedIn will likely be very different in 2022.
 
- **Work Plug!**
-
-As a reminder, I work at [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). What’s [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) you ask?🤔🤔🤔🤔
-
-[Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) provides clientele with cloud data services across [hyperscale providers](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) to maximize innovation and [multicloud](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) outcomes.🤓☁️📊🚀
-
-[We’re hiring](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) at Faction!🎉🤓☁️🚀
-
-To see our current openings [click here](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).⬅️🤓☁️🚀
-
-In fact, [there are at least a dozen openings](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) as of this issue!⓬🤓☁️🚀
-
-⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
-
-1. [Executive Assistant / Chief of Staff](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-2. [Vice President, Marketing](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-3. [Solutions Delivery Manager](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-4. [Cloud Data Services Leader](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-5. [Product Manager, Alliances & OEM (Cloud Technology)](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-6. [Alliance Business Development Manager (Cloud Technology)](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-7. [Enterprise Sales Executive (Cloud Technology)](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-8. [Sales Executive](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-9. [Product Development Engineer](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-10. [Senior Back-End Engineer](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-11. [Senior DevOps Engineer](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-12. [Senior Infrastructure Engineer (Cloud)](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-
-⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
-
-[See a fit for you or someone in your network](https://grnh.se/66f4d22d4us?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)?✅🤓☁️🚀
-
-Please don’t hesitate to [reach out to me](https://jaycuthrell.com/contact/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).☎️🤓☁️🚀
-
  **Disclosure**
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
-In order to unsubscribe, click [here](#).
-
-If you were forwarded this newsletter and you like it, you can subscribe [here](https://sunday.fudge.org/?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=Start+the+week+more+informed).
-
-Created with [Revue by Twitter](https://www.getrevue.co/?utm_source=Start the week more informed&utm_medium=email&utm_content=footerlink&utm_campaign=Issue).
-
-1903 Live Oak St #92 Beaufort, NC 28516-0092
 

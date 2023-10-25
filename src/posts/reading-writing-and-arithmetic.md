@@ -38,16 +38,7 @@ This has been just a few of the 50+ subscriptions I enjoy on YouTube Premium. Gr
 
 Until next time… place your bets!
 
-Work Plug!
-==========
-
-As a reminder, I work at Taos, an IBM Company. If you’d like to learn more about Taos, we’re hosting a [digital event](https://lnkd.in/g77W8gJU) on Thursday, 22-September at 9:00 am PT. 
-
-During the [digital event](https://lnkd.in/g77W8gJU), Taos' cloud optimization experts will show you how you might benefit from a managed cloud services provider. 
-
-Register Here: <https://lnkd.in/g77W8gJU>
-
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b0ea6a0d-fee4-4669-811e-96342597855d_1200x630.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0ea6a0d-fee4-4669-811e-96342597855d_1200x630.jpeg)Register here: <https://lnkd.in/g77W8gJU>Disclosure
+Disclosure
 ==========
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).

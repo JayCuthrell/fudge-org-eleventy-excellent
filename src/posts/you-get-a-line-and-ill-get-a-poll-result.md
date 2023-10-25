@@ -54,19 +54,6 @@ Next, expect more use cases[6](#footnote-6) at the edge in smaller spaces[7](#fo
 
 [![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2912ac20-f4a0-44d4-864f-01d5fd5e975a_1170x771.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2912ac20-f4a0-44d4-864f-01d5fd5e975a_1170x771.png)Gartner® Hype Cycle™ for Data Security, 2022Until next time… place your bets!
 
-Work Plug
-=========
-
-As a reminder, [be sure to register](https://ibm.webex.com/ibm/j.php?RGID=rb310488785ce18ab8a727308a8f21a95) for the upcoming panel ***[”Do you really have a DevOps culture?”](https://ibm.webex.com/ibm/j.php?RGID=rb310488785ce18ab8a727308a8f21a95)*** which will be taking place this week on Tuesday.
-
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/26e5f3a2-c9de-41da-9615-e48be58c1e26_1144x1506.png)](https://ibm.webex.com/ibm/j.php?RGID=rb310488785ce18ab8a727308a8f21a95)[Be sure to register!](https://ibm.webex.com/ibm/j.php?RGID=rb310488785ce18ab8a727308a8f21a95)The Taos team has also published even more blog posts since my last update:
-
-* [Platform Business Models Enabled by Hybrid Cloud Means Big Business for Financial Institutions](https://www.taos.com/resources/blog/platform-business-models-enabled-by-hybrid-cloud-means-big-business-for-financial-institutions/)
-* [Humans and Technology Breed Complexity: With Complexity Comes Risk](https://www.taos.com/resources/blog/humans-and-technology-breed-complexity-with-complexity-comes-risk/)
-* [Partnerships and People in Life Sciences Create the Innovative Distinction](https://www.taos.com/resources/blog/partnerships-and-people-in-life-sciences-create-the-innovative-distinction/)
-* [Trending Innovations will Dramatically Impact the Life Sciences Sector](https://www.taos.com/resources/blog/trending-innovations-will-dramatically-impact-the-life-sciences-sector/)
-* [Life Sciences Innovations: Fighting Disease and Saving Lives with Data, Technology, and Talent](https://www.taos.com/resources/blog/life-sciences-innovations-fighting-disease-and-saving-lives-with-data-technology-and-talent/)
-* [Do You Have a DevOps Culture?](https://www.taos.com/resources/blog/do-you-have-a-devops-culture/)
 
 Disclosure
 ==========

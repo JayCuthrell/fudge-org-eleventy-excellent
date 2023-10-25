@@ -51,13 +51,6 @@ That said, in the future, I believe that [syndication](https://indieweb.org/Cate
 
 Until next time… Place your bets…
 
-Work Plug
-=========
-
-In future newsletter posts I’ll be including just some of the amazing content I’m fortunate to be able to share in this format. For now, [be sure to register](https://ibm.webex.com/ibm/j.php?RGID=rb310488785ce18ab8a727308a8f21a95) for this upcoming panel ***[”Do you really have a DevOps culture?”](https://ibm.webex.com/ibm/j.php?RGID=rb310488785ce18ab8a727308a8f21a95)*** at the end of the month.
-
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/26e5f3a2-c9de-41da-9615-e48be58c1e26_1144x1506.png)](https://ibm.webex.com/ibm/j.php?RGID=rb310488785ce18ab8a727308a8f21a95)[Be sure to register!](https://ibm.webex.com/ibm/j.php?RGID=rb310488785ce18ab8a727308a8f21a95)I’ll also be sharing links from [Taos Thrive Newsletter](https://www.taos.com/resources/thrive-newsletter/) as well — [here’s a sample](https://www.taos.com/taos-thrives-newsletter-august-v1-137/)!
-
 Disclosure
 ==========
 

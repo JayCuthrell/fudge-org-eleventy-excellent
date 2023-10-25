@@ -43,15 +43,6 @@ Ask yourself this question:
 
 Until next time… Place your bets!
 
-Work Plug
-=========
-
-I work at Taos, an IBM Company. 
-
-Are you curious about what the Taos team within IBM Consulting does?
-
-Check out this video to learn just a bit more…
-
 Disclosure
 ==========
 

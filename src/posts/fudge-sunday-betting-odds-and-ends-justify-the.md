@@ -103,11 +103,11 @@ As I mentioned in [a recent Sunday Fudge series](https://sunday.fudge.org/issues
 
 While I’m starting to refine my flow a bit more that the exhaustive issues of the past, I’ve overlooked adding my [disclosure](https://jaycuthrell.com/disclosure/%20?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) for more than few of these issues. Management (as in me, myself, and the “you can’t spell id without” I in this case) regrets the error and will be retroactively editing online issues.
 
-In order to unsubscribe, click [here](#).
 
-If you were forwarded this newsletter and you like it, you can subscribe [here](https://sunday.fudge.org/?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=Start+the+week+more+informed).
 
-Created with [Revue by Twitter](https://www.getrevue.co/?utm_source=Start the week more informed&utm_medium=email&utm_content=footerlink&utm_campaign=Issue).
 
-1903 Live Oak St #92 Beaufort, NC 28516-0092
+
+
+
+
 

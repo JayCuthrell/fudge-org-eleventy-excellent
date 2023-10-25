@@ -115,19 +115,6 @@ Until next time… Place your bets… (from off-world?)
 
 *Special thanks to [Trevor Pott](https://www.linkedin.com/in/trevorpott/) for reviewing drafts of this issue!🙏🤓*
 
-Work Plug
-=========
-
-I work at Taos, an IBM Company which means I’m an IBMer again. In fact, I recently visited our IBM campus in Research Triangle Park, North Carolina. 
-
-A few things have changed at the IBM campus since 1995 but I still intuitively knew my way around. There were a lot less Token Ring MAU[9](#footnote-9) than I remember.
-
-My badge photo changes are arguably a bit more stark.🤣
-
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1f520801-8325-4adf-9e6b-f48f82ebd296_1438x716.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1f520801-8325-4adf-9e6b-f48f82ebd296_1438x716.png)27 years later…Are you curious about what the Taos team within IBM Consulting does?
-
-Check out this video to learn just a bit more…
-
 Disclosure
 ==========
 

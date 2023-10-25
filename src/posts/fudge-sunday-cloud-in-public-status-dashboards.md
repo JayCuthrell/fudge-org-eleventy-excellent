@@ -120,42 +120,6 @@ Historically, AWS launched Personal Health Dashboard in 2016 as a *premium* serv
 
 Now, to round out this issue, reflect back to the five (5) areas that [@cloudpundit](https://twitter.com/cloudpundit?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) outlined. It’s worth noting that beyond dashboard variation, there are still clear variations between hyperscale public cloud service providers today but those won’t possibly fit into this issue – hence the remaining issues in a series of issues to come.🤓
 
- **Work plug!**
-
-If you read this far, when you think about [a multicloud journey](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter), keep [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) in mind as a means to maximize access to [hyperscale public cloud service provider innovations](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Also… We’re hiring at [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)!🎉 See a fit for you or someone in your network? Please don’t hesitate to reach out to me.
-
-* [Recruiter](https://www.factioninc.com/company/careers?gh_jid=4114604004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Cloud Data Services Leader](https://www.factioninc.com/company/careers?gh_jid=4023220004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Product Manager, Alliances & OEM (Cloud Technology)](https://www.factioninc.com/company/careers?gh_jid=4055866004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Enterprise Sales Executive (Cloud Technology)](https://www.factioninc.com/company/careers?gh_jid=4023262004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Sales Engineer - EMEA](https://www.factioninc.com/company/careers?gh_jid=4068080004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [VP, Americas Enterprise](https://www.factioninc.com/company/careers?gh_jid=4102014004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Product Development Engineer](https://www.factioninc.com/company/careers?gh_jid=4048366004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Senior Back-End Engineer](https://www.factioninc.com/company/careers?gh_jid=4022750004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Senior DevOps Engineer](https://www.factioninc.com/company/careers?gh_jid=4022896004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Senior Infrastructure Engineer (Cloud)](https://www.factioninc.com/company/careers?gh_jid=4022889004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Senior Software Engineer - Front End](https://www.factioninc.com/company/careers?gh_jid=4055888004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-
- **One last thing...**
-
-I’ve been enjoying a few new newsletters – please check them out as well!
-
-* [Data Operations](https://dataoperations.substack.com/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) by Greg Meyers
-* [Clouded Judgement](https://cloudedjudgement.substack.com?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) by Jamin Ball
-* [Cabinet of Wonders](https://arbesman.substack.com?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) by Samuel Arbesman
-* [Startup Investing](https://shrutigandhi.substack.com?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) by Shruti Gandhi
-* [The CTO Advisor](https://ctoadvisor.substack.com?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) by Keith Townsend
-* [The Looking Glass](https://lg.substack.com?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) by Julie Zhuo
-
  **Disclosure**
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
-
-In order to unsubscribe, click [here](#).
-
-If you were forwarded this newsletter and you like it, you can subscribe [here](https://sunday.fudge.org/?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=Start+the+week+more+informed).
-
-Created with [Revue by Twitter](https://www.getrevue.co/?utm_source=Start the week more informed&utm_medium=email&utm_content=footerlink&utm_campaign=Issue).
-
-1903 Live Oak St #92 Beaufort, NC 28516-0092
-

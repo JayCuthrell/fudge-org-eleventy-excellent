@@ -59,13 +59,7 @@ Lastly, if the CNCF continues to publish radar findings year over year, the trac
 
 Until next time… Place your bets!
 
-Work Plug!
-==========
-
-As a reminder, I work at Taos, an IBM Company. If you’d like to learn more about Taos, you can [register for our digital event this week on Thursday 27-October 2022](https://www.ibm.com/events/event/pages/ibm/3v45vimb/1581037797007001PJAd.html) to hear [Larry LaBas](https://www.linkedin.com/in/llabas) and [Tim Clark](https://www.linkedin.com/in/tcishere) discuss [Transforming Security into a Business Enabler](https://www.ibm.com/events/event/pages/ibm/3v45vimb/1581037797007001PJAd.html).
-
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f4226a36-f27e-44fa-8698-08151a682cb0_800x450.jpeg)](https://www.ibm.com/events/event/pages/ibm/3v45vimb/1581037797007001PJAd.html)Disclosure
-==========
+#Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 

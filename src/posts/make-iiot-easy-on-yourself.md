@@ -83,20 +83,8 @@ Repo: [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 
 
 > *🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.*
-> 
-> 
-
-Work Plug!
-==========
-
-As a reminder, I work at [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter). [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) provides clientele with cloud data services across [hyperscale providers](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) to maximize innovative [multicloud](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) outcomes.🤓☁️📊🚀
 
 
-```
- ***📢 ☁️ℹ️🛫🛬🌵🎒🤓
- Faction is in Las Vegas for [HPE Discover 2022](https://www.hpe.com/us/en/discover.html) Monday June 27 to Thursday June 30
- 📢 ☁️ℹ️🛫🛬🌵🎒🤓***
-```
 Disclosure
 ==========
 

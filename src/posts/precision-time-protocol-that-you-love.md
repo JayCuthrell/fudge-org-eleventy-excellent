@@ -73,11 +73,6 @@ Now, imagine the next big use case that will challenge expectations for time sen
 
 Until next time… Place your bets!
 
-Work Plug!
-==========
-
-As a reminder, I work at Taos, an IBM Company. If you’d like to learn more about Taos, please watch [Tuning Up Your Cloud: Optimize Efficiencies to Manage Costs](https://www.youtube.com/watch?v=kqiCckb7h5c)
-
 Disclosure
 ==========
 

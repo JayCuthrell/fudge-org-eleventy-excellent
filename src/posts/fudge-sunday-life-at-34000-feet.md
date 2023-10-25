@@ -69,11 +69,11 @@ It’s fast y'all.
 
 On my more recent flights, the latest in flight broadband services are sometimes faster than the free Wi-Fi found in coffee shops and the hotel I’m using to tap out this update. So until next time… Thanks again for reading Fudge Sunday.
 
-In order to unsubscribe, click [here](#).
 
-If you were forwarded this newsletter and you like it, you can subscribe [here](https://sunday.fudge.org/?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=Start+the+week+more+informed).
 
-Created with [Revue by Twitter](https://www.getrevue.co/?utm_source=Start the week more informed&utm_medium=email&utm_content=footerlink&utm_campaign=Issue).
 
-1903 Live Oak St #92 Beaufort, NC 28516-0092
+
+
+
+
 

@@ -84,10 +84,7 @@ So, what will the next big breakout Wasm use case[8](#footnote-8) be in 2023?
 
 Until then… Place your bets!
 
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1b00771e-8d75-4122-85ae-f087b515e902_940x788.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1b00771e-8d75-4122-85ae-f087b515e902_940x788.png)Work Plug
-=========
-
-As a reminder, I work at Taos, an IBM Company. If you’d like to learn more about Taos and how we help shape the future of cloud, check out this video: 
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1b00771e-8d75-4122-85ae-f087b515e902_940x788.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1b00771e-8d75-4122-85ae-f087b515e902_940x788.png)
 
 Disclosure
 ==========

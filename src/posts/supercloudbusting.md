@@ -66,13 +66,9 @@ So, finally, please enjoy this [quick 60 second video clip from HPE Discover via
 
 Place your bets!
 
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5d3612db-7a75-419e-beaf-54bf9492b4fa_1670x942.png)](https://youtube.com/clip/Ugkxuqz4mHpv77X7LEXAuKgoE8ppQyWiUJsU)Dave and Antonio [riffing on superscloud and substrate](https://youtube.com/clip/Ugkxuqz4mHpv77X7LEXAuKgoE8ppQyWiUJsU) (2023)Work Plug
-=========
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5d3612db-7a75-419e-beaf-54bf9492b4fa_1670x942.png)](https://youtube.com/clip/Ugkxuqz4mHpv77X7LEXAuKgoE8ppQyWiUJsU)Dave and Antonio [riffing on superscloud and substrate](https://youtube.com/clip/Ugkxuqz4mHpv77X7LEXAuKgoE8ppQyWiUJsU) (2023)
 
-As a reminder, I work at [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter). [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) provides clientele with cloud data services across [hyperscale providers](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) to maximize innovative [multicloud](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) outcomes.🤓☁️📊🚀
-
-Disclosure
-==========
+# Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 

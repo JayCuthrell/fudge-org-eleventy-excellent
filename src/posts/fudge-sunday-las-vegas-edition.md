@@ -58,11 +58,11 @@ C.R.E.A.M. is real. Get that hustle.
 
 The other interesting finding on this trip is just how dominant Lyft seems to have become in Las Vegas. Almost all my rides during the week were Lyft. In fact, if you want a referral code – For $15 in ride credit, download the Lyft app using my referral link: [https://www.lyft.com/ici/JAY34875](https://www.lyft.com/ici/JAY34875?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
-In order to unsubscribe, click [here](#).
 
-If you were forwarded this newsletter and you like it, you can subscribe [here](https://sunday.fudge.org/?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=Start+the+week+more+informed).
 
-Created with [Revue by Twitter](https://www.getrevue.co/?utm_source=Start the week more informed&utm_medium=email&utm_content=footerlink&utm_campaign=Issue).
 
-1903 Live Oak St #92 Beaufort, NC 28516-0092
+
+
+
+
 

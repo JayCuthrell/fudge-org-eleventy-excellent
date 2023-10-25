@@ -96,28 +96,6 @@ I’m still experimenting with this section but readers seem to click on these l
 
 Source: <https://github.com/Mailtrain-org/mailtrain>
 
-**Extended Work Plug!**
-=======================
-
-[![-](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/27e1e415-a249-469f-a5a0-12bb7b0d965d_939x155.png "-")](https://hubs.ly/Q015xGqT0)As a reminder, I work at [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter). What’s [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter)?🤔🤔🤔🤔
-
-[Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) provides clientele with cloud data services across [hyperscale providers](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) to maximize innovative [multicloud](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) outcomes.🤓☁️📊🚀
-
-[We’re hiring](https://grnh.se/66f4d22d4us?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) at Faction!🎉🤓☁️🚀
-
-To see our current openings [click here](https://grnh.se/66f4d22d4us?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).⬅️🤓☁️🚀
-
-Or, bookmark [unicornjockey.com](http://unicornjockey.com/?utm_campaign=Fudge%20Sunday%20%F0%9F%A4%94%F0%9F%92%A1%F0%9F%A4%AF%F0%9F%A4%93&utm_medium=email&utm_source=Revue%20newsletter) 🦄🤓☁️🚀
-
-
-```
- ***📢 ☁️ℹ️🛫🛬🌵🎒🤓
- Faction will be in Las Vegas 
- for [HPE Discover 2022](https://www.hpe.com/us/en/discover.html) 
-Monday June 27 to Thursday June 30 
- See you there?
- 📢 ☁️ℹ️🛫🛬🌵🎒🤓***
-```
 **Disclosure**
 ==============
 

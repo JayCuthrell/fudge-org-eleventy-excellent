@@ -73,11 +73,6 @@ My takes on the world of tech, data, marketing, business, and being a profession
 
 Until then… Place your bets!
 
-Work Plug
-=========
-
-As a reminder, I work at Taos, an IBM Company. If you’d like to learn more about Taos and how we help companies make the most of cloud by embracing cybersecurity and compliance, check out this video: 
-
 Disclosure
 ==========
 

@@ -146,28 +146,6 @@ Updated definition:
 
  [2:48 AM - 14 Sep 2020](https://twitter.com/mipsytipsy/status/1305398051842871297)
 
- **Work plug!**
-
-If you read this far, when you think about [a multicloud journey](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), keep [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) in mind as a means to maximize access to [hyperscale public cloud service provider innovations](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). Also… We’re hiring at [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)!🎉 See a fit for you or someone in your network? Please don’t hesitate to reach out to me.
-
-1. [Cloud Data Services Leader](https://www.factioninc.com/company/careers?gh_jid=4023220004&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-2. [Product Manager, Alliances & OEM (Cloud Technology)](https://www.factioninc.com/company/careers?gh_jid=4055866004&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-3. [Enterprise Sales Executive (Cloud Technology)](https://www.factioninc.com/company/careers?gh_jid=4023262004&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-4. [Product Development Engineer](https://www.factioninc.com/company/careers?gh_jid=4048366004&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-5. [Senior Back-End Engineer](https://www.factioninc.com/company/careers?gh_jid=4022750004&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-6. [Senior DevOps Engineer](https://www.factioninc.com/company/careers?gh_jid=4022896004&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-7. [Senior Infrastructure Engineer (Cloud)](https://www.factioninc.com/company/careers?gh_jid=4022889004&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-8. [Senior Software Engineer - Front End](https://www.factioninc.com/company/careers?gh_jid=4055888004&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-
  **Disclosure**
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
-
-In order to unsubscribe, click [here](#).
-
-If you were forwarded this newsletter and you like it, you can subscribe [here](https://sunday.fudge.org/?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=Start+the+week+more+informed).
-
-Created with [Revue by Twitter](https://www.getrevue.co/?utm_source=Start the week more informed&utm_medium=email&utm_content=footerlink&utm_campaign=Issue).
-
-1903 Live Oak St #92 Beaufort, NC 28516-0092
-

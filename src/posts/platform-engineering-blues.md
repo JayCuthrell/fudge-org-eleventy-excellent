@@ -64,12 +64,7 @@ So, what tools we be added to the PlatformEngineering.org registry next to reach
 
 Until next time… Place your bets!
 
-Work Plug!
-==========
-
-As a reminder, I work at Taos, an IBM Company. If you’d like to learn more about Taos, you can [register for an upcoming digital event on Thursday 20-October 2022](https://engage.biz-tech-insights.com/whitepaper/LP-2022-10-ibm-Webinar-1-land.html) where I’ll speak with [Larry LaBas](https://www.linkedin.com/in/llabas) and [Tim Clark](https://www.linkedin.com/in/tcishere), about how to mature and develop an Enterprise security posture in a 40 minute session entitled [“Is Compliance Part of Your Culture?”](https://engage.biz-tech-insights.com/whitepaper/LP-2022-10-ibm-Webinar-1-land.html)
-
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f1bf369a-86fc-4cc0-a2a5-108d5e1b04f7_1054x1012.png)](https://engage.biz-tech-insights.com/whitepaper/LP-2022-10-ibm-Webinar-1-land.html)I may or may not have used developer tools to remove my headshot 🤣Disclosure
+Disclosure
 ==========
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).

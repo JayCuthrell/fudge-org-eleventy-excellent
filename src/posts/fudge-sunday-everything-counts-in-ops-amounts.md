@@ -192,37 +192,6 @@ Source:
 
 [sunday.fudge.org](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-devcommsops-805563?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
- **Work Plug!**
-
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/301af128-17eb-41a5-9549-4b564b8e6f11_600x338.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F301af128-17eb-41a5-9549-4b564b8e6f11_600x338.png)**[[email protected] +1-415-763-8343](https://twitter.com/JayCuthrell/status/1499824576158744583)**
-
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1499824576158744583)
-
-Faction stands with the people of Ukraine in defense of your freedom and humanity.   
-  
-[#SupportUkraine](https://twitter.com/search?q=%23SupportUkraine "#SupportUkraine") [#StandWithUkraine](https://twitter.com/search?q=%23StandWithUkraine "#StandWithUkraine") [#Ukraine](https://twitter.com/search?q=%23Ukraine "#Ukraine") <https://t.co/UrJj4thuWS>
-
- [2:10 PM - 4 Mar 2022](https://twitter.com/JayCuthrell/status/1499824576158744583)
-
-As a reminder, I work at [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter). What’s [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) you ask?🤔🤔🤔🤔
-
-[Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) provides clientele with cloud data services across [hyperscale providers](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) to maximize innovation and [multicloud](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) outcomes.🤓☁️📊🚀
-
-[We’re hiring](https://grnh.se/66f4d22d4us?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) at Faction!🎉🤓☁️🚀
-
-To see our current openings [click here](https://grnh.se/66f4d22d4us?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).⬅️🤓☁️🚀
-
-Or, bookmark [unicornjockey.com](http://unicornjockey.com/?utm_campaign=Fudge%20Sunday%20%F0%9F%A4%94%F0%9F%92%A1%F0%9F%A4%AF%F0%9F%A4%93&utm_medium=email&utm_source=Revue%20newsletter) 🦄🤓☁️🚀
-
  **Disclosure**
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).
-
-In order to unsubscribe, click [here](#).
-
-If you were forwarded this newsletter and you like it, you can subscribe [here](https://sunday.fudge.org/?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=Start+the+week+more+informed).
-
-Created with [Revue by Twitter](https://www.getrevue.co/?utm_source=Start the week more informed&utm_medium=email&utm_content=footerlink&utm_campaign=Issue).
-
-1903 Live Oak St #92 Beaufort, NC 28516-0092
-

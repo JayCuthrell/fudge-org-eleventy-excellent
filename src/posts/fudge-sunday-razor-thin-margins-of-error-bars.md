@@ -59,31 +59,6 @@ This is what happens when Boaty McBoatface decides to enter the realm of statist
 
 [www.techmeme.com](https://www.techmeme.com/210925/p2?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a210925p2)
 
- **Work plug!**
-
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/25daa248-8477-4d56-8abc-9a28d7a4b440_600x314.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F25daa248-8477-4d56-8abc-9a28d7a4b440_600x314.png)**[Faction](https://twitter.com/FactionInc/status/1441449851053658112)**
-
-[@FactionInc](https://twitter.com/FactionInc/status/1441449851053658112)
-
-We are [#hiring](https://twitter.com/search?q=%23hiring "#hiring") a Recruiter who will help us find the right candidates who challenge the status quo, bring a can-do attitude, and an innovative spirit to all that they do. Does this sound like you? Check out the job description: <https://t.co/AIsN7TNknR> <https://t.co/QVxBS7Dpxx>
-
- [1:09 PM - 24 Sep 2021](https://twitter.com/FactionInc/status/1441449851053658112)
-
-***Update***: Here’s a list of each position we’re currently looking to fill:
-
-1. [Cloud Data Services Leader](https://www.factioninc.com/company/careers/?gh_jid=4023220004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#job-posting)
-2. [Product Manager, Alliances & OEM](https://www.factioninc.com/company/careers/?gh_jid=4055866004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#job-posting)
-3. [Enterprise Sales Executive](https://www.factioninc.com/company/careers/?gh_jid=4023262004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#job-posting)
-4. [VP, Americas Enterprise](https://www.factioninc.com/company/careers/?gh_jid=4102014004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#job-posting)
-5. [Sales Engineer - EMEA](https://www.factioninc.com/company/careers/?gh_jid=4068080004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#job-posting) (UK)
-6. [Recruiter](https://www.factioninc.com/company/careers/?gh_jid=4114604004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#job-posting)
-7. [Product Development Engineer](https://www.factioninc.com/company/careers/?gh_jid=4048366004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#job-posting)
-8. [Senior DevOps Engineer](https://www.factioninc.com/company/careers/?gh_jid=4022896004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#job-posting)
-9. [Senior Back-End Software Engineer](https://www.factioninc.com/company/careers/?gh_jid=4022750004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#job-posting)
-10. [Senior Front-End Software Engineer](https://www.factioninc.com/company/careers/?gh_jid=4055888004&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#job-posting)
-
-If one or more of these roles appears to be a good fit for you or for someone in your network, please don’t hesitate to reach out with questions. 🤓
-
  **One last thing...**
 
 **[Let Chat!👋](https://jaycuthrell.com/contact/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
@@ -105,12 +80,4 @@ If one or more of these roles appears to be a good fit for you or for someone in
  **Disclosure**
 
 For each issue of my newsletter, I am now linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
-
-In order to unsubscribe, click [here](#).
-
-If you were forwarded this newsletter and you like it, you can subscribe [here](https://sunday.fudge.org/?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=Start+the+week+more+informed).
-
-Created with [Revue by Twitter](https://www.getrevue.co/?utm_source=Start the week more informed&utm_medium=email&utm_content=footerlink&utm_campaign=Issue).
-
-1903 Live Oak St #92 Beaufort, NC 28516-0092
 

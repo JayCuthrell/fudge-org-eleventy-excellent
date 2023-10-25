@@ -104,62 +104,6 @@ Example: [https://www.google.com/search?q=%22event+that+tailscale%22](https://ww
 
 [![Note: Verbatim Google search results -- YMMV](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b897c19b-0d9c-4c20-b4dd-c5f78a4bc906_600x203.png "Note: Verbatim Google search results -- YMMV")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb897c19b-0d9c-4c20-b4dd-c5f78a4bc906_600x203.png)Note: Verbatim Google search results -- YMMV
 
- **Work Plug!**
-
-As a reminder, I work at [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter). What’s [Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) you ask?🤔🤔🤔🤔
-
-[Faction](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) provides clientele with cloud data services across [hyperscale providers](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) to maximize innovation and [multicloud](https://www.factioninc.com/solutions/multi-cloud-data-services/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) outcomes.🤓☁️📊🚀
-
-[We’re hiring](https://grnh.se/66f4d22d4us?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter) at Faction!🎉🤓☁️🚀
-
-To see our current openings [click here](https://grnh.se/66f4d22d4us?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).⬅️🤓☁️🚀
-
-G&A
-
-* [Executive Assistant / Chief of Staff](https://www.factioninc.com/company/careers?gh_jid=4229474004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Recruiter](https://www.factioninc.com/company/careers?gh_jid=4114604004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Technical Recruiter](https://www.factioninc.com/company/careers?gh_jid=4293908004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-
-Marketing
-
-* [Director of Marketing](https://www.factioninc.com/company/careers?gh_jid=4288821004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Senior Product Marketing Manager](https://www.factioninc.com/company/careers?gh_jid=4304400004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Vice President, Marketing](https://www.factioninc.com/company/careers?gh_jid=4191674004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-
-Operations
-
-* [Deployment Manager](https://www.factioninc.com/company/careers?gh_jid=4310263004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Infrastructure Manager](https://www.factioninc.com/company/careers?gh_jid=4310326004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-
-Product Management
-
-* [Cloud Data Services Leader](https://www.factioninc.com/company/careers?gh_jid=4023220004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Product Manager, Alliances & OEM (Cloud Technology)](https://www.factioninc.com/company/careers?gh_jid=4055866004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Product Manager, Networking (FIX)](https://www.factioninc.com/company/careers?gh_jid=4276569004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [UI/UX Designer](https://www.factioninc.com/company/careers?gh_jid=4276577004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-
-Sales
-
-* [Alliance Business Development Manager (Cloud Technology)](https://www.factioninc.com/company/careers?gh_jid=4186247004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Sales Executive](https://www.factioninc.com/company/careers?gh_jid=4186332004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-
-Technology
-
-* [Product Development Engineer](https://www.factioninc.com/company/careers?gh_jid=4048366004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Senior Back-End Engineer](https://www.factioninc.com/company/careers?gh_jid=4022750004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Senior Infrastructure Engineer (Cloud)](https://www.factioninc.com/company/careers?gh_jid=4022889004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Senior Network Engineer](https://www.factioninc.com/company/careers?gh_jid=4023192004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-* [Sr. Software Engineer](https://www.factioninc.com/company/careers?gh_jid=4022896004&gh_src=66f4d22d4us&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-
  **Disclosure**
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=sunday.fudge.org&utm_medium=email&utm_source=Revue%20newsletter).
-
-In order to unsubscribe, click [here](#).
-
-If you were forwarded this newsletter and you like it, you can subscribe [here](https://sunday.fudge.org/?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=Start+the+week+more+informed).
-
-Created with [Revue by Twitter](https://www.getrevue.co/?utm_source=Start the week more informed&utm_medium=email&utm_content=footerlink&utm_campaign=Issue).
-
-1903 Live Oak St #92 Beaufort, NC 28516-0092
-

@@ -117,11 +117,11 @@ The a16z perspective is usually thoughtful and this post is no exception. Plus, 
 
 Maybe one day I’ll turn Fudge Sunday into an audio podcast and blow the dust off of the old Unicorn Jockeys website. Until then, thanks again for subscribing.
 
-In order to unsubscribe, click [here](#).
 
-If you were forwarded this newsletter and you like it, you can subscribe [here](https://sunday.fudge.org/?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=Start+the+week+more+informed).
 
-Created with [Revue by Twitter](https://www.getrevue.co/?utm_source=Start the week more informed&utm_medium=email&utm_content=footerlink&utm_campaign=Issue).
 
-1903 Live Oak St #92 Beaufort, NC 28516-0092
+
+
+
+
 
