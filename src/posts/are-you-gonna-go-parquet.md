@@ -61,16 +61,8 @@ So, what will be the next big thing in Apache Parquet and other speed to value r
 
 Until then… Place your bets!
 
-# Work Plug
-
-As a reminder, after a +25 year walkabout, I'm an IBMer [(again)](https://jaycuthrell.com/about/). For 2023, in "Work Plug", I share a new link each week that is [educational, accessible, and relevant](https://www.youtube.com/watch?v=T-D1OfcDW1M) to [platform engineering](https://www.ibm.com/consulting/platform-engineering-services) from fellow IBMers[^IBMer] in the wider IBM Community.
-
-https://www.youtube.com/watch?v=T-D1OfcDW1M
-
-Stay tuned!
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
-[^IBMer]: Shout out to [Marina Danilevsky](https://www.linkedin.com/in/marina-danilevsky/)
+🤓

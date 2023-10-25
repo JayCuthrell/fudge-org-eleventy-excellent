@@ -63,10 +63,6 @@ What other predictions will I get wrong? right?
 
 Until then... Place your bets!
 
-# Work Plug
-
-As a reminder, I work at Taos, an IBM Company. If you’d like to learn more about why Taos was named Global Managed Cloud Services Company of the Year for 2022, [check out this educational video](https://www.youtube.com/watch?v=NblWmkCvxiI).
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

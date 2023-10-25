@@ -90,15 +90,9 @@ So, what will be the next big thing to increase and simplify Landing Zone adopti
 
 Until then… Place your bets!
 
-# Work Plug
-
-As a reminder, after a +25 year walkabout, I'm an IBMer [(again)](https://jaycuthrell.com/about/). For 2023, in "Work Plug", I'll share a new link each week that is [educational, accessible, and relevant to platform engineering](https://www.youtube.com/watch?v=9nyiY-psbMs) from fellow IBMers[^IBMer] in the wider IBM Community.
-
-Stay tuned! 
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
  
-[^IBMer]: Shout out to [Martin Keen](https://www.linkedin.com/in/martingkeen/) 
+🤓
 

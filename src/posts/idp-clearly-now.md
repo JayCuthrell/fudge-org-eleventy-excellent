@@ -63,12 +63,6 @@ So, what will be the next big thing, project, consultancy, product, or service i
 
 Until then… Place your bets!
 
-# Work Plug
-
-As a reminder, after a +25 year walkabout, I'm an IBMer [(again)](https://jaycuthrell.com/about/). For 2023, in "Work Plug", I'll share a new link each week that is [educational, accessible, and relevant to platform engineering](https://www.youtube.com/watch?v=L9P9qxzKJKA) from fellow IBMers[^JamilSpain] in the wider IBM Community. 
-
-Stay tuned! 
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

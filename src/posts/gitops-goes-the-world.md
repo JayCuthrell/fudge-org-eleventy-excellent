@@ -59,16 +59,8 @@ Until then… Place your bets!
 
 ![7o8zef.jpg](https://buttondown.imgix.net/images/6501822f-ef6a-474a-9da4-9eaab2f9b0d3.jpg?w=960&fit=max) 
 
-# Work Plug
-
-As a reminder, after a +25 year walkabout, I'm an IBMer [(again)](https://jaycuthrell.com/about/). For 2023, in "Work Plug", I share a new link each week that is [educational, accessible, and relevant](https://www.youtube.com/watch?v=nOtxRNQAKXA) to [platform engineering](https://www.ibm.com/consulting/platform-engineering-services) from fellow IBMers[^IBMer] in the wider IBM Community.
-
-https://www.youtube.com/watch?v=nOtxRNQAKXA
-
-Stay tuned! 
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
-[^IBMer]: Shout out to to [Dan Kehn](https://www.linkedin.com/in/homebarista/) (again) and [Brad Topol](https://www.linkedin.com/in/brad-topol-6273536/) (again)
+🤓

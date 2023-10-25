@@ -47,17 +47,9 @@ So, what will be the next big thing in funding, mergers, and acquisitions relate
 
 Until then… Place your bets!
 
-# Work Plug
-
-As a reminder, after a +25 year walkabout, I'm an IBMer [(again)](https://jaycuthrell.com/about/). For 2023, in "Work Plug", I share a new link each week that is [educational, accessible, and relevant](https://www.youtube.com/watch?v=OejCJL2EC3k) to [platform engineering](https://www.ibm.com/consulting/platform-engineering-services) from fellow IBMers[^IBMer] in the wider IBM Community.
-
-https://www.youtube.com/watch?v=OejCJL2EC3k
-
-Stay tuned! 
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^MLOPs]: [Everything Counts in Ops Amounts](https://fudge.org/archive/fudge-sunday-everything-counts-in-ops-amounts/), [Once in a Pipeline](https://fudge.org/archive/fudge-sunday-once-in-a-pipeline/), and [Summertime Pastness](https://fudge.org/archive/fudge-sunday-summertime-pastness/)
-[^IBMer]: Shout out to to [David Adeyemi](https://www.linkedin.com/in/davidfadeyemi/) (again)
+🤓

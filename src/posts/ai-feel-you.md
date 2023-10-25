@@ -89,16 +89,8 @@ So, what will be the next big thing in AI for platform engineering and DevX?
 
 Until then… Place your bets!
 
-# Work Plug
-
-As a reminder, after a +25 year walkabout, I'm an IBMer [(again)](https://jaycuthrell.com/about/). For 2023, in "Work Plug", I share a new link each week that is [educational, accessible, and relevant](https://youtu.be/zqv1eELa7fs) to [platform engineering](https://www.ibm.com/consulting/platform-engineering-services) from fellow IBMers[^IBMer] in the wider IBM Community.
-
-https://www.youtube.com/watch?v=zqv1eELa7fs
-
-Stay tuned!
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
-[^IBMer]: Shout out (again) to [Martin Keen](https://www.linkedin.com/in/martingkeen/)
+🤓

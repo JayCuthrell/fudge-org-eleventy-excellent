@@ -54,16 +54,10 @@ So, what will be the next big thing in making protocol buffers, gRPC, and APIs e
 
 Until then… Place your bets!
 
-# Work Plug
-
-As a reminder, after a +25 year walkabout, I'm an IBMer [(again)](https://jaycuthrell.com/about/). For 2023, in "Work Plug", I'll share a new link each week that is [educational, accessible, and relevant to platform engineering](https://www.youtube.com/watch?v=KCzNd3StIoU) from fellow IBMers[^IBMer] in the wider IBM Community. 
-
-Stay tuned!
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^1]: [History: Protocol Buffers Documentation ](https://protobuf.dev/history/)
 [^2]: [Hacker News: buf.build](https://news.ycombinator.com/from?site=buf.build) 
-[^IBMer]: Shout out to [Bradley Knapp](https://www.linkedin.com/in/bradleyknapp/)
+🤓

@@ -51,12 +51,6 @@ I do however think that when all of the major cloud service providers push furth
 
 Increasingly, infrastructure as code (IaC) such as [Terraform](https://www.strongdm.com/blog/terraform-your-devops-workflow), [Ansible](https://goteleport.com/docs/machine-id/guides/ansible/), [Pulumi](https://www.twingate.com/docs/pulumi-getting-started/), etc. will enable incremental approaches to a zero trust design as an initialization level snippet. As such, the entire access proxy market will be fascinating over the next few years as players and projects blend VPN simplification, Beyondcorp-esque inspired design choices, and ever more accessible solutions to effortless "zero touch" deployment.
 
-# Work Plug
-
-As a reminder, I work at Taos, an IBM Company. If you’d like to learn more about Taos and our Top 5 Takeaways from AWS re:Invent 2022, [check out this educational video](https://www.youtube.com/watch?v=m9rAJpoOYng).
-
-
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

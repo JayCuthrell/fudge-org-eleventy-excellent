@@ -72,20 +72,6 @@ Until then… Place your bets!
 
 \_P.S. Special thanks to [Neeloy Bhattacharyya](https://www.linkedin.com/in/neeloybhattacharyya/) for the feedback [last week](https://fudge.org/archive/bufbuild-your-rest/) as inspiration to create this issue of Fudge Sunday!\_
 
-# Work Plug
-
-As a reminder, after a +25 year walkabout, I'm an IBMer [(again)](https://jaycuthrell.com/about/). For 2023, in "Work Plug", I'll share a new link each week that is [educational, accessible, and relevant to platform engineering](https://www.youtube.com/watch?v=who) from fellow IBMers[^IBMer] in the wider IBM Community. 
-
-More Links of the Week:
-
-- [Breaking legacy programs into microservices without breaking anything (🧑‍🏫 Video)](https://www.youtube.com/watch?v=2fszvFC-O2I)
-- [What is generative AI, what are foundation models, and why do they matter? (📝 Blog)](https://www.ibm.com/blog/what-is-generative-ai-what-are-foundation-models-and-why-do-they-matter/)
-- [Exploring Generative AI to maximize experiences, decision making, and business value (📝 Blog)](https://www.ibm.com/blog/exploring-generative-ai-to-maximize-experiences-decision-making-and-business-value/)
-- [A valuable and responsible approach to AI (📝 Blog)](https://www.ibm.com/blog/how-ibm-consulting-brings-a-valuable-and-responsible-approach-to-ai/)
-- [How can Generative AI drive disruptive value? (📺 Webinar)](https://community.ibm.com/community/user/ai-datascience/events/event-description?CalendarEventKey=bf13fab0-f709-440a-9e4b-0186a94ef467&CommunityKey=f1c2cf2b-28bf-4b68-8570-b239473dcbbc&Home=%2fcommunity%2fuser%2fai-datascience%2fevents%2fevent-description)
-
-Stay tuned! 
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
@@ -93,4 +79,4 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 [^0]: [A Quick Introduction to Service Weaver](https://serviceweaver.dev/blog/quick\_intro.html)
 [^1]: [Understanding actor concurrency, Part 1: Actors in Erlang (2009)](https://www.infoworld.com/article/2077999/understanding-actor-concurrency--part-1--actors-in-erlang.html)
 [^2]: [Adobe Dreamweaver on Wikipedia](https://en.wikipedia.org/wiki/Adobe\_Dreamweaver) 
-[^IBMer]: Shout out to [Maja Vuković](https://www.linkedin.com/in/majav/) 
+🤓

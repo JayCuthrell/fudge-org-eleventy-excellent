@@ -105,16 +105,6 @@ It turns out that Nova Labs has [checks notes] acquired FreedomFi.[8](#footnote-
 
 [![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a6cf83b5-d632-4cc8-abd6-5f3c0759ad5f_2324x1020.png)](https://web.archive.org/web/20220818160310/https://freedomfi.com/press-release/)Until next time… Place your bets…
 
-# Work Plug
-
-In future newsletter posts I’ll be including selections of the amazing content I’m fortunate to be able to share in my newsletter. 
-
-For now, [be sure to register](https://ibm.webex.com/ibm/j.php?RGID=rb310488785ce18ab8a727308a8f21a95) for this upcoming panel ***[”Do you really have a DevOps culture?”](https://ibm.webex.com/ibm/j.php?RGID=rb310488785ce18ab8a727308a8f21a95)*** on Tuesday, August 30th.
-
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/26e5f3a2-c9de-41da-9615-e48be58c1e26_1144x1506.png)](https://ibm.webex.com/ibm/j.php?RGID=rb310488785ce18ab8a727308a8f21a95)[Be sure to register!](https://ibm.webex.com/ibm/j.php?RGID=rb310488785ce18ab8a727308a8f21a95)I’ll also be sharing links from [Taos Thrive Newsletter](https://www.taos.com/resources/thrive-newsletter/) as well — [here’s a sample](https://www.taos.com/taos-thrives-newsletter-august-v1-137/)!
-
-[![Taos Thrive Newsletter](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/174e2850-a15b-4e25-90aa-f29f24bb2758_2870x1464.png "Taos Thrive Newsletter")](https://www.taos.com/resources/thrive-newsletter/)
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).

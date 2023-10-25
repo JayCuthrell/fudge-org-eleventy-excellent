@@ -69,19 +69,11 @@ So, what will be the next big thing in service catalog frameworks, IDP, IDPaaS, 
 
 Until then… Place your bets!
 
-# Work Plug
-
-As a reminder, after a +25 year walkabout, I'm an IBMer [(again)](https://jaycuthrell.com/about/). For 2023, in "Work Plug", I share a new link each week that is [educational, accessible, and relevant](https://www.youtube.com/watch?v=4H4dAtrl4p0) to [platform engineering](https://www.ibm.com/consulting/platform-engineering-services) from fellow IBMers[^IBMer] in the wider IBM Community.
-
-https://www.youtube.com/watch?v=4H4dAtrl4p0
-
-Stay tuned! 
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^comment]: TIL that [Substack Notes allows deeplinking](https://open.substack.com/chat/posts/a86307cb-045e-4f06-a066-552f7127fe26)
-[^IBMer]: Shout out to [Briana Frank](https://www.linkedin.com/in/frankbriana/)
+🤓
 
 

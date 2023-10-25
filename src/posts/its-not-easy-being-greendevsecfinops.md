@@ -87,19 +87,11 @@ So, what will be the next big thing in Green IT and Platform Engineering?
 
 Until then… Place your bets!
 
-# Work Plug
-
-As a reminder, after a +25 year walkabout, I'm an IBMer [(again)](https://jaycuthrell.com/about/). For 2023, in "Work Plug", I share a new link each week that is [educational, accessible, and relevant](https://www.youtube.com/watch?v=92yV9afmc38) to [platform engineering](https://www.ibm.com/consulting/platform-engineering-services) from fellow IBMers[^IBMer] in the wider IBM Community.
-
-https://www.youtube.com/watch?v=92yV9afmc38
-
-Stay tuned! 
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^comment]: TIL that [Substack Notes allows deeplinking](https://open.substack.com/chat/posts/a86307cb-045e-4f06-a066-552f7127fe26)
-[^IBMer]: Shout out to [Stacey MacGrath Gifford](https://www.linkedin.com/in/stacey-macgrath-gifford-521087a/)
+🤓
 
 

@@ -62,17 +62,9 @@ So, what will be the next big thing in FinOps strategies for A.I. workloads?
 
 Until then… Place your bets!
 
-# Work Plug
-
-As a reminder, after a +25 year walkabout, I'm an IBMer [(again)](https://jaycuthrell.com/about/). For 2023, in "Work Plug", I share a new link each week that is [educational, accessible, and relevant](https://www.youtube.com/watch?v=umo6kKXD0-Q) to [platform engineering](https://www.ibm.com/consulting/platform-engineering-services) from fellow IBMers[^IBMer] in the wider IBM Community.
-
-https://www.youtube.com/watch?v=umo6kKXD0-Q
-
-Stay tuned!
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^matt]: You should subscribe to [Matt Baker's Unconventional Wisdom newsletter](https://www.linkedin.com/newsletters/unconventional-wisdom-7041089584260145152/) if you haven't already -- good stuff!
-[^IBMer]: Shout out to [Rosalind Radcliffe](https://www.linkedin.com/in/rosalind-radcliffe/)
+🤓

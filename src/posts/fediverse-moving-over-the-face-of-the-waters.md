@@ -95,10 +95,6 @@ Until then... Place your bets!
 
 ![birds](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/bd8b355d-a3dd-4a53-b867-75e420dbb438.jpg)
 
-# Work Plug
-
-As a reminder, I work at Taos, an IBM Company. If you’d like to learn more about Taos and how we help companies digitally transform, [check out this educational video](https://www.youtube.com/watch?v=kp0EZnCd8JM).
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

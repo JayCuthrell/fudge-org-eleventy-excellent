@@ -64,17 +64,9 @@ So, what will be the next big thing for fuzzing in platform platform engineering
 
 Until then… Place your bets!
 
-# Work Plug
-
-As a reminder, after a +25 year walkabout, I'm an IBMer [(again)](https://jaycuthrell.com/about/). For 2023, in "Work Plug", I share a new link each week that is [educational, accessible, and relevant](https://www.youtube.com/watch?v=mqzP7gJDM2s) to [platform engineering](https://www.ibm.com/consulting/platform-engineering-services) from fellow IBMers[^IBMer] in the wider IBM Community.
-
-https://www.youtube.com/watch?v=mqzP7gJDM2s
-
-Stay tuned!
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 [^fuzzing]: [The OWASP® Foundation definition of fuzzing](https://owasp.org/www-community/Fuzzing) 
-[^IBMer]: Shout out to to [Wes Pretsch](https://www.linkedin.com/in/wesley-pretsch-2a1424190/)
+🤓

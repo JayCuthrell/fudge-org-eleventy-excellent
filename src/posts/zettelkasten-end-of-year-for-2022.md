@@ -92,12 +92,6 @@ Now... What will be my prediction next week for 2023?
 
 Until then... Place your bets!
 
-# Work Plug
-
-As a reminder, I work at Taos, an IBM Company. If you’d like to learn why Taos was named Global Managed Cloud Services Company of the Year for two (2!) years in a row, [check out this educational video](https://www.youtube.com/watch?v=NblWmkCvxiI).
-
-
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).

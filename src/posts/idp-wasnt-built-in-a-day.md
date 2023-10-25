@@ -61,19 +61,11 @@ So, what will be the next big thing in platform engineering, data operations, an
 
 Until then… Place your bets!
 
-# Work Plug
-
-As a reminder, after a +25 year walkabout, I'm an IBMer [(again)](https://jaycuthrell.com/about/). For 2023, in "Work Plug", I'll share a new link each week that is [educational, accessible, and relevant to platform engineering](https://www.youtube.com/watch?v=6kEGUCrBEU0) from fellow IBMers[^IBMer] in the wider IBM Community.
-
-Also, I'll be speaking with [Rodrigo Flores](https://www.linkedin.com/in/roflores/) about Platform Engineering Services and [Cloud Cost Optimization](https://www.ibm.com/events/reg/flow/ibm/hnlw9hmb/landing/page/landing) on Tuesday 28 February 2023 12pm-1pm EST. You can register for the webinar [here](https://www.ibm.com/events/reg/flow/ibm/hnlw9hmb/landing/page/landing):
-
-[![1676998687951.jpeg](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/d7fdd381-c272-4ff7-8a3c-cfff4b52dd46.jpeg) ](https://www.ibm.com/events/reg/flow/ibm/hnlw9hmb/landing/page/landing)
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
  
 [^1]: Shout out to [Paul Swail](https://notes.serverlessfirst.com/public/Undifferentiated+heavy+lifting)
 [^2]: Shout out to [Renato Losio](https://www.linkedin.com/in/rlosio)
-[^IBMer]: Shout out to [Luv Aggarwal](https://www.linkedin.com/in/aggarwalluv/)
+🤓
 

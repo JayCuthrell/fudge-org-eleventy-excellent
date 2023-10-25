@@ -64,14 +64,6 @@ So, what will be the next big thing in GitOps and the limits of Generative AI?
 
 Until then… Place your bets!
 
-# Work Plug
-
-As a reminder, after a +25 year walkabout, I'm an IBMer [(again)](https://jaycuthrell.com/about/). For 2023, in "Work Plug", I share a new link each week that is [educational, accessible, and relevant](https://www.youtube.com/watch?v=T-w\_5T-j-dA) to [platform engineering](https://www.ibm.com/consulting/platform-engineering-services) from fellow IBMers[^IBMer] in the wider IBM Community.
-
-https://www.youtube.com/watch?v=T-w\_5T-j-dA
-
-Stay tuned! 
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
@@ -79,4 +71,4 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 [^ antimetabole]: TIL on [A Way with Words](https://beta.prx.org/stories/475388)
 [^chiasmus]: TIL on [Alan Cooper's Substack Newsletter](https://mralancooper.medium.com/antimetabole-1d95057c9658)
 [^ploce]: TIL on [wikipedia](https://en.wikipedia.org/wiki/Ploce\_(figure\_of\_speech))
-[^IBMer]: Shout out to to [Martin Keen](https://www.linkedin.com/in/martingkeen/) (again)
+🤓

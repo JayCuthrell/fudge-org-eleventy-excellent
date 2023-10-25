@@ -47,10 +47,6 @@ So, what will be the next major social media company or beloved online service t
 
 Until then... Place your bets!
 
-# Work Plug
-
-As a reminder, I work at Taos, an IBM Company. If you’d like to learn more about Taos and how we help companies optimize their cloud investments, [check out this educational video](https://www.youtube.com/watch?v=zYEOCyJdZIg).
-
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
