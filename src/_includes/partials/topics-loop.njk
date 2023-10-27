@@ -1,0 +1,9 @@
+<div class="cluster" style="gap: var(--space-s);">
+  {% for tag, posts in collections | dictsort %}
+    {% if tag != "newsletter" and tag != "postsbyyear" and tag != "all" and tag != "posts" %}
+
+      <a href="/topics/{{ tag }}/">{{ tag }}</a>
+
+    {% endif %}
+  {% endfor %}
+</div>

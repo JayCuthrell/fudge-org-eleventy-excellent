@@ -1,0 +1,15 @@
+---
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+permalink: /topics/{{ tag }}/
+layout: page
+---
+<h1>Topics: “{{ tag }}”</h1>
+
+  {% set taglist = collections[tag] %}
+  {% for post in taglist | reverse %}
+      <h4><a href="{{ post.url }}">{{ post.data.title }}</a></h4>
+       {% set definedDate = post.date %} {% include "partials/date.njk" %}
+  {% endfor %}
