@@ -15,17 +15,18 @@ layout: base
 </header>
 
 <article class="wrapper region">
+    {% for year, yearPosts in collections.postsByYear %}
+  <h2>{{ year }}</h2>
   <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    {% set postslist = collections.posts %} {% for post in postslist.slice(0, 1000) %}
-
-    <li class="card flow overflow-hidden">
+    {% for post in yearPosts | reverse %}
+      <li class="card flow overflow-hidden">
       <h4>
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
       </h4>
       {% set definedDate = post.date %} {% include "partials/date.njk" %}
       <p>{{ post.data.description }}</p>
     </li>
-
     {% endfor %}
   </ul>
+{% endfor %}
 </article>

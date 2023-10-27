@@ -4,6 +4,21 @@ const getAllPosts = collection => {
   return projects.reverse();
 };
 
-module.exports = {
-  getAllPosts
+/** Year by Year */
+
+const _ = require("lodash");
+
+const postsByYear = (collection) => {
+  return _.chain(collection.getFilteredByGlob('./src/posts/*.md'))
+    .groupBy((post) => post.date.getFullYear())
+    .toPairs()
+    .reverse()
+    .value();
 };
+
+module.exports = {
+  getAllPosts,
+  postsByYear
+};
+
+
