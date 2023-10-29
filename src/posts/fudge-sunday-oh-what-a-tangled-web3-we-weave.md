@@ -98,9 +98,9 @@ We just have’t had our Web3 [Polly](https://www.netmom.com/jean-armour-polly-c
 
 Surfs up! 🌊
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1465070361784074244)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1465070361784074244)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1465070361784074244)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1465070361784074244)
 
 Sometimes I find it helpful to remember back when the early web was considered "silly" in the early 1990s and referred to as the "world wide wait".  
   
@@ -110,7 +110,7 @@ Then mobile happened.
   
 Then this platform allowed us to learn about "silly" new things. <https://t.co/LRpixWR6Hy>
 
- [4:29 PM - 28 Nov 2021](https://twitter.com/JayCuthrell/status/1465070361784074244)
+ [4:29 PM - 28 Nov 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1465070361784074244)
 
  **So what comes after Web3?**
 

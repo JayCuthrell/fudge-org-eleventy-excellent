@@ -39,15 +39,15 @@ Faction has cloud locations from Portland, Oregon to Chicago, Illinois to London
 
 [www.factioninc.com](https://www.factioninc.com/company/cloud-locations/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1412955368444018692)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412955368444018692)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1412955368444018692)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412955368444018692)
 
 psssst....   
 [#multicloud](https://twitter.com/search?q=%23multicloud "#multicloud")   
 pass it on.... <https://t.co/vYz8vFQDDU>
 
-[10:03 PM - 7 Jul 2021](https://twitter.com/JayCuthrell/status/1412955368444018692)
+[10:03 PM - 7 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412955368444018692)
 
 **[The Associated Press](https://twitter.com/AP/status/1412452378041892871)**
 
@@ -61,13 +61,13 @@ BREAKING: The Pentagon said it has canceled a cloud-computing contract with Micr
 
 Quote tweeting Techmeme meta summary is still one of my favorite pastimes
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1410274799423832065)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1410274799423832065)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1410274799423832065)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1410274799423832065)
 
 Future findings will likely call out increasing year over year organizational consumption of innovations across two or more public hyperscale cloud service providers as simultaneous spot preemptive arbitrage or workflow focused best in class worker workload alignment. [#multicloud](https://twitter.com/search?q=%23multicloud "#multicloud") <https://t.co/ulYXLuzDgY>
 
- [2:51 PM - 3 Jul 2021](https://twitter.com/JayCuthrell/status/1410274799423832065)
+ [2:51 PM - 3 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1410274799423832065)
 
 **[Techmeme](https://twitter.com/Techmeme/status/1410210561430724613)**
 
@@ -82,15 +82,15 @@ Gartner survey of public cloud services in 2020: AWS had $26.2B in revenue, up ~
 
 Now, imagine a timeline of getting open grid or edge telemetry to enrich these data sets as I called out in the first issue of this five part series…
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1412943255365378054)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412943255365378054)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1412943255365378054)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412943255365378054)
 
 Back in 2015, we might have debated how spatial and temporal data markets could evolve with drone captured data companies, satellite captured data companies, and emerging ML/AI companies.  
   
 Now it's likely the market will reward accretive combinations via M&A for all of the above. <https://t.co/LsGfbi9oMU>
 
- [9:14 PM - 7 Jul 2021](https://twitter.com/JayCuthrell/status/1412943255365378054)
+ [9:14 PM - 7 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412943255365378054)
 
 **[Techmeme](https://twitter.com/Techmeme/status/1412933527679553538)**
 
@@ -105,9 +105,9 @@ Planet Labs, which provides satellite imagery data analytics to 600+ customers, 
 
 To get to that kind of reality will require increased fascination with all things related to fabrication…
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1412954457579704320)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412954457579704320)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1412954457579704320)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412954457579704320)
 
 Intel has invested ~$20B in New Mexico since 1980 which includes ~$3.5B in upgrades... this year.  
   
@@ -119,7 +119,7 @@ GlobalFoundries will invest ~$2.5B in New York and Vermont... this year.
   
 That's pretty... wait for it... FABulous.🤓 <https://t.co/GZ8DH3pCGu>
 
- [9:59 PM - 7 Jul 2021](https://twitter.com/JayCuthrell/status/1412954457579704320)
+ [9:59 PM - 7 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412954457579704320)
 
 **[Techmeme](https://twitter.com/Techmeme/status/1412845597380407297)**
 
@@ -134,25 +134,25 @@ Inside a GlobalFoundries chipmaking plant in upstate NY, filled with $10B worth 
 
 Along the way, the companies associated with the future might look different than the ubiquitous incumbency but that’s okay too
 
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/cc5c3ba0-f4a1-4ab9-b22e-5d56cddc9c20_600x387.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc5c3ba0-f4a1-4ab9-b22e-5d56cddc9c20_600x387.png)**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1413324739536474112)**
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/cc5c3ba0-f4a1-4ab9-b22e-5d56cddc9c20_600x387.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc5c3ba0-f4a1-4ab9-b22e-5d56cddc9c20_600x387.png)**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1413324739536474112)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1413324739536474112)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1413324739536474112)
 
 This is what thinking beyond a headphone jack looks like. <https://t.co/1gYQRg6qH1> <https://t.co/MJMiAx5kmZ>
 
-[10:30 PM - 8 Jul 2021](https://twitter.com/JayCuthrell/status/1413324739536474112)
+[10:30 PM - 8 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1413324739536474112)
 
 Where we find ourselves in a future data artisan economy (that is always on 24/7/365!) might be truly distributed – despite the best efforts of centralized incumbency that seeks to perpetuate the last industrial revolution by sequestering the workforce on a periodic basis
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1413670026410930181)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1413670026410930181)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1413670026410930181)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1413670026410930181)
 
 Anyone who has spent time studying new media firms raised on modern portfolio theory knows that much of the real action takes place in alpha generating opinion.  
 🤔  
 If you remain a talking head in a Zoom room, best of luck to office REITs seeking market cap gains from puff pieces. <https://t.co/YJdTnPGtXJ>
 
- [9:22 PM - 9 Jul 2021](https://twitter.com/JayCuthrell/status/1413670026410930181)
+ [9:22 PM - 9 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1413670026410930181)
 
 [![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6f3ac824-99ac-4fed-9883-2f24da944315_600x400.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6f3ac824-99ac-4fed-9883-2f24da944315_600x400.jpeg)**[Bloomberg Opinion](https://twitter.com/bopinion/status/1413179829290209284)**
 
@@ -166,13 +166,13 @@ If you remain a talking head in a Zoom room while others are showing up in perso
 
 So as social becomes just media and media tries to become more social, it will be important to keep our collective sense of humor (if there can be one) by anchoring to the export of meme… or, if you will, ensuring access to the *meme’s of production* ;-)
 
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b341ec22-81cd-4367-a272-87a091a690d6_600x338.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb341ec22-81cd-4367-a272-87a091a690d6_600x338.jpeg)**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1412225048522461185)**
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b341ec22-81cd-4367-a272-87a091a690d6_600x338.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb341ec22-81cd-4367-a272-87a091a690d6_600x338.jpeg)**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412225048522461185)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1412225048522461185)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412225048522461185)
 
 LinkedIn Creator Mode enabled... <https://t.co/aJRBkwRcVD>
 
- [9:41 PM - 5 Jul 2021](https://twitter.com/JayCuthrell/status/1412225048522461185)
+ [9:41 PM - 5 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1412225048522461185)
 
 
 

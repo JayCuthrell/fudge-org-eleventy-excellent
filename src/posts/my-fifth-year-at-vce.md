@@ -8,7 +8,7 @@ date: 2015-10-17 00:00:00+00:00
 
 > A quick reflection on my 5th year at [@VCE](https://twitter.com/VCE) 🚀 🚀 🚀 🚀 🚀 <http://t.co/6rA6LgdFr8> [#VCE](https://twitter.com/hashtag/VCE?src=hash) [#Vblock](https://twitter.com/hashtag/Vblock?src=hash) [#VMware](https://twitter.com/hashtag/VMware?src=hash) [#Cisco](https://twitter.com/hashtag/Cisco?src=hash) [#EMC](https://twitter.com/hashtag/EMC?src=hash) [#Dell](https://twitter.com/hashtag/Dell?src=hash) [#roadwarrior](https://twitter.com/hashtag/roadwarrior?src=hash)
 > 
-> — Jay Cuthrell (@JayCuthrell) [October 18, 2015](https://twitter.com/JayCuthrell/status/655773375093059585)
+> — Jay Cuthrell (@JayCuthrell) [October 18, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/655773375093059585)
 > 
 > 
 
@@ -17,7 +17,7 @@ Confession. I’ve had this happen to me.
 
 > Mmmmm coffee and VDI... <https://t.co/qBTxRWqgmI>
 > 
-> — Jay Cuthrell (@JayCuthrell) [October 14, 2015](https://twitter.com/JayCuthrell/status/654311925988225024)
+> — Jay Cuthrell (@JayCuthrell) [October 14, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/654311925988225024)
 > 
 > 
 
@@ -32,7 +32,7 @@ This post is the latter. This post is meant to mark a moment and opinion — min
 
 > And my 5th installment with the usual amount of [REDACTED] and light details is a git commit away...
 > 
-> — Jay Cuthrell (@JayCuthrell) [October 12, 2015](https://twitter.com/JayCuthrell/status/653415251635863552)
+> — Jay Cuthrell (@JayCuthrell) [October 12, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/653415251635863552)
 > 
 > 
 
@@ -50,7 +50,7 @@ First, I’ve gone global again! In my newest new role I’ve been fortunate to 
 
 > My new [@VCE](https://twitter.com/VCE) business cards arrived [pic.twitter.com/q9QATsEUBJ](http://t.co/q9QATsEUBJ)
 > 
-> — Jay Cuthrell (@JayCuthrell) [August 2, 2015](https://twitter.com/JayCuthrell/status/627899573449535492)
+> — Jay Cuthrell (@JayCuthrell) [August 2, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/627899573449535492)
 > 
 > 
 
@@ -63,7 +63,7 @@ BTW… using GitHub Pages to host this blog has been interesting but hasn’t ac
 
 > My new "About Me" intro slide [pic.twitter.com/WIaLbbkVea](http://t.co/WIaLbbkVea)
 > 
-> — Jay Cuthrell (@JayCuthrell) [August 14, 2015](https://twitter.com/JayCuthrell/status/632228790807060480)
+> — Jay Cuthrell (@JayCuthrell) [August 14, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/632228790807060480)
 > 
 > 
 
@@ -79,35 +79,35 @@ Enjoy!
 
 > <https://t.co/LfOMK3qazb> [pic.twitter.com/GY4U4uRkk7](http://t.co/GY4U4uRkk7)
 > 
-> — Jay Cuthrell (@JayCuthrell) [October 22, 2014](https://twitter.com/JayCuthrell/status/524907366261600257)
+> — Jay Cuthrell (@JayCuthrell) [October 22, 2014](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/524907366261600257)
 > 
 > 
 
 
 > Great summary of [@VCE](https://twitter.com/VCE) [@VMware](https://twitter.com/VMware) [@Cisco](https://twitter.com/Cisco) [@EMCcorp](https://twitter.com/EMCcorp) announcement coverage and analysis at [@Techmeme](https://twitter.com/Techmeme) <http://t.co/rWw9KFuQCn> [pic.twitter.com/Ct4N7poXX0](http://t.co/Ct4N7poXX0)
 > 
-> — Jay Cuthrell (@JayCuthrell) [October 22, 2014](https://twitter.com/JayCuthrell/status/524988537502842880)
+> — Jay Cuthrell (@JayCuthrell) [October 22, 2014](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/524988537502842880)
 > 
 > 
 
 
 > RT [@BButlerNWW](https://twitter.com/BButlerNWW): Why EMC acquired VCE from Cisco <http://t.co/Uri9Y2u7cq> via [@networkworld](https://twitter.com/NetworkWorld) [pic.twitter.com/ZiMkPDZdqR](http://t.co/ZiMkPDZdqR)
 > 
-> — Jay Cuthrell (@JayCuthrell) [October 23, 2014](https://twitter.com/JayCuthrell/status/525273237148557312)
+> — Jay Cuthrell (@JayCuthrell) [October 23, 2014](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/525273237148557312)
 > 
 > 
 
 
 > Essay by [@Enderle](https://twitter.com/Enderle) on [@CIOonline](https://twitter.com/CIOonline): How [@VCE](https://twitter.com/VCE) Created an Amazing Joint Tech Venture <http://t.co/fSB8ZaVH1O> [#WinWin](https://twitter.com/hashtag/WinWin?src=hash) [pic.twitter.com/vZzIGlpYqt](http://t.co/vZzIGlpYqt)
 > 
-> — Jay Cuthrell (@JayCuthrell) [October 25, 2014](https://twitter.com/JayCuthrell/status/526079378724102144)
+> — Jay Cuthrell (@JayCuthrell) [October 25, 2014](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/526079378724102144)
 > 
 > 
 
 
 > Packed room. [@TreyLayton](https://twitter.com/treylayton) VP & Global CTO [@VCE](https://twitter.com/VCE) presenting VCE.NEXT to [@Cisco](https://twitter.com/Cisco) global team. Last photo I can share. :wink: [pic.twitter.com/uxSh2Qeq4K](http://t.co/uxSh2Qeq4K)
 > 
-> — Jay Cuthrell (@JayCuthrell) [October 28, 2014](https://twitter.com/JayCuthrell/status/527239447046139905)
+> — Jay Cuthrell (@JayCuthrell) [October 28, 2014](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/527239447046139905)
 > 
 > 
 
@@ -116,14 +116,14 @@ Enjoy!
 
 > The [@VCE](https://twitter.com/VCE) Certified Professional Program had added +4,000 certified converged infrastructure professionals. [#GartnerDC](https://twitter.com/hashtag/GartnerDC?src=hash) [pic.twitter.com/HUmNMWgqNz](http://t.co/HUmNMWgqNz)
 > 
-> — Jay Cuthrell (@JayCuthrell) [December 4, 2014](https://twitter.com/JayCuthrell/status/540520644715102209)
+> — Jay Cuthrell (@JayCuthrell) [December 4, 2014](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/540520644715102209)
 > 
 > 
 
 
 > “[ [#Vblock](https://twitter.com/hashtag/Vblock?src=hash) ] allows us to abstract our thinking away from the componentry” -- [@mattchamley](https://twitter.com/mattchamley) <http://t.co/kmDe3CoGdC> [pic.twitter.com/mdJ7IC9Lyr](http://t.co/mdJ7IC9Lyr)
 > 
-> — Jay Cuthrell (@JayCuthrell) [December 22, 2014](https://twitter.com/JayCuthrell/status/546905893305327616)
+> — Jay Cuthrell (@JayCuthrell) [December 22, 2014](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/546905893305327616)
 > 
 > 
 
@@ -132,7 +132,7 @@ Enjoy!
 
 > "[...] [@VCE](https://twitter.com/VCE) and [@EMCVSPEX](https://twitter.com/EMCVSPEX) continued to drive revenue growth [...]" <http://t.co/RoiISdfxhu> [pic.twitter.com/Pkmy5Ks8YR](http://t.co/Pkmy5Ks8YR)
 > 
-> — Jay Cuthrell (@JayCuthrell) [January 29, 2015](https://twitter.com/JayCuthrell/status/560816177249660928)
+> — Jay Cuthrell (@JayCuthrell) [January 29, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/560816177249660928)
 > 
 > 
 
@@ -141,14 +141,14 @@ Enjoy!
 
 > ICYMI [@VCE](https://twitter.com/VCE) Solution Exchange is now live! <http://t.co/sXseTgei7p> [pic.twitter.com/OxnlvwIUlm](http://t.co/OxnlvwIUlm)
 > 
-> — Jay Cuthrell (@JayCuthrell) [February 16, 2015](https://twitter.com/JayCuthrell/status/567363311612600320)
+> — Jay Cuthrell (@JayCuthrell) [February 16, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/567363311612600320)
 > 
 > 
 
 
 > What makes a Vblock so special? [#vceafterdark](https://twitter.com/hashtag/vceafterdark?src=hash) [pic.twitter.com/LTwc3xLsex](http://t.co/LTwc3xLsex)
 > 
-> — Jay Cuthrell (@JayCuthrell) [February 19, 2015](https://twitter.com/JayCuthrell/status/568284467623829504)
+> — Jay Cuthrell (@JayCuthrell) [February 19, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/568284467623829504)
 > 
 > 
 
@@ -157,14 +157,14 @@ Enjoy!
 
 > Learn what comes next... <http://t.co/gnNjuzIQOu> [pic.twitter.com/dpRbJMYady](http://t.co/dpRbJMYady)
 > 
-> — Jay Cuthrell (@JayCuthrell) [March 12, 2015](https://twitter.com/JayCuthrell/status/575863229173358592)
+> — Jay Cuthrell (@JayCuthrell) [March 12, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/575863229173358592)
 > 
 > 
 
 
 > "CI is the new normal" --[@VarrowMadness](https://twitter.com/VarrowMadness) [#vce](https://twitter.com/hashtag/vce?src=hash) [#vblock](https://twitter.com/hashtag/vblock?src=hash) [#vxblock](https://twitter.com/hashtag/vxblock?src=hash) [#vscale](https://twitter.com/hashtag/vscale?src=hash) [#vspex](https://twitter.com/hashtag/vspex?src=hash) [#vspexblue](https://twitter.com/hashtag/vspexblue?src=hash) [pic.twitter.com/ftJVI0Oh58](http://t.co/ftJVI0Oh58)
 > 
-> — Jay Cuthrell (@JayCuthrell) [March 19, 2015](https://twitter.com/JayCuthrell/status/578552937095495680)
+> — Jay Cuthrell (@JayCuthrell) [March 19, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/578552937095495680)
 > 
 > 
 
@@ -173,7 +173,7 @@ Enjoy!
 
 > Something new has been added... <http://t.co/6PyRBqXVx5> [pic.twitter.com/dioPVb13Oq](http://t.co/dioPVb13Oq)
 > 
-> — Jay Cuthrell (@JayCuthrell) [April 7, 2015](https://twitter.com/JayCuthrell/status/585425882933657601)
+> — Jay Cuthrell (@JayCuthrell) [April 7, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/585425882933657601)
 > 
 > 
 
@@ -182,21 +182,21 @@ Enjoy!
 
 > [#EMCWorld2015](https://twitter.com/hashtag/EMCWorld2015?src=hash) [#threewords](https://twitter.com/hashtag/threewords?src=hash) Blocks. Racks. Appliances. [pic.twitter.com/XfsxsI7wLd](http://t.co/XfsxsI7wLd)
 > 
-> — Jay Cuthrell (@JayCuthrell) [May 8, 2015](https://twitter.com/JayCuthrell/status/596509741569867776)
+> — Jay Cuthrell (@JayCuthrell) [May 8, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/596509741569867776)
 > 
 > 
 
 
 > Praveen Akkiraju CEO [@VCE](https://twitter.com/VCE) at EMC World 2015 [@theCUBE](https://twitter.com/theCUBE) <https://t.co/4rRTeRareX>
 > 
-> — Jay Cuthrell (@JayCuthrell) [May 12, 2015](https://twitter.com/JayCuthrell/status/598152000187015168)
+> — Jay Cuthrell (@JayCuthrell) [May 12, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/598152000187015168)
 > 
 > 
 
 
 > This. >> " [@VCE](https://twitter.com/VCE)’s purpose in life is to build turnkey solutions. " source: <http://t.co/M4gl4K7nH8> [pic.twitter.com/HGgIaBwseZ](http://t.co/HGgIaBwseZ)
 > 
-> — Jay Cuthrell (@JayCuthrell) [May 12, 2015](https://twitter.com/JayCuthrell/status/598275166729297920)
+> — Jay Cuthrell (@JayCuthrell) [May 12, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/598275166729297920)
 > 
 > 
 
@@ -205,21 +205,21 @@ Enjoy!
 
 > And [@VCE](https://twitter.com/VCE) will be the lens for all Federation converged infrastructure and converged solutions. <http://t.co/J2sCG8u6YL> [pic.twitter.com/1QepnfnjiI](http://t.co/1QepnfnjiI)
 > 
-> — Jay Cuthrell (@JayCuthrell) [June 1, 2015](https://twitter.com/JayCuthrell/status/605427278613331968)
+> — Jay Cuthrell (@JayCuthrell) [June 1, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/605427278613331968)
 > 
 > 
 
 
 > $18B is a decent number. Lots of room for lots of innovation. [pic.twitter.com/dBWoPfeqCD](http://t.co/dBWoPfeqCD)
 > 
-> — Jay Cuthrell (@JayCuthrell) [June 1, 2015](https://twitter.com/JayCuthrell/status/605429463128539137)
+> — Jay Cuthrell (@JayCuthrell) [June 1, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/605429463128539137)
 > 
 > 
 
 
 > Kudos [@CiscoDC](https://twitter.com/ciscoDC) team on being recognized for fruitful [@Cisco](https://twitter.com/Cisco) partnerships with [@VCE](https://twitter.com/VCE) [@EMCcorp](https://twitter.com/EMCcorp) ok and [@NetApp](https://twitter.com/NetApp) too! :wink: [pic.twitter.com/CiFdK0wNhx](http://t.co/CiFdK0wNhx)
 > 
-> — Jay Cuthrell (@JayCuthrell) [June 26, 2015](https://twitter.com/JayCuthrell/status/614493681622450176)
+> — Jay Cuthrell (@JayCuthrell) [June 26, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/614493681622450176)
 > 
 > 
 
@@ -235,7 +235,7 @@ Enjoy!
 
 > And now... [@EMCcorp](https://twitter.com/EMCcorp) [@pivotal](https://twitter.com/pivotal) [@RSAsecurity](https://twitter.com/RSAsecurity) [@VCE](https://twitter.com/VCE) [@virtustream](https://twitter.com/virtustream) [@VMware](https://twitter.com/VMware) [pic.twitter.com/bmtTR2bwev](http://t.co/bmtTR2bwev)
 > 
-> — Jay Cuthrell (@JayCuthrell) [August 22, 2015](https://twitter.com/JayCuthrell/status/635132173272481792)
+> — Jay Cuthrell (@JayCuthrell) [August 22, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/635132173272481792)
 > 
 > 
 
@@ -251,14 +251,14 @@ Enjoy!
 
 > [#VMworld](https://twitter.com/hashtag/VMworld?src=hash) [#Federation](https://twitter.com/hashtag/Federation?src=hash) [pic.twitter.com/WUaGH6e10K](http://t.co/WUaGH6e10K)
 > 
-> — Jay Cuthrell (@JayCuthrell) [September 2, 2015](https://twitter.com/JayCuthrell/status/639184382419337220)
+> — Jay Cuthrell (@JayCuthrell) [September 2, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/639184382419337220)
 > 
 > 
 
 
 > [pic.twitter.com/7lKAjdWYFD](http://t.co/7lKAjdWYFD)
 > 
-> — Jay Cuthrell (@JayCuthrell) [September 28, 2015](https://twitter.com/JayCuthrell/status/648524895433957376)
+> — Jay Cuthrell (@JayCuthrell) [September 28, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/648524895433957376)
 > 
 > 
 
@@ -295,7 +295,7 @@ Again, I think it is important to consider not just the past 72 hours, but the p
 
 > "We look forward to continuing to enable your growth and success through [@VCE](https://twitter.com/VCE)." Source: <http://t.co/2Gm4wltDwL> [pic.twitter.com/GZf4s8Seuu](http://t.co/GZf4s8Seuu)
 > 
-> — Jay Cuthrell (@JayCuthrell) [October 15, 2015](https://twitter.com/JayCuthrell/status/654731437250187264)
+> — Jay Cuthrell (@JayCuthrell) [October 15, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/654731437250187264)
 > 
 > 
 
@@ -318,7 +318,7 @@ Speaking of which… here’s a great example of a 72 months view and perspectiv
 
 > After you cut through the hype and hyperbole, it comes down to repeated systematic execution at significant scale. [pic.twitter.com/YXzrUlH3Ff](http://t.co/YXzrUlH3Ff)
 > 
-> — Jay Cuthrell (@JayCuthrell) [July 25, 2015](https://twitter.com/JayCuthrell/status/625025793740009472)
+> — Jay Cuthrell (@JayCuthrell) [July 25, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/625025793740009472)
 > 
 > 
 
@@ -332,49 +332,49 @@ GAME ON!!!
 
 > Great [@VCE](https://twitter.com/VCE) customer tech center session today. Here is a non-NDA version of my whiteboard session... 😉 [#VCECTC](https://twitter.com/hashtag/VCECTC?src=hash) [pic.twitter.com/AZH7QJ0xqM](http://t.co/AZH7QJ0xqM)
 > 
-> — Jay Cuthrell (@JayCuthrell) [January 14, 2015](https://twitter.com/JayCuthrell/status/555451388444934144)
+> — Jay Cuthrell (@JayCuthrell) [January 14, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/555451388444934144)
 > 
 > 
 
 
 > HI JAY. HOW IS YOUR WEEK GOING? [pic.twitter.com/Ufv8LW7dWG](http://t.co/Ufv8LW7dWG)
 > 
-> — Jay Cuthrell (@JayCuthrell) [February 5, 2015](https://twitter.com/JayCuthrell/status/563456687177072640)
+> — Jay Cuthrell (@JayCuthrell) [February 5, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/563456687177072640)
 > 
 > 
 
 
 > Awesome whiteboard session yesterday. Here's what I can share: [pic.twitter.com/aztIVWcyvD](http://t.co/aztIVWcyvD)
 > 
-> — Jay Cuthrell (@JayCuthrell) [February 8, 2015](https://twitter.com/JayCuthrell/status/564247679468060672)
+> — Jay Cuthrell (@JayCuthrell) [February 8, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/564247679468060672)
 > 
 > 
 
 
 > Another great whiteboard session excerpt that I can share [pic.twitter.com/aYD9vdbU9r](http://t.co/aYD9vdbU9r)
 > 
-> — Jay Cuthrell (@JayCuthrell) [February 14, 2015](https://twitter.com/JayCuthrell/status/566413428198080512)
+> — Jay Cuthrell (@JayCuthrell) [February 14, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/566413428198080512)
 > 
 > 
 
 
 > This is how I sign my NDA's lately [pic.twitter.com/WC5i6eATba](http://t.co/WC5i6eATba)
 > 
-> — Jay Cuthrell (@JayCuthrell) [August 10, 2015](https://twitter.com/JayCuthrell/status/630768963866071040)
+> — Jay Cuthrell (@JayCuthrell) [August 10, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/630768963866071040)
 > 
 > 
 
 
 > Oh. If you only knew.
 > 
-> — Jay Cuthrell (@JayCuthrell) [August 22, 2015](https://twitter.com/JayCuthrell/status/634914619346149376)
+> — Jay Cuthrell (@JayCuthrell) [August 22, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/634914619346149376)
 > 
 > 
 
 
 > MEGA MEGA SUBTWEET MEGA MEGA SUBTWEET
 > 
-> — Jay Cuthrell (@JayCuthrell) [August 26, 2015](https://twitter.com/JayCuthrell/status/636359099270103040)
+> — Jay Cuthrell (@JayCuthrell) [August 26, 2015](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/636359099270103040)
 > 
 > 
 

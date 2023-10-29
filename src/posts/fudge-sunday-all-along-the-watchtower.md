@@ -81,15 +81,15 @@ What is Data Gravity? Watch this video for a quick summary in under 30 seconds: 
 
 Related to the themes above, a Quote Tweet of Techmeme coverage to highlight what I believe is coming sooner than we might think.
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1409177507606188032)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1409177507606188032)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1409177507606188032)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1409177507606188032)
 
 Today: Typically, an automobile must be taken to a dealership to wait for hours while a USB thumb drive or CDROM/DVD is used to manually install a software fix or update.🚗⏳🔧💸  
   
 Soon: Automotive OTA (over the air) update will eventually be embraced by all manufacturers.📻🚗💰📈 <https://t.co/NfNZyoRBdY>
 
- [2:52 PM - 3 Jul 2021](https://twitter.com/JayCuthrell/status/1409177507606188032)
+ [2:52 PM - 3 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1409177507606188032)
 
 **[Techmeme](https://twitter.com/Techmeme/status/1408895576955973632)**
 

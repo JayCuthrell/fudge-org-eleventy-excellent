@@ -15,9 +15,9 @@ Thanks for sticking around! My second installment is a bit longer but I plan to 
 
 The New Console and the Art of IT
 
-[Jay Cuthrell 🤓💡🚀☁ on Twitter: “Great quote on new IT paradigms: “This is not a world of wizards and clicky clicky anymore.” — @jtroyer https://t.co/DW06v30scE”](https://twitter.com/JayCuthrell/status/813100554150965249?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[Jay Cuthrell 🤓💡🚀☁ on Twitter: “Great quote on new IT paradigms: “This is not a world of wizards and clicky clicky anymore.” — @jtroyer https://t.co/DW06v30scE”](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/813100554150965249?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/JayCuthrell/status/813100554150965249?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/PQGRA?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/813100554150965249?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/PQGRA?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 John always has great sound bites.
 

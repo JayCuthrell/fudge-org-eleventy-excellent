@@ -57,13 +57,13 @@ Indeed, the very notion of needing to move data from edge to core to cloud seems
 
  **Tweets for the road...**
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1409983779616264201)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1409983779616264201)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1409983779616264201)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1409983779616264201)
 
 What is Data Gravity? Watch this video from @[factioninc](https://twitter.com/factioninc) for a quick summary in under 30 seconds: <https://t.co/0aLKqRsNTs> [#datagravity](https://twitter.com/search?q=%23datagravity "#datagravity") [#multicloud](https://twitter.com/search?q=%23multicloud "#multicloud")
 
- [5:15 PM - 29 Jun 2021](https://twitter.com/JayCuthrell/status/1409983779616264201)
+ [5:15 PM - 29 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1409983779616264201)
 
 **[What Is Data Gravity?](https://www.factioninc.com/blog/data-gravity-as-the-center-of-your-multi-cloud-universe/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
@@ -71,9 +71,9 @@ Adopting one or more clouds might make sense for your business needs, but does i
 
 [www.factioninc.com](https://www.factioninc.com/blog/data-gravity-as-the-center-of-your-multi-cloud-universe/?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1411713487957594113)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1411713487957594113)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1411713487957594113)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1411713487957594113)
 
 Seeing @[CashApp](https://twitter.com/CashApp) appear on more verified accounts that are likely Supper Follower sized.  
   
@@ -81,13 +81,13 @@ The platform is evolving beyond suggested user list (SUL) to suggested patronage
   
 The tipping point will be when throwing crypto in the tip jar is normalized and democratized.
 
-[11:48 AM - 4 Jul 2021](https://twitter.com/JayCuthrell/status/1411713487957594113)
+[11:48 AM - 4 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1411713487957594113)
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1411722348844158976)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1411722348844158976)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1411722348844158976)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1411722348844158976)
 
 Considering the new form factors in the Acoustic Doppler Current Profiler (ADCP) market, moving into shallows and tidal flat characterization seems like the logical movement for open data grants tracking variation in currents beyond commercial closed data source applications.
 
-[12:23 PM - 4 Jul 2021](https://twitter.com/JayCuthrell/status/1411722348844158976)
+[12:23 PM - 4 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1411722348844158976)
 

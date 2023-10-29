@@ -37,15 +37,15 @@ Just around a decade ago, [Gojko Adzic](https://twitter.com/gojkoadzic?utm_campa
 
 Impact Mapping can be challenging because the public cloud is increasingly less about public access than private considerations for the public of specific places. Effectively, this means that Impact Mapping should consider the technology stack **and** the operating geography for the laws or regulatory landscape that may also evolve.
 
-**[[email protected]](https://twitter.com/JayCuthrell/status/1454879951895900165)**
+**[[email protected]](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1454879951895900165)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1454879951895900165)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1454879951895900165)
 
 +15 years: Hyperscale public cloud service providers invest to enable globally diverse infrastructure to support well-architected frameworks.💰☁️  
   
 +15 months: GAIA-X Policy Rules and Architecture of Standards support geopolitical data sovereignty and balkanization frameworks.⚖️🤔 <https://t.co/hv5wZJfOyA>
 
- [2:36 PM - 31 Oct 2021](https://twitter.com/JayCuthrell/status/1454879951895900165)
+ [2:36 PM - 31 Oct 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1454879951895900165)
 
  **Let's restate how we got here**
 

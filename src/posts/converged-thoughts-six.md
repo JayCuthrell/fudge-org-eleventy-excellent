@@ -41,9 +41,9 @@ Now, to be clear, none of this information is really that new but there are some
 
 In fact, I was just tweeting about how much has changed in the past 20 years in how we interact with simple paper forms… well… those still exist too. My point was that – the ability to modernize is still worth ongoing pursuit.
 
-[Another OCR ERP shoe drops… 1997: Paper forms -> Raster scans -> Mainframe -> Jacada -> Web 2017: @HyperScienceAI https://t.co/EbRcMXvXKA](https://twitter.com/JayCuthrell/status/810917335808806920?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[Another OCR ERP shoe drops… 1997: Paper forms -> Raster scans -> Mainframe -> Jacada -> Web 2017: @HyperScienceAI https://t.co/EbRcMXvXKA](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/810917335808806920?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/JayCuthrell/status/810917335808806920?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/4Oxny?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/810917335808806920?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/4Oxny?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 So, perhaps this same AI will be applied as a sort of human travel arranger arbitrage in the same clunky ways telephony IVR attempted to frustrate us until advising we **press 4 to speak to an actual human**. We’ll see.
 
@@ -61,17 +61,17 @@ Whatever does take place, the convergence will likely mean the interaction requi
 
 Pockets of that convergence exist today but they are really crude. Caller ID (setting aside a spoofing debate for the moment) is the most conspicuous one. Then again, there are brittle areas here as reliance upon legacy IVR functions like proper [DTMF](https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) handling can often be less than uniform.
 
-[The Google Voice and DTMF issue is back again too. http://t.co/dm5A5RipVs](https://twitter.com/JayCuthrell/status/596687630261096448?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[The Google Voice and DTMF issue is back again too. http://t.co/dm5A5RipVs](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/596687630261096448?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/JayCuthrell/status/596687630261096448?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/3RX29?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/596687630261096448?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/3RX29?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
-[The poor state of uniform DTMF support in bad IVR design likely means the AI voice bots will bring discombobulated malaise to the masses.](https://twitter.com/JayCuthrell/status/738897678801637376?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[The poor state of uniform DTMF support in bad IVR design likely means the AI voice bots will bring discombobulated malaise to the masses.](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/738897678801637376?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/JayCuthrell/status/738897678801637376?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/YQZAB?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/738897678801637376?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/YQZAB?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
-[2016 telephony trends: phone = buggy “app” DTMF = broken voip trunks = race to zero IVR = bad voice prompts = worse AI/ML (hype) = worst ☎=💀](https://twitter.com/JayCuthrell/status/808878295462907904?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[2016 telephony trends: phone = buggy “app” DTMF = broken voip trunks = race to zero IVR = bad voice prompts = worse AI/ML (hype) = worst ☎=💀](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/808878295462907904?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/JayCuthrell/status/808878295462907904?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/6OY12?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/808878295462907904?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/6OY12?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 So, in summary… security will become important and placed into improvements of the system *when it is part of the personal preference of the consumer*. Those improvements in the system will take the form of convergence in that we won’t have to remember something or have something to get what we want… [sitting in a chair in the sky](https://youtu.be/akiVi1sR2rM?t=5m20s&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 

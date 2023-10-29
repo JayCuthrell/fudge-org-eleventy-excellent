@@ -97,9 +97,9 @@ One of the common phrases associated with astronauts is the change in their pers
 
  **Quote Tweeting Techmeme**
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1409181624214999042)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1409181624214999042)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1409181624214999042)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1409181624214999042)
 
 The past 10 years saw democratization of data science related verbs like extract, load, transform (ELT/ETL).  
   
@@ -107,7 +107,7 @@ The next 10 years will see new verbs\* become startup mission statements that fu
   
 \* enrich, clean, validate, collate, ameliorate, deprecate, etc <https://t.co/2JdpuRyhbv>
 
- [2:52 PM - 3 Jul 2021](https://twitter.com/JayCuthrell/status/1409181624214999042)
+ [2:52 PM - 3 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1409181624214999042)
 
 **[Techmeme](https://twitter.com/Techmeme/status/1408942223375228928)**
 
@@ -120,9 +120,9 @@ Rasgo, a GitHub-like repository which helps data scientists explore, clean, join
 
  [8:16 PM - 26 Jun 2021](https://twitter.com/Techmeme/status/1408942223375228928)
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1415437140104732673)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1415437140104732673)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1415437140104732673)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1415437140104732673)
 
 A preferred high ground game in metro network connectivity arbitrage is roof rights on tall buildings.🌆  
   
@@ -130,7 +130,7 @@ I would argue that new revenue (forgive me) angles can involve creative use of d
   
 What company could possibly afford all the top floors?🤔 <https://t.co/dGvqmFAvHo>
 
- [6:24 PM - 14 Jul 2021](https://twitter.com/JayCuthrell/status/1415437140104732673)
+ [6:24 PM - 14 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1415437140104732673)
 
 **[Techmeme](https://twitter.com/Techmeme/status/1415056194398343169)**
 
@@ -143,21 +143,21 @@ In April, Amazon acquired over a dozen staff from Facebook to boost its own low 
 
  [5:11 PM - 13 Jul 2021](https://twitter.com/Techmeme/status/1415056194398343169)
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1418944928097488902)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1418944928097488902)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1418944928097488902)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1418944928097488902)
 
 Cloud egress fees are the 2020s version of long distance charges from the 1990s. <https://t.co/0dN54ON65X>
 
-[10:43 AM - 24 Jul 2021](https://twitter.com/JayCuthrell/status/1418944928097488902)
+[10:43 AM - 24 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1418944928097488902)
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1418945477341483015)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1418945477341483015)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1418945477341483015)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1418945477341483015)
 
 There will be a precipitous drop in memory costs and the future of egregious egress fees for cloud hosting providers is going to shift from awkward to completely unjustifiable. <https://t.co/up1aKoC3qe>
 
-[10:45 AM - 24 Jul 2021](https://twitter.com/JayCuthrell/status/1418945477341483015)
+[10:45 AM - 24 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1418945477341483015)
 
 **[Techmeme](https://twitter.com/Techmeme/status/1418750564423241729)**
 

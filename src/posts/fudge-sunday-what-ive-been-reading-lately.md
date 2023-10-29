@@ -61,9 +61,9 @@ a16z has become quite the content farm over the years in addition to their VC ro
 
 My fleeting tweet take on this….
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1406363851151532035)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1406363851151532035)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1406363851151532035)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1406363851151532035)
 
 ✍️ @[a16z](https://twitter.com/a16z) built a precision earned media content farm over the years: blogs, essays, podcasts, newsletters, events, etc.  
   
@@ -71,7 +71,7 @@ My fleeting tweet take on this….
   
 🔮Perhaps a content farm gets more deal flow than tech finance journalists questioning investment theses for a post-biomimicry crypto paradigm "future" <https://t.co/3c6MDBIpFW>
 
- [5:30 PM - 19 Jun 2021](https://twitter.com/JayCuthrell/status/1406363851151532035)
+ [5:30 PM - 19 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1406363851151532035)
 
 [![Two way global fish bowls](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3a0aa525-f80b-46a3-b0bf-c2070d02b226_600x314.jpeg "Two way global fish bowls")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3a0aa525-f80b-46a3-b0bf-c2070d02b226_600x314.jpeg)**[Two way global fish bowls](https://www.theverge.com/2021/5/30/22460964/vilnius-lithuania-portal-poland-connection-pandemic?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
@@ -99,14 +99,14 @@ Next month I’ll have a summary of this longer piece on my own blog but for now
 
 One last tweet for the road…
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1406376556528812036)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1406376556528812036)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1406376556528812036)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1406376556528812036)
 
 Eventually "the hot aisle" will become niche as changing heat exchange uses cases bring two-phase engineered fluid immersion cooling into wider adoption that are compounded by the progression of advanced RISC machines to edge / core / cloud modalities.  
 <https://t.co/2PoEwFESGs>
 
- [6:21 PM - 19 Jun 2021](https://twitter.com/JayCuthrell/status/1406376556528812036)
+ [6:21 PM - 19 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1406376556528812036)
 
 The end. 🤓
 

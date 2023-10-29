@@ -25,17 +25,17 @@ Git Er Done
 
 Great analogy.
 
-[Oracle License is an anagram for Lies Concealer… 🤔 https://t.co/0FVzZYyesg](https://twitter.com/JayCuthrell/status/766748934177894400?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[Oracle License is an anagram for Lies Concealer… 🤔 https://t.co/0FVzZYyesg](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/766748934177894400?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/JayCuthrell/status/766748934177894400?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/ROPVP?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/766748934177894400?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/ROPVP?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 Total coincidence. Right?
 
 Anagrams are fun. Sometimes an anagram works on multiple levels. I’ll play a bit of advocacy of a devious nature in a moment if you’ll stay with me for a few more data points to consider.
 
-[It’s like that old saying… “A picture is worth a thousand active core elements or named users based solely upon what the market will bear” https://t.co/3VeylDUZhP](https://twitter.com/JayCuthrell/status/817825834941710336?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[It’s like that old saying… “A picture is worth a thousand active core elements or named users based solely upon what the market will bear” https://t.co/3VeylDUZhP](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/817825834941710336?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/JayCuthrell/status/817825834941710336?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/beao6?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/817825834941710336?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/beao6?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 Okay, technically there are more than just cores or users to content with but you get the gist…
 
@@ -52,9 +52,9 @@ Most Impressive
 
 Now, before we get to the next part, I’d like to set aside time to praise a few elements of strategery on the part of Oracle. Stay with me here.
 
-[“Oracle would rather sell you a $5M system than a $3k switch. That’s how the appliance market works.” #GartnerDC](https://twitter.com/JayCuthrell/status/674765364123688960?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[“Oracle would rather sell you a $5M system than a $3k switch. That’s how the appliance market works.” #GartnerDC](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/674765364123688960?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/JayCuthrell/status/674765364123688960?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/kn3jP?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/674765364123688960?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/kn3jP?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 Still one of my favorite sessions ever at a Gartner event.
 
@@ -72,17 +72,17 @@ Jay Cuthrell of the VCE Office of the CTO dropped by theCUBE at the recently con
 
 Over the next 5 years since Exadata was announced a series of M&A events added to the history of Oracle. 2013 was an interesting year for Oracle and the M&A continued into 2016.
 
-[Few M&A teams impress me as much as the ones at @Oracle. Just think about it. Right? http://t.co/aaZuSWXfsm](https://twitter.com/Qthrul/status/414127135897296896?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[Few M&A teams impress me as much as the ones at @Oracle. Just think about it. Right? http://t.co/aaZuSWXfsm](https://web.archive.org/web/20230000000000*/https://twitter.com/Qthrul/status/414127135897296896?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/Qthrul/status/414127135897296896?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/rjv7k?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/Qthrul/status/414127135897296896?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/rjv7k?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
-[The sheer pace of M&A activity by Oracle in telecom is mesmerizing #oow13 see also https://t.co/bXKGCvgX3z](https://twitter.com/Qthrul/status/381947863191678977?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[The sheer pace of M&A activity by Oracle in telecom is mesmerizing #oow13 see also https://t.co/bXKGCvgX3z](https://web.archive.org/web/20230000000000*/https://twitter.com/Qthrul/status/381947863191678977?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/Qthrul/status/381947863191678977?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/KQwAn?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/Qthrul/status/381947863191678977?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/KQwAn?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
-[IMHO, the most impressive M&A moves from Oracle are 1) TimesTen 2) Acme Packet and now 3) Tekelec http://t.co/Y8k10C7eN0 #voip #telecom #ss7](https://twitter.com/Qthrul/status/316316952668811264?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[IMHO, the most impressive M&A moves from Oracle are 1) TimesTen 2) Acme Packet and now 3) Tekelec http://t.co/Y8k10C7eN0 #voip #telecom #ss7](https://web.archive.org/web/20230000000000*/https://twitter.com/Qthrul/status/316316952668811264?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/Qthrul/status/316316952668811264?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/mE6MB?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/Qthrul/status/316316952668811264?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/mE6MB?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 [List of acquisitions by Oracle](https://en.wikipedia.org/wiki/List_of_acquisitions_by_Oracle?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 

@@ -68,9 +68,9 @@ Ultimately, the [convergence of interactive, music, and film concepts would play
 
 One final note… if you are curious about the music selections I’m looking forward to seeing just start with this tweet and I’ll keep replying as I find new or interesting artists
 
-[The listening has started… https://t.co/gIO7tvQUiy](https://twitter.com/JayCuthrell/status/816142856775757824?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[The listening has started… https://t.co/gIO7tvQUiy](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/816142856775757824?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/JayCuthrell/status/816142856775757824?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/Z3406?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/816142856775757824?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/Z3406?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
-source: [https://twitter.com/JayCuthrell/status/816142856775757824](https://twitter.com/JayCuthrell/status/816142856775757824?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+source: [https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/816142856775757824](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/816142856775757824?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 

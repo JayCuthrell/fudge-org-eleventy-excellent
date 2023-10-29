@@ -59,9 +59,9 @@ Increasingly, we’re walking around with ever more computationally powerful tec
 
 And now… it’s 161 as of this issue of the newsletter. 😱
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1420776189547925506)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1420776189547925506)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1420776189547925506)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1420776189547925506)
 
 Question: What if "Cloud" is talent sequestration?🤔  
   
@@ -74,7 +74,7 @@ Anecdote: Updated stats on IT brain drain flow into hyperscale cloud service pro
   
 🤯160🤯
 
-[12:00 PM - 29 Jul 2021](https://twitter.com/JayCuthrell/status/1420776189547925506)
+[12:00 PM - 29 Jul 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1420776189547925506)
 
  **Final Reading for the Road...**
 

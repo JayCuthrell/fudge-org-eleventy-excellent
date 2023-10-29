@@ -11,7 +11,7 @@ date: 2021-12-27 02:29:29+00:00
 
  **Getting Informed**
 
-You may recall that I use Twitter in an ephemeral way. I use Tweepy to *cleanup* after I get [my ideas tweeted](https://twitter.com/jaycuthrell?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) that might survive being added in an issue of [my newsletter](https://sunday.fudge.org?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) and then (maybe one day) on [my blog](https://fudge.org?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
+You may recall that I use Twitter in an ephemeral way. I use Tweepy to *cleanup* after I get [my ideas tweeted](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) that might survive being added in an issue of [my newsletter](https://sunday.fudge.org?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) and then (maybe one day) on [my blog](https://fudge.org?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter).
 
 Sometimes I’m doing meta commentary on [@Techmeme](https://twitter.com/Techmeme?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Sometimes my meta commentary gets picked up by [@TechmemeChatter](https://twitter.com/TechmemeChatter?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) when linked to on [techmeme.com](https://www.google.com/search?q=jaycuthrell%20site%3Atechmeme.com&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) from [@jaycuthrell](https://www.google.com/search?q=jaycuthrell%20site%3Atechmeme.com&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) even back in the olden times of my original [@qthrul](https://www.google.com/search?q=qthrul%20site%3Atechmeme.com&utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) handle.
 
@@ -25,9 +25,9 @@ If [chipmakers are on track to spend $152B on semiconductor fabrication faciliti
 
 My thinking at the time of this Techmeme coverage revolved around the idea that a pattern from 2011 might mean big things for 2022.
 
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bec5e238-c582-4b0f-bca9-81fbb7dfd0c5_600x600.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbec5e238-c582-4b0f-bca9-81fbb7dfd0c5_600x600.jpeg)**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1472761084113215498)**
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bec5e238-c582-4b0f-bca9-81fbb7dfd0c5_600x600.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbec5e238-c582-4b0f-bca9-81fbb7dfd0c5_600x600.jpeg)**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1472761084113215498)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1472761084113215498)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1472761084113215498)
 
 Flashback: In 2011, Thailand monsoon and rainfall flooding took lives, impacted lives, disrupted global manufacturing supply chains, and led to a year of hard disk drive shortages.  
   
@@ -37,7 +37,7 @@ Soon: A "cheap as chips" future.📉
   
 Images via @[BlocksandFiles](https://twitter.com/BlocksandFiles) @[Wikibon](https://twitter.com/Wikibon) @[backblaze](https://twitter.com/backblaze) <https://t.co/oL636IaPg1> <https://t.co/W3mmVNRya2>
 
- [9:49 PM - 19 Dec 2021](https://twitter.com/JayCuthrell/status/1472761084113215498)
+ [9:49 PM - 19 Dec 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1472761084113215498)
 
 [![Via @Backblaze via @BlocksAndFiles](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/71e94a25-1995-451f-aa9e-f788853a62ae_600x600.jpeg "Via @Backblaze via @BlocksAndFiles")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F71e94a25-1995-451f-aa9e-f788853a62ae_600x600.jpeg)Via @Backblaze via @BlocksAndFiles
 

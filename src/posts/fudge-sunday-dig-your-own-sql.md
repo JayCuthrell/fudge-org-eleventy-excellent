@@ -91,13 +91,13 @@ However, if you are interested in the topics covered in this issue of my newslet
 
  **One last Techmeme Quote Tweet for the road...**
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1425923292414816260)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1425923292414816260)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1425923292414816260)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1425923292414816260)
 
 Tip of the hat to those that opine on the timelines for eventual displacement (or at least partnering via augmentation) of the C Suite by sufficiently advanced AI. <https://t.co/WfKMzt5BEc>
 
- [4:52 PM - 12 Aug 2021](https://twitter.com/JayCuthrell/status/1425923292414816260)
+ [4:52 PM - 12 Aug 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1425923292414816260)
 
 **[Techmeme](https://twitter.com/Techmeme/status/1425917707053006849)**
 

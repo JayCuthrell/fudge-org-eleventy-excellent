@@ -18,13 +18,13 @@ Side note: If you are enjoying these updates please share them with your peers o
 20 Years In Streaming Music
 ===========================
 
-[“listening to old sk00l dave pearce”](https://twitter.com/Qthrul/status/3217513?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[“listening to old sk00l dave pearce”](https://web.archive.org/web/20230000000000*/https://twitter.com/Qthrul/status/3217513?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
 [twitter.com](http://rev.vu/JQbww?utm_campaign=Issue&utm_content=domain&utm_medium=email&utm_source=Fudge+Sunday) - [Share](http://rev.vu/JQbww?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 10 years ago I signed up for a Twitter account (@qthrul) that would pump out 40,000 tweets in just over 7 years before I moved on to another more professionally namesaked Twitter account (@JayCuthrell).
 
-[My first “tweet” in 2007](https://twitter.com/Qthrul/status/3217513?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) referenced back to just over a decade prior when I had come to enjoy online music streaming services back in 1997.
+[My first “tweet” in 2007](https://web.archive.org/web/20230000000000*/https://twitter.com/Qthrul/status/3217513?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) referenced back to just over a decade prior when I had come to enjoy online music streaming services back in 1997.
 
 What was different in 2007 was just how much had converged by then. It’s even more converged now as we enter 2017.
 

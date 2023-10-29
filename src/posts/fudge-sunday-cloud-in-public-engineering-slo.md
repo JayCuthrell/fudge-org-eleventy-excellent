@@ -120,7 +120,7 @@ SLO / SLI / SLA crisp definitions with @[ahidalgosre](https://twitter.com/ahidal
 
 [@Illdrinn](https://twitter.com/Illdrinn/status/1447421674979221507)
 
-@[JayCuthrell](https://twitter.com/JayCuthrell) @[rakyll](https://twitter.com/rakyll) @[whereistanya](https://twitter.com/whereistanya) @[copyconstruct](https://twitter.com/copyconstruct) @[lizthegrey](https://twitter.com/lizthegrey) @[mipsytipsy](https://twitter.com/mipsytipsy) Oh so that's literally just a tweet of me taking a photo of @[ahidalgosre](https://twitter.com/ahidalgosre) at DevOps Days. If you want to see things I'm doing with SLOs atm check out my TLs talk at SLOConf <https://t.co/myjpcOxGcl>
+@[JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell) @[rakyll](https://twitter.com/rakyll) @[whereistanya](https://twitter.com/whereistanya) @[copyconstruct](https://twitter.com/copyconstruct) @[lizthegrey](https://twitter.com/lizthegrey) @[mipsytipsy](https://twitter.com/mipsytipsy) Oh so that's literally just a tweet of me taking a photo of @[ahidalgosre](https://twitter.com/ahidalgosre) at DevOps Days. If you want to see things I'm doing with SLOs atm check out my TLs talk at SLOConf <https://t.co/myjpcOxGcl>
 
 [12:39 AM - 11 Oct 2021](https://twitter.com/Illdrinn/status/1447421674979221507)
 

@@ -27,13 +27,13 @@ So, imagine the mechanical pencil used by engineers of the time becoming somethi
 
 SDRs are not new. However, getting another chunk of radio spectrum that *anyone* can use is a fairly recent development.
 
-**[Jay Cuthrell](https://twitter.com/JayCuthrell/status/1475991365666410498)**
+**[Jay Cuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1475991365666410498)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1475991365666410498)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1475991365666410498)
 
 This is excellent news. US citizens will enjoy the fruits of this ruling concurrent with the growing ubiquity of democratized access to signal processing via Software Defined Radios (SDRs) and edge computing solutions.🤖📻☁️📡📶 <https://t.co/rEbrrCIs99>
 
- [7:45 PM - 28 Dec 2021](https://twitter.com/JayCuthrell/status/1475991365666410498)
+ [7:45 PM - 28 Dec 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1475991365666410498)
 
 **[Unlicensed = Anyone Can Participate](https://www.techmeme.com/211228/p11?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a211228p11)**
 

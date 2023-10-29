@@ -42,9 +42,9 @@ Still, even as I tap this update into Revue I’m reminded of how many years I�
 
 What hasn’t changed is the experimentation with different ways to present the blog. In fact, I’m still considering what I’ll do for 2017 with the rendering side of the workflow. We’ll see.
 
-[I just got my $1.11 bill from @cloudfoundry and I’m wondering how much it will be to move over my blog from @github pages completely.](https://twitter.com/JayCuthrell/status/625551527453667328?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[I just got my $1.11 bill from @cloudfoundry and I’m wondering how much it will be to move over my blog from @github pages completely.](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/625551527453667328?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
-[twitter.com](https://twitter.com/JayCuthrell/status/625551527453667328?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/PQroG?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
+[twitter.com](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/625551527453667328?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/PQroG?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
 That tweet was from 2015. So, clearly I’m a bit behind on this goal. Then again, I’m sensitive to the ongoing monthly cost of maintaining a blog. Hence, using my GitHub repository as a means to accomplish already paid for blog hosting.
 

@@ -34,7 +34,7 @@ Notifications Zero and Notifications Bankruptcy
 
 [www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=z9UjeTMb3Yk) – [Share](http://rev.vu/beY5R?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
-[Inbox Zero and email bankruptcy are “decade ago” nostalgia milestones Long Live Notifications Zero #chatops #mobile https://t.co/4RHHkizRcI](https://twitter.com/JayCuthrell/status/813130283880947713?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
+[Inbox Zero and email bankruptcy are “decade ago” nostalgia milestones Long Live Notifications Zero #chatops #mobile https://t.co/4RHHkizRcI](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/813130283880947713?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
 If you know me then you know I tend to become infatuated with new tools for collaboration, sharing, and the like. Years ago these tools were referred to as groupware. Yes, I *really* liked Google Wave.
 

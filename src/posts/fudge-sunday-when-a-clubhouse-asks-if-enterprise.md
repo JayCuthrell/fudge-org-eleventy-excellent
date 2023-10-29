@@ -33,87 +33,87 @@ By the time I joined, I noted that [Deidre Paknad](https://www.linkedin.com/in/d
 
 It got Enterprise sales jargon… very fast.
 
-**[Jay Cuthrell 🤓 ☁️ 🚀](https://twitter.com/JayCuthrell/status/1403113825747050497)**
+**[Jay Cuthrell 🤓 ☁️ 🚀](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403113825747050497)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1403113825747050497)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403113825747050497)
 
 MEDDPICC references already... <https://t.co/RLYFVF9HUo>
 
- [6:16 PM - 10 Jun 2021](https://twitter.com/JayCuthrell/status/1403113825747050497)
+ [6:16 PM - 10 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403113825747050497)
 
 Procurement has entered the room…
 
-**[Jay Cuthrell 🤓 ☁️ 🚀](https://twitter.com/JayCuthrell/status/1403114380015833089)**
+**[Jay Cuthrell 🤓 ☁️ 🚀](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403114380015833089)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1403114380015833089)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403114380015833089)
 
 MEDDPICC -- the P stands for perennial pencil pushing paper prone process paralysis preventing prompt payment progress <https://t.co/yNK6IX5Yqo>
 
- [6:18 PM - 10 Jun 2021](https://twitter.com/JayCuthrell/status/1403114380015833089)
+ [6:18 PM - 10 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403114380015833089)
 
 Kidding aside, there were some significant moments of “YES!” for me listening as someone fortunate enough to build relationships like the kind mentioned in this Clubhouse.
 
-**[Jay Cuthrell 🤓 ☁️ 🚀](https://twitter.com/JayCuthrell/status/1403116779757621258)**
+**[Jay Cuthrell 🤓 ☁️ 🚀](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403116779757621258)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1403116779757621258)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403116779757621258)
 
 Contrasting the "ease of access to C-suite" vs. "parking lot" raw story you likely won't get in the remote world call out from @[day\_dree](https://twitter.com/day_dree) <https://t.co/yNK6IX5Yqo>
 
- [6:28 PM - 10 Jun 2021](https://twitter.com/JayCuthrell/status/1403116779757621258)
+ [6:28 PM - 10 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403116779757621258)
 
 **[David Ulevitch 🇺🇸](https://twitter.com/davidu/status/1403118921851432965)**
 
 [@davidu](https://twitter.com/davidu/status/1403118921851432965)
 
-@[JayCuthrell](https://twitter.com/JayCuthrell) @[day\_dree](https://twitter.com/day_dree) Her surround sound vs 'mono' analogy was incredibly astute.
+@[JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell) @[day\_dree](https://twitter.com/day_dree) Her surround sound vs 'mono' analogy was incredibly astute.
 
  [6:36 PM - 10 Jun 2021](https://twitter.com/davidu/status/1403118921851432965)
 
 When the topic moved to “How are you doing revenue wise” you could feel the forecast call vibe on what was truly essential value for business and what was below the value line. Naturally, there was hesitation to forecast accurately with aplomb.
 
-**[Jay Cuthrell 🤓 ☁️ 🚀](https://twitter.com/JayCuthrell/status/1403117988811845634)**
+**[Jay Cuthrell 🤓 ☁️ 🚀](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403117988811845634)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1403117988811845634)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403117988811845634)
 
 Several references so far on elongated gestation sales cycles commonly experienced vs. annual contract value compression... but... if time to revenue is stretched... same thing? 🤔 <https://t.co/yNK6IX5Yqo>
 
- [6:32 PM - 10 Jun 2021](https://twitter.com/JayCuthrell/status/1403117988811845634)
+ [6:32 PM - 10 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403117988811845634)
 
 Zoom ease of scheduling in a nutshell: Just because you can… doesn’t mean you should.
 
-**[Jay Cuthrell 🤓 ☁️ 🚀](https://twitter.com/JayCuthrell/status/1403118791962337286)**
+**[Jay Cuthrell 🤓 ☁️ 🚀](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403118791962337286)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1403118791962337286)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403118791962337286)
 
 So many references to missing the "over beers" relationship building vs. Zoom back to back meetings for maximum packing factor. <https://t.co/yNK6IX5Yqo>
 
- [6:36 PM - 10 Jun 2021](https://twitter.com/JayCuthrell/status/1403118791962337286)
+ [6:36 PM - 10 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403118791962337286)
 
 Clearly, the thinking has shifted a bit on what it means to get access to the right folks. However, the definitive close plan was less clear.
 
-**[Jay Cuthrell 🤓 ☁️ 🚀](https://twitter.com/JayCuthrell/status/1403119064336244738)**
+**[Jay Cuthrell 🤓 ☁️ 🚀](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403119064336244738)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1403119064336244738)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403119064336244738)
 
 We have our first "outside in vs. inside out" reference <https://t.co/yNK6IX5Yqo>
 
- [6:37 PM - 10 Jun 2021](https://twitter.com/JayCuthrell/status/1403119064336244738)
+ [6:37 PM - 10 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403119064336244738)
 
 How do you build trust with someone you’ve never met in person?
 
-**[Jay Cuthrell 🤓 ☁️ 🚀](https://twitter.com/JayCuthrell/status/1403120367007322118)**
+**[Jay Cuthrell 🤓 ☁️ 🚀](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403120367007322118)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1403120367007322118)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403120367007322118)
 
 The phrase "building rapport" seems to hang on appending "in person". Temporal change for the use of video before COVID vs. after COVID and use of curated video backgrounds vs authentic (messy?). What's the right mix and when in the relationship? <https://t.co/yNK6IX5Yqo>
 
- [6:42 PM - 10 Jun 2021](https://twitter.com/JayCuthrell/status/1403120367007322118)
+ [6:42 PM - 10 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403120367007322118)
 
 Zoom, regrettably, has become a verb. When used as a noun, the connotations varied.
 
-**[Jay Cuthrell 🤓 ☁️ 🚀](https://twitter.com/JayCuthrell/status/1403122193639292929)**
+**[Jay Cuthrell 🤓 ☁️ 🚀](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403122193639292929)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1403122193639292929)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403122193639292929)
 
 Zoom is not "deep substantive engagement" -- @[day\_dree](https://twitter.com/day_dree)   
   
@@ -123,29 +123,29 @@ Zoom puts some at a disadvantage -- @[borisjabes](https://twitter.com/borisjabes
   
 Zoom is about digital competency -- @[digitalrowland](https://twitter.com/digitalrowland) <https://t.co/yNK6IX5Yqo>
 
- [6:49 PM - 10 Jun 2021](https://twitter.com/JayCuthrell/status/1403122193639292929)
+ [6:49 PM - 10 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403122193639292929)
 
 As someone working remotely since 2009-ish, this resonated. I found a picture of my old office in 2009 and while it was very nice it was a lifetime ago.
 
-**[Jay Cuthrell 🤓 ☁️ 🚀](https://twitter.com/JayCuthrell/status/1403123165321121793)**
+**[Jay Cuthrell 🤓 ☁️ 🚀](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403123165321121793)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1403123165321121793)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403123165321121793)
 
 Call out to fully remote (pre COVID) companies that used off sites, trips, trade shows, and other purposeful get togethers in lieu of coming to HQ or central offices to build up the human to human bonds that traditional companies with a culture built on real estate leasing. <https://t.co/yNK6IX5Yqo>
 
- [6:53 PM - 10 Jun 2021](https://twitter.com/JayCuthrell/status/1403123165321121793)
+ [6:53 PM - 10 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403123165321121793)
 
 Most of innovative companies I’ve been pitched in the past few months have been using Loom. It’s good stuff.
 
-**[Jay Cuthrell 🤓 ☁️ 🚀](https://twitter.com/JayCuthrell/status/1403123928336416770)**
+**[Jay Cuthrell 🤓 ☁️ 🚀](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403123928336416770)**
 
-[@JayCuthrell](https://twitter.com/JayCuthrell/status/1403123928336416770)
+[@JayCuthrell](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403123928336416770)
 
 Exemplar pattern called out: @[loom](https://twitter.com/loom)  
   
 Using @[loom](https://twitter.com/loom) as a basis for async proposals and discussion for what @[day\_dree](https://twitter.com/day_dree) calls "doses of value" 🤯 <https://t.co/yNK6IX5Yqo>
 
- [6:56 PM - 10 Jun 2021](https://twitter.com/JayCuthrell/status/1403123928336416770)
+ [6:56 PM - 10 Jun 2021](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1403123928336416770)
 
 This marked the close of the conversation and it wasn’t clear if there would be a recording or transcription posted at the end of the event. But… watch this tweet for updates:
 
