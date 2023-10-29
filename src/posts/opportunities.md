@@ -2,6 +2,9 @@
 title: "There's A Lot of Opportunities "
 description: ''
 date: 2023-06-18 23:50:29.115649+00:00
+tags:
+  - mlops
+  - devx
 
 ---
 

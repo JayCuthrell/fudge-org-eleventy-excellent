@@ -2,6 +2,14 @@
 title: "Fudge Sunday - Once in a Pipeline"
 description: ''
 date: 2022-03-20 21:49:21+00:00
+tags:
+  - finops
+  - mlops
+  - dataops
+  - devx
+  - aiops
+  - modelops
+  - revops
 
 ---
 
