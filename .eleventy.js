@@ -70,6 +70,10 @@ const templateReturn = (template, boolean) => {
 
 module.exports = (eleventyConfig, options = {}) => {
   
+  // basics for sharing per https://www.raymondcamden.com/2022/08/22/adding-social-share-links-in-eleventy
+
+  eleventyConfig.addGlobalData("rootURL", "https://fudge.org");
+
   // 	--------------------- Custom Watch Targets -----------------------
   eleventyConfig.addWatchTarget('./src/assets');
   eleventyConfig.addWatchTarget('./utils/*.js');

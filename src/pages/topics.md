@@ -5,5 +5,4 @@ permalink: /topics/index.html
 layout: topics
 ---
 
-Topics:
 
