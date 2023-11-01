@@ -18,7 +18,7 @@ layout: base
       {% set orderedCollection = collections | sortObjectByKey %}
       {% for tag, posts in orderedCollection %}
         {% if tag != "newsletter" and tag != "null" and tag != "postsbyyear" and tag != "postsByYear" and tag != "all" and tag != "posts" %}
-            <a href="/topics/{{tag | slugify}}/">{{ tag }}</a>
+            <a href="/tags/{{ tag }}/" class="button">{{ tag }}</a>
         {% endif %}
       {% endfor %}
 
