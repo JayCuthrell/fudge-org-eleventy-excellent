@@ -5,8 +5,8 @@ date: 2023-09-06
 tags: 
   - newsletter
   - obsidian
-  - Zettelkasten
-  - 
+  - zettelkasten
+  - buttondown
 
 ---
 

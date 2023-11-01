@@ -8,7 +8,7 @@ tags:
   - backstage
   - idp
   - platform engineering
-  - Zettelkasten
+  - zettelkasten
 
 ---
 

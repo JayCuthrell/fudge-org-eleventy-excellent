@@ -6,10 +6,10 @@ tags:
   - newsletter
   - ai
   - gartner
-  - Atlassian
-  - ServiceNow
-  - Workday
-  - Salesforce
+  - atlassian
+  - serviceNow
+  - workday
+  - salesforce
   - isv
 
 ---
