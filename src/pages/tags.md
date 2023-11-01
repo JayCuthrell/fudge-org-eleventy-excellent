@@ -1,12 +1,12 @@
--
+---
 layout: page
-title: Tags
-permalink: /tags/index.html
+title: Topics
+permalink: /topics/index.html
 ---
 
 <div class="my-s-m cluster">
 {% for tag in collections.tagList %}
-<a href="/tags/{{ tag }}" class="button">
+<a href="/topics/{{ tag }}" class="button">
 {{ tag }}
 </a>
 {% endfor %}

@@ -10,7 +10,7 @@ module.exports = {
     },
     {
       text: 'Topics',
-      url: '/tags/'
+      url: '/topics/'
     }
   ],
   bottom: [
