@@ -1,6 +1,6 @@
 ---
 title: "A Matter of Zero Trust"
-description: ''
+description: 'A look at Zero Trust, Zero Trust Model, Zero Trust Security Model, Zero Trust Reference Architecture'
 date: 2022-11-06 23:56:58.501000+00:00
 tags:
   - ztna

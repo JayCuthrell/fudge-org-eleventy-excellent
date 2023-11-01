@@ -1,6 +1,6 @@
 ---
 title: "A Cold Shot and Chaser"
-description: ''
+description: 'Looking back at prior coverage and predictions'
 date: 2022-08-22 00:21:47.947000+00:00
 tags:
   - knowledge-centers

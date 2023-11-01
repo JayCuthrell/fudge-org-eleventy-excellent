@@ -1,12 +1,18 @@
 ---
 title: "And for my next trick"
-description: ''
+description: 'A dotcom tale'
 date: 2002-07-08 19:46:31+00:00
+tags: 
+  - dotcom
+  - consulting
+  - travel
+  - career
 
 ---
 
 [![Scient](https://substack.com/static/4d05513d8cbb0d6d9d73296f1dcde6b9/75985/11394363596.jpg "Scient")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2F4d05513d8cbb0d6d9d73296f1dcde6b9%2F75985%2F11394363596.jpg)From: Jay Cuthrell
 
+```
 To: All Scient Global
 
 Cc: [jay@cuthrell.com](mailto:jay@cuthrell.com)
@@ -65,3 +71,4 @@ Scient ®: Results come from experience™
 
 [jcuthrell@scient.com](mailto:jcuthrell@scient.com) [www.scient.com](http://www.scient.com)
 
+```

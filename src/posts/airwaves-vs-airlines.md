@@ -1,7 +1,12 @@
 ---
 title: "Airwaves vs Airlines"
-description: ''
+description: 'On face to face meetings and technology'
 date: 2010-02-05 00:00:00+00:00
+tags: 
+  - travel
+  - telepresence
+  - remote-work
+  - telecom
 
 ---
 

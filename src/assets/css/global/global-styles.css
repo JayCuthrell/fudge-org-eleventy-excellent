@@ -11,6 +11,12 @@ body {
   font-family: var(--font-base);
   line-height: 1.4;
   letter-spacing: var(--tracking);
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: auto;
 }
 
 /* Base typesetting */
@@ -97,6 +103,22 @@ main:focus {
 }
 
 article [href^='http']:not([href*='fudge.org'])::after {
+  display: inline-block;
+  inline-size: 1em;
+  block-size: 1em;
+  background-image: url('/assets/images/icn-external.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 60% auto;
+  /* alternative text rules */
+  content: '(external link)';
+  overflow: hidden;
+  white-space: nowrap;
+  text-indent: 1em; /* the width of the icon */
+}
+
+article [href^='http']:not([href*='fudge.org']):not(.no-indicator)::after {
+  position: absolute;
   display: inline-block;
   inline-size: 1em;
   block-size: 1em;

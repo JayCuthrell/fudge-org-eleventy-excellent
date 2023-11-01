@@ -1,8 +1,14 @@
 ---
 title: "AI Feel You"
-description: ''
+description: 'A look at recent updates to A.I., platform engineering, and DevX'
 date: 2023-07-23 20:36:29.885430+00:00
-
+tags: 
+  - ai
+  - platform-engineering
+  - devx
+  - devops
+  - llm
+  
 ---
 
  

@@ -15,12 +15,12 @@ preloads:
     {% set definedDate = date %} {% include "partials/date.njk" %} by <a href="/about/">{{ meta.author }}</a>
     <p>
     Topics:       
-      {% for tag in tags %}
-        {% if tag != "posts" and tag != "newsletter" %}
-          <a href="/topics/{{ tag }}">{{ tag }}</a>
-        {% endif %}
-      {% endfor %}
+    <!-- include tags -->
+    {% include "partials/post-tags.njk" %}
     </p>
+    <!-- include date -->
+    {% set definedDate = date %} {% include "partials/date.njk" %}
+
     {{ content | safe }}
 
   <p align="right">  

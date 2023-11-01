@@ -42,7 +42,7 @@ module.exports = {
     cif: ''
   },
   "feed": {
-    "subtitle": "the on again off again ramblings of Jay Cuthrell.",
+    "subtitle": "the on again off again ramblings of Jay Cuthrell",
     "filename": "rss.xml",
     "path": "/rss.xml",
     "url": "https://fudge.org/rss.xml",

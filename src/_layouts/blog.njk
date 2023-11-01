@@ -19,14 +19,13 @@ layout: base
     {% set postslist = collections.posts %} {% for post in postslist.slice(0, 1) %}
 
     <li class="card flow overflow-hidden">
-      <h3>
+      <h3>WHATISTHIS
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
       </h3>
       {% set definedDate = post.date %} {% include "partials/date.njk" %}
       <p>{{ post.data.description }}</p>
       <details>
       <summary>Topics:</summary>
-      {% include "partials/topics-loop.njk" %}
       </details>
     </li>
 
