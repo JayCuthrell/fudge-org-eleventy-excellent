@@ -2,7 +2,17 @@
 title: "Please Please OTel Me Now"
 description: ''
 date: 2022-10-17 01:06:39.320000+00:00
-
+tags:
+ - otel
+ - apm
+ - telemetry
+ - platform-engineering
+ - devx
+ - opentelemetry
+ - opentracing
+ - opencensus
+ - aws
+ - adot
 ---
 
 *[Duran Duran - Is There Something I Should Know? (1982)](https://www.youtube.com/watch?v=3M0hogZyRyU)*
