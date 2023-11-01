@@ -13,14 +13,15 @@ preloads:
     <h1 class="gradient-text">{{ title }}</h1>
     
     {% set definedDate = date %} {% include "partials/date.njk" %} by <a href="/about/">{{ meta.author }}</a>
-    <p>
-    Topics:       
-    <!-- include tags -->
-    {% include "partials/post-tags.njk" %}
-    </p>
 
     {{ content | safe }}
 
+
+  <p align="left">
+    Topics:       
+    <!-- include tags -->
+    {% include "partials/post-tags.njk" %}
+  </p>
   <p align="right">  
   ✍️ 🤓 {% gh_edit page %} 🐙 ✍️
   </p>
