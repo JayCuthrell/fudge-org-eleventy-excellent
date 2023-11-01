@@ -28,6 +28,11 @@
       {% endif %}
     </title>
 
+    <!-- synchronous js / schema  -->
+    {% include "schemas/base-schema.njk" %} {% if schema == 'archive' %}
+    <!-- include archive schema  -->
+    {%- include "schemas/archive-schema.njk" %} {% endif %}
+
     <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" />
 
     <!-- preloads -->
