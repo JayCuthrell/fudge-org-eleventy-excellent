@@ -49,7 +49,7 @@ Source: [LinkedIn](https://www.linkedin.com/posts/jaycuthrell_platform-engineeri
 
 > For former [VCE](https://www.linkedin.com/company/vce/) folks, this [Oxide Computer Company](https://www.linkedin.com/company/oxidecomputer/) blog post is worth a read.
 
-[![The world's first commercial cloud computer](https://oxide.computer/og/blog/the-cloud-computer.png)](https://oxide.computer/blog/the-cloud-computer)
+[![The world's first commercial cloud computer](https://oxide-computer.imgix.net/blog/the-cloud-computer/oxide-sled-drives-closeup.webp?w=300&dpr=2&fm=webp)](https://oxide.computer/blog/the-cloud-computer)
 Source: [Oxide](https://oxide.computer/blog/the-cloud-computer)
 
 ### FinOps Family Updates
