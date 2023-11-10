@@ -14,6 +14,12 @@ preloads:
     
     {% set definedDate = date %} {% include "partials/date.njk" %} by <a href="/about/">{{ meta.author }}</a>
 
+  <h6>
+   Share and discuss on 
+   <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ meta.url }}{{ page.url }}">LinkedIn</a> or 
+   <a href="https://news.ycombinator.com/submitlink?u={{ meta.url }}{{ page.url }}&t={{ title }} ({{ date | formatDate('YYYY') }})">HN</a>
+  </h6>
+
     {{ content | safe }}
 
 
@@ -25,6 +31,12 @@ preloads:
   <p align="right">  
   ✍️ 🤓 {% gh_edit page %} 🐙 ✍️
   </p>
+
+  <h6>
+   Share and discuss on 
+   <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ meta.url }}{{ page.url }}">LinkedIn</a> or 
+   <a href="https://news.ycombinator.com/submitlink?u={{ meta.url }}{{ page.url }}&t={{ title }} ({{ date | formatDate('YYYY') }})">HN</a>
+  </h6>
 
   </div>
 </article>
