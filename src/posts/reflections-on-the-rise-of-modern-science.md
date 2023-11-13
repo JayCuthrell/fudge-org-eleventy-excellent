@@ -64,7 +64,7 @@ It has been four (4!) years since [the United States Government shut down result
 
 It has been five (5!) years since [Google Cloud announced a change in leadership](https://www.cnbc.com/2018/11/16/google-cloud-ceo-greene-being-replaced-by-former-oracle-exec-kurian.html), [IBM announced it would acquired Red Hat](https://newsroom.ibm.com/2018-10-28-IBM-To-Acquire-Red-Hat-Completely-Changing-The-Cloud-Landscape-And-Becoming-Worlds-1-Hybrid-Cloud-Provider), and [Apple became the first company to reach $1T market cap](https://www.theguardian.com/technology/2018/aug/02/apple-becomes-worlds-first-trillion-dollar-company).
 
-##2013
+## 2013
 
 It has been ten (10!) years since [we learned that the lyrics to 'Santa Claus is Coming To Town' described a future dystopian digital panopitcon](https://www.eff.org/deeplinks/2013/06/confirmed-nsa-spying-private-briefings-will-begin-public-discussions-and-public) just in time for the arrival of [wireless brain computer interfaces](https://news.brown.edu/articles/2013/02/wireless).
 
