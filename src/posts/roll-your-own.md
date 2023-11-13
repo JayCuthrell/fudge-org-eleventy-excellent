@@ -7,10 +7,6 @@ date: 2019-04-08 00:00:00+00:00
 
 When I started collecting links this week I had no idea how I would arrive at a conclusion. Thank goodness for the tech news cycle and, specifically, Techmeme. I’m already questioning my use of a newsletter service for reasons I hope to make clear below. Let’s get started.
 
-
-
----
-
 Go Your Own Way
 ===============
 

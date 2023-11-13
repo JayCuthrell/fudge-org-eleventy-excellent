@@ -29,5 +29,5 @@ As one peer once told me:
 
 *“I look forward to the day when technology allows us to use mobile phones for more than just web, email, SMS, and instant messaging. I envision a future where people are able to use mobile phones for real time voice communications.*
 
-[Here’s to the future](/who-am-i-kidding/)!”
+[Here’s to the future](https://fudge.org/archive/who-am-i-kidding/)!”
 

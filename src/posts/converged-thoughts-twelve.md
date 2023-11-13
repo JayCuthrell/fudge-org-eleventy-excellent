@@ -11,9 +11,6 @@ Parking Decks and Pricing Models
 Sometimes you see patterns. I see a few with regard to some of the software players that are often considered part of a past era in IT. Let’s take a look at Oracle and see where convergence will take us.
 
 
-
----
-
 [![From my 2009 Ignight Raleigh Presentation: The Redneck's Guide to Silicon Valley](https://substack.com/static/a8c83807780ff904b367ff1d13dd370a/0a47e/Screenshot_from_2017-01-07_14-46-20.png "From my 2009 Ignight Raleigh Presentation: The Redneck's Guide to Silicon Valley")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2Fa8c83807780ff904b367ff1d13dd370a%2F0a47e%2FScreenshot_from_2017-01-07_14-46-20.png)From my 2009 Ignight Raleigh Presentation: The Redneck’s Guide to Silicon Valley
 
 Git Er Done

@@ -11,7 +11,7 @@ This week's musical inspiration in title and lyrics:
 
 https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu?si=b0cb833a0a754c9c
 
----
+
 
 # Please Vote For My SxSW 2024 Proposal
 
@@ -33,7 +33,6 @@ https://www.linkedin.com/search/results/content/?datePosted=%22past-month%22&key
 
 [![Screenshot 2023-08-12 at 8.05.07 PM.png](https://buttondown.imgix.net/images/8a98b7ff-1044-4540-835c-f58e185ae3e6.png?w=480&fit=max)](https://www.linkedin.com/search/results/content/?datePosted=%22past-month%22&keywords=panelpicker.sxsw.com&origin=FACETED\_SEARCH&sid=ax.&sortBy=%22date\_posted%22)
 
----
 
 
 Oh, and feel free to [leave comments](https://panelpicker.sxsw.com/vote/133870#comments). 🤓

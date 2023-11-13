@@ -22,7 +22,7 @@ To understand the impact of Twitter, consider how simple it is to refer to a Twe
 
 [![Twitter avatar for @JayCuthrell](https://substackcdn.com/image/twitter_name/w_96/JayCuthrell.jpg)@JayCuthrell @JayCuthrellVerifying myself: I am jaycuthrell on [Keybase.io](http://Keybase.io). l-0lZ4glMvk6tCvMCrrflXWt8byPqx8QmiKs / [![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7633d4c6-edb2-40d3-b908-88ec5ca5a599_360x360.jpeg)keybase.iojaycuthrell (Jay Cuthrell) on Keybasejaycuthrell (Jay Cuthrell) is now on Keybase, an open source app for encryption and cryptography.](https://keybase.io/jaycuthrell/sigs/l-0lZ4glMvk6tCvMCrrflXWt8byPqx8QmiKs)](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1223684850122661888?s=20&t=jCfdDcRNkTNNsCWHk6aQ5g)[7:09 PM ∙ Feb 1, 2020
 
----
+
 
 1Like1Retweet](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/1223684850122661888?s=20&t=jCfdDcRNkTNNsCWHk6aQ5g)Now, imagine what happens if Twitter is set up as a paywall only service. Actually, you don’t have to imagine because the new owners of Twitter have already imagined it.
 
@@ -32,7 +32,7 @@ To understand the impact of Twitter, consider how simple it is to refer to a Twe
 
 Both Musk and Sacks have discussed the idea in recent meetings, according to a person familiar with the matter. One such plan might allow everyone to use Twitter for a limited amount of time each month but require a subscription to continue browsing, the person said.](https://pbs.substack.com/media/FhAXrOEVIAAJOSg.jpg)](https://twitter.com/caseynewton/status/1589796702843998208)[1:47 AM ∙ Nov 8, 2022
 
----
+
 
 5,699Likes2,061Retweets](https://twitter.com/caseynewton/status/1589796702843998208)What would happen to all of the embedded Tweets like this example above?
 

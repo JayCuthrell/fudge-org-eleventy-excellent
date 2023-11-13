@@ -11,9 +11,6 @@ Computation and Kicks
 Sometimes I read published research from Google. Admittedly, it’s often (usually?) way over my head. Sometimes I’ll find a familiar area and learn a bit more about an area that I have brushed up against in my past.
 
 
-
----
-
 [![Literally standing on the shoulders of giants (of research)](https://substack.com/static/2a3400863f1101e2421dbdd435053ccf/b4294/shoes.jpg "Literally standing on the shoulders of giants (of research)")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2F2a3400863f1101e2421dbdd435053ccf%2Fb4294%2Fshoes.jpg)Literally standing on the shoulders of giants (of research)
 
 Simulation is Good for the Sole

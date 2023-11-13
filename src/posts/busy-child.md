@@ -38,7 +38,6 @@ It's also impressive to see Scratch surpassing Rust, Julia, and even Typescript 
 
 https://t.co/8gy4rK75mp](https://twitter.com/DynamicWebPaige/status/1548396520575184897?s=20&t=tnJl6Y7yR0G7qnEmscsYtQ)[7:57 PM ∙ Jul 16, 2022
 
----
 
 69Likes8Retweets](https://twitter.com/DynamicWebPaige/status/1548396520575184897?s=20&t=tnJl6Y7yR0G7qnEmscsYtQ)Let that sink in for a moment.
 
@@ -63,7 +62,7 @@ Looking within just the United States, there are interesting patterns emerging a
 
 [![Twitter avatar for @codeorg](https://substackcdn.com/image/twitter_name/w_96/codeorg.jpg)Code.org @codeorgThe U.S. is united on this: 50 governors signed a commitment, joining 750+ CEOs & nonprofit leaders — billionaires & unions, competitors in every sector — who agree that every student in every school should have the opportunity to learn computer science. [ceosforcs.com](http://ceosforcs.com) ![Image](https://pbs.substack.com/media/FXvOJTBUcAAgML-.jpg)](https://twitter.com/codeorg/status/1548058549439213569?s=20&t=JReXoe0Ns1E87XqxS5Z9TA)[9:34 PM ∙ Jul 15, 2022
 
----
+
 
 64Likes20Retweets](https://twitter.com/codeorg/status/1548058549439213569?s=20&t=JReXoe0Ns1E87XqxS5Z9TA)[Code.org](https://code.org/about) seeks to reach students in underserved populations and expose them to computer science – especially those groups that are historically underrepresented in STEM fields. As you may expect at this point, there are impressive statistics here too.[7](#footnote-7)
 
@@ -77,7 +76,7 @@ Perhaps you are seeing these numbers and are still skeptical (good!). Perhaps yo
 
 [![Twitter avatar for @rahulchandra77](https://substackcdn.com/image/twitter_name/w_96/rahulchandra77.jpg)Rahul Chandra @rahulchandra77Replicating TikTok would require the growth chart to look like this. ![Image](https://pbs.substack.com/media/Ebx7RreUcAAPAMh.jpg)](https://twitter.com/rahulchandra77/status/1278031942986809344?s=20&t=Cq_Bgjy8nxk_a6XWFoYMsg)[6:25 PM ∙ Jun 30, 2020
 
----
+
 
 156Likes40Retweets](https://twitter.com/rahulchandra77/status/1278031942986809344?s=20&t=Cq_Bgjy8nxk_a6XWFoYMsg)Admittedly , by comparison, there are far more pervasive social network services on the that combine the attention span economic reality of hunger for viral content and easy mobile Internet consumption. As such, the modality is the key point because each of the next generation learning examples above *may* be consumed in a classroom but the past few years have transformational to enable learning from *anywhere* – not just in a formal classroom setting.
 

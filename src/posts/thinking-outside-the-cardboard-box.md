@@ -8,9 +8,6 @@ date: 2019-05-20 00:00:00+00:00
 [![Fudge Sunday](https://substack.com/static/b418d00d086df167c47c3e481ad92aaa/f058b/fudgesunday.png "Fudge Sunday")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2Fb418d00d086df167c47c3e481ad92aaa%2Ff058b%2Ffudgesunday.png)Now that China has said “no thank you” to scrap recycling imports, there is a good chance [the familiar cardboard recycling bin will take on greater significance](https://www.wastedive.com/news/what-recycling-end-market-development-looks-like-in-2019/553683/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) as the piles… continue to make a bigger pile. This week, let’s take a look at the humble cardboard box.
 
 
-
----
-
 Humble Origins
 ==============
 

@@ -15,8 +15,6 @@ tags:
 
 I’ve been using GitHub for ~10 years. Over time I used GitHub more socially than for source code publishing. As my use increased so did my bookmarking via the “stars” function. Let’s see what I kept after my most recent Spring purge of GitHub stars…
 
----
-
 [JayCuthrell GitHub Stars](https://github.com/JayCuthrell?direction=desc&sort=stars&tab=stars&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
 
 [github.com](https://github.com/JayCuthrell?direction=desc&sort=stars&tab=stars&utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) – [Share](http://rev.vu/R3laxX?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)

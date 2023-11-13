@@ -9,10 +9,6 @@ date: 2022-07-31 23:02:17.463000+00:00
 
 
 
----
-
-
-
 Getting Informed
 ================
 
@@ -59,19 +55,19 @@ But how soon will that horizon become just a moment away? Well, perhaps, to set 
  
 Through the CHIPS for America Act, @POTUS has made it clear that the U.S. must lead the world in the production of semiconductor chips.](https://twitter.com/WhiteHouse/status/1553413861478367232?s=20&t=MD1HYV3d01SmZQod8k7psQ)[4:15 PM ∙ Jul 30, 2022
 
----
+
 
 5,641Likes1,098Retweets](https://twitter.com/WhiteHouse/status/1553413861478367232?s=20&t=MD1HYV3d01SmZQod8k7psQ)~3 days ago… 
 
 [![Twitter avatar for @conorsen](https://substackcdn.com/image/twitter_name/w_96/conorsen.jpg)Conor Sen @conorsen60% of Amazon's net revenue growth YoY was AWS.](https://twitter.com/conorsen/status/1552749857500286976?s=20&t=azmPWrCjcA0LMHKi-JkAcA)[8:16 PM ∙ Jul 28, 2022
 
----
+
 
 254Likes33Retweets](https://twitter.com/conorsen/status/1552749857500286976?s=20&t=azmPWrCjcA0LMHKi-JkAcA)~5 days ago…
 
 [![Twitter avatar for @PGelsinger](https://substackcdn.com/image/twitter_name/w_96/PGelsinger.jpg)Pat Gelsinger @PGelsingerExciting news for Intel Foundry Services! @MediaTek plans to use Intel process technologies to manufacture chips for smart edge devices. Thrilled we can help MediaTek build a more resilient supply chain w/ our significant capacity in the U.S. and Europe. [![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5ca8d099-d747-431e-8c89-5fae39c5f4b3_1080x1080.jpeg)scq.ioIntel and MediaTek Form Foundry PartnershipMediaTek will use Intel Foundry Services to manufacture new chips for a range of smart edge devices.](https://scq.io/1GQrQbl)](https://twitter.com/PGelsinger/status/1551565382170775553?s=20&t=I1QAlra0yTdVxpibxDDWMQ)[1:49 PM ∙ Jul 25, 2022
 
----
+
 
 214Likes35Retweets](https://twitter.com/PGelsinger/status/1551565382170775553?s=20&t=I1QAlra0yTdVxpibxDDWMQ)~1 year ago…
 
@@ -80,7 +76,7 @@ Through the CHIPS for America Act, @POTUS has made it clear that the U.S. must l
 Those missing chips have NOT been replaced by imports from elsewhere. ![Image](https://pbs.substack.com/media/E5uOazgXEAY34Hh.jpg)![Twitter avatar for @ForeignAffairs](https://substackcdn.com/image/twitter_name/w_40/ForeignAffairs.jpg)Foreign Affairs @ForeignAffairsThe COVID-19 pandemic laid bare the extent of the semiconductor crisis triggered by the Trump administration’s trade policies, @ChadBown writes. Can the Biden administration’s new approach shore up this critical supply chain?
 https://t.co/GUOiJvUzaa](https://twitter.com/ChadBown/status/1412879502989045761?s=20&t=oag73_jFSy2dSkPB1zBv7A)[9:01 PM ∙ Jul 7, 2021
 
----
+
 
 522Likes226Retweets](https://twitter.com/ChadBown/status/1412879502989045761?s=20&t=oag73_jFSy2dSkPB1zBv7A)~5 years ago…
 
@@ -88,25 +84,25 @@ https://t.co/GUOiJvUzaa](https://twitter.com/ChadBown/status/1412879502989045761
 
 (corrects price)](https://twitter.com/CNBCnow/status/754850771842326528?s=20&t=oag73_jFSy2dSkPB1zBv7A)[1:30 AM ∙ Jul 18, 2016
 
----
+
 
 428Likes1,174Retweets](https://twitter.com/CNBCnow/status/754850771842326528?s=20&t=oag73_jFSy2dSkPB1zBv7A)~10 years ago…
 
 [![Twitter avatar for @Gartner_inc](https://substackcdn.com/image/twitter_name/w_96/Gartner_inc.jpg)Gartner @Gartner\_incGartner: Apple Became the Top Semiconductor Customer in 2011 [bit.ly/zUblao](http://bit.ly/zUblao)](https://twitter.com/Gartner_inc/status/161811274542497794?s=20&t=oag73_jFSy2dSkPB1zBv7A)[2:03 PM ∙ Jan 24, 2012
 
----
+
 
 3Likes27Retweets](https://twitter.com/Gartner_inc/status/161811274542497794?s=20&t=oag73_jFSy2dSkPB1zBv7A)~20 years ago…
 
 [![Twitter avatar for @JonErlichman](https://substackcdn.com/image/twitter_name/w_96/JonErlichman.jpg)Jon Erlichman @JonErlichman22 years ago, Palm was worth more than Apple and Amazon combined. ![Image](https://pbs.substack.com/media/FYhKZEnXkAEmBKn.jpg)](https://twitter.com/JonErlichman/status/1551571869513523200?s=20&t=o_2Z4HpeaDPmGzcnRlKH7g)[2:15 PM ∙ Jul 25, 2022
 
----
+
 
 924Likes148Retweets](https://twitter.com/JonErlichman/status/1551571869513523200?s=20&t=o_2Z4HpeaDPmGzcnRlKH7g)~100 years ago…
 
 [![Twitter avatar for @JonErlichman](https://substackcdn.com/image/twitter_name/w_96/JonErlichman.jpg)Jon Erlichman @JonErlichmanOn this day in 1911: IBM receives its first patent. ![Image](https://pbs.substack.com/media/FYgesTpWIAQTi7D.jpg)](https://twitter.com/JonErlichman/status/1551523821005463552?s=20&t=o_2Z4HpeaDPmGzcnRlKH7g)[11:04 AM ∙ Jul 25, 2022
 
----
+
 
 248Likes49Retweets](https://twitter.com/JonErlichman/status/1551523821005463552?s=20&t=o_2Z4HpeaDPmGzcnRlKH7g)Until next time… Place your bets…
 

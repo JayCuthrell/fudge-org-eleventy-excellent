@@ -27,16 +27,16 @@ It’s a nice touch — and an even nicer touch was that hovering over the word 
 
 Amazing. I finally got around to porting some old blog posts from 2010 to present and now I can see the timeline more clearly.
 
-* 2010 [Year 0 at VCE](/private-clouds-ahead)
-* 2011 [Year 1 at VCE](/my-first-year-at-vce)
-* 2012 [Year 2 at VCE](/my-second-year-at-vce)
-* 2013 [Year 3 at VCE](/my-third-year-at-vce)
-* 2014 [Year 4 at VCE](/my-fourth-year-at-vce)
-* 2015 [Year 5 at VCE](/my-fifth-year-at-vce)
-* 2016 [Year 6 at VCE](/my-sixth-year-at-vce)
-* 2017 [Year 7 at VCE](/my-seventh-year-at-vce)
-* 2018 [Year 8 at VCE](/my-eighth-year-at-vce)
-* 2019 [Year 9 at VCE](/my-ninth-year-at-vce)
+* 2010 [Year 0 at VCE](https://fudge.org/archive/private-clouds-ahead)
+* 2011 [Year 1 at VCE](https://fudge.org/archive/my-first-year-at-vce)
+* 2012 [Year 2 at VCE](https://fudge.org/archive/my-second-year-at-vce)
+* 2013 [Year 3 at VCE](https://fudge.org/archive/my-third-year-at-vce)
+* 2014 [Year 4 at VCE](https://fudge.org/archive/my-fourth-year-at-vce)
+* 2015 [Year 5 at VCE](https://fudge.org/archive/my-fifth-year-at-vce)
+* 2016 [Year 6 at VCE](https://fudge.org/archive/my-sixth-year-at-vce)
+* 2017 [Year 7 at VCE](https://fudge.org/archive/my-seventh-year-at-vce)
+* 2018 [Year 8 at VCE](https://fudge.org/archive/my-eighth-year-at-vce)
+* 2019 [Year 9 at VCE](https://fudge.org/archive/my-ninth-year-at-vce)
 
 And here we are… in fact, I’ve put together a page [about me](https://jaycuthrell.com/about/) with a little more color.
 

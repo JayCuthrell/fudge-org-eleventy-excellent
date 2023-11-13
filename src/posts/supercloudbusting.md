@@ -8,9 +8,6 @@ date: 2022-07-03 22:24:21.092000+00:00
 *[Kate Bush - Cloudbusting (1985)](https://www.youtube.com/watch?v=pllRW9wETzw) and may the samples live on for years to come.[1](#footnote-1)*
 
 
-
----
-
 Getting Informed
 ================
 
@@ -47,7 +44,7 @@ Also, there are many places that are population centers and [where things are ma
 #CTODose
 @dvellante @sarbjeetjohal @CareAndKickButt @ballen\_clt @dhinchcliffe](https://twitter.com/CTOAdvisor/status/1486369147395223556?s=20&t=6CtqjM3dOlC418EzKajVuA) [4:03 PM ∙ Jan 26, 2022
 
----
+
 
 17Likes5Retweets](https://twitter.com/CTOAdvisor/status/1486369147395223556?s=20&t=6CtqjM3dOlC418EzKajVuA)Next, let’s get a take on multicloud near the midpoint of 2022.
 
@@ -56,7 +53,7 @@ Also, there are many places that are population centers and [where things are ma
 [video.cube365.net/c/936541](https://video.cube365.net/c/936541)
 @dvellante @furrier @LisaMartinTV @theCUBE #DellTechWorld #theCUBE #EnterpriseTech #supercloud #multicloud #edge](https://twitter.com/theCUBE/status/1521580671650910208?s=20&t=RFUUEa-GZH903bzlZ1ao1g) [8:01 PM ∙ May 3, 2022
 
----
+
 
 5Likes1Retweet](https://twitter.com/theCUBE/status/1521580671650910208?s=20&t=RFUUEa-GZH903bzlZ1ao1g)### But just saying it could even make it happen 🎶
 

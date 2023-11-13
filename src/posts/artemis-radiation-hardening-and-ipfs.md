@@ -16,8 +16,6 @@ See [blogs.nasa.gov/artemis](http://blogs.nasa.gov/artemis) for more information
 
 ](https://pbs.substack.com/media/FbwwNk4XgAIko9X.jpg)](https://twitter.com/NASA/status/1566179789211402242?s=20&t=NjmkPrPa2mUcvBPSq5Qz5g)[9:42 PM ∙ Sep 3, 2022
 
----
-
 15,897Likes2,161Retweets](https://twitter.com/NASA/status/1566179789211402242?s=20&t=NjmkPrPa2mUcvBPSq5Qz5g)Now, brace yourselves for maximum YouTube videos and Tweets in this newsletter post. Put on your propeller hat, grab a slide rule, and… well, start the countdown.
 
 Thanks for reading Fudge Sunday! Please Subscribe for to receive new posts.
@@ -45,7 +43,6 @@ If you haven’t thought about radiation hardening[3](#footnote-3), just remembe
 
 [![Twitter avatar for @anildash](https://substackcdn.com/image/twitter_name/w_96/anildash.jpg)Anil @anildashFun trivia: @NASAPersevere runs on a radiation-hardened version of the same 233mhz PowerPC 750 processor that was the brains of the original see-through blue iMacs in 1998. [![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/22e4bb4e-e595-4e04-9dfe-3072f389cda1_1200x675.png)gizmodo.comA 1990s iMac Processor Powers NASA’s Perseverance RoverIt’s not about processing speed, but reliability.](https://gizmodo.com/a-1990s-imac-processor-powers-nasa-s-perseverance-rover-1846380844)](https://twitter.com/anildash/status/1366931110752567297?s=20&t=wMmadh2wv70xWatBgd2ZgA)[1:59 AM ∙ Mar 3, 2021
 
----
 
 41Likes9Retweets](https://twitter.com/anildash/status/1366931110752567297?s=20&t=wMmadh2wv70xWatBgd2ZgA)[![Twitter avatar for @pavolrusnak](https://substackcdn.com/image/twitter_name/w_96/pavolrusnak.jpg)Pavol Rusnak 🍯🦡 @pavolrusnakDid you know that James Webb Space Telescope runs on RAD750?
 
@@ -53,21 +50,17 @@ It's a $200,000 radiation-hardened single-board computer based on PowerPC 750 ru
 
 For comparison, a $35 Raspberry Pi 4 released in 2019 is around 35x faster.](https://twitter.com/pavolrusnak/status/1480299213443383297?s=20&t=wMmadh2wv70xWatBgd2ZgA)[10:03 PM ∙ Jan 9, 2022
 
----
-
 301Likes67Retweets](https://twitter.com/pavolrusnak/status/1480299213443383297?s=20&t=wMmadh2wv70xWatBgd2ZgA)[![Twitter avatar for @DrRob_Thacker](https://substackcdn.com/image/twitter_name/w_96/DrRob_Thacker.jpg)Rob Thacker @DrRob\_ThackerRegular peeps: wow the #JWST image storage system is a puny 68GB. 
 
 Astro peeps: holy smokes #JWST has 68GB of radiation hardened storage, that's 30x more than the Curiosity rover!
 
 It's hard to run computers in high radiation environments! ![james webb space GIF by NASA](https://substackcdn.com/video/upload/e_loop,vs_40/kgwe4gdn6nnmeghsafsb.gif)](https://twitter.com/DrRob_Thacker/status/1550980072307363843?s=20&t=wMmadh2wv70xWatBgd2ZgA)[11:03 PM ∙ Jul 23, 2022
 
----
 
 12Likes2Retweets](https://twitter.com/DrRob_Thacker/status/1550980072307363843?s=20&t=wMmadh2wv70xWatBgd2ZgA)[![Twitter avatar for @trengriffin](https://substackcdn.com/image/twitter_name/w_96/trengriffin.jpg)Tren Griffin @trengriffin@Simon\_Fabbri @VirtuallyNathan @mikepuchol @larrypress @mtaht @SpaceX @Megaconstellati @danyork @jane\_coffin Serve all markets means what? Includes Polar? How much capacity? 38X is based on what assumptions? 
 
 Every LEO satellite is usable only a fraction of the time. They circle the Earth. Lifetime of a LEO at that altitude without expensive radiation hardened electronics is ~ 5 years.](https://twitter.com/trengriffin/status/1563935603053723648?s=20&t=wMmadh2wv70xWatBgd2ZgA)[5:04 PM ∙ Aug 28, 2022](https://twitter.com/trengriffin/status/1563935603053723648?s=20&t=wMmadh2wv70xWatBgd2ZgA)[![Twitter avatar for @Dr_StefaniaP](https://substackcdn.com/image/twitter_name/w_96/Dr_StefaniaP.jpg)Dr Stefania Peracchi @Dr\_StefaniaPCan't fit in? No problem, customize it out!This week we performed radiation hardening tests on a SRAM device for satellites designed by UoM and SUoT in collaboration with INFN. 📸: FPGA board customized connection outside the vacuum chamber! #spaceresearch @ANSTO ![Image](https://pbs.substack.com/media/FLOukfrVQAIjr2_.jpg)](https://twitter.com/Dr_StefaniaP/status/1491727854635159552?s=20&t=wMmadh2wv70xWatBgd2ZgA)[10:56 AM ∙ Feb 10, 2022
 
----
 
 13Likes3Retweets](https://twitter.com/Dr_StefaniaP/status/1491727854635159552?s=20&t=wMmadh2wv70xWatBgd2ZgA)Fill my heart with song 🎶
 -------------------------

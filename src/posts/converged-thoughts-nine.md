@@ -9,8 +9,6 @@ Yesterday, I had my first immersive VR experience. It was the total package. Hea
 
 
 
----
-
 [![Picture of the VR advert at Capital Factory in Austin, Texas](https://substack.com/static/8fdb7dc768b24768a0abb241469b411e/0a47e/vr.png "Picture of the VR advert at Capital Factory in Austin, Texas")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2F8fdb7dc768b24768a0abb241469b411e%2F0a47e%2Fvr.png)Picture of the VR advert at Capital Factory in Austin, Texas
 
 [Great @CapitalFactory @CFVRLab @OwlchemyLabs demos today. 🤓🕶😎👽 My mind is now officially blown. AMAZING! #AR #VR https://t.co/Sl4W0mwFxY](https://web.archive.org/web/20230000000000*/https://twitter.com/jaycuthrell/status/816768161123078144?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)

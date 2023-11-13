@@ -7,10 +7,6 @@ date: 2019-04-15 00:00:00+00:00
 
 [![Fudge Sunday](https://substack.com/static/b418d00d086df167c47c3e481ad92aaa/f058b/fudgesunday.png "Fudge Sunday")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2Fb418d00d086df167c47c3e481ad92aaa%2Ff058b%2Ffudgesunday.png)Just over 20 years ago I met with investment groups that later turned into a new direction in my career. While the .com days were a mixed bag, some of the companies rolled up into other companies which continued to roll up into other companies. If anything, I’ve learned a lot about the long and sometimes winding path of nested mergers.
 
-
-
----
-
 The Right Angle Turn
 
 [Nortel Buys Bay Networks (1998)](https://www.wired.com/1998/06/nortel-buys-bay-networks-3/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)

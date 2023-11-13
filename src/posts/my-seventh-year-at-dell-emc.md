@@ -19,7 +19,7 @@ w00t!!!!
 Origin Stories
 ==============
 
-As of this October update, I’ve been with Dell EMC (Converged) for seven years. [As I described last year](/my-sixth-year-at-vce/), the only reminders and references to VCE are few and far between. As an aside, I still wonder if my Acadia email address will stop working at some point.
+As of this October update, I’ve been with Dell EMC (Converged) for seven years. [As I described last year](https://fudge.org/archive/my-sixth-year-at-vce/), the only reminders and references to VCE are few and far between. As an aside, I still wonder if my Acadia email address will stop working at some point.
 
 [![7 years ago](https://substack.com/static/c2cbb0b392b69724603b2f1da49b18a7/066f9/7years.jpg "7 years ago")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2Fc2cbb0b392b69724603b2f1da49b18a7%2F066f9%2F7years.jpg)The steady progression towards a Dell EMC experience has been a testament to the execution of the Dell EMC integration planning. Each week seems to bring a new update on the work that our CIO and IT group have completed and continue to complete. It’s taken time, but the VCE references, and eventually EMC references, gave way to Dell EMC references.
 

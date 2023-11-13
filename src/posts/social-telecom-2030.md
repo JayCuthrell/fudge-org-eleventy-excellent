@@ -11,14 +11,14 @@ The screenshot above is from a trip to Tokyo back in 2012 during my global road 
 
 Fast forward to 2020. Now it’s 5G making headlines and 6G futures are coming eventually if you subscribe to [futurecasting](https://www.ericsson.com/en/blog/2020/9/tech-trends-innovation-ericsson-research) from companies with an established history in telecommunications.
 
-The inspiration for this social telecom 2030 post is derived from my last [10 years with Dell Technologies](/archive/my-tenth-year-at-vce/), a couple of Twitter status updates, interaction with the [2030 Cloud community](https://at.the2030.cloud/about), and a series of [Lunchclub.ai](https://lunchclub.com/?invite_code=jayc11) sessions while [thinking remotely](/thinking-remotely). The challenge I’ve accepted is to think forward another 10 years by considering my 2010 era [social telecom](https://fudge.org/archive/social-telecom/) blog post for today and looking ahead to 2030.
+The inspiration for this social telecom 2030 post is derived from my last [10 years with Dell Technologies](https://fudge.org/archive/my-tenth-year-at-vce/), a couple of Twitter status updates, interaction with the [2030 Cloud community](https://at.the2030.cloud/about), and a series of [Lunchclub.ai](https://lunchclub.com/?invite_code=jayc11) sessions while [thinking remotely](https://fudge.org/archive/thinking-remotely). The challenge I’ve accepted is to think forward another 10 years by considering my 2010 era [social telecom](https://fudge.org/archive/social-telecom/) blog post for today and looking ahead to 2030.
 
 What was social telecom in 2010?
 ================================
 
-Roughly a decade ago, I authored a blog post about what I referred to as [Social Telecom](/social-telecom/). In a nutshell, much of my world view and career had been shaped by telecommunications and I was reflecting on what I saw happening telco related conferences as well as at SxSW Interactive, Film, and Music conferences.
+Roughly a decade ago, I authored a blog post about what I referred to as [Social Telecom](https://fudge.org/archive/social-telecom/). In a nutshell, much of my world view and career had been shaped by telecommunications and I was reflecting on what I saw happening telco related conferences as well as at SxSW Interactive, Film, and Music conferences.
 
-For example, when I created my first [Twitter](/on-twitter/) account in 2007 it was clear to be that mashing up SMS and Web was going to be interesting. Today, one can look back fondly to when SMS short code 40404 was fun (and sometimes unintentionally hilarious when folks sent things to it in error) when trying to communicate in manner more reliable than 3G connectivity at the time.
+For example, when I created my first [Twitter](https://fudge.org/archive/on-twitter/) account in 2007 it was clear to be that mashing up SMS and Web was going to be interesting. Today, one can look back fondly to when SMS short code 40404 was fun (and sometimes unintentionally hilarious when folks sent things to it in error) when trying to communicate in manner more reliable than 3G connectivity at the time.
 
 Indeed, [being part of Startup Weekend 3 Atlanta in 2009 with Justin and Clay was fun](https://justindawkins.com/2009/11/gomodo-helps-you-quickly-find-events-near-you/). Looking back, Twilio was a sponsor for multiple Startup Weekend events that year to promote Twilio API use.
 
@@ -412,5 +412,5 @@ Last but not least, [consider Azeem Azhar’s take on environmental aspects shou
 1. Read Part 1 [Azeem Azhar’s take on the remote work and automation trends.](https://www.exponentialview.co/p/-remote-and-automated-work-splinternet)
 2. Read Part 2 [Azeem Azhar’s take on topics as varied as AI to what we might be eating.](https://www.exponentialview.co/p/-the-empowered-economy-gafa-smackdown)
 
-If you read this far, ultimately, my best advice is to revisit our assumptions of what constitutes the curriculum of 2030 to assume that STEM is not enough. Instead, we will need to aim for [ESTEEM = STEM + Ethics + Empathy](/esteem-stem-+-ethics-+-empathy).
+If you read this far, ultimately, my best advice is to revisit our assumptions of what constitutes the curriculum of 2030 to assume that STEM is not enough. Instead, we will need to aim for [ESTEEM = STEM + Ethics + Empathy](https://fudge.org/archive/esteem-stem-+-ethics-+-empathy).
 

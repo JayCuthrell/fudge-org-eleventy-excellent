@@ -7,7 +7,7 @@ date: 2011-10-18 00:00:00+00:00
 
 *“We eat change for breakfast, lunch, dinner, and snacks in between” — VCE team ethos*
 
-A year ago today was [my first day](/private-clouds-ahead/) at what would become VCE.
+A year ago today was [my first day](https://fudge.org/archive/private-clouds-ahead/) at what would become VCE.
 
 [!["VCE"](https://substack.com/static/4978baadb4fcd5feb808c8874b68358f/3684f/vce.png "\"VCE\"")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2F4978baadb4fcd5feb808c8874b68358f%2F3684f%2Fvce.png)I’m looking back briefly because it is already time to look ahead. The past year has been about immersion in a deep sea of change at a company forging a culture — and what I firmly believe is the way forward for an entire industry.
 

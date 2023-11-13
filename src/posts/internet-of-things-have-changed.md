@@ -8,9 +8,6 @@ date: 2019-05-13 00:00:00+00:00
 [![Fudge Sunday](https://substack.com/static/b418d00d086df167c47c3e481ad92aaa/f058b/fudgesunday.png "Fudge Sunday")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2Fb418d00d086df167c47c3e481ad92aaa%2Ff058b%2Ffudgesunday.png)The past few days have been confusing and frustrating for home automation enthusiasts that made investments in Nest products. How did we get here?This week we take a look at Nest.
 
 
-
----
-
 Turn off the lights when you leave…
 
 If you are subscribed to this newsletter there is a good chance you have owned or still own Nest products. The smart home has been inspired by cartoons and 80s era commercials. The smart home has been enshrined in the ubiquitous X10 web page banner advertisements of the late DotCom era.

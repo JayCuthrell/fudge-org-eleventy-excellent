@@ -12,9 +12,6 @@ As a warning, this update is probably entering long form essay mode due to the n
 Side note: If you are enjoying these updates please share them with your peers on Twitter, Linkedin or whatever your preferred microblogging platform of choice might be. Thanks!
 
 
-
----
-
 20 Years In Streaming Music
 ===========================
 

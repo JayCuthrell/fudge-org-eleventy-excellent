@@ -8,9 +8,6 @@ date: 2019-05-06 00:00:00+00:00
 This week I made the pilgrimage to Las Vegas for Dell Technologies World and had the chance to take a lot of car services but none were via the sixteen (16) registered taxicab companies serving Las Vegas. Let’s take a look at ride-sharing in the city of sin and what is likely to be the future of getting around in just a few years.
 
 
-
----
-
 [![The trend is lots and lots of red...](https://substack.com/static/41a5e0d2930b972acc2098df6b4c929b/0a47e/3c469b31d0487f58a362b22b7a363cd4.png "The trend is lots and lots of red...")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2F41a5e0d2930b972acc2098df6b4c929b%2F0a47e%2F3c469b31d0487f58a362b22b7a363cd4.png)The trend is lots and lots of red…
 
 Trending Down

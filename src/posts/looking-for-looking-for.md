@@ -27,8 +27,7 @@ That got me thinking about the question again – this time less selfishly.
 > 
 > 
 
-Applicant Tracking Systems and math
-===================================
+## Applicant Tracking Systems and math
 
 First, applicant tracking systems are where one applies for a job on a website in much the same way that one can purchase a lottery ticket. So, while finding a job and applying online might seem intuitive and straightforward, in the realm of knowledge work — you are literally 1 in 1000 or 1 in 10,000 odds territory.
 
@@ -46,35 +45,33 @@ Easy for me to say? Yes, and I absolutely acknowledge this fact.
 
 Perhaps finding the where, what, and who is hiring might be possible by using a social network. Severeal peers have shared anecdotes of how Twitter or LinkedIn got the right person talking to them that resulted in learning what roles where open where that turned into a new job.
 
-LinkedIn searches
-=================
+## LinkedIn searches
+
 
 My first thought was to run through LinkedIn which is the social network for people that create work related content to find the “people I know that are hiring”. However, I was not successful in my quest.
 
 Apparently, there is no button or link to get this on LinkedIn or finding one is beyond my searching patience. This seemed really odd but since the Jobs part of LinkedIn is monetized, perhaps I was naive in thinking such a simple link might exist.
 
-The wisdom of social activation platforms
------------------------------------------
+## The wisdom of social activation platforms
+
 
 My next thought was the search for posts from my 1st degree network for phrases like “we are hiring” or “we are looking for a” but realized the approach was a fuzzy search at best. Then I noticed a pattern of automation.
 
 Social activation platforms seek to generate earned media impressions by activating the employee base on social networks. Since the creation of grassroots tools for centralized publication, LinkedIn and Twitter have seen more use of hashtags like #hiring or #jobs and a tracked URL (to remind Finance that earned media is high ROI) that deep links to a specific role on a applicant tracking tool or company careers landing website.
 
-Formats for search
-------------------
+## Formats for search
 
 My next thought was that search parameters on posts may be effective by looking for recent “hiring” or “looking” or references as a keyword that is filtered by 1st degree connections and time bounded to the most recent 24 hours.
 
 * [“Hiring”](https://www.linkedin.com/search/results/content/?datePosted=%22past-24h%22&keywords=hiring&origin=GLOBAL_SEARCH_HEADER&postedBy=%5B%22first%22%5D)
 * [“Looking”](https://www.linkedin.com/search/results/content/?datePosted=%22past-24h%22&keywords=looking&origin=GLOBAL_SEARCH_HEADER&postedBy=%5B%22first%22%5D)
 
-Aggregate Job Sites
-===================
+## Aggregate Job Sites
 
 Surely there are some smart folks that have already chased this topic? It turns out, a few have.
 
-Dell Technologies Capital
--------------------------
+### Dell Technologies Capital
+
 
 Currently, I’m working at [Faction](https://grnh.se/66f4d22d4us) which is a portfolio company of Dell Technologies Capital (DTC). The thinking would be that after 10 years with Dell Technologies through concurrent nested mergers I might know someone that knows someone.
 
@@ -86,8 +83,8 @@ As you might expect, the DTC folks are pretty smart.
 
 But what about other VC firms?
 
-a16z
-----
+### a16z
+
 
 The folks at a16z are smart too.
 
@@ -97,15 +94,14 @@ The folks at a16z are smart too.
 
 And the VC search continues…
 
-GV
---
+### GV
 
 The folks at GV are smart but they do not appear to have invested in… well… portfolio company job lists.
 
 [![GV](https://substack.com/img/missing-image.png "GV")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fmissing-image.png)[Imagine](https://www.gv.com/portfolio/) if they did.
 
-Growing this list…
-------------------
+### Growing this list…
+
 
 If you are reading this and you have suggestions or corrections… or if you have thoughts on this topic…
 

@@ -24,8 +24,6 @@ Let’s begin…
 
 
 
----
-
 [![Here's to taking the red pill in 2017... ](https://substack.com/static/2fccbea0cb3da5aa089f56090201e63e/0a47e/Screenshot_from_2016-09-15_10-18-08.png "Here's to taking the red pill in 2017... ")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2F2fccbea0cb3da5aa089f56090201e63e%2F0a47e%2FScreenshot_from_2016-09-15_10-18-08.png)Here’s to taking the red pill in 2017…
 
 Notifications Zero and Notifications Bankruptcy

@@ -14,8 +14,6 @@ I’ll dredge up a tweet from my old Twitter handle circa 2013. It’s all about
 
 
 
----
-
 [![Living the dream... circa 2013](https://substack.com/static/7a179da75a2df63eec135b4fef332caf/0a47e/sxsw-thing.png "Living the dream... circa 2013")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2F7a179da75a2df63eec135b4fef332caf%2F0a47e%2Fsxsw-thing.png)Living the dream… circa 2013
 
 Sending Out an SOS

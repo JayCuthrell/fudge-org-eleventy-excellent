@@ -8,9 +8,6 @@ date: 2019-02-25 00:00:00+00:00
 [![Fudge Sunday](https://substack.com/static/b418d00d086df167c47c3e481ad92aaa/f058b/fudgesunday.png "Fudge Sunday")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2Fb418d00d086df167c47c3e481ad92aaa%2Ff058b%2Ffudgesunday.png)This past week seemed to follow an augmented reality theme in the regular places I read. Techmeme, A16Z podcast, and even Hacker News provided multiple references to augmented reality, virtual reality, 5G ubiquity, and the widening adoption of gaming technologies.
 
 
-
----
-
 What Happens in Augmented Reality Stays in Augmented Reality?
 =============================================================
 

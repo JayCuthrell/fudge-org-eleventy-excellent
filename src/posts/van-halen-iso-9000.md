@@ -5,7 +5,7 @@ date: 2013-01-13 00:00:00+00:00
 
 ---
 
-As I was saying [previously](/burl-ives-workloads) about Branch content that means a lot less now…
+As I was saying [previously](https://fudge.org/archive/burl-ives-workloads) about Branch content that means a lot less now…
 
 (I don’t feel tardy…)
 

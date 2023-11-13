@@ -8,9 +8,6 @@ date: 2022-07-10 23:56:50.035000+00:00
 [Republica - Ready to Go (1997)](https://www.youtube.com/watch?v=JgffRW1fKDk)
 
 
-
----
-
 Thanks for reading Fudge Sunday! Subscribe for free to receive new posts and support my work.
 
 Shot and Chaser
@@ -32,7 +29,7 @@ And… nailed it.😳🤣
 
 We’re testing a way to write longer on Twitter. ![Image](https://substackcdn.com/video/upload/e_loop,vs_40/oe5tizpgx1y615d0tqir.gif)](https://twitter.com/TwitterWrite/status/1539640956915290112)[4:06 PM ∙ Jun 22, 2022
 
----
+
 
 8,544Likes1,868Retweets](https://twitter.com/TwitterWrite/status/1539640956915290112)Getting Informed
 ================

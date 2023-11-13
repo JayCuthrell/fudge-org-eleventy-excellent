@@ -33,17 +33,17 @@ I have some time now to clean up more blog content from over the years. That sho
 
 To that end, here are all ten (10) of my yearly updates starting with Acadia to VCE to EMC to Dell EMC to Dell Technologies.
 
-* 2010 [Year 0 at Acadia](/private-clouds-ahead)
-* 2011 [Year 1 at VCE, formerly known as Acadia](/my-first-year-at-vce)
-* 2012 [Year 2 at VCE](/my-second-year-at-vce)
-* 2013 [Year 3 at VCE](/my-third-year-at-vce)
-* 2014 [Year 4 at VCE](/my-fourth-year-at-vce)
-* 2015 [Year 5 at VCE, an EMC Company](/my-fifth-year-at-vce)
-* 2016 [Year 6 at VCE, a Dell EMC Company](/my-sixth-year-at-vce)
-* 2017 [Year 7 at VCE, a Dell EMC Company](/my-seventh-year-at-vce)
-* 2018 [Year 8 at Dell EMC](/my-eighth-year-at-vce)
-* 2019 [Year 9 at Dell Technologies](/my-ninth-year-at-vce)
-* 2020 [Year 10 at Dell Technologies](/my-tenth-year-at-vce)
+* 2010 [Year 0 at Acadia](https://fudge.org/archive/private-clouds-ahead)
+* 2011 [Year 1 at VCE, formerly known as Acadia](https://fudge.org/archive/my-first-year-at-vce)
+* 2012 [Year 2 at VCE](https://fudge.org/archive/my-second-year-at-vce)
+* 2013 [Year 3 at VCE](https://fudge.org/archive/my-third-year-at-vce)
+* 2014 [Year 4 at VCE](https://fudge.org/archive/my-fourth-year-at-vce)
+* 2015 [Year 5 at VCE, an EMC Company](https://fudge.org/archive/my-fifth-year-at-vce)
+* 2016 [Year 6 at VCE, a Dell EMC Company](https://fudge.org/archive/my-sixth-year-at-vce)
+* 2017 [Year 7 at VCE, a Dell EMC Company](https://fudge.org/archive/my-seventh-year-at-vce)
+* 2018 [Year 8 at Dell EMC](https://fudge.org/archive/my-eighth-year-at-vce)
+* 2019 [Year 9 at Dell Technologies](https://fudge.org/archive/my-ninth-year-at-vce)
+* 2020 [Year 10 at Dell Technologies](https://fudge.org/archive/my-tenth-year-at-vce)
 
 [REDACTED]
 ==========
@@ -61,7 +61,7 @@ One Last Thing
 
 For the past several years, I’ve been heads down in product management, product (guerrilla) marketing, software engineering, field planning, competitive research, analyst relations, field CTO engagements, customer engineering, pre-sales, operations, and leading teams but also wondering what my next career adventure will be.
 
-Looking ahead, I am going to be taking my own advice from the [thinking remotely](/thinking-remotely) post I published last month. I’m a former CTO/VP/GM with a telecom infrastructure background that somehow stumbled into the business of cloud computing. So, for me, the future of 5G / Telco / Edge / BMaaS / etc. looks like a bright shining beacon on the near horizon.
+Looking ahead, I am going to be taking my own advice from the [thinking remotely](https://fudge.org/archive/thinking-remotely) post I published last month. I’m a former CTO/VP/GM with a telecom infrastructure background that somehow stumbled into the business of cloud computing. So, for me, the future of 5G / Telco / Edge / BMaaS / etc. looks like a bright shining beacon on the near horizon.
 
 Why? The cloud will be coming to the physical work faster than we may realize. Just imagine being able to be present for another paradigm shift in ones lifetime.
 

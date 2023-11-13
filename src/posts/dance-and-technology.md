@@ -9,8 +9,6 @@ date: 2019-02-17 00:00:00+00:00
 
 
 
----
-
 [![via fudge.org (circa 1996?)](https://substack.com/static/3091c977e0671f0100c836d84ad8f7ff/0a47e/fudge-sunday.png "via fudge.org (circa 1996?)")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2F3091c977e0671f0100c836d84ad8f7ff%2F0a47e%2Ffudge-sunday.png)via fudge.org (circa 1996?)
 
 Newsletters and podcasts galore

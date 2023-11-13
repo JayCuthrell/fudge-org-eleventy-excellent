@@ -91,7 +91,7 @@ Source: [LinkedIn](https://www.linkedin.com/posts/jaycuthrell_memorandum-opinion
 
 # Here comes LLMOps
 
-I've written about [Machine Learning Operations (MLOps)](/topics/mlops/) before.
+I've written about [Machine Learning Operations (MLOps)](https://fudge.org/topics/mlops/) before.
 
 Toast and marmalade aside, the portamanteau of LLM and Operations is likely. Hence, here comes LLMOps.
 

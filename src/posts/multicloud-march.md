@@ -5,7 +5,7 @@ date: 2021-04-10 00:00:00+00:00
 
 ---
 
-Time flies. This is a reflection on one of the many things I’ve learned about as of March 2021 since [my first day at Faction](/cloud-data-services-ahead).
+Time flies. This is a reflection on one of the many things I’ve learned about as of March 2021 since [my first day at Faction](https://fudge.org/archive/cloud-data-services-ahead).
 
 Basically, in this post I wanted to capture some thoughts over the past 90 days (technically 117). While I have more thoughts that are topical, I’ll use this post to reflect on multicloud and the march towards multicloud… in March. Ah, wordplay.
 
@@ -37,7 +37,7 @@ I’ve always been fascinated by network connectivity. The higher the throughput
 
 Throughput could be thought of as simply the bandwidth (amount) and the latency (time) to fulfill a request. As such, words like express or fast would be likely modifiers in the marketing word soup.
 
-By way of [poultry analogy](/the-5-ps-of-workloads), if PaaS was poultry as a service there would be the high latency drive through lane and then there would be, well, the express lane.
+By way of [poultry analogy](https://fudge.org/archive/the-5-ps-of-workloads), if PaaS was poultry as a service there would be the high latency drive through lane and then there would be, well, the express lane.
 
 [![Chicken Express](https://substack.com/img/missing-image.png "Chicken Express")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fmissing-image.png)Preferred Packet Pricing Pending Prudent Placements
 ===================================================
@@ -108,12 +108,12 @@ But don’t take my word for it. [Read these ten (10) patents](https://www.facti
 
 Or, just watch a 2 minute movie… :smile:
 
-Oh, I still maintain that my predictions in [Social Telecom 2030](/social-telecom-2030) will eventually become true:
+Oh, I still maintain that my predictions in [Social Telecom 2030](https://fudge.org/archive/social-telecom-2030) will eventually become true:
 
 * *There will be a precipitous drop in memory costs and the future of egregious egress fees for cloud hosting providers is going to shift from awkward to completely unjustifiable.*
 * *Cloud egress fees are the 2020s version of long distance charges from the 1990s.*
 
-source: [Social Telecom 2030](/social-telecom-2030)
+source: [Social Telecom 2030](https://fudge.org/archive/social-telecom-2030)
 
 Final final thoughts
 ====================

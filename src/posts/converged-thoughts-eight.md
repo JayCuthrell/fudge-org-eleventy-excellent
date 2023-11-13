@@ -7,10 +7,6 @@ date: 2017-01-05 00:00:00+00:00
 
 This will be my first SxSW as a resident of Austin, Texas. I’m looking forward to it. Part of the build up to SxSW is making sense of an absolute wall of content in the form of Interactive speaker abstracts, Interactive panel abstracts, and of course… the musical acts. Below are a few of my selections so far.
 
-
-
----
-
 A Plethora of Panels
 ====================
 
@@ -64,7 +60,7 @@ One of the companies I mentioned was SlideRocket. It’s a small world because S
 
 At the end, I mentioned the importance of a digest of emails. So if you are reading this digest, you can probably appreciate the appeal of a digest format.
 
-Ultimately, the [convergence of interactive, music, and film concepts would play out each year](/converged-thoughts-four) and my decade long perspective isn’t far off now. I’m looking forward to writing about that in a future digest.
+Ultimately, the [convergence of interactive, music, and film concepts would play out each year](https://fudge.org/archive/converged-thoughts-four) and my decade long perspective isn’t far off now. I’m looking forward to writing about that in a future digest.
 
 One final note… if you are curious about the music selections I’m looking forward to seeing just start with this tweet and I’ll keep replying as I find new or interesting artists
 

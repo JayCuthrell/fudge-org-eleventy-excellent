@@ -8,9 +8,6 @@ date: 2019-03-04 00:00:00+00:00
 [![Fudge Sunday](https://buttondown-attachments.s3.us-west-2.amazonaws.com/0372814a-d233-4ea2-a396-41c6f629b56b?AWSAccessKeyId=AKIAJEXF6S6TCOKT7N3Q&Signature=HRqUTw0vJSytvceUF3xmDerxIZ8%3D&Expires=1677576946 "Fudge Sunday")](https://buttondown-attachments.s3.us-west-2.amazonaws.com/0372814a-d233-4ea2-a396-41c6f629b56b?AWSAccessKeyId=AKIAJEXF6S6TCOKT7N3Q&Signature=HRqUTw0vJSytvceUF3xmDerxIZ8%3D&Expires=1677576946)The topic of [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) has steadily moved towards the realm of popular science. As with many other topics within popular science, wider audiences will have varying degrees of awareness and depth – but recognition is certainly on the rise.
 
 
-
----
-
 Let’s get the TV reference out of the way…
 ==========================================
 

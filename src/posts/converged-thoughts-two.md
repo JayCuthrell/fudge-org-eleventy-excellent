@@ -8,9 +8,6 @@ date: 2016-12-30 00:00:00+00:00
 Thanks for sticking around! My second installment is a bit longer but I plan to settle on a word count soon enough.
 
 
-
----
-
 [!["Set phasers to 11." -- Star Trek: Spinal Tap Edition](https://substack.com/02367956382ffbb0d92387d0951d8133/IMG_2591.jpg "\"Set phasers to 11.\" -- Star Trek: Spinal Tap Edition")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2F02367956382ffbb0d92387d0951d8133%2FIMG_2591.jpg)“Set phasers to 11.” — Star Trek: Spinal Tap Edition
 
 The New Console and the Art of IT

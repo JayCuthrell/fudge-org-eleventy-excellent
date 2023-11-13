@@ -22,7 +22,6 @@ On October 10, 2017 an analyst event for Dell Technologies combined the notion o
 
 [![Twitter avatar for @PatrickMoorhead](https://substackcdn.com/image/twitter_name/w_96/PatrickMoorhead.jpg)Patrick Moorhead #CiscoLive @PatrickMoorhead.@MichaelDell kicks off #IQTday talking about @DellTech IoT, edge and ML vision.](https://twitter.com/PatrickMoorhead/status/917770307976552450?s=20&t=Gozv897sgHxDlKHiB32v_g) [3:14 PM ∙ Oct 10, 2017
 
----
 
 14Likes8Retweets](https://twitter.com/PatrickMoorhead/status/917770307976552450?s=20&t=Gozv897sgHxDlKHiB32v_g)
 > *“Soon there will be a perfect digital mirror of our world with every object streaming information…”* — Michael Dell [1](#footnote-1)

@@ -8,9 +8,6 @@ date: 2022-07-25 00:50:43.864000+00:00
 *[Tesla - Ez Come Ez Go (1986)](https://www.youtube.com/watch?v=a40BIowhEOA)*
 
 
-
----
-
 This week I wanted to thank readers for all the feedback and sharing. Being able to maintain my publishing streak for over a year has been incredibly rewarding.
 
 Thanks for reading Fudge Sunday! Subscribe for free to receive new posts and support my work.

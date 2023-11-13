@@ -8,9 +8,6 @@ date: 2022-06-26 15:46:40.948000+00:00
 *[Dionne Warwick - “Make It Easy On Yourself” (1973)](https://www.youtube.com/watch?v=xk4fE6xIWPw)*
 
 
-
----
-
 Getting Informed
 ================
 

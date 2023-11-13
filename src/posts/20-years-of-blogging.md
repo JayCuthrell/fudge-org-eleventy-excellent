@@ -26,7 +26,7 @@ tags:
 
 ---
 
-[20 years](/the-fudge-faq). Well, it’s probably more than 20 years if I include personal websites that changed. Good times.
+[20 years](https://fudge.org/archive/the-fudge-faq). Well, it’s probably more than 20 years if I include personal websites that changed. Good times.
 
 # Selective Saving
 

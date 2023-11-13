@@ -10,10 +10,7 @@ date: 2019-03-11 00:00:00+00:00
 This week I learned a little more about what has changed in the past 20 years.
 
 
-
----
-
-Look out for the Snakes
+# Look out for the Snakes
 
 Running the snake was an occasional problem when the venue wasn’t purpose built for live music. For example, you are setting up in an open field and want to know the sound is great so you run the snake back to a console facing the stage. People want to dance when music is playing. Dancing is harder when when there are rugs, trenches, or other attempts to hide a gnarly cable from sight.
 
@@ -27,7 +24,7 @@ When there are a lot of instruments and a desire for great drum sound there will
 
 [www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=02dksd-eTzg) – [Share](http://rev.vu/XG8dEd?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
-Ethernet FTW!
+# Ethernet FTW!
 
 As wifi connected devices became more mainstream, the applications of wifi started to appear in more places where Ethernet was present. Next, the cost of high powered tablet computing meant access to often skeuomorphic designs mimicking various physical consoles.
 
@@ -37,7 +34,7 @@ So, if the engineers that tried Ethernet were really smart, the next wave of aud
 
 [www.youtube.com](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=RisOvJABh4I) – [Share](http://rev.vu/R35yj9?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=Fudge+Sunday)
 
-Mobile console FTW!
+# Mobile console FTW!
 
 Most traditional snakes might have been 50 feet or 100 feet which is still well within the range of wifi. That means you can be the sound person anywhere in the room. In fact, you can probably be the sound person just about anywhere the wifi signal can reach.
 
@@ -65,7 +62,7 @@ Regardless, even the most back to basic sounding bands will push the envelope of
 
 Gregory R. Price on making the mix amazing everywhere every single time.
 
-One Last Thought
+# One Last Thought
 
 Thank you again – all 7 of you– for subscribing and reading. My goals for 2019 are simple. I’m trying to pick a theme per week to summarize with a 10-20 year history. It’s likely the theme is technology but will crossover to science and socioeconomic topics. The fits and starts in late 2016 were about convergence and that’s still a big part of what occupies my mind each day.
 

@@ -7,10 +7,6 @@ date: 2019-03-18 00:00:00+00:00
 
 If you follow my annual blog updates you already know [I’ve been off the road for just over a year](https://fudge.org/archive/my-eighth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). As with any decrease in travel frequency there are opportunities to learn and plan for an eventual increase. This week I’ll explore some of the things I’ve learned over the past +20 years of being in regular motion around the globe.
 
-
-
----
-
 [![My office at the peak of my North American travel... the AMEX Lounge in LAS](https://substack.com/static/52ffddc7f1ba3a9a4c6e68a4816356a5/b4294/amexvegas.jpg "My office at the peak of my North American travel... the AMEX Lounge in LAS")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2F52ffddc7f1ba3a9a4c6e68a4816356a5%2Fb4294%2Famexvegas.jpg)My office at the peak of my North American travel… the AMEX Lounge in LAS
 
 Membership Had Its Privileges

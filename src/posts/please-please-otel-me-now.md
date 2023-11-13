@@ -73,13 +73,13 @@ The following tweets from 2021-2022 are just a sample of the amazing community t
 
 Same data side by side in @LightstepHQ and in @honeycombio, from the #OpenTelemetry collector receiving browser instrumentation and teeing it to both sinks (thanks @austinlparker!) ![honeycomb graph showing latency heatmap and number of requests](https://pbs.substack.com/media/FCvzLBgVUAA97T5.jpg)![lightstep latency histogram](https://pbs.substack.com/media/FCvzmVcVUAY__R5.jpg)![lightstep query builder showing rate of requests received for trailing hours to opentelemetry.io](https://pbs.substack.com/media/FCv1zPEUUAI4PRj.jpg)](https://twitter.com/lizthegrey/status/1453525797243797510?s=20&t=40rloke9wxFY3fbZZU2ZCQ)[12:55 AM ∙ Oct 28, 2021
 
----
+
 
 15Likes2Retweets](https://twitter.com/lizthegrey/status/1453525797243797510?s=20&t=40rloke9wxFY3fbZZU2ZCQ)[![Twitter avatar for @mipsytipsy](https://substackcdn.com/image/twitter_name/w_96/mipsytipsy.jpg)Charity Majors @mipsytipsyFor those of you who have been living under a rock, OTel is an open standard for generating, collecting, and exporting telemetry in a vendor agnostic way.
 
 Before OTel, every vendor had its own libraries, and switching (or trying out) new vendors was a \*bitch\*.](https://twitter.com/mipsytipsy/status/1494857554714718209?s=20&t=40rloke9wxFY3fbZZU2ZCQ)[2:13 AM ∙ Feb 19, 2022
 
----
+
 
 97Likes7Retweets](https://twitter.com/mipsytipsy/status/1494857554714718209?s=20&t=40rloke9wxFY3fbZZU2ZCQ)[![Twitter avatar for @maascamp](https://substackcdn.com/image/twitter_name/w_96/maascamp.jpg)Gordon Radlein @maascampToday was my last day at Meta.
 
@@ -87,11 +87,11 @@ On Monday I'll start my new role as an Eng Director @datadoghq working on APM an
 
 Excited to try my hand on the product side of the business.](https://twitter.com/maascamp/status/1507473053814439936?s=20&t=40rloke9wxFY3fbZZU2ZCQ)[9:42 PM ∙ Mar 25, 2022
 
----
+
 
 624Likes16Retweets](https://twitter.com/maascamp/status/1507473053814439936?s=20&t=40rloke9wxFY3fbZZU2ZCQ)[![Twitter avatar for @alolita](https://substackcdn.com/image/twitter_name/w_96/alolita.jpg)Alolita Sharma🌸 @alolitaFinal step of launch! We have swag for AWS Distro for OpenTelemetry! 🚀🎉 #OpenTelemetry #Observability #ADOT ![Image](https://pbs.substack.com/media/FKEtRqiVUAMxgKK.jpg)](https://twitter.com/alolita/status/1486519136528179203?s=20&t=40rloke9wxFY3fbZZU2ZCQ)[1:59 AM ∙ Jan 27, 2022
 
----
+
 
 124Likes6Retweets](https://twitter.com/alolita/status/1486519136528179203?s=20&t=40rloke9wxFY3fbZZU2ZCQ)So, how will Otel factor into the next industrial revolution?
 

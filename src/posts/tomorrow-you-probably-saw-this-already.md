@@ -10,9 +10,6 @@ date: 2019-04-21 00:00:00+00:00
 p.s. Thanks to the folks behind [Vecteezy Editor](https://www.vecteezy.com/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter) for the new logo!
 
 
-
----
-
 To set the stage, we will examine necessity, humanity, movies, gaming, and music. We start with a look at our (sometimes) forgotten past and how the future is portrayed as [eternal, shiny, and chrome](https://www.youtube.com/watch?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter&v=GI5Jkvcf4TU).
 
 [2013 - Parachronism, Possibility, and Penny-Farthing Futurism](https://www.tor.com/2013/08/15/parachronism-possibility-and-penny-farthing-futurism/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)

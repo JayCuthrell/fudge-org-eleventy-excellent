@@ -40,9 +40,6 @@ Some early Twitter users from 2007-2012 might recall the early scaling challenge
 [4:54 AM ∙ Nov 7, 2012](https://twitter.com/stop/status/266040874549526528?s=20&t=4Pg0RsyK6hTLW7qIea0KwQ)
 
 
-
----
-
 [149Likes160Retweets](https://twitter.com/stop/status/266040874549526528?s=20&t=4Pg0RsyK6hTLW7qIea0KwQ)
 
 From a completely speculative point of view, SRE shifting to focus on the error budgets[3](#footnote-3) of the service lifecycle for new features could come at the expense other existing features. Or, for short, *what was deemed important* to the existing user (you?) *may become far less important* to any company that shifts focus to the attraction of the new user (not you?) associated with top line revenue growth.
@@ -58,9 +55,6 @@ For what it’s worth, the last tweet from “TwitterSRE” was over a year ago 
 [![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/abce819f-8732-4b0b-9e37-d736d88771a0_820x547.jpeg)meetup.comLogin to Meetup | MeetupFind groups that host online or in person events and meet people in your local community who share your interests.](https://www.meetup.com/San-Francisco-Reliability-Engineering/events/275551787/)[12:03 AM ∙ Nov 11, 2021](https://twitter.com/TwitterSRE/status/1458586120187355140?s=20&t=7Ts1f-nqZkgYGy9I3LEm4g)
 
 
-
----
-
 11Likes6Retweets
 
 [![Twitter avatar for @TwitterEng](https://substackcdn.com/image/twitter_name/w_96/TwitterEng.jpg)Twitter Engineering @TwitterEng](https://twitter.com/TwitterEng/status/1583470012202815488?s=20&t=7Ts1f-nqZkgYGy9I3LEm4g)
@@ -69,9 +63,6 @@ For what it’s worth, the last tweet from “TwitterSRE” was over a year ago 
 
 [2:47 PM ∙ Oct 21, 2022](https://twitter.com/TwitterEng/status/1583470012202815488?s=20&t=7Ts1f-nqZkgYGy9I3LEm4g)
 
-
-
----
 
 [46Likes4Retweets](https://twitter.com/TwitterEng/status/1583470012202815488?s=20&t=7Ts1f-nqZkgYGy9I3LEm4g)
 

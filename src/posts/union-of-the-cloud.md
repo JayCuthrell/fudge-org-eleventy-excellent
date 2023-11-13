@@ -33,31 +33,31 @@ Tons of #Scala, lots of deep tech, challenging problems.
 
 If anyone wants to work with me, send a message!](https://twitter.com/li_haoyi/status/1106366239624970240?s=20&t=zOpPvIrDPa_EdZRPaK2tbw)[1:27 AM ∙ Mar 15, 2019
 
----
+
 
 129Likes53Retweets](https://twitter.com/li_haoyi/status/1106366239624970240?s=20&t=zOpPvIrDPa_EdZRPaK2tbw)[![Twitter avatar for @pracucci](https://substackcdn.com/image/twitter_name/w_96/pracucci.jpg)Marco Pracucci 🇮🇹🇪🇺 @pracucciMulti-cloud is the problem very very few customers have but everyone wanna solve, just because it's cool to overcomplicate things.](https://twitter.com/pracucci/status/1116694575748395008?s=20&t=zOpPvIrDPa_EdZRPaK2tbw)[1:28 PM ∙ Apr 12, 2019
 
----
+
 
 159Likes54Retweets](https://twitter.com/pracucci/status/1116694575748395008?s=20&t=zOpPvIrDPa_EdZRPaK2tbw)[![Twitter avatar for @littleidea](https://substackcdn.com/image/twitter_name/w_96/littleidea.jpg)Andrew Clay Shafer 雷启理 @littleideabefore you go all multi-cloud at least learn about regions, zones, and math](https://twitter.com/littleidea/status/1135366854623485952?s=20&t=zOpPvIrDPa_EdZRPaK2tbw)[2:05 AM ∙ Jun 3, 2019
 
----
+
 
 202Likes38Retweets](https://twitter.com/littleidea/status/1135366854623485952?s=20&t=zOpPvIrDPa_EdZRPaK2tbw)[![Twitter avatar for @wendynather](https://substackcdn.com/image/twitter_name/w_96/wendynather.jpg)Wendy Nather @wendynather“Let’s go multi-cloud to avoid vendor lock-in.”
 
 “Great, now we’re locked in to MULTIPLE vendors.”](https://twitter.com/wendynather/status/1187467332488179712?s=20&t=zOpPvIrDPa_EdZRPaK2tbw)[8:34 PM ∙ Oct 24, 2019
 
----
+
 
 794Likes163Retweets](https://twitter.com/wendynather/status/1187467332488179712?s=20&t=zOpPvIrDPa_EdZRPaK2tbw)For 2020, let’s again look at the collective knowledge of… popular tweets that begin to illustrate the divide of data management and operational justifications.
 
 [![Twitter avatar for @jrdntgn](https://substackcdn.com/image/twitter_name/w_96/jrdntgn.jpg)Jordan Tigani @jrdntgnBigQuery goes multi-cloud. From the early days of BQ, we said "move the compute to the data, not the data to the compute". Now you can move your compute to data that lives on other clouds (AWS now, Azure soon), just like it was another region. ![Twitter avatar for @GoogleCloudTech](https://substackcdn.com/image/twitter_name/w_40/GoogleCloudTech.jpg)Google Cloud Tech @GoogleCloudTechWe’re introducing BigQuery Omni, a multicloud analytics solution powered by Anthos. #BigQueryOmni helps you access & analyze data across @googlecloud and other third-party public clouds, all without leaving the familiar BigQuery UI → https://t.co/m5LxOBYLif #GoogleCloudNext https://t.co/L5MFZOGsVc](https://twitter.com/jrdntgn/status/1283039292206518275?s=20&t=zOpPvIrDPa_EdZRPaK2tbw)[2:02 PM ∙ Jul 14, 2020
 
----
+
 
 351Likes112Retweets](https://twitter.com/jrdntgn/status/1283039292206518275?s=20&t=zOpPvIrDPa_EdZRPaK2tbw)[![Twitter avatar for @CTOAdvisor](https://substackcdn.com/image/twitter_name/w_96/CTOAdvisor.jpg)Keith Townsend @CTOAdvisorMy whole practice is based on this quote from @QuinnyPig. #MultiCloud #Cloud #CIO #CTO #TheCube cc @stu](https://twitter.com/CTOAdvisor/status/1294394383303954433?s=20&t=zOpPvIrDPa_EdZRPaK2tbw) [10:04 PM ∙ Aug 14, 2020
 
----
+
 
 138Likes20Retweets](https://twitter.com/CTOAdvisor/status/1294394383303954433?s=20&t=zOpPvIrDPa_EdZRPaK2tbw)For 2021, Hashipcorp[1](#footnote-1) shared the following “5 Numbers To Remember” and went on to specifically call out 66% of companies had deemed it strategically advantageous to operate a Cloud Centers of Excellence (CCoE).
 

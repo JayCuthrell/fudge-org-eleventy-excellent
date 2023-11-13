@@ -12,7 +12,7 @@ date: 2012-10-15 00:00:00+00:00
 
 \_ Pay attention. It will be faster than you think.\_ — VCE Deal Desk Mission Control Room
 
-Two years ago this week was [my first day at Acadia which later became VCE](/private-clouds-ahead/). The past year at VCE started off with a review of [my first year at VCE](/my-first-year-at-vce/). To keep things consistent I’ll follow a similar format for this anniversary post.
+Two years ago this week was [my first day at Acadia which later became VCE](https://fudge.org/archive/private-clouds-ahead/). The past year at VCE started off with a review of [my first year at VCE](https://fudge.org/archive/my-first-year-at-vce/). To keep things consistent I’ll follow a similar format for this anniversary post.
 
 I’m posting this one a bit ahead of time because I’ll be soaking up knowledge at OpenStack Summit 2012 in San Diego.
 

@@ -9,16 +9,12 @@ The Asteroids Galaxy Tour - Around The Bend (2009)
 
 *Note: This issue marks a successful migration from Revue (Twitter) to Substack.*
 
+# Getting Informed
 
-
----
-
-**Getting Informed**
-====================
 
 First, you might recall my shot and chaser format from prior issues. Essentially, I call back to a prior reference in an issue with a current link to how the prediction or topic turned out in the market.
 
-### **[Shot: Cheap as Chips (December 2021)](https://sunday.fudge.org/issues/fudge-sunday-cheap-as-chips-in-2022-946008?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
+### **[Shot: Cheap as Chips (December 2021)](https://fudge.org/archive/fudge-sunday-cheap-as-chips-in-2022-946008?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
 
 One of my predictions was our pandemic related so-called “chip crisis” would ultimately lead to a future state of increased supply of drastically lower price chips in far more devices and use cases. So, as of last week, the future is already starting to look closer than I imagined.
 
@@ -45,7 +41,7 @@ One of my predictions was our pandemic related so-called “chip crisis” would
 
 BTW… I linked to this: [https://t.co/aVGPXlaazP](https://t.co/aVGPXlaazP?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) 🧐
 
-### **[Chaser: @jack on web5 (June 2022)](https://twitter.com/jack/status/1535314738078486533)**
+# [Chaser: @jack on web5 (June 2022)](https://twitter.com/jack/status/1535314738078486533)
 
 [![Twitter avatar for @jack](https://substackcdn.com/image/twitter_name/w_96/jack.jpg)jack @jackthis will likely be our most important contribution to the internet. proud of the team. #web5
 
@@ -54,20 +50,19 @@ BTW… I linked to this: [https://t.co/aVGPXlaazP](https://t.co/aVGPXlaazP?utm_c
 [developer.tbd.website/projects/web5/](https://developer.tbd.website/projects/web5/) ![Twitter avatar for @TBD54566975](https://substackcdn.com/image/twitter_name/w_40/TBD54566975.jpg)TBD @TBD54566975Web5: An extra decentralized web platform
 https://t.co/LDW3MZ8tON](https://twitter.com/jack/status/1535314738078486533?s=20&t=xbc5QJHGqQb0Q2uFNGNyRA)[5:35 PM ∙ Jun 10, 2022
 
----
+11,400Likes2,406Retweets](https://twitter.com/jack/status/1535314738078486533?s=20&t=xbc5QJHGqQb0Q2uFNGNyRA)
 
-11,400Likes2,406Retweets](https://twitter.com/jack/status/1535314738078486533?s=20&t=xbc5QJHGqQb0Q2uFNGNyRA)**I'll stay forever with you 🎶**
-================================
+# I'll stay forever with you 🎶**
 
 While this next shot and chaser is not a part of my newsletter history, I couldn’t help but notice that the future got here faster than I personally thought. Indeed, I remember buying engraved 📱 devices as loving mementos just over a decade ago and in the years since.
 
-### **[Shot: iPod Touch Ad (2009)](https://www.youtube.com/watch?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter&v=U-wY9vtw08s)**
+### [Shot: iPod Touch Ad (2009)](https://www.youtube.com/watch?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter&v=U-wY9vtw08s)
 
 The song ‘Around the Bend’ by The Asteroids Galaxy Tour appeared as the backing track for the iPod Touch commercials that became so iconic as Apple began to explore the adjacencies in their growing handheld device market.
 
 [![Shot: iPod Touch Ad (2009)](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4890fd79-207e-40af-8ee0-16483550b3f4_280x280.jpeg "Shot: iPod Touch Ad (2009)")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4890fd79-207e-40af-8ee0-16483550b3f4_280x280.jpeg)Source: [www.youtube.com](https://www.youtube.com/watch?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter&v=U-wY9vtw08s)
 
-### **[Chaser: iPod Touch nadir (2022)](https://www.techmeme.com/220510/p29?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a220510p29)**
+### [Chaser: iPod Touch nadir (2022)](https://www.techmeme.com/220510/p29?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a220510p29)
 
 
 > *Apple discontinues the iPod touch, leaving the device on sale “while supplies last” and ending the product line after debuting the original iPod in October 2001.*
@@ -76,8 +71,7 @@ The song ‘Around the Bend’ by The Asteroids Galaxy Tour appeared as the back
 
 [![Chaser: iPod Touch nadir (2022)](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/be3e5276-0668-4c4c-9290-9b02c41394f2_280x280.jpeg "Chaser: iPod Touch nadir (2022)")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe3e5276-0668-4c4c-9290-9b02c41394f2_280x280.jpeg)Source: [www.techmeme.com](https://www.techmeme.com/220510/p29?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a220510p29)
 
-**Update:**
------------
+# Update:
 
 And speaking of staying forever… farewell to Revue… and hello (for now) to Substack.
 
@@ -93,8 +87,7 @@ Planning ahead, I’m going to go belt (mirroring) and suspenders (substack) for
 
 We shall see… but so far so good if you are reading this issue. [1](#footnote-1)
 
-**Recommended Reads**
-=====================
+## Recommended Reads
 
 If you have ever been exposed to VMware… this worth listening to.
 
@@ -102,8 +95,8 @@ If you have ever been exposed to VMware… this worth listening to.
 
 [![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/38b9afd5-b355-4018-923a-c7729ef6ad04_500x500.png)Data OperationsMulti-player spreadsheets are awfulRead more6 months ago · Greg Meyer](https://www.finddataops.com/p/multi-player-spreadsheets-are-awful?utm_source=substack&utm_campaign=post_embed&utm_medium=web)And [this one](https://mgs.blog/the-apple-banks-next-branch-e4f837d42078) from [M.G. Siegler](https://mgsiegler.com) you can take… [to the bank](https://mgs.blog/the-apple-banks-next-branch-e4f837d42078).
 
-Just for fun
-============
+## Just for fun
+
 
 I’ve been noodling again in the home studio. Riffs and jingles as always.
 
@@ -111,8 +104,7 @@ Publishing from GarageBand directly to SoundCloud helps keep the earworm at bay.
 
 
 
-**Disclosure**
-==============
+# Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 

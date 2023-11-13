@@ -10,7 +10,7 @@ The traditional one year blog post continues. The year since my last work relate
 Years of Service
 ================
 
-As of this October update, I’ve been with Dell for eight years. As I described [last year](/my-seventh-year-at-vce/) and [the year before](/my-sixth-year-at-vce/), the references to the past are only legacy domain names and HR or payroll related.
+As of this October update, I’ve been with Dell for eight years. As I described [last year](https://fudge.org/archive/my-seventh-year-at-vce/) and [the year before](https://fudge.org/archive/my-sixth-year-at-vce/), the references to the past are only legacy domain names and HR or payroll related.
 
 Eight years. Eight years is the longest commitment I’ve ever made to any company. Granted, dual concurrent nested mergers might not be the *same* company but this is the longest continuous years of service record I’ve had in my career. It feels good. Even my 24 year old high tech nomad self would wonder who this guy is that claims to be me.
 
@@ -63,11 +63,11 @@ In addition to [Trusted Traveler Programs](https://www.cbp.gov/travel/trusted-tr
 [REDACTED]
 ==========
 
-As for what has not changed, [I still really cannot blog about what I am working on for customers](/disclosure). But maybe I’ll show up elsewhere in a [company sanctioned online presence](https://jaycuthrell.com/media/).
+As for what has not changed, [I still really cannot blog about what I am working on for customers](https://jaycuthrell.com/disclosure). But maybe I’ll show up elsewhere in a [company sanctioned online presence](https://jaycuthrell.com/media/).
 
 That said, I’ve moved off GitHub Pages to Netlify (see the footer below) and it has been outstanding. Maybe, as the failed promise goes, I will blog more now. Heh.
 
-One other area I’ve changed is maintaining other social media profiles. [10 years of Twitter](/on/twitter/) was a good run. So, I’m not on Twitter unless someone DMs me. Once again, I’ve removed my LinkedIn profile. I might put a placeholder back in place. Maybe.
+One other area I’ve changed is maintaining other social media profiles. [10 years of Twitter](https://fudge.org/archive/on-twitter/) was a good run. So, I’m not on Twitter unless someone DMs me. Once again, I’ve removed my LinkedIn profile. I might put a placeholder back in place. Maybe.
 
 I’ve tried to add a social media profile breadcrumb URL to link back to my website where possible. If not, I’ve removed the social media profile entirely.
 

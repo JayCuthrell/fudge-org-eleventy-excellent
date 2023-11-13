@@ -29,15 +29,15 @@ tags:
 
 *[Billy Joel - “A Matter of Trust” (1986)](https://www.youtube.com/watch?v=6yYchgX1fMw)*
 
-Getting Informed
-================
+# Getting Informed
 
 This week we take a look at Zero Trust, Zero Trust Model, Zero Trust Security Model, Zero Trust Reference Architecture, Zero Trust Network Access, and Zero Trust Network Architecture. So, if this seems like an elongated list now, you should have zero *— ahem —* trust the list will be the last of the variants.
 
 Please Subscribe!
 
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/400d3c16-90ab-4348-92bf-0121eec1aff1_940x788.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F400d3c16-90ab-4348-92bf-0121eec1aff1_940x788.png)And they may not want it to end 🎶
----------------------------------
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/400d3c16-90ab-4348-92bf-0121eec1aff1_940x788.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F400d3c16-90ab-4348-92bf-0121eec1aff1_940x788.png)
+
+# And they may not want it to end 🎶
 
 For me, “Zero Trust” is simply a shorter way of saying “Trust No One” using 9 characters and 1 space (2 words) instead of 10 characters and 2 spaces (3 words). Both work just as well for haiku with 3 syllables each.
 
@@ -62,8 +62,8 @@ Here's a quick sample across companies, products, government, and the Internet b
 * US DoD = Zero Trust Reference Architecture = DISA + NSA[7](#footnote-7)
 * Wikipedia = Zero Trust Security Model = aka ZTA, ZTNA[8](#footnote-8)
 
-It's hard when you're always afraid 🎶
--------------------------------------
+# It's hard when you're always afraid 🎶
+
 
 Zero trust jargon is arguably at least a decade old. Partly, this is due to the growth of virtual private networks (VPN) and the challenge of VPN deployments along with implementation frustration.
 
@@ -71,8 +71,7 @@ If you've ever had to use a VPN regularly, you know it is better than having to 
 
 Still, I have been using VPN since the late 1990s and still do. However, my mood changed when there was the glimmer of hope from companies like Tailscale.[10](#footnote-10)
 
-There can hardly be a question of why 🎶
----------------------------------------
+# There can hardly be a question of why 🎶
 
 Ultimately, the why this matters is due to our societal appetites for what comes next. Eventually, how end users interact and how developers create the things end users interact with will lead to lower friction experiences.
 
@@ -90,8 +89,8 @@ Circa 2005… off Google Secure Access VPN
 
 Until then… Place your bets!
 
-Disclosure
-==========
+# Disclosure
+
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
@@ -118,4 +117,3 @@ I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaig
 [11](#footnote-anchor-11)Read: [The BeyondCorp Story](https://www.beyondcorp.com)
 
 [12](#footnote-anchor-12)Read: <https://web.archive.org/web/20051116174445/http://wifi.google.com/faq.html>
-
