@@ -36,7 +36,7 @@ There is an ancient saying...
 
 > Those who do not study history, are doomed to... [checks notes] take an alternative course that satisfies the elective requirements to graduate in their matriculated degree program.
 
-While I'm no history major, thirty (30!) years ago I did take a history course: "HI 322 - THE RISE OF MODERN SCIENCE". If you ask me what I remeber — I remember learning about [phlogiston](https://en.wikipedia.org/wiki/Phlogiston_theory). 
+While I'm no history major, thirty (30!) years ago I did take a history course: "HI 322 - THE RISE OF MODERN SCIENCE". If you ask me what I remember — I remember learning about [phlogiston](https://en.wikipedia.org/wiki/Phlogiston_theory). 
 
 Sadly, courses like "HI 322 - THE RISE OF MODERN SCIENCE" should have been one of my favorite courses — but in reality, I barely passed it. I play back the reasons why even today and it might have something to do with... being preoccupied with that which would become the domain of knowledge I'd build upon for the next thirty (30!) years.
 
