@@ -70,7 +70,7 @@ It has been ten (10!) years since [we learned that the lyrics to 'Santa Claus is
 
 ## 2008
 
-It has been fifteen (15!) years since [Google's fresh take on the web browser](https://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html) and our first lessons on the [trust based fragility of BGP announcements](https://www.ripe.net/publications/news/industry-developments/youtube-hijacking-a-ripe-ncc-ris-case-study).
+It has been fifteen (15!) years since [Google's fresh take on the web browser](https://googleblog.blogspot.com/2008/09/fresh-take-on-browser.html) and our first major lessons on the [trust based fragility of BGP announcements](https://www.ripe.net/publications/news/industry-developments/youtube-hijacking-a-ripe-ncc-ris-case-study).
 
 ## 2003
 
