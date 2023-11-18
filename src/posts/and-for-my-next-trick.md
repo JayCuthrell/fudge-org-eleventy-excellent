@@ -7,6 +7,20 @@ tags:
   - consulting
   - travel
   - career
+  - red-hat
+  - sun
+  - microsoft
+  - cisco
+  - hp
+  - verisign
+  - intel
+  - ixl
+  - scient
+  - brazil
+  - bea
+  - oracle
+  - pki
+  - bbq
 
 ---
 

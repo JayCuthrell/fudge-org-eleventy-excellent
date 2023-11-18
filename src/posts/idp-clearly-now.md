@@ -2,7 +2,21 @@
 title: "IDP Clearly Now"
 description: ''
 date: 2023-01-30 00:26:35.199000+00:00
-
+tags:
+  - idp
+  - devopsbox
+  - honeycomb
+  - mia-platform
+  - red-hat
+  - humanitec
+  - vmware
+  - modelops
+  - revops
+  - coherence
+  - roadie
+  - wayscript
+  - spotify
+  - backstage
 ---
 
 [![image.jpg](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/47eb1c44-ddc5-4bbd-8bd1-0680d96fd93d.jpg)](https://stockimg.ai)

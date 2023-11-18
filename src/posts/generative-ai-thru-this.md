@@ -2,10 +2,17 @@
 title: "Generative AI Thru This"
 description: ''
 date: 2023-06-26 00:07:44.377000+00:00
-
----
-
+tags:
+  - ai
+  - genai
+  - platform-engineer
+  - devx
+  - aiops
+  - modelops
+  - red-hat
+  - devops
  
+---
 
 Music: [Daniel Bedingfield - Gotta Get Thru This (2001)](https://www.youtube.com/watch?v=b4eMyOzD9UI)
 

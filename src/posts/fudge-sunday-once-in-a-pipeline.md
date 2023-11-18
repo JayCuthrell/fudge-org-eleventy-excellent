@@ -10,6 +10,7 @@ tags:
   - aiops
   - modelops
   - revops
+  - red-hat
 
 ---
 
