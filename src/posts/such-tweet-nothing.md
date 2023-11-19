@@ -2,7 +2,10 @@
 title: "Such Tweet Nothing"
 description: ''
 date: 2023-01-01 23:31:02.583880+00:00
-
+tags:
+  - newsletter
+  - mastodon
+  - fediverse
 ---
 
 Music: [Calvin Harris - Sweet Nothing ft. Florence Welch (2012)](https://www.youtube.com/watch?v=17ozSeGw-fY)

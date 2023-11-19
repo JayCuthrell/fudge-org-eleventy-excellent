@@ -17,6 +17,7 @@ tags:
   - public-cloud
   - hybrid-cloud
   - dpwcg
+  - mastodon
   
 ---
 

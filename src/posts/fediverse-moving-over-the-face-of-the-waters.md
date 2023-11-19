@@ -2,7 +2,13 @@
 title: "Fediverse Moving over the Face of the Waters"
 description: ''
 date: 2022-12-03 21:21:49.425681+00:00
-
+tags:
+  - newsletter
+  - mastodon
+  - fediverse
+  - twitter
+  - substack
+  - buttondown
 ---
 
 This is an early edition of Fudge Sunday where we we take a look at moving a newsletter from Substack to Buttondown and from Twitter to Mastodon.

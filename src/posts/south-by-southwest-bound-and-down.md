@@ -2,7 +2,11 @@
 title: "South by Southwest Bound and Down"
 description: ''
 date: 2023-08-07 00:13:58.613000+00:00
-
+tags:
+  - newsletter
+  - mastodon
+  - twitter
+  - sxsw
 ---
 
 This week we take a look at [South by Southwest® (SXSW®)](https://en.wikipedia.org/wiki/South\_by\_Southwest) from SxSW 2008 to SxSW 2024.

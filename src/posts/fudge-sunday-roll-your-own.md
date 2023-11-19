@@ -2,7 +2,11 @@
 title: "Fudge Sunday - Roll Your Own"
 description: ''
 date: 2019-04-08 02:11:45+00:00
-
+tags:
+  - newsletter
+  - posse
+  - mastodon
+  - social
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-roll-your-own-170346?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)
