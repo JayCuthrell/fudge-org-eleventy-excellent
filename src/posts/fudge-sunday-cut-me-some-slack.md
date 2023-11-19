@@ -2,7 +2,9 @@
 title: "Fudge Sunday - Cut Me Some Slack"
 description: ''
 date: 2022-01-31 00:19:16+00:00
-
+tags:
+  - newsletter
+  - deep-web
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-cut-me-some-slack-1003110?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

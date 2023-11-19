@@ -2,7 +2,9 @@
 title: "Fudge Sunday - SaaS Trendspotting"
 description: ''
 date: 2021-11-22 00:54:48+00:00
-
+tags:
+  - newsletter
+  - deep-web
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-saas-trendspotting-877717?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

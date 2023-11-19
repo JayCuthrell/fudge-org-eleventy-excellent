@@ -1,8 +1,10 @@
 ---
 title: "Fudge Sunday - Moving Out"
-description: ''
+description: 'A look at moving to new platforms'
 date: 2022-06-05 20:55:38+00:00
-
+tags:
+  - newsletter
+  - deep-web
 ---
 
 [![Start the week more informed](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b1c88e73-db40-46fc-a18c-9976bf4fc108_1200x115.png "Start the week more informed")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1c88e73-db40-46fc-a18c-9976bf4fc108_1200x115.png)This week we take a look at take out capabilities of this newsletter.

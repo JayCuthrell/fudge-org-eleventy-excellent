@@ -6,6 +6,9 @@ tags:
   - finops
   - mlops
   - dataops
+  - deep-web
+  - newsletter
+  - deep-web
   
 ---
 

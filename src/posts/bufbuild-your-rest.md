@@ -1,8 +1,10 @@
 ---
 title: "Buf.build Your REST"
-description: ''
+description: 'A a look at the history of protocol buffers as well as the rise of buf'
 date: 2023-03-06 02:10:56.785300+00:00
-
+tags:
+  - newsletter
+  - deep-web
 ---
 
  

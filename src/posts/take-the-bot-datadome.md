@@ -2,7 +2,9 @@
 title: "Take the Bot DataDome"
 description: ''
 date: 2023-04-10 00:19:41.356000+00:00
-
+tags:
+  - newsletter
+  - deep-web
 ---
 
  

@@ -2,7 +2,9 @@
 title: "Feeling So Really Simple Syndication"
 description: ''
 date: 2022-08-15 02:33:09.568000+00:00
-
+tags:
+  - newsletter
+  - deep-web
 ---
 
 *[Moby - 'Feeling So Real' (1995)](https://www.youtube.com/watch?v=Ju2L6NhSebQ)*
