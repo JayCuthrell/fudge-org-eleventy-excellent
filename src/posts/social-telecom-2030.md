@@ -1,7 +1,26 @@
 ---
 title: "Social Telecom 2030"
-description: ''
+description: 'A projection in 2020 for what the next 10 years will bring'
 date: 2020-11-25 00:00:00+00:00
+tags:
+- social
+- telecom
+- companies
+- cloud
+- consumer
+- services
+- connectivity
+- mobile
+- devices
+- systems
+- broadband
+- technology
+- data
+- patterns
+- 5g
+- zoom
+- futures
+- applications
 
 ---
 
