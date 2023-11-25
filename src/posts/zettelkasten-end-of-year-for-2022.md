@@ -17,15 +17,15 @@ Second, I have been approached by an advertiser. After gathering feedback from a
 
 ![button-down 1200x630.png](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/c81ca173-9c49-4958-8bf9-094528d4e27c.png)
 
-You might recall my [end of 2021 Zettlekasten update](https://fudge.org/archive/fudge-sunday-zettelkasten-end-of-year-favorites) from this same time last year. Well, it's time for the end of year recap before my end of year predictions next week. 
+You might recall my [end of 2021 Zettlekasten update](https://fudge.org/archive/fudge-sunday-zettelkasten-end-of-year-favorites) from this same time last year. Well, it's time for the end of year recap before my end of year predictions next week.
 
 In keeping with quasi-yearly tradition, I’ll share a few of my favorite links that inspired me for weekly newsletter output. Also, a common email reply from my readership this year was as follows:
 
-> \_Jay, where do you come up with this stuff?\_ 
+> \_Jay, where do you come up with this stuff?\_
 
 I read a lot of online resources that often get organized as files in Obsidian. I also compulsively add to my Reading List or bookmark all my browser tabs when researching a specific topic.
 
-![Screenshot 2022-12-18 at 7.00.49 PM.png](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/20cd5cc8-7ee9-4ded-9a21-af75c2d3fea9.png) 
+![Screenshot 2022-12-18 at 7.00.49 PM.png](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/20cd5cc8-7ee9-4ded-9a21-af75c2d3fea9.png)
 
 Sometimes I'll see a pattern in technology news coverage[^2] that reminds me of a song. Sometimes links or topics collide during the week or as late as Sunday afternoon and \_then\_ I am reminded of a song.
 
@@ -73,14 +73,13 @@ So far, Fudge Sunday has ~50 posts published for 2022. For this issue, that list
 
 [99 6G Balloons](https://fudge.org/archive/fudge-sunday-99-6g-balloons) 2022 Feb 07
 
-- [AT&T... in 1993](https://www.youtube.com/watch?v=iJK792H3eBU) 
+- [AT&T... in 1993](https://www.youtube.com/watch?v=iJK792H3eBU)
 - [BBC... in 1986](https://www.youtube.com/watch?v=9or2BpV0W9g)
 
 [Turn Up the (Software Defined) Radio](https://fudge.org/archive/fudge-sunday-turn-up-the-software-defined-radio) 2022 Jan 03
 
 - [Autograph... in 1985](https://www.latimes.com/archives/la-xpm-1985-04-18-ca-23782-story.html)
 - [Unlicensed spectrum... in 2021](https://www.fiercewireless.com/wireless/fcc-prevails-6-ghz-court-challenge-led-att)
-
 
 # Last Year This Year
 

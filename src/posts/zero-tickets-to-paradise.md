@@ -27,7 +27,7 @@ Said another way, if you aren't enabling developers to either \_do the work\_ or
 
 First, consider documentation. Does better documentation lead to less tickets?
 
-Perhaps. 
+Perhaps.
 
 But don't take [my word](https://fudge.org/archive/fudge-sunday-everything-counts-in-ops-amounts) for it — check out this [documentation article](https://www.eficode.com/blog/better-documentation-better-platform-developer-experience) from [Dan Grøndahl Glavind](https://www.linkedin.com/in/dangrondahl/).
 
@@ -43,7 +43,7 @@ After all, documentation can drive automation creation to drive adoption with ex
 
 It's important to keep a perspective about the sheer number of tickets (annoyances) that AIOps might be able to solve for without any human interaction. That said, developer annoyances are not the same as general knowledge worker annoyances — not to mention the size differences of these two communities.
 
-Lately, the term AIOps has enjoyed a bump in popularity. So, while not specifically DevX related, AIOps could be used to enhance DevX where tickets are presently a part of business as usual to get things done (GTD). 
+Lately, the term AIOps has enjoyed a bump in popularity. So, while not specifically DevX related, AIOps could be used to enhance DevX where tickets are presently a part of business as usual to get things done (GTD).
 
 [![Screenshot 2023-05-28 at 7.43.42 PM.png](https://buttondown.imgix.net/images/d494fb57-a13e-4a63-be51-273b801422bb.png?w=960&fit=max)](https://trends.google.com/trends/explore?date=2013-04-28%202023-05-28&q=AIOps&hl=en-US)
 
@@ -53,7 +53,7 @@ Oh, but where to invest those productivity cycles... Perhaps invest in... DevX t
 
 Promoting the notion of a ticket reduced to ticket free or ticketless DevX requires a GTD champion within platform engineering that has executive support. With that in mind, consider the following examples of investments made in AIOps to reduce tickets in Enterprise settings:
 
-- [FISERV shares AIOps best practices (Moogsoft) ](https://www.youtube.com/watch?v=bujxPL-8z9Y)
+- [FISERV shares AIOps best practices (Moogsoft)](https://www.youtube.com/watch?v=bujxPL-8z9Y)
 - [Johnson & Johnson shares AIOps best practices (IBM)](https://www.youtube.com/watch?v=EUVRbAplJS8)
 - [Wells Fargo shares AIOps best practices (Databricks)](https://www.youtube.com/watch?v=NuL1u\_CIkQw)
 - [The State of AIOps 2023 (OpsRamp)](https://www.youtube.com/watch?v=daBWeKhhRN4)
@@ -67,5 +67,3 @@ Until then… Place your bets!
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
 
 🤓
-
-
