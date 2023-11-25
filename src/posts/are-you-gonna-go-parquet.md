@@ -1,15 +1,15 @@
 ---
 title: "Are You Gonna Go Parquet"
-description: ''
+description: 'A look at the past, present, and future of Apache Parquet.'
 date: 2023-08-28 00:44:19.541000+00:00
 
 ---
 
-This week we take a look at the past, present, and future of Apache Parquet. 
+This week we take a look at the past, present, and future of Apache Parquet.
 
 This week's musical inspiration in title and lyrics:
 
-https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea?si=ece0e6f236f348e5
+<https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea?si=ece0e6f236f348e5>
 
 # Getting Informed
 
@@ -53,7 +53,7 @@ Setting aside "big data" circa 2013, what is the importance of Apache Parquet to
 - [Dremio: Parquet File Best Practices](https://docs.dremio.com/current/sonar/query-manage/data-formats/parquet-files/)
 - [AWS: Using the Parquet format in AWS Glue](https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-format-parquet-home.html)
 
-While the list above is not exhaustive in any way, it shows that adoption of Apache Parquet reflects ten years of progress. It is also worth noting that [PrestoDB](https://prestodb.io) began in 2013, [Apache Spark](https://spark.apache.org) began in 2014, and [PrestoSQL aka Trino](https://trino.io) began in 2019. 
+While the list above is not exhaustive in any way, it shows that adoption of Apache Parquet reflects ten years of progress. It is also worth noting that [PrestoDB](https://prestodb.io) began in 2013, [Apache Spark](https://spark.apache.org) began in 2014, and [PrestoSQL aka Trino](https://trino.io) began in 2019.
 
 So, it's fair to say... this is just the tip of the [Apache Iceberg](https://iceberg.apache.org)... which began in 2017.
 

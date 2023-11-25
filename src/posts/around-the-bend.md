@@ -11,7 +11,6 @@ The Asteroids Galaxy Tour - Around The Bend (2009)
 
 # Getting Informed
 
-
 First, you might recall my shot and chaser format from prior issues. Essentially, I call back to a prior reference in an issue with a current link to how the prediction or topic turned out in the market.
 
 ### **[Shot: Cheap as Chips (December 2021)](https://fudge.org/archive/fudge-sunday-cheap-as-chips-in-2022-946008?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)**
@@ -30,14 +29,13 @@ One of my predictions was our pandemic related so-called “chip crisis” would
 
 [![There's always a tweet...](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2e5bf53d-cb28-4012-a14c-4238d2059a15_600x372.png "There's always a tweet...")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2e5bf53d-cb28-4012-a14c-4238d2059a15_600x372.png)There's always a tweet... (or, an archived one in this case)
 
-
 > Web 0: first-tinker advantage  
 > Web 1: first-commerce advantage  
 > Web 2: first-marketer advantage  
 > **Web 3: first-feudal barrons advantage <– we are here**Web 4: first-geopolitical domination advantage  
 > ***Web 5: first-idealogical unification advantage***
-> 
-> 
+>
+>
 
 BTW… I linked to this: [https://t.co/aVGPXlaazP](https://t.co/aVGPXlaazP?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter) 🧐
 
@@ -48,9 +46,9 @@ BTW… I linked to this: [https://t.co/aVGPXlaazP](https://t.co/aVGPXlaazP?utm_c
 (RIP web3 VCs 🤫)
 
 [developer.tbd.website/projects/web5/](https://developer.tbd.website/projects/web5/) ![Twitter avatar for @TBD54566975](https://substackcdn.com/image/twitter_name/w_40/TBD54566975.jpg)TBD @TBD54566975Web5: An extra decentralized web platform
-https://t.co/LDW3MZ8tON](https://twitter.com/jack/status/1535314738078486533?s=20&t=xbc5QJHGqQb0Q2uFNGNyRA)[5:35 PM ∙ Jun 10, 2022
+<https://t.co/LDW3MZ8tON>](<https://twitter.com/jack/status/1535314738078486533?s=20&t=xbc5QJHGqQb0Q2uFNGNyRA)[5:35> PM ∙ Jun 10, 2022
 
-11,400Likes2,406Retweets](https://twitter.com/jack/status/1535314738078486533?s=20&t=xbc5QJHGqQb0Q2uFNGNyRA)
+11,400Likes2,406Retweets](<https://twitter.com/jack/status/1535314738078486533?s=20&t=xbc5QJHGqQb0Q2uFNGNyRA>)
 
 # I'll stay forever with you 🎶**
 
@@ -64,18 +62,17 @@ The song ‘Around the Bend’ by The Asteroids Galaxy Tour appeared as the back
 
 ### [Chaser: iPod Touch nadir (2022)](https://www.techmeme.com/220510/p29?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a220510p29)
 
-
 > *Apple discontinues the iPod touch, leaving the device on sale “while supplies last” and ending the product line after debuting the original iPod in October 2001.*
-> 
-> 
+>
+>
 
 [![Chaser: iPod Touch nadir (2022)](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/be3e5276-0668-4c4c-9290-9b02c41394f2_280x280.jpeg "Chaser: iPod Touch nadir (2022)")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe3e5276-0668-4c4c-9290-9b02c41394f2_280x280.jpeg)Source: [www.techmeme.com](https://www.techmeme.com/220510/p29?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter#a220510p29)
 
-# Update:
+# Update
 
 And speaking of staying forever… farewell to Revue… and hello (for now) to Substack.
 
-It appears that Substack will happily digest things from Revue via RSS full feed import but… I’m just learning this now and expect there are caveats. 
+It appears that Substack will happily digest things from Revue via RSS full feed import but… I’m just learning this now and expect there are caveats.
 
 For example… I had multiple “null” import results which required deleting and running import again. The “null” requiring a manual delete step is probably due to a considerate no-clobbering feature for overwriting a successful slug even if it is empty.
 
@@ -97,16 +94,12 @@ If you have ever been exposed to VMware… this worth listening to.
 
 ## Just for fun
 
-
 I’ve been noodling again in the home studio. Riffs and jingles as always.
 
 Publishing from GarageBand directly to SoundCloud helps keep the earworm at bay.
-
-
 
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 
 [1](#footnote-anchor-1)I’m not yet confident with use of footnotes on Substack. I’ll try using them in future issues.
-
