@@ -1,8 +1,13 @@
 ---
 title: "My Fifth Year at VCE"
-description: ''
+description: 'Thoughts on my 5th year at VCE'
 date: 2015-10-17 00:00:00+00:00
-
+tags:
+- vce
+- emc
+- vmware
+- cisco
+- vblock
 ---
 
 

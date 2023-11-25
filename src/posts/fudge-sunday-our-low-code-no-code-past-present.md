@@ -2,6 +2,12 @@
 title: "Fudge Sunday - Our Low Code No Code Past, Present, and Future"
 description: ''
 date: 2021-12-06 03:28:33+00:00
+tags:
+- lowcode
+- nocode
+- developers
+- software
+- automation
 
 ---
 

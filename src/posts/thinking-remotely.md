@@ -1,7 +1,20 @@
 ---
 title: "Thinking Remotely"
-description: ''
+description: 'Thoughts on remote work'
 date: 2020-09-27 00:00:00+00:00
+tags:
+- office
+- remote-work
+- work-from-home
+- life
+- lunchclub
+- ai
+- teams
+- email
+- vpn
+- meetings
+- gtd
+- culture
 
 ---
 
