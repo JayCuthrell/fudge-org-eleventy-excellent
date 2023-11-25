@@ -27,4 +27,3 @@ Still, the problem with working during a flight is well… it’s just not that 
 Compared to the airline club experience, the plane workplace is decidedly awful. Delta Sky Club offers free wireless and wired Internet now. The phones are passable if they work at all and having a DID means you can map this with your own IP Centrex provider or office call leg features. Else, you are dealing with your mobile and risking Skype if the shared broadband segment is saturated. That said it is still a much better prospect for getting things done and the self service and full service mix can be nice.
 
 One area that isn’t going to cut it with travel is carriers that charge premiums that are not aligned with the customer experience. When faced with traveling for a face to face meeting and being pinned into a coach seat and risking injury due to worn equipment surfaces vs. going into a soothing Cisco Telepresence experience meeting room… yeah. Game over.
-

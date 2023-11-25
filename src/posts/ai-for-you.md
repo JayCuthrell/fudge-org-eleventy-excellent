@@ -18,7 +18,8 @@ This week we take a look at the proliferation of M.L. and A.I. across the Enterp
 
 This week's musical inspiration in title and lyrics:
 
-https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao?si=b155df34df3c4b61
+<https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao?si=b155df34df3c4b61>
+
 # Getting Informed
 
 Over the years, analyst firms such as Gartner have continuously surveyed organizations on the use of A.I. in the Enterprise to understand what percentage have implemented some form of A.I. — and the data shows a clear progression. In fact, from 2015-2019 per Gartner, there was [almost 300% growth](https://www.gartner.com/en/newsroom/press-releases/2019-01-21-gartner-survey-shows-37-percent-of-organizations-have).
@@ -32,6 +33,7 @@ But first... it's time for reading 📖, listening 🎧, and watching 📺 sugge
 - Second, [🎧 Updates to Infrastructure as Code](https://www.thecloudcast.net/2023/09/updates-to-infrastructure-as-code.html) in which [Aaron Delp](https://www.linkedin.com/in/aarondelp/) and [Brian Gracely](https://www.linkedin.com/in/briangracely/) interview [Joe Duffy](https://www.linkedin.com/in/joejduffy/) on keeping the developer experience top of mind.
 
 - Third, [📺 Developer Experience & Productivity with Internal Developer Platforms](https://webinar.gartner.com/469517/agenda/session/1106362?login=ML) in which [Arun Batchu](https://www.linkedin.com/in/arunbatchu/), [Jim Mosher](https://www.linkedin.com/in/jimmosher1/), [Dan Morneau](https://www.gartner.com/analyst/95673), and [Jim Elliott](https://www.linkedin.com/in/jimelliott6/) of Gartner provide a perspective on the promise of developer experience tooling and internal developer platforms.
+
 ## Forever's gonna slow you down 🎶
 
 What are some examples of A.I. appearing in the ISV marketplace?
@@ -46,6 +48,7 @@ Coming up with a list of the top Enterprise focused ISVs would vary by specific 
 Why these ISVs? Each of these ISVs has cash to acquire other M.L. and A.I. related companies.
 
 Now, let's examine the mergers and acquisitions (M&A) thesis for M.L. and A.I. related companies for each ISV.
+
 ## I think the end is mine to write 🎶
 
 Atlassian:  The [Percept.AI acquisition](https://www.atlassian.com/blog/announcements/atlassian-acquires-percept) in early 2022 took place before [Atlassian Intelligence](https://www.atlassian.com/software/artificial-intelligence) was announced earlier this year in 2023.

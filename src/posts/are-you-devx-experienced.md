@@ -36,15 +36,14 @@ Of course, people will interchangeably use DX, DevX, and DevEx so the context an
 
 First, be sure to read this newsletter post from the CEO of [DX](https://getdx.com), [Abi Noda](https://www.linkedin.com/in/abinoda/) summarizing a discussion with the former CTO of Etsy, [Mike Fisher](https://www.linkedin.com/in/mike-fisher-3317a8/) on DevEx initiatives. And I assure you it isn't a reference to Roblox. 🤓
 
-
-https://newsletter.abinoda.com/p/devex-at-etsy
+<https://newsletter.abinoda.com/p/devex-at-etsy>
 
 There are a few items that caught my eye and ear ([podcast!](https://getdx.com/podcast/35)).
 
 - Etsy's \_journey\_ to public cloud service provider was wrapping up just in time for the pandemic traffic patterns for customers looking for masks
-- Etsy's \_hiring\_ during pandemic was needed due to... pandemic influenced traffic and the changing demands for skills required to update the platform 
+- Etsy's \_hiring\_ during pandemic was needed due to... pandemic influenced traffic and the changing demands for skills required to update the platform
 - Etsy's \_focus\_ on Developer Experience followed the brand pledge of the marketplace as a humanizing and holistic engagement
-- Etsy's \_progression\_ to DevX began with basic staff augmentation to get things done that impacted developer satisfaction and developer productivity but led to a formal platform team creation and an enduring C-level initiative 
+- Etsy's \_progression\_ to DevX began with basic staff augmentation to get things done that impacted developer satisfaction and developer productivity but led to a formal platform team creation and an enduring C-level initiative
 
 So, if developers are just like regular folks... DevX means:
 
@@ -59,11 +58,11 @@ So, if you are attracting folks... what better recruiting tool could there be th
 
 Next, as [DORA](https://dora.dev) will turn ten (10!) years old soon, check out this post from [David Rant](https://www.linkedin.com/in/daverant/) and [Matt Campbell](https://www.linkedin.com/in/mbcampbell360/) to avoid the dreaded "you're holding it wrong" outcome of metrics for the sake of metrics.
 
-https://www.infoq.com/articles/dora-metrics-anti-patterns/
+<https://www.infoq.com/articles/dora-metrics-anti-patterns/>
 
 So, continuing the folks reference, what do folks need that could be related to a metric and reporting? Perhaps, thinking out loud...
 
-### Deployment Frequency 
+### Deployment Frequency
 
 Could this be complimented with the ability to [measure and inform](https://fudge.org/archive/fudge-sunday-once-in-a-pipeline) leadership of the en masse stress levels of folks when approaching seasonal launches, arbitrary deadlines, the time before holidays, and how moratoriums could be used to unplug and enter a positive headspace or [a satisfying flow state](https://fudge.org/archive/deploy-everything-you-touch/)?
 
@@ -79,7 +78,7 @@ Could this be a measure of how often folks felt [fully informed](https://fudge.o
 
 Could this be a team cohesion builder where folks populate a speculative leaderboard using a ChaOps bot ⬆️ ⬇️ to put their best and final offer on the estimated impact of taking the payload to production?
 
-At this point, I'm left wondering what Internal Developer Platform as a Service (IDPaaS) company is imagineering these DORA inspired realities as features or base capabilities. Perhaps that IDPaaS landscape review will be the focus a future issue, but I'm already close to 1000 words for this issue. 
+At this point, I'm left wondering what Internal Developer Platform as a Service (IDPaaS) company is imagineering these DORA inspired realities as features or base capabilities. Perhaps that IDPaaS landscape review will be the focus a future issue, but I'm already close to 1000 words for this issue.
 
 As I've said before, the next industrial revolution will only be possible through [Ruthless Removal of Annoyances (RRoA) and Relentless Pursuit of Automation (RPoA)](https://fudge.org/archive/make-iiot-easy-on-yourself).
 
@@ -92,7 +91,5 @@ Until then… Place your bets!
 # Disclosure
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
- 
+
 🤓
-
-
