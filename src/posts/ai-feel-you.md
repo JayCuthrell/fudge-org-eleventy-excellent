@@ -13,9 +13,9 @@ tags:
 
  
 
-This week's musical inspiration in title and lyrics: 
+This week's musical inspiration in title and lyrics:
 
-https://open.spotify.com/track/1Ob57NqUydp5cC3FCNV4Gy?si=0b18b7171314483d
+<https://open.spotify.com/track/1Ob57NqUydp5cC3FCNV4Gy?si=0b18b7171314483d>
 
 This week we take a look at recent updates to AI in and around platform engineering and DevX.
 
@@ -31,7 +31,7 @@ Now it's time for reading 📖, watching 📺, and listening 🎧 suggestions:
 
 📖 - Blog posts
 
-- First, [📖 IncrementalOps](https://newsletter.cote.io/p/incrementalops) in which [Michael Coté](https://www.linkedin.com/in/michaelcote/) suggests we all simmer down a bit because transformational impacts often take longer than the human exuberance and expectations for rapid change. 
+- First, [📖 IncrementalOps](https://newsletter.cote.io/p/incrementalops) in which [Michael Coté](https://www.linkedin.com/in/michaelcote/) suggests we all simmer down a bit because transformational impacts often take longer than the human exuberance and expectations for rapid change.
 
 - Second, [📖 Furthering our AI ambitions](https://blogs.microsoft.com/blog/2023/07/18/furthering-our-ai-ambitions-announcing-bing-chat-enterprise-and-microsoft-365-copilot-pricing/) in which Microsoft sets a $30 per user per month price point for Microsoft 365 Copilot AI Tool as what might come to be known as the first viewpoint on the \_perceived value\_ of AI tooling for every software developer.
 
@@ -47,8 +47,8 @@ Now it's time for reading 📖, watching 📺, and listening 🎧 suggestions:
 
 - Second, [📺 GitLab Generative AI Feature Walkthrough](https://www.youtube.com/watch?v=ILJeqWoVswM) in which [GitLab](https://about.gitlab.com) Group Product Manager [Taylor McCaslin](https://www.linkedin.com/in/taylormccaslin/) makes the case for using AI to improve overall DevX.
 
-- Third, [📺 IaC Migration using AI: From CloudFormation to Terraform in Seconds](https://www.youtube.com/watch?v=udoLHw97QL0) in which [Whitney Lee](https://www
-.linkedin.com/in/whitneylee/) of [VMware](https://tanzu.vmware.com/developer/tv/
+- Third, [📺 IaC Migration using AI: From CloudFormation to Terraform in Seconds](https://www.youtube.com/watch?v=udoLHw97QL0) in which [Whitney Lee](<https://www>
+.linkedin.com/in/whitneylee/) of [VMware](<https://tanzu.vmware.com/developer/tv/>
 enlightning/47/) speaks with [Firefly](https://www.firefly.ai) CTO [Sefi Genis](https://www.linkedin.com/in/sefi-genis/) about [AIAC](https://aiac.dev) use cases.
 
 ## And lead me through Babylon 🎶
@@ -75,9 +75,9 @@ This "Women-and-Children-first" view of AI gets me thinking outside of platform 
 
 ## And lead me through oblivion 🎶
 
-A decade ago, my blog post ["ESTEEM is STEM plus Ethics plus Empathy"](https://fudge.org/archive/esteem-is-stem-plus-ethics-plus-empathy/) considered disruptive technologies such as AI and the need for expanding STEM to include Ethics and Empathy. 
+A decade ago, my blog post ["ESTEEM is STEM plus Ethics plus Empathy"](https://fudge.org/archive/esteem-is-stem-plus-ethics-plus-empathy/) considered disruptive technologies such as AI and the need for expanding STEM to include Ethics and Empathy.
 
-Then in 2016, my blog post ["Have your AI call my AI"](https://fudge.org/archive/have-your-ai-call-my-ai/) was provoked by hyperbolic claims of AI taking over everything. 
+Then in 2016, my blog post ["Have your AI call my AI"](https://fudge.org/archive/have-your-ai-call-my-ai/) was provoked by hyperbolic claims of AI taking over everything.
 
 Next in 2020, my blog post ["Social Telecom 2030"](https://fudge.org/archive/social-telecom-2030/) looked back in time to look ahead for the next decade with some vague hints at AI along the way.
 
@@ -87,7 +87,7 @@ Now, as we enter 2024, societal considerations for AI will need to shift from hy
 - Education will expand from reading, writing, and arithmetic to include AI prompting.
 - Ensuring the right to AI will be as important as other human rights.
 
-What if every human had a fundamental right to have their own AI... for the express purpose of interfacing with other AI? 
+What if every human had a fundamental right to have their own AI... for the express purpose of interfacing with other AI?
 
 But I digress...
 

@@ -64,7 +64,6 @@ Here's a quick sample across companies, products, government, and the Internet b
 
 # It's hard when you're always afraid 🎶
 
-
 Zero trust jargon is arguably at least a decade old. Partly, this is due to the growth of virtual private networks (VPN) and the challenge of VPN deployments along with implementation frustration.
 
 If you've ever had to use a VPN regularly, you know it is better than having to drive into an office — but the novelty wears off quickly. And if you’ve ever met me, you know I refer to VPN as the acronym for vexing productivity neutralizer.[9](#footnote-9)
@@ -79,7 +78,7 @@ From Cisco’s early “Borderless Networks” in the early 2010s to the modern 
 
 BTW, I remember blogging about Google Secure Access VPN in 2005 as part of their beta (everything is a beta) service called Google WiFi. Yes, it was a thing and — like most Google things — it went away eventually.[12](#footnote-12)
 
-*[blows dust off old wordpress\_mysql\_dump\_posts\_2markdown files]* 
+*[blows dust off old wordpress\_mysql\_dump\_posts\_2markdown files]*
 
 Circa 2005… off Google Secure Access VPN
 
@@ -90,7 +89,6 @@ Circa 2005… off Google Secure Access VPN
 Until then… Place your bets!
 
 # Disclosure
-
 
 I am linking to my [disclosure](https://jaycuthrell.com/disclosure/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter).
 

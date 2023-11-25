@@ -41,7 +41,7 @@ Source: [LinkedIn](https://www.linkedin.com/posts/mwbaker_i-really-enjoyed-readi
 
 Okay, sounds great, right? More powerful mobile devices means more ways to see A.I. appear in our pockets!
 
-Oh wait. What about my device battery life? 
+Oh wait. What about my device battery life?
 
 🤖 + 📱 = 🪫 😭
 
@@ -54,7 +54,7 @@ Device battery life is a reasonable concern. However, there are also a growing n
 - [tinyML PdM & Anomaly Detection Forum](https://www.tinyml.org/event/predictive-maintenance-and-anamoly-detection-forum)
 - [tinyML Sponsors](https://www.tinyml.org/sponsors/)
 
-Expect a growing list of A.I. initatives focused on determinstic power, weight, cooling, and geometry. I shoud make that an acronym and tag past issues accordingly. [DPWCG](https://fudge.org/topics/dpwcg/) perhaps? 
+Expect a growing list of A.I. initatives focused on determinstic power, weight, cooling, and geometry. I shoud make that an acronym and tag past issues accordingly. [DPWCG](https://fudge.org/topics/dpwcg/) perhaps?
 
 Also, mark your calendars. As we approach May 2024, analyst coverage of on device A.I. will reach a natural one (1) year looking back moment where much content and digital ink will be spilled.
 
@@ -86,7 +86,7 @@ Source: [Keep](https://www.keephq.dev/post/vendor-lock-in-is-in-the-small-detail
 
 Back in Feb 2023, I wrote about Wardley maps and tried an early access service at [mapkeep.com](https://mapkeep.com/) which provides an online tool for strategy mapping.
 
-[![ A look at platform engineering services, internal developer platforms, and Wardley maps making the rounds](https://fudge.org/assets/images/social-preview/map-of-the-platformatique-preview.jpeg)](https://fudge.org/archive/map-of-the-platformatique/)
+[![A look at platform engineering services, internal developer platforms, and Wardley maps making the rounds](https://fudge.org/assets/images/social-preview/map-of-the-platformatique-preview.jpeg)](https://fudge.org/archive/map-of-the-platformatique/)
 Source: [Map of the Platformatique (2023)](https://fudge.org/archive/map-of-the-platformatique/)
 
 ### Chaser
@@ -95,9 +95,9 @@ Through the wonders of the Fediverse, [Matthew Broberg pinged me on Mastodon](ht
 
 ![](https://files.mastodon.social/media_attachments/files/111/359/625/721/520/873/original/94b3513c55ee479e.png)
 
-> Attached: 1 image  @jay@cuthrell.com   I always check to see if previous maps survive translation to new interface... works for this one 😀"
+> Attached: 1 image  @<jay@cuthrell.com>   I always check to see if previous maps survive translation to new interface... works for this one 😀"
 
-Source: https://mastodon.social/@tristanls/111359626043341826
+Source: <https://mastodon.social/@tristanls/111359626043341826>
 
 As it turns out, if you want to create your maps you can now [join the waitlist](https://mapkeep.com/.join-the-waitlist)! 🗺️🤓
 
