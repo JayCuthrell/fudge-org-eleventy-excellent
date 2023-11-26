@@ -44,14 +44,14 @@ My second selection connects back to the pattern of Sundays...
 [![Connections Museum Seattle](/assets/images/screenshots/2023-11-26-14-21-53.png)](https://www.telcomhistory.org/connections-museum-seattle/)
 Source: [History buffs, telephone nerds, computer geeks: all are represented at Connections Museum Seattle. Working switches and equipment abound; open every Sunday.](https://www.telcomhistory.org/connections-museum-seattle/)
 
-My third selection will liklely resonate if you are a knowledge worker that experienced an increase in the use of video conference meetings over the past few decades.  If it seems to be a new pattern that is becoming another form of cognitive overhead, you aren't wrong.
+My third selection will likely resonate if you are a knowledge worker that experienced an increase in the use of video conference meetings over the past few decades.  If it seems to be a new pattern that is becoming another form of cognitive overhead, you aren't wrong.
 
 [![Videoconferencing exhaustion has now been neurologically proven](/assets/images/screenshots/2023-11-26-14-33-57.png)](https://spectrum.ieee.org/zoom-fatigue)
 Source: [Videoconferencing exhaustion has now been neurologically proven](https://spectrum.ieee.org/zoom-fatigue)
 
 # Potpourri
 
-I noticed in various *return to office* and *business real estate* news coverage that one article was being shared as a counterpoint to the "everyone is leaving the city" narrative. The article actually referenced another article that referenced another study.
+I noticed in various *return to office* and *business real estate* news coverage that one article was being shared as a counterpoint to the "everyone is leaving the city" narrative. The article referenced another article that referenced another study.
 
 [![Downtowns Are Full of Empty Buildings. Universities Are Moving In.](/assets/images/screenshots/2023-11-26-14-44-08.png)](https://www.nytimes.com/2023/11/17/arts/design/00johns-hopkins-bloomberg-center-review.html)
 Source: [Downtowns Are Full of Empty Buildings. Universities Are Moving In.](https://www.nytimes.com/2023/11/17/arts/design/00johns-hopkins-bloomberg-center-review.html)
@@ -65,7 +65,7 @@ Source: [What’s Driving US Downtown Revivals](https://www.bloomberg.com/news/a
 
 At this point, I'm still clicking and... I'll avoid any connection of the dots between REIT asset occupancy, city taxes, and market movement bonuses in financial journalist pools. 🤓
 
-However, I do get the sense this rabbit hole to reach a primary source is most likely a study-rehash-revisit for content (an evergreen thing in content farming) where you take something that is a month or more old then revisit or rehash as something truly new.
+However, I do get the sense that this rabbit hole to reach a primary source is most likely a study-rehash-revisit for content (an evergreen thing in content farming) where you take something that is a month or more old then revisit or rehash as something truly new.
 
 The actual study? 🐰 🕳️
 
@@ -84,7 +84,7 @@ These folks:
 
 Sounds familar... 🐰 🕳️
 
-Which means learning a bit more about embedded SDK agreements claims and investments over the years. For example, back in 2020, the claim was that there were ["20M+ Active Devices and +500 Apps"](https://web.archive.org/web/20200130083911/https://www.placer.ai/resources/our-data/) contributing to this data.
+This means learning a bit more about embedded SDK agreement claims and investments over the years. For example, back in 2020, the claim was that there were ["20M+ Active Devices and +500 Apps"](https://web.archive.org/web/20200130083911/https://www.placer.ai/resources/our-data/) contributing to this data.
 
 - 2020: [Placer.ai, which offers location and foot traffic analytics for the retail industry, raises $12M Series A led by JBV Capital](https://www.techmeme.com/200122/p3#a200122p3)
 - 2021: [Location data analytics startup Placer.ai raises $50M Series B led by Josh Buckley, the CEO of Product Hunt](https://www.techmeme.com/210427/p10#a210427p10)
