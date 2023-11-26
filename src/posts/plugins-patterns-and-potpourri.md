@@ -51,7 +51,7 @@ Source: [Videoconferencing exhaustion has now been neurologically proven](https:
 
 # Potpourri
 
-I noticed this coverage being shared as a counterpoint to the "everyone is leaving the city" narrative. It was an article that referenced an article that referenced a study.
+I noticed in various *return to office* and *business real estate* news coverage that one article was being shared as a counterpoint to the "everyone is leaving the city" narrative. The article actually referenced another article that referenced another study.
 
 [![Downtowns Are Full of Empty Buildings. Universities Are Moving In.](/assets/images/screenshots/2023-11-26-14-44-08.png)](https://www.nytimes.com/2023/11/17/arts/design/00johns-hopkins-bloomberg-center-review.html)
 Source: [Downtowns Are Full of Empty Buildings. Universities Are Moving In.](https://www.nytimes.com/2023/11/17/arts/design/00johns-hopkins-bloomberg-center-review.html)
