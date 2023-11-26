@@ -1,6 +1,6 @@
 ---
 title: "Plugins, Patterns, and Potpourri"
-description: 'A little bit of everything this week from plugins to pattern recognition to surveiliance intelligence'
+description: 'A little bit of everything this week from plugins to pattern recognition to surveillance intelligence'
 date: 2023-11-26
 tags:
  - newsletter
