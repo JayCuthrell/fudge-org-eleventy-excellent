@@ -38,5 +38,16 @@ preloads:
    <a href="https://news.ycombinator.com/submitlink?u={{ meta.url }}{{ page.url }}&t={{ title }} ({{ date | formatDate('YYYY') }})">HN</a>
   </h6>
 
+  <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
+    <li class="card flow overflow-hidden">
+      <h4>Get Fudge Sunday each week</h4>
+      <form action="https://buttondown.email/api/emails/embed-subscribe/jaycuthrell" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.fudge.org', 'popupwindow')" class="embeddable-buttondown-form">
+      <p><label for="bd-email">Enter your email</label></p>
+      <input type="email" name="email" id="bd-email" />
+      <input type="submit" value="Subscribe" />
+      <input type="hidden" name="tag" value="11ty" />
+      </form>
+    </li>
+  </ul>
   </div>
 </article>
