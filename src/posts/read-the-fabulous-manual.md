@@ -24,6 +24,7 @@ tags:
  - convergence
  - wardley-map
  - product-led-growth
+ - docs-as-code
 ---
 
 If you are online in the world of technology, information technology, or anything related to software development — there is a chance you've been told in an online forum to "Please RTFM". Indeed, the RTFM is probably short for [Read The @#$%ing Manual](https://en.wikipedia.org/wiki/RTFM).
@@ -90,7 +91,7 @@ For example...
 
 [![Write the Docs - DocOps](/assets/images/screenshots/2023-12-03-12-56-56.png)](https://www.writethedocs.org/guide/doc-ops/)
 
-Now, let's take a quick non-exhaustive appraisal of what's happening in the technical documentation tooling space around DocOps.
+Now, let's take a quick non-exhaustive appraisal of what's happening in the technical documentation tooling space around [DocOps](https://www.writethedocs.org/guide/doc-ops/) and [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/).
 
 ***Recent***
 - [What Is Good Documentation, Anyway? (2020)](https://www.pendo.io/pendo-blog/what-is-good-documentation-anyway/)
