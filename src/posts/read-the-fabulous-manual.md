@@ -117,7 +117,7 @@ Now, let's take a quick non-exhaustive appraisal of what's happening in the tech
 - [DocuWriter.AI](https://www.docuwriter.ai/?ref=fudge.org)
 - [GitBook](https://www.gitbook.com/?ref=fudge.org)
 
-While this newsletter can only scratch the surface of the amazing things happening in the technical documentation community, it's worth noting [the perfect team](/the-perfect-team) is still one to do it, one to ***write it down***, and one to think ahead.
+While this newsletter can only scratch the surface of the amazing things happening in the technical documentation community, it's worth noting [the perfect team](/archive/the-perfect-team) is still one to do it, one to ***write it down***, and one to think ahead.
 
 One theme that will become increasingly common in the [OpenAPI community](https://www.openapis.org/membership/members) (note: that's OpenAPI *not* OpenAI) is the automatic generation of documentation as with [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) and R.A.G. + L.L.M. solutions such as bots that [continuously crawl documentation repositories](https://documentai.dev/showcase/chat-bot) to provide modern accessible end user experiences within the context of a software application — and, eventually, consumer-grade technology infused contraptions that will ([*literally*](https://www.youtube.com/watch?v=gYB-dM2Tsd0)) tell you how the @#$% thing is supposed to work.
 
