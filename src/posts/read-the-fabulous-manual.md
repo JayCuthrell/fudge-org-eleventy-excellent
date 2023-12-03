@@ -1,6 +1,6 @@
 ---
 title: "Read The Fabulous Manual"
-description: 'A look at the past, present, and future of DocOps'
+description: 'A look at the past, present, and future of DocOps as well as Docs as Code'
 date: 2023-12-03
 tags:
  - newsletter
