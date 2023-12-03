@@ -105,7 +105,7 @@ Now, let's take a quick non-exhaustive appraisal of what's happening in the tech
 - [Beyond DITA vs. DocBook](https://paligo.net/blog/beyond-dita-vs-docbook-prioritize-your-business/)
 - [Developer Hub for Amazon API Gateway](https://blog.readme.com/announcing-our-amazon-partnership-developer-hubs-for-amazon-api-gateway/)
 - [Don’t Be Afraid of the Docs!](https://blog.stoplight.io/dont-be-afraid-of-documentation)
-- [Docsaurus 3.0](https://docusaurus.io/blog/releases/3.0)
+- [Docusaurus 3.0](https://docusaurus.io/blog/releases/3.0)
 - [AsyncAPI Docs Report](https://www.asyncapi.com/blog/2023-july-docs-report)
 - [Cookbook for better Redocly CLI recipes](https://redocly.com/blog/redocly-cli-cookbook/)
 - [Autogenerating API documentation from OpenAPI](https://mintlify.com/blog/steps-to-autogenerate)
