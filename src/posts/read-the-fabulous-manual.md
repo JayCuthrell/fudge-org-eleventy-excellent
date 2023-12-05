@@ -37,7 +37,7 @@ I'm [not alone](https://duckduckgo.com/?va=d&t=hj&q=%22read+the+fabulous+manual%
 
 > What is documentation?
 
-Documentation can seem to be an abstract concept if you are not an IT practitioner or computationally-oriented. As the shopping holiday arrives, a useful analogy for documentation might be the pamphlet of instructions or manual that is commonly ignored and discarded when opening a box with a new technology-infused contraption when you later have a question about this @#$% thing is supposed to work.
+Documentation can seem to be an abstract concept if you are not an IT practitioner or computationally-oriented. As the shopping holiday arrives, a useful analogy for documentation might be the pamphlet of instructions or manual that is commonly ignored and discarded when opening a box with a new technology-infused contraption when you later have a question about how this @#$% thing is supposed to work.
 
 > Why does documentaiton matter to people in the real world outside of technolgoy and software?
 
