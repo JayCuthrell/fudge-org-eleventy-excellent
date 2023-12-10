@@ -16,5 +16,4 @@ src/_includes/scripts
 .DS_Store
 
 # python env
-
 .venv
