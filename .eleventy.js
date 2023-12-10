@@ -59,8 +59,7 @@ const bundlerPlugin = require('@11ty/eleventy-plugin-bundle');
 const embeds = require("eleventy-plugin-embed-everything");
 const editOnGithub = require('eleventy-plugin-edit-on-github');
 const EleventyFetch = require("@11ty/eleventy-fetch");
-
-// unfurl plug section
+const pluginUnfurl = require("eleventy-plugin-unfurl");
 
 const templateReturn = (template, boolean) => {
   if (boolean) {
@@ -150,6 +149,16 @@ module.exports = (eleventyConfig, options = {}) => {
     github_edit_tag: 'a',
     github_edit_attributes: 'target="_blank" rel="noopener"',
     github_edit_wrapper: undefined, //ex: "<div stuff>${edit_on_github}</div>"
+  });
+  // unfurl plug section
+  eleventyConfig.addPlugin(pluginUnfurl, {
+  template: ({ title, url, logo }) => `<a href="${url}" class="unfurl"><img
+  class="unfurl__logo"
+  src="${logo.url}"
+  width="32"
+  height="32"
+  alt=""
+  />${title}</a>`,
   });
 
   // 	--------------------- Passthrough File Copy -----------------------
