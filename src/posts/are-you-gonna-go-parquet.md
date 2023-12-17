@@ -2,7 +2,19 @@
 title: "Are You Gonna Go Parquet"
 description: 'A look at the past, present, and future of Apache Parquet.'
 date: 2023-08-28 00:44:19.541000+00:00
-
+tags:
+  - parquet
+  - open-source
+  - mlops
+  - dataops
+  - pipelines
+  - ai
+  - ml
+  - snowflake
+  - dremio
+  - databricks
+  - aws
+  - airbyte
 ---
 
 This week we take a look at the past, present, and future of Apache Parquet.

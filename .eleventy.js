@@ -153,13 +153,13 @@ module.exports = (eleventyConfig, options = {}) => {
   // unfurl plug section
   eleventyConfig.addPlugin(pluginUnfurl, {
     duration: "2w",
-    template: ({ title, publisher, url, logo }) => `<blockquote>Source: <a href="${url}" class="unfurl">${publisher} — ${title} <img
+    template: ({ title, publisher, url, logo }) => `<em><a href="${url}" class="unfurl">Source: ${publisher} — ${title} <img
     class="unfurl__logo"
     src="${logo.url}"
     width="16"
     height="16"
     alt="${title}"
-    /></a></blockquote>`
+    /></a></em>`
   });
 
   // 	--------------------- Passthrough File Copy -----------------------
