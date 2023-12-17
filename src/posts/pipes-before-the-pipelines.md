@@ -51,7 +51,7 @@ Yahoo Pipes eventually went offline in late 2015. However, the memory of Yahoo P
 
 #### Must Read: A Love Letter to Yahoo Pipes
 
-Yahoo Pipes glimpsed into a low-code no-code future of user friendlier integration platform as a service (iPaaS). Enjoy this marvelous [Glenn Fleishman](https://www.linkedin.com/in/glenn-fleishman-9b29282a0/) retelling — it is a true love letter to Yahoo Pipes.
+Yahoo Pipes glimpsed into a lowcode nocode future of user friendlier integration platform as a service (iPaaS). Enjoy this marvelous [Glenn Fleishman](https://www.linkedin.com/in/glenn-fleishman-9b29282a0/) retelling — it is a true love letter to Yahoo Pipes.
 
 {% unfurl "https://retool.com/pipes" %}
 
