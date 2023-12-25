@@ -2,7 +2,8 @@
 title: "R U DevX Experienced?"
 description: 'a look at recent Developer Experience (DevX) coverage and articles that caught my attention'
 date: 2023-04-30 16:19:58.364000+00:00
-
+tags:
+  - rroa
 ---
 
 Music: [Devo - Are U X-perienced? (1984)](https://www.youtube.com/watch?v=YVCt\_mAAZpQ)

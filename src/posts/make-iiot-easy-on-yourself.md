@@ -2,7 +2,8 @@
 title: "Make IIoT Easy On Yourself"
 description: ''
 date: 2022-06-26 15:46:40.948000+00:00
-
+tags:
+  - rroa
 ---
 
 *[Dionne Warwick - “Make It Easy On Yourself” (1973)](https://www.youtube.com/watch?v=xk4fE6xIWPw)*
@@ -19,9 +20,9 @@ At scale, annoyances become stifling. At scale, automation compounds productivit
 
 If you are reading this, you’ve probably heard of the Internet of Things (IoT). Maybe you have noodled with IoT concepts or work with IoT day to day.
 
-If not, imagine the occasional human interactive access to a machine, updating a spreadsheet, turning on a light, and using a stapler. Now, add immense scale, exponential data growth, time-sensitive requirements, high stakes expectation for automation, and the complexities of our physical world in a mine, factory, or other industrial setting.
+If not, imagine the occasional human interactive access to a machine, updating a spreadsheet, turning on a light, and using a stapler. Now, add immense scale, exponential data growth, time-sensitive requirements, high-stakes expectations for automation, and the complexities of our physical world in a mine, factory, or other industrial setting.
 
-Welcome to the next industrial revolution. And this next industrial revolution will only be possible through Ruthless Removal of Annoyances (RRoA) and Relentless Pursuit of Automation (RPoA).
+Welcome to the next industrial revolution. And this next industrial revolution will only be possible through the Ruthless Removal of Annoyances (RRoA) and Relentless Pursuit of Automation (RPoA).
 
 Oh, and here comes Industrial Internet of Things (IIoT) aka Industry 4.0.[1](#footnote-1)
 
