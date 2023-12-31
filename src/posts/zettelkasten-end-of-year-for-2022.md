@@ -2,7 +2,11 @@
 title: "Zettelkasten End of Year for 2022"
 description: ''
 date: 2022-12-19 00:37:15.328771+00:00
-
+tags:
+  - zettelkasten
+  - learning
+  - newsletter
+  - buttondown
 ---
 
 This week we take a look at my Zettelkasten end of year favorites for 2022.

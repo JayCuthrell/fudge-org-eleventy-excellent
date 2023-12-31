@@ -2,7 +2,10 @@
 title: "Fudge Sunday - Zettelkasten End of Year Favorites"
 description: ''
 date: 2021-12-20 00:50:53+00:00
-
+tags:
+  - zettelkasten
+  - learning
+  - newsletter
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-zettelkasten-end-of-year-favorites-930157?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)
