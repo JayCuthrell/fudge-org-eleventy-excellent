@@ -18,9 +18,9 @@ This week we take a look at what I learned this year and my [Zettelkasten](https
 
 #### Sidebar
 
-As with my last update a year ago, if you are reading this, I'd like to thank you for your patience as I explored new content formats this year. I am also pleased to share that [Fudge Sunday](/) remains a *free* newsletter. 🆓
+As with my last update a year ago, if you are reading this, I'd like to thank you for your patience as I explored new content formats this year. I am also pleased to share that the [Fudge Sunday](/) newsletter remains a *free* newsletter. 🆓
 
-This year I paid all fees that enable [Fudge Sunday](/) newsletter to be [hosted](https://www.netlify.com/pricing/) and [delivered](https://buttondown.email/pricing) to your inbox — but if you unsubscribe it only means my costs *might* go down a bit. If you are only reading this on my website, feel free to [subscribe](https://buttondown.email/jaycuthrell). 🎟️
+This year I paid all fees that enable the [Fudge Sunday](/) newsletter to be [hosted](https://www.netlify.com/pricing/) and [delivered](https://buttondown.email/pricing) to your inbox — but if you unsubscribe it only means my costs *might* go down a bit. If you are only reading this on my website, feel free to [subscribe](https://buttondown.email/jaycuthrell). 🎟️
 
 If you are concerned about me putting referral links or interstitial banner ads in the content, there is no need to worry. Late last year, I was approached by an advertiser but the *"Links From Our Sponsor"* section was a very short experiment. 🤓
 
@@ -76,7 +76,7 @@ This year I've experimented with serval workflows and landed on what works best 
 5. Commit to GitHub 🎉
 6. Await automated build at [Netlify](https://app.netlify.com/sites/fudge-org-eleventy-excellent/deploys) 🤖
 7. Await (or manually refresh) [RSS to Email](https://docs.buttondown.email/advanced-features/rss-to-email) powered by [Buttondown](https://docs.buttondown.email) 🤖
-   - My current process is [95% automated](https://docs.buttondown.email/advanced-features/automations) and 5% sweating the final details before I launch a thousand emails. 🤔
+   - My current process is [95% automated](https://docs.buttondown.email/advanced-features/automations) and 5% sweating the final details before I launch to thousands of subscribers. 🤔
    - When I refresh the RSS to Email, I am presented with a "Draft" in Buttondown. 🤓
    - I do a quick scan to make sure that what I intended is being imported as expected. 🧐
    - I hit send and hope for no unsubscribes as Buttondown handles delivery. 🤣
@@ -96,7 +96,7 @@ In keeping with the yearly Zettlekasten post tradition, a common email reply fro
 
 > *Jay, where do you come up with this stuff?*
 
-For background, at least once a year I get this question or a similarly worded version of this question. For 2023, I reached the point where I was reading ~100 email newsletters but recently pruned all [Substack newsletters](https://cuthrell.com/@jay/111621300275593638).
+For background, at least once a year I get this question or a similarly worded version of this question. For 2023, I reached the point where I was reading ~100 newsletters but recently pruned all [Substack newsletters](https://cuthrell.com/@jay/111621300275593638).
 
 I still use Obsidian and [briefly flirted with using Drafts](https://fudge.org/archive/plugins-patterns-and-potpourri/). My Safari Reading List has been tamed for 2023 after seeing just how much I had backlogged in 2022.
 
