@@ -1,5 +1,10 @@
 [
   {
+    "platform": "rss",
+    "url": "rss.xml",
+    "icon": "rss.svg"
+  },
+  {
     "platform": "github",
     "url": "https://github.com/JayCuthrell",
     "icon": "github.svg"

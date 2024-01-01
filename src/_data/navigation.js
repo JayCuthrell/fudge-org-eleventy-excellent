@@ -11,6 +11,10 @@ module.exports = {
     {
       text: 'Topics',
       url: '/topics/'
+    },
+    {
+      text: 'RSS',
+      url: '/rss.xml'
     }
   ],
   bottom: [
