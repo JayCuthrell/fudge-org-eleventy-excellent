@@ -2,7 +2,8 @@
 title: "Ready To Grow"
 description: ''
 date: 2022-07-10 23:56:50.035000+00:00
-
+tags:
+  - analytics
 ---
 
 [Republica - Ready to Go (1997)](https://www.youtube.com/watch?v=JgffRW1fKDk)
@@ -74,7 +75,7 @@ Well, if you liked the Substack post above, you’ll **love** [Can You Learn to 
 
 Finally, this brings me to my latest decision for my newsletter and use of Substack: I’m going to end my audio podcast testing on Substack where I’m simply… reading back my Substack. As it turns out, the Substack iOS app will actually read the text of a post so my podcast was superfluous at best — and I’m not Yoda either but I digress.
 
-After all, when my home office studio is completed with all the video accoutrement it will provide a context for referencing The Buggles.[11](#footnote-11)
+After all, when my home office studio is completed with all the video accouterment it will provide a context for referencing The Buggles.[11](#footnote-11)
 
 
 

@@ -3,17 +3,18 @@ title: "Plugins, Patterns, and Potpourri"
 description: 'A little bit of everything this week from plugins to pattern recognition to surveillance intelligence'
 date: 2023-11-26
 tags:
- - newsletter
- - sentintel-intelligence
- - telecom
- - zoom
- - videoconference
- - remote-work
- - data
- - privacy
- - blogging
- - link-rot
- - trends
+  - newsletter
+  - sentintel-intelligence
+  - telecom
+  - zoom
+  - videoconference
+  - remote-work
+  - data
+  - privacy
+  - blogging
+  - link-rot
+  - trends
+  - analytics
 ---
 
 I've taken a few days to catch up on reading and hoped to exhaustively tag 200+ posts. I say hoped because it was way more fun to play with the different tools than to get the results mapped to the actual tagging. 

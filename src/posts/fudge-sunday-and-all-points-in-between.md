@@ -1,8 +1,9 @@
 ---
 title: "Fudge Sunday - And All Points In Between"
-description: ''
+description: 'part 2 of a 5 part series'
 date: 2021-07-11 14:56:41+00:00
-
+tags:
+  - analytics
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-and-all-points-in-between-679406?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

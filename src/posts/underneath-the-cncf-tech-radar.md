@@ -1,8 +1,9 @@
 ---
 title: "Underneath The CNCF Tech Radar"
-description: ''
+description: 'A look at emerging cloud native topics'
 date: 2022-10-23 19:56:38.856000+00:00
-
+tags:
+  - analytics
 ---
 
 *Music: [Underworld - Underneath The Radar (1988)](https://www.youtube.com/watch?v=br8AvTqZ0w4)*

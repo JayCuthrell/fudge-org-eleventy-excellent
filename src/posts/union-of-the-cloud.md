@@ -1,8 +1,10 @@
 ---
 title: "Union of the Cloud"
-description: ''
+description: 'Another look at multicloud'
 date: 2022-08-07 23:51:09.837000+00:00
-
+tags:
+  - analytics
+  - multicloud
 ---
 
 *[Duran Duran - Union Of The Snake (1983)](https://www.youtube.com/watch?v=n6p5Q6_JBes)*
@@ -29,7 +31,7 @@ For 2019, let’s look at the collective knowledge of… popular multicloud rela
 - Dev Tools
 - Data infra
 
-Tons of #Scala, lots of deep tech, challenging problems.
+Tons of #Scala, lots of deep tech, and challenging problems.
 
 If anyone wants to work with me, send a message!](https://twitter.com/li_haoyi/status/1106366239624970240?s=20&t=zOpPvIrDPa_EdZRPaK2tbw)[1:27 AM ∙ Mar 15, 2019
 

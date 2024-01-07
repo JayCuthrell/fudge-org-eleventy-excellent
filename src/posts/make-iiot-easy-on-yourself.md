@@ -1,9 +1,10 @@
 ---
 title: "Make IIoT Easy On Yourself"
-description: ''
+description: 'A look at industrial internet of things'
 date: 2022-06-26 15:46:40.948000+00:00
 tags:
   - rroa
+  - analytics
 ---
 
 *[Dionne Warwick - “Make It Easy On Yourself” (1973)](https://www.youtube.com/watch?v=xk4fE6xIWPw)*

@@ -1,8 +1,9 @@
 ---
 title: "Fudge Sunday - Dig Your Own SQL"
-description: ''
+description: 'A look at data analytics tooling trends'
 date: 2021-08-23 00:21:05+00:00
-
+tags:
+  - analytics
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-dig-your-own-sql-724435?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

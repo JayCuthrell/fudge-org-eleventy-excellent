@@ -1,8 +1,9 @@
 ---
 title: "I Want To Thank You"
-description: ''
+description: 'A recap and a thank you'
 date: 2022-11-20 23:08:32.658000+00:00
-
+tags:
+  - analytics
 ---
 
 *[Natalie Merchant - Kind and Generous (1998)](https://www.youtube.com/watch?v=uAwyIad93-c)*
@@ -10,7 +11,7 @@ date: 2022-11-20 23:08:32.658000+00:00
 Getting Informed
 ================
 
-Writing this newsletter has involved several reboots. Some of my readers remember the fits and starts. Others joined in reading later and wondered how I manage to crank out a new post each week.
+Writing this newsletter has involved several reboots. Some of my readers remember the fits and starts. Others joined in reading later and wondered how I managed to crank out a new post each week.
 
 Please subscribe to Fudge Sunday!
 

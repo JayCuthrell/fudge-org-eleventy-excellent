@@ -2,7 +2,8 @@
 title: "You Get A Line and I'll Get A Poll Result"
 description: 'On polling and projections'
 date: 2022-08-29 00:22:54.893000+00:00
-
+tags:
+  - analytics
 ---
 
 *[The Crawdad Song - Foggy Mountain Boys (1962)](https://www.youtube.com/watch?v=4EinAwyQ3Xc)*

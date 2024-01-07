@@ -1,8 +1,9 @@
 ---
 title: "Cloud Data Services Ahead"
-description: ''
+description: 'A look at the the past, present, and future of data analytics'
 date: 2020-12-31 00:00:00+00:00
-
+tags:
+  - analytics
 ---
 
 *The photo above is from a 2011 post on Twitter via Instagram (I think?). At the time, I was commenting that Cloud was now being used in conversations the way Broadband was back in 2000.*

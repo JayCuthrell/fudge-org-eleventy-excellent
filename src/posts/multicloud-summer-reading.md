@@ -1,8 +1,9 @@
 ---
 title: "Multicloud Summer Reading"
-description: ''
+description: 'A look at multicloud'
 date: 2021-06-15 00:00:00+00:00
-
+tags:
+  - analytics
 ---
 
 This month was busy. The blog below is a shorter version of piece that ran on [Technative](https://technative.io/the-path-to-multi-cloud-how-converging-technologies-and-innovations-require-multi-cloud-strategy/) entitled [The Path to Multi-Cloud: How Converging Technologies and Innovations Require Multi-Cloud Strategy](https://technative.io/the-path-to-multi-cloud-how-converging-technologies-and-innovations-require-multi-cloud-strategy/)

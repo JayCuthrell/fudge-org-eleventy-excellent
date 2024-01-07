@@ -1,8 +1,11 @@
 ---
 title: "Fudge Sunday - Gaming, Healthcare, and Convergence"
-description: ''
+description: 'A look at the state of convergence in ICT'
 date: 2021-08-08 22:57:02+00:00
-
+tags:
+  - analytics
+  - healthcare
+  - convergence
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-gaming-healthcare-and-convergence-709604?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)
