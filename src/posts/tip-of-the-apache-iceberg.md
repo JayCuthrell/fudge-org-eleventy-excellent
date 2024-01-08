@@ -58,7 +58,7 @@ As such, it's time to [add to the topics list](/topics/computeai). 🤓
 
 When reading about cloud native projects, it is common to see references to the [Apache Software Foundation (ASF)](https://www.apache.org/foundation/how-it-works/). Over almost a quarter of a century, ASF has grown to [almost 300 projects](https://projects.apache.org).
 
-One such project, [Apache Iceberg](https://iceberg.apache.org), began in 2017 within Netflix which was donated to ASF in 2018 to promote the efficacy and longevity for a modern approach to low-level standard involving very large tables. This rapid promotion of the project within ASF is because the community is focused on ensuring [Iceberg does certain things very well](https://iceberg.apache.org/docs/latest/).
+One such project, [Apache Iceberg](https://iceberg.apache.org), began in 2017 within Netflix and was donated to ASF in 2018 to promote the efficacy and longevity of a modern approach to low-level standards involving very large tables. This rapid promotion of the project within ASF is because the community is focused on ensuring [Iceberg does certain things very well](https://iceberg.apache.org/docs/latest/).
 
 Then, in 2021, a commercial entity known as [Tabular](https://tabular.io) was formed and funded to simplify, secure, and streamline the adoption of Iceberg.
 
@@ -66,10 +66,11 @@ Then, in 2021, a commercial entity known as [Tabular](https://tabular.io) was fo
 
 https://www.youtube.com/watch?v=_GW3GYZK66U
 
-Commercial options for Iceberg besides Tabular are [growing](https://iceberg.apache.org/vendors/). There are recogizable companies like Cloudera and Snowflake, but there are smaller companies like [ClickHouse](https://clickhouse.com) and [Starburst](https://www.starburst.io) that deserve attention as well.
+Commercial options for Iceberg besides Tabular are [growing](https://iceberg.apache.org/vendors/). There are recognizable companies like Cloudera and Snowflake, but there are smaller companies like [ClickHouse](https://clickhouse.com) and [Starburst](https://www.starburst.io) that deserve attention as well — not to mention the Hudi play from companies like [Onehouse](https://www.onehouse.ai).
 
 {% unfurl "https://www.techmeme.com/211028/p21#a211028p21" %}
 {% unfurl "https://www.techmeme.com/220209/p15#a220209p15" %}
+{% unfurl "https://www.techmeme.com/230203/p27#a230203p27" %}
 
 In 2024, expect to see more community activities including practitioner challenges that promote *the art of the possible* drawing upon various projects mentioned in this newsletter.
 
