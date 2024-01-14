@@ -33,6 +33,7 @@ tags:
   - gcp
   - azure
   - oci
+  - tackleio
 ---
 
 This week is a potpourri of topics. Buckle up and let's go down the rabbit hole(s).
