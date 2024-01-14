@@ -1,6 +1,6 @@
 ---
 title: "Interoperability and Convergence Ahead"
-description: 'A look at Pandas, Cerebras, VAST, Weka, FHE, and much more.'
+description: 'A look at Polars, Cerebras, VAST, Weka, FHE, and much more.'
 date: 2024-01-14 
 tags:
   - parquet
@@ -12,6 +12,7 @@ tags:
   - ml
   - aws
   - pandas
+  - polars
   - cerebras
   - gartner
   - vast
