@@ -2,7 +2,13 @@
 title: "Do You Need The Service Catalog?"
 description: ''
 date: 2023-05-21 23:16:18.709000+00:00
-
+tags: 
+  - newsletter
+  - bookmarks
+  - backstage
+  - idp
+  - platform engineering
+  - servicecatalog
 ---
 
  

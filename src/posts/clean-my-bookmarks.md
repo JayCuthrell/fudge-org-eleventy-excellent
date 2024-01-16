@@ -7,6 +7,7 @@ tags:
   - bookmarks
   - backstage
   - idp
+  - servicecatalog
   - platform engineering
   - zettelkasten
 
