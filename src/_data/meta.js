@@ -1,8 +1,8 @@
 module.exports = {
   url: process.env.URL || 'http://localhost:8080',
-  siteName: 'Fudge Sunday',
+  siteName: 'Fudge Sunday 🤔💡🤯🤓',
   siteDescription:
-    'the on again off again blog of Jay Cuthrell and Fudge Sunday weekly newsletter',
+    'the on again off again blog of Jay Cuthrell and Fudge Sunday 🤔💡🤯🤓 weekly newsletter',
   siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
@@ -15,16 +15,16 @@ module.exports = {
   meta_data: {
     opengraph_default: '/assets/images/opengraph-default.jpg', // fallback/default meta image
     opengraph_default_alt:
-      'Visible content: Eleventy starter based on workflow for Cube CSS, Every Layout, Design Tokens and Tailwind for uitility, based on the concepts explained in buildexcellentwebsit.es ', // alt text for default meta image
+      'Visible content: fudge.org is powered by an Eleventy starter based on workflow for Cube CSS, Every Layout, Design Tokens and Tailwind for uitility, based on the concepts explained in buildexcellentwebsit.es ', // alt text for default meta image
     twitterSite: '', // i.e. @site - twitter profile of the site
     twitterCreator: '', // i.e. @author -  twitter profile of the site
     mastodonProfile: 'https://cuthrell.com/@jay' // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
   },
   blog: {
     // this is for the rss feed
-    name: 'Fudge Sunday weekly newsletter',
+    name: 'Fudge Sunday 🤔💡🤯🤓 weekly newsletter',
     description:
-      'the on again off again blog of Jay Cuthrell and Fudge Sunday weekly newsletter'
+      'the on again off again blog of Jay Cuthrell and Fudge Sunday 🤔💡🤯🤓 weekly newsletter'
   },
   pagination: {
     itemsPerPage: 20
@@ -42,7 +42,7 @@ module.exports = {
     cif: ''
   },
   "feed": {
-    "subtitle": "the on again off again ramblings of Jay Cuthrell",
+    "subtitle": "fudge.org and Fudge Sunday 🤔💡🤯🤓 weekly newsletter contain the on again off again ramblings of Jay Cuthrell",
     "filename": "rss.xml",
     "path": "/rss.xml",
     "url": "https://fudge.org/rss.xml",
