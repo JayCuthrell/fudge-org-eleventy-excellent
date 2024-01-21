@@ -2,7 +2,15 @@
 title: "It's Not Easy Being GreenDevSecFinOps"
 description: ''
 date: 2023-05-14 22:05:42.835000+00:00
-
+tags:
+  - devsecops
+  - finops
+  - greencoding
+  - sustainability
+  - infracost
+  - toolchains
+  - idp
+  - design
 ---
 
  

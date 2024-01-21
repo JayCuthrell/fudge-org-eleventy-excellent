@@ -152,7 +152,7 @@ module.exports = (eleventyConfig, options = {}) => {
   });
   // unfurl plug section
   eleventyConfig.addPlugin(pluginUnfurl, {
-    duration: "2w",
+    duration: "6w",
     template: ({ title, publisher, url, logo }) => `<em><a href="${url}" class="unfurl">Source: ${publisher} — ${title}</a></em>`
   });
 
