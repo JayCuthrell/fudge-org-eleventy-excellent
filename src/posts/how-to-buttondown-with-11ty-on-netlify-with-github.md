@@ -1,7 +1,7 @@
 ---
 title: "How To Buttondown with 11ty on Netlify with GitHub"
 description: 'A look at how Fudge Sunday 🤔💡🤯🤓 newsletter gets made each week'
-date: 2024-01-24
+date: 2024-01-21
 tags:
   - buttondown
   - eleventy
