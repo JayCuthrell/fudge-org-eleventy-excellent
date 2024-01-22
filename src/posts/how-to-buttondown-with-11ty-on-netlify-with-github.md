@@ -103,7 +103,7 @@ Of course, the details matter and this is a very high-level recipe. The next sec
 
 ## How to 11ty
 
-My use of Eleventy i.e. [11ty](/tags/11ty) makes my weekly writing pleasurable again. I've made some specific choices along the way to keep my readers enthusiastic and my content readily accessible.
+My use of Eleventy i.e. [11ty](/tags/eleventy) makes my weekly writing pleasurable again. I've made some specific choices along the way to keep my readers enthusiastic and my content readily accessible.
 
 ### Cache Rules Everything Around Me (CREAM)
 
