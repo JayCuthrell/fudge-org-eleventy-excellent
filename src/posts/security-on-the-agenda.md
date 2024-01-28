@@ -37,7 +37,7 @@ Initially, I was a bit shocked to see so many SxSW 2024 programming events that 
 
 - [Breaking the Confidentiality Paradox: A Secure GenAI Roadmap](https://schedule.sxsw.com/2024/events/PP136879)
 - [Secure Surveillance, Privacy's Future And The Data Goldmine](https://schedule.sxsw.com/2024/events/PP141574)
-- [The Design Imperative: Secure Software For A Safer Future](https://schedule.sxsw.com/2024/events/PP141574)
+- [The Design Imperative: Secure Software For A Safer Future](https://schedule.sxsw.com/2024/events/PP136036)
 - [Evolving Cyber Threats: The Role of Abandoned Technology](https://schedule.sxsw.com/2024/events/PP133835)
 - [Social Engineering: The Psychology of Human Vulnerability](https://schedule.sxsw.com/2024/events/PP144792)
 
