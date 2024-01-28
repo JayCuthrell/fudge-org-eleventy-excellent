@@ -47,7 +47,7 @@ Initially, I was a bit shocked to see so many SxSW 2024 programming events that 
 - [Elections in the Age of AI: New Tech’s Impacts on Democracy](https://schedule.sxsw.com/2024/events/PP135308)
 - [Fostering Virtual Worlds: Building the Responsible Metaverse](https://schedule.sxsw.com/2024/events/PP139616)
 
-#### Deus Ex Machina 
+#### Deus Ex Machina
 
 - [It’s About Time for A Quantum Leap in Timing](https://schedule.sxsw.com/2024/events/PP132360)
 - [Boost Your Energy with Quantum](https://schedule.sxsw.com/2024/events/PP137757)
