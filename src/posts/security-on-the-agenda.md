@@ -54,11 +54,11 @@ Initially, I was a bit shocked to see so many SxSW 2024 programming events that 
 
 ## Travel Note for SxSW 2024
 
-Speaking of SxSW 2024, [I'm going](http://localhost:8080/archive/south-by-southwest-bound-and-down/).
+Speaking of SxSW 2024, [I'm going](/archive/south-by-southwest-bound-and-down/).
 
 Will you be at SxSW 2024 too?
 
-If so -- [let's catch up]((https://jaycuthrell.com/contact)) in the real world.
+If so -- [let's catch up](https://jaycuthrell.com/contact) in the real world.
 
 I'm also publishing [my SxSW 2024 schedule picks](https://schedule.sxsw.com/favorite/user/985f8ae425a0ca54469639ae92234564491ace14) (so far).
 
