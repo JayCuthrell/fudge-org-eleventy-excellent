@@ -7,6 +7,9 @@ tags:
   - ebpf
   - istio
   - multicloud
+  - weaveworks
+  - gitops
+  - pac
 
 ---
 

@@ -2,7 +2,10 @@
 title: "GitOps Goes the World"
 description: ''
 date: 2023-06-05 02:00:19.651000+00:00
-
+tags:
+  - weaveworks
+  - gitops
+  - pac
 ---
 
  
