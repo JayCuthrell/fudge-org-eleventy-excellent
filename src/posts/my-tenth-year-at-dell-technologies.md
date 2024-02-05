@@ -2,7 +2,10 @@
 title: "My Tenth Year at Dell Technologies"
 description: ''
 date: 2020-10-08 00:00:00+00:00
-
+tags:
+  - oran
+  - vran
+  - 5g
 ---
 
 In perhaps the last in a series of such posts, the traditional one year blog post continues. The year since my last work related update would best be described as several doors closing and several doors opening.

@@ -4,6 +4,9 @@ description: ''
 date: 2022-07-10 23:56:50.035000+00:00
 tags:
   - analytics
+  - oran
+  - vran
+  - 5g
 ---
 
 [Republica - Ready to Go (1997)](https://www.youtube.com/watch?v=JgffRW1fKDk)

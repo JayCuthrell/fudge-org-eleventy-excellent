@@ -2,7 +2,10 @@
 title: "Fudge Sunday - What Happens in Augmented Reality Stays in Augmented Reality"
 description: ''
 date: 2019-02-25 06:20:52+00:00
-
+tags:
+  - oran
+  - vran
+  - 5g
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-what-happens-in-augmented-reality-stays-in-augmented-reality-161204?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

@@ -2,7 +2,10 @@
 title: "Fudge Sunday - And the way that gravity pulls on everyone"
 description: ''
 date: 2021-07-04 16:39:01+00:00
-
+tags:
+  - oran
+  - vran
+  - 5g
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-and-the-way-that-gravity-pulls-on-everyone-673047?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

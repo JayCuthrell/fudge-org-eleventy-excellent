@@ -1,8 +1,12 @@
 ---
 title: "Fudge Sunday - 99 6G Balloons"
-description: ''
+description: 'Here comes 6G'
 date: 2022-02-07 02:23:44+00:00
-
+tags:
+  - oran
+  - vran
+  - 5g
+  - 6g
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-99-6g-balloons-1014217?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

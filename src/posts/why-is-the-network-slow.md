@@ -38,6 +38,8 @@ tags:
   - att
   - comcast
   - oxide
+  - oran
+  - vran
 ---
 
 *Note: This post will draw heavily upon [Techmeme](https://www.techmeme.com) for links. I'm experimenting with the use of [unfurl](https://github.com/daviddarnes/eleventy-plugin-unfurl) for markdown links to provide a summary card automatically.*

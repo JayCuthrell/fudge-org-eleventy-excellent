@@ -26,6 +26,9 @@ tags:
   - aws
   - shot-and-chaser
   - ubiquitous-workload-substrate
+  - oran
+  - vran
+  - 5g
 ---
 
 *[Stevie Ray Vaughan & Double Trouble - Cold Shot (1984)](https://www.youtube.com/watch?v=oqBtVaLXPw0)*

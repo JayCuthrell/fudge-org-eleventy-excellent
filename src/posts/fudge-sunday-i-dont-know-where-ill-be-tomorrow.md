@@ -2,7 +2,10 @@
 title: "Fudge Sunday - I Don't Know Where I'll Be Tomorrow"
 description: ''
 date: 2021-08-01 18:39:44+00:00
-
+tags:
+  - oran
+  - vran
+  - 5g
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-i-don-t-know-where-i-ll-be-tomorrow-679416?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)
