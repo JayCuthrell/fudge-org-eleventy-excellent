@@ -15,6 +15,8 @@ tags:
 - meetings
 - gtd
 - culture
+- rto
+- return-to-office
 
 ---
 
@@ -200,8 +202,7 @@ The key for a virtual resource group is to be present when you need that experie
 
 While part of Zoom now, I’m still partial to [Keybase](https://keybase.io). :smile:
 
-Presence and Partitions
------------------------
+## Presence and Partitions
 
 The notion of presence in an office has recently shifted from sound of someone in a nearby cubical to the silence or invisibility of a geographically vague approximation. The familiar partitions of work and non-work as a balance can all too easily shift to unsustainable levels. So, let’s explore a few concepts around the notion of status indicators.
 
@@ -232,7 +233,9 @@ In the earliest days on the Interwebs, it was not uncommon to set up a webcam th
 
 [![Webcam days](https://substack.com/static/a692d8dcd0cf4e19a8ee1870c11e58a9/cb69c/32745888_64b8044504_o.jpg "Webcam days")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2Fa692d8dcd0cf4e19a8ee1870c11e58a9%2Fcb69c%2F32745888_64b8044504_o.jpg)So, for a modern twist why not consider a similar edge computing platform like that now? It’s relatively simple to to set up a low cost IP camera with a PTZ control, upgrade the firmware with a [hacks style firmware](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks), and [livestream to Twitch](https://gist.github.com/JayCuthrell/78dbeac6b7e5ea0f00e7f40c0a1a0f68) or similar streaming platforms.
 
-[![Twitch example](https://substack.com/static/b9549e359abbcac04bbd40586e8f4684/f058b/twitch.png "Twitch example")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2Fb9549e359abbcac04bbd40586e8f4684%2Ff058b%2Ftwitch.png)### Out of Office automation
+[![Twitch example](https://substack.com/static/b9549e359abbcac04bbd40586e8f4684/f058b/twitch.png "Twitch example")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2Fb9549e359abbcac04bbd40586e8f4684%2Ff058b%2Ftwitch.png)
+
+### Out of Office automation
 
 You can be in the office and also be out of the office. Let me explain…
 
@@ -254,8 +257,8 @@ Further, understanding the time zones and global nature of your work should alwa
 
 For example, almost all modern email tools now have a form of delayed delivery to maximize the intended receipt time. In fact, you can now use delayed delivery in Office 365 and G Suite.
 
-Productivity and Balance
-------------------------
+## Productivity and Balance
+
 
 Now let’s explore what it means to be productive and to achieve balance in a world that feels unbalanced.
 
