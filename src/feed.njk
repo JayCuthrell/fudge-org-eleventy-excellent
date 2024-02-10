@@ -28,6 +28,10 @@
       <title>{{ post.data.title }}</title>
       <link>{{ absolutePostUrl }}</link>
       <description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
+      <image>
+        <url>{% if (layout == 'post') %}{% else %}{{ meta.meta_data.opengraph_default_alt }}{% endif %}</url>
+        <title>{{ post.data.title }}</title>
+        <link>{{ absolutePostUrl }}</link>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
