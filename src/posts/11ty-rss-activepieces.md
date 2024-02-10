@@ -107,11 +107,21 @@ Finally -- putting it all together by pressing the "Retest" button a few times a
 
 ![Activepices Flow posting an RSS input to LinkedIn](/assets/images/screenshots/2024-02-10-01-38-15.png)
 
+Oh, and for Mastodon, the same process but much less to fill into the Activepieces Flow Step form.
+
+![Activepices Flow posting an RSS input to Mastodon](/assets/images/screenshots/2024-02-10-14-26-12.png)
+
 In case you find examples useful, I've also exported my Activepieces Flows as json files.
 
 {% unfurl "https://github.com/JayCuthrell/activepieces" %}
 
-Next, I'll be testing this new approach to see if it works as expected for Fudge Sunday.
+Next, I'll be testing this new approach to see if it works as expected for Fudge Sunday. My understanding is that [LinkedIn OAuth 2.0 tokens expire at 2 months by default](https://learn.microsoft.com/en-us/linkedin/shared/authentication/authentication).
+
+Further, I'll probably stay manual for a few more iterations. I need to check to ensure that my assumptions don't result in my being blocked from LinkedIn if I make a mistake somewhere in my Activepieces settings.
+
+Said another way, I might simply end up [writing my own Python script](https://github.com/linkedin-developers/linkedin-api-python-client) and setting up another cron job.
+
+Or, I just give up on posting to LinkedIn entirely. 🤣
 
 Until then... 
 
