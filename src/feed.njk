@@ -28,15 +28,11 @@
       <title>{{ post.data.title }}</title>
       <link>{{ absolutePostUrl }}</link>
       <description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
-      <image>
-        <url>{{ meta.url }}
-          {% if (layout == 'post') %}/assets/images/social-preview/{{ title | slugify }}-preview.jpeg
-          {% else %}{{ meta.meta_data.opengraph_default }}
-          {% endif %}
-        </url>
-        <title>{{ post.data.title }}</title>
-        <link>{{ absolutePostUrl }}</link>
-      </image>
+      <enclosure url="{{ meta.url }}{% if (layout == 'post') %}/assets/images/social-preview/{{
+    title | slugify
+  }}-preview.jpeg
+  {% else %}{{ meta.meta_data.opengraph_default }}
+  {% endif %}" type="image/png" />
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
