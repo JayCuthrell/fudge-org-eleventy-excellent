@@ -32,7 +32,7 @@
     <item>
       <title>{{ post.data.title }}</title>
       <link>{{ absolutePostUrl }}</link>
-      <description>Subscribe at {{ metadata.url }}</description>
+      <description>Subscribe at <a href="{{ metadata.url }}">{{ metadata.url }}</a></description>
       <enclosure url="{{ meta.url }}/assets/images/social-preview/{{
   post.data.title | slugify
 }}-preview.jpeg" length="100" type="image/png" />
