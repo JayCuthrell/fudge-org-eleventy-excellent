@@ -32,6 +32,7 @@
         <url>{% if (layout == 'post') %}{% else %}{{ meta.meta_data.opengraph_default_alt }}{% endif %}</url>
         <title>{{ post.data.title }}</title>
         <link>{{ absolutePostUrl }}</link>
+      </image>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
