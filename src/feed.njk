@@ -35,7 +35,7 @@
       <description>Subscribe at {{ metadata.url }}</description>
       <enclosure url="{{ meta.url }}/assets/images/social-preview/{{
   post.data.title | slugify
-}}-preview.jpeg" type="image/png" />
+}}-preview.jpeg" length="100" type="image/png" />
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
