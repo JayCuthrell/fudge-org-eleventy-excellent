@@ -29,9 +29,7 @@
       <link>{{ absolutePostUrl }}</link>
       <description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
       <image>
-        <url>{{ meta.url }}{% if (layout == 'post') %}/assets/images/social-preview/{{
-    title | slugify
-  }}-preview.jpeg</url>
+        <url>{{ meta.url }}{% if (layout == 'post') %}/assets/images/social-preview/{{ title | slugify }}-preview.jpeg</url>
         <title>{{ post.data.title }}</title>
         <link>{{ absolutePostUrl }}</link>
       </image>
