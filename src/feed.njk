@@ -28,11 +28,9 @@
       <title>{{ post.data.title }}</title>
       <link>{{ absolutePostUrl }}</link>
       <description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
-      <enclosure url="{{ meta.url }}{% if (layout == 'post') %}/assets/images/social-preview/{{
-    title | slugify
-  }}-preview.jpeg
-  {% else %}{{ meta.meta_data.opengraph_default }}
-  {% endif %}" type="image/png" />
+      <enclosure url="{{ meta.url }}/assets/images/social-preview/{{
+  post.data.title | slugify
+}}-preview.jpeg" type="image/png" />
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
