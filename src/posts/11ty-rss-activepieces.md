@@ -117,7 +117,16 @@ In case you find examples useful, I've also exported my Activepieces Flows as js
 
 Next, I'll be testing this new approach to see if it works as expected for Fudge Sunday. My understanding is that [LinkedIn OAuth 2.0 tokens expire at 2 months by default](https://learn.microsoft.com/en-us/linkedin/shared/authentication/authentication).
 
-Further, I'll probably stay manual for a few more iterations. I need to check to ensure that my assumptions don't result in my being blocked from LinkedIn if I make a mistake somewhere in my Activepieces settings.
+Further, I'll probably stay manual using Activepieces via Webhook instead of an RSS feed trigger for a few more iterations. I need to check to ensure that my assumptions don't result in my being blocked from LinkedIn if I make a mistake somewhere in my Activepieces settings. 
+
+For example, to share this post to both Mastodon and LinkedIn I would replace the RSS trigger before with a Webhook trigger as follows:
+
+```shell
+curl -i -H "Accept: application/json" -H "Content-Type:application/json" -X POST --data \
+"{\"title\": \"11ty RSS Activepieces\",\"url\": \"https://fudge.org/archive/11ty-rss-activepieces/\",\"desc\": \"A new post\",\"opengraph\": \"https://fudge.org/assets/images/social-preview/11ty-rss-activepieces-preview.jpeg\"}" \
+https://cloud.activepieces.com/api/v1/webhooks/UNIQUE_ENDPOINT_GOES_HERE
+```
+![Activepeices Flow using a Webhook input to both Mastdon and Linkedin](/assets/images/screenshots/2024-02-11-08-28-22.png)
 
 Said another way, I might simply end up [writing my own Python script](https://github.com/linkedin-developers/linkedin-api-python-client) and setting up another cron job.
 
