@@ -1,6 +1,6 @@
 ---
 title: "11ty RSS Activepieces"
-description: "A look at enhancing 11ty RSS 2.0   with Open Graph image and Activepieces"
+description: "A look at enhancing 11ty POSSE with RSS 2.0, Open Graph, and Activepieces"
 date: 2024-02-11
 tags: 
   - newsletter
