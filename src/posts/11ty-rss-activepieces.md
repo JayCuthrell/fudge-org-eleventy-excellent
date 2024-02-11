@@ -126,9 +126,9 @@ curl -i -H "Accept: application/json" -H "Content-Type:application/json" -X POST
 "{\"title\": \"11ty RSS Activepieces\",\"url\": \"https://fudge.org/archive/11ty-rss-activepieces/\",\"desc\": \"A new post\",\"opengraph\": \"https://fudge.org/assets/images/social-preview/11ty-rss-activepieces-preview.jpeg\"}" \
 https://cloud.activepieces.com/api/v1/webhooks/UNIQUE_ENDPOINT_GOES_HERE
 ```
-![Activepeices Flow using a Webhook input to both Mastdon and Linkedin](/assets/images/screenshots/2024-02-11-08-28-22.png)
+![Activepieces Flow using a Webhook input to both Mastdon and Linkedin](/assets/images/screenshots/2024-02-11-08-28-22.png)
 
-Said another way, I might simply end up [writing my own Python script](https://github.com/linkedin-developers/linkedin-api-python-client) and setting up another cron job.
+Said another way, I might simply end up [writing my own Python script](https://github.com/linkedin-developers/linkedin-api-python-client) and setting up another cron job like scenario that calls Activepieces running as a docker image or a just-in-time [Pulumi deployed instance](https://github.com/activepieces/activepieces/tree/main/deploy/pulumi) or... well, you get the idea. 🤓
 
 Or, I just give up on posting to LinkedIn entirely. 🤣
 
