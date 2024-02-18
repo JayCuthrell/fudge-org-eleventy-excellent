@@ -60,6 +60,7 @@ const embeds = require("eleventy-plugin-embed-everything");
 const editOnGithub = require('eleventy-plugin-edit-on-github');
 const EleventyFetch = require("@11ty/eleventy-fetch");
 const pluginUnfurl = require("eleventy-plugin-unfurl");
+const footnotes = require('eleventy-plugin-footnotes');
 
 const templateReturn = (template, boolean) => {
   if (boolean) {
@@ -155,6 +156,7 @@ module.exports = (eleventyConfig, options = {}) => {
     duration: "6w",
     template: ({ title, publisher, url, logo }) => `<em><a href="${url}" class="unfurl">Source: ${publisher} — ${title}</a></em>`
   });
+  eleventyConfig.addPlugin(footnotes, { /* … */ });
 
   // 	--------------------- Passthrough File Copy -----------------------
   // same path
