@@ -18,6 +18,8 @@ tags:
   - design
 ---
 
+> See also: [Notes Before SXSW 2024](/archive/notes-before-sxsw-2024/)
+
 I'm on Day 3 at SXSW 2024. My biggest failure so far is related to my quantified self: I intended to track the number of steps I've taken and map my routes via GPS/beacons but I missed a setting on my mobile device. Bother.
 
 Disclosure, [I work for IBM](https://jaycuthrell.com/disclosure). At SXSW 2024, [IBM is sponsoring the Artificial Intelligence track](https://www.sxsw.com/conference/artificial-intelligence-track/). So far, I've attended two IBMer sessions.
