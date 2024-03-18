@@ -61,12 +61,13 @@ Or, if you'd like to catch up or compare SXSW 2024 notes with mine... [let's cha
 Grab some coffee. I have detailed notes to share but I'll break down a few key themes first.
 
 - ⚞ Convergence is coming
+- 🚨 Privacy is fragile
 - 📉 Friction is decreasing
 - 🏗️ Brands are building
 
 When I reviewed my Obsidian notes it was clear that a handful of sessions captured my imagination. I'll share them in context and deep link where possible.
 
-### Convergence is coming
+### ⚞ Convergence is coming
 
 I went to college in the 1990s to study Materials Science and Engineering. I graduated and then attempted graduate school but ended up getting into Linux, the Internet, the web, computation, data storage, networking, telecommunications, and what is now "the cloud".
 
@@ -104,7 +105,7 @@ Above all, the panel was balanced and complimentary. To paraphrase, if science f
   - Which requires better local clocks, sync, communications, and signal processing
   - ie the dark knight echolocation cell phones
 
-### Privacy is fragile
+### 🚨 Privacy is fragile
 
 In strong SXSW tradition, [Amy Webb's talk](https://www.youtube.com/watch?v=5uLSDbh6M_U&t=285s) was both celebrated, dissected, and possibly even [micro-lampooned](https://variety.com/2024/tv/news/sxsw-audiences-boo-videos-artificial-intelligence-ai-1235940454/).
 
@@ -148,7 +149,7 @@ During [Beyond the Hype - Policy for Keeping A.I. in Check](https://schedule.sxs
     - Look at IAB in EU as what state govt may pull forward. Data privacy law has not intersected with development challenges yet (synthetic data). 
     - Smart people are working on this within the administration and they want your comments and submit them.
 
-### Friction is decreasing
+### 📉 Friction is decreasing
 
 You'll recall I am deeply committed to the ruthless removal of annoyances ([RRoA](/topics/rroa)). This is a product management mindset to go from possible to permissible to sustainable to repeatable to advisable.
 
@@ -184,7 +185,7 @@ Lastly on the product management friction front, if you don't think strategy map
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7173043226231189505" height="303" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
-### Brands are building
+### 🏗️ Brands are building
 
 There were many familiar brands at SXSW 2024. I also learned of brands that were new to me and those that are partnering.
 
