@@ -60,9 +60,9 @@ Or, if you'd like to catch up or compare SXSW 2024 notes with mine... [let's cha
 
 Grab some coffee. I have detailed notes to share but I'll break down a few key themes first.
 
-- Convergence is coming
-- Friction is decreasing
-- Brands are building
+- ⚞ Convergence is coming
+- 📉 Friction is decreasing
+- 🏗️ Brands are building
 
 When I reviewed my Obsidian notes it was clear that a handful of sessions captured my imagination. I'll share them in context and deep link where possible.
 
