@@ -19,6 +19,8 @@ tags:
 ---
 
 > See also: [Notes Before SXSW 2024](/archive/notes-before-sxsw-2024/)
+> See also: [SXSW 2024 Days 1-3](/archive/sxsw-2024-days-1-3/)
+> See also: [SXSW 2024 Days 4-9](/archive/sxsw-2024-days-4-9/)
 
 I'm on Day 3 at SXSW 2024. My biggest failure so far is related to my quantified self: I intended to track the number of steps I've taken and map my routes via GPS/beacons but I missed a setting on my mobile device. Bother.
 
