@@ -8,7 +8,7 @@ tags:
   - dataops
   - devx
   - rroa
-  
+  - graphql
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-everything-counts-in-ops-amounts-1073115?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

@@ -11,7 +11,7 @@ tags:
   - modelops
   - red-hat
   - devops
- 
+  - graphql
 ---
 
 Music: [Daniel Bedingfield - Gotta Get Thru This (2001)](https://www.youtube.com/watch?v=b4eMyOzD9UI)

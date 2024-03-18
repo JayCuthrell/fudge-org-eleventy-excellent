@@ -2,7 +2,13 @@
 title: "Quaterly Roundup Edition"
 description: ''
 date: 2023-03-26 23:34:56.390000+00:00
-
+tags:
+  - newsletter
+  - devx
+  - vc
+  - mergers
+  - acquisitions
+  - graphql
 ---
 
  
