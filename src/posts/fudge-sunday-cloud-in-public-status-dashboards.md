@@ -2,7 +2,17 @@
 title: "Fudge Sunday - Cloud in Public: Status Dashboards"
 description: ''
 date: 2021-10-03 21:12:39+00:00
-
+tags:
+  - cloudinpublic
+  - status
+  - dashboards
+  - stashboards
+  - portals
+  - uptime
+  - whatsup
+  - whatsdown
+  - designforfail
+  - designforflail
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-status-dashboards-783150?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

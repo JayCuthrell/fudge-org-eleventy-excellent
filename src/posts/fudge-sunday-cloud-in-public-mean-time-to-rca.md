@@ -2,7 +2,18 @@
 title: "Fudge Sunday - Cloud in Public: Mean Time To RCA"
 description: ''
 date: 2021-10-25 01:27:33+00:00
-
+tags:
+  - cloudinpublic
+  - mttrca
+  - mttr
+  - mtti
+  - mttf
+  - mtta
+  - mttd
+  - mttv
+  - mttt
+  - mttc
+  - mttrr
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-mean-time-to-rca-815545?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

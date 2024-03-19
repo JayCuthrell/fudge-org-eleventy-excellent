@@ -13,6 +13,7 @@ tags:
  - opencensus
  - aws
  - adot
+ - honeycomb
 ---
 
 *[Duran Duran - Is There Something I Should Know? (1982)](https://www.youtube.com/watch?v=3M0hogZyRyU)*

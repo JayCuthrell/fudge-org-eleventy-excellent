@@ -2,7 +2,11 @@
 title: "Fudge Sunday - Cloud in Public: Impact Mapping"
 description: ''
 date: 2021-11-01 00:00:00+00:00
-
+tags:
+  - cloudinpublic
+  - impactmapping
+  - mapping
+  - observability
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-impact-mapping-826383?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

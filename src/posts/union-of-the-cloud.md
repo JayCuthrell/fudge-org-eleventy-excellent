@@ -5,6 +5,8 @@ date: 2022-08-07 23:51:09.837000+00:00
 tags:
   - analytics
   - multicloud
+  - paths
+  - journeys
 ---
 
 *[Duran Duran - Union Of The Snake (1983)](https://www.youtube.com/watch?v=n6p5Q6_JBes)*

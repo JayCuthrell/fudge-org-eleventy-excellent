@@ -2,7 +2,17 @@
 title: "Platform Engineering Blues"
 description: ''
 date: 2022-10-09 22:16:06.454000+00:00
-
+tags:
+  - platform
+  - value
+  - engineering
+  - tco
+  - roi
+  - idp
+  - devx
+  - toolchains
+  - business
+  - mapping
 ---
 
 *[Pavement - Platform Blues (1999)](https://www.youtube.com/watch?v=Lyu7yiLaaH0)*

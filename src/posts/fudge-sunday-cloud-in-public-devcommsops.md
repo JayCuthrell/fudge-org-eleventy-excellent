@@ -2,7 +2,9 @@
 title: "Fudge Sunday - Cloud in Public: DevCommsOps"
 description: ''
 date: 2021-10-18 00:01:32+00:00
-
+tags:
+  - cloudinpublic
+  - devcommsops
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-devcommsops-805563?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

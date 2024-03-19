@@ -2,7 +2,12 @@
 title: "What's Golden Path?"
 description: ''
 date: 2023-04-16 23:59:15.525000+00:00
-
+tags:
+  - honeycomb
+  - goldenpath
+  - idp
+  - platform
+  - devx
 ---
 
  
