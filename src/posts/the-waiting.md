@@ -1,8 +1,25 @@
 ---
 title: "The Waiting"
-description: ''
+description: 'Thoughts on analyst throughts on YouTube'
 date: 2010-01-21 00:00:00+00:00
-
+tags:
+  - youtube
+  - google
+  - apple
+  - datacenters
+  - media
+  - hype
+  - profit
+  - loss
+  - scale
+  - analysts
+  - analysis
+  - telecom
+  - streaming
+  - video
+  - revenue
+  - estimates
+  - valuation
 ---
 
 YouTube is difficult to understand as a business model for a lot folks. Heck, a lot of this Internet stuff is.
