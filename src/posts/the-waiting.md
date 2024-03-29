@@ -22,6 +22,8 @@ tags:
   - valuation
 ---
 
+https://www.youtube.com/watch?v=uMyCa35_mOg
+
 YouTube is difficult to understand as a business model for a lot folks. Heck, a lot of this Internet stuff is.
 
 What’s changed since then? Not a lot really. But… Welcome to 2010 and the promise of the ever elusive (illusive?) promise of the *P WORD*.
