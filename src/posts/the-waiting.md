@@ -1,6 +1,6 @@
 ---
 title: "The Waiting"
-description: 'Thoughts on analyst throughts on YouTube'
+description: 'Thoughts on analyst thoughts on YouTube'
 date: 2010-01-21 00:00:00+00:00
 tags:
   - youtube
