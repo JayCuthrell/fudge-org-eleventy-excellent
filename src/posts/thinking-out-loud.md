@@ -97,9 +97,9 @@ Newsletters have turned me on to great YouTube content as well. I've also mashed
 - 📺 [The CTO Advisor](https://www.youtube.com/@TheCTOAdvisor) - impressive topics, great speakers, and consistently excellent production
 - 📺 [SiliconANGLE theCUBE](https://www.youtube.com/@siliconangle) - the gold standard for getting signal from the noise in tech
 - 📺 [DigitalSreeni](https://www.youtube.com/@DigitalSreeni) - the teacher [I wish I had](/archive/reading-writing-and-arithmetic) in college
-- 📺 [Keenan Crane](https://www.youtube.com/@keenancrane)
-- 📺 [Stuff Made Here](https://www.youtube.com/@StuffMadeHere)
-- 📺 [devaslife](https://www.youtube.com/@devaslife)
+- 📺 [Keenan Crane](https://www.youtube.com/@keenancrane) - the possibilities of computing
+- 📺 [Stuff Made Here](https://www.youtube.com/@StuffMadeHere) - the possibilities of engineering
+- 📺 [devaslife](https://www.youtube.com/@devaslife) - the possibilities of software
 - 📺 [Rawkode Academy](https://www.youtube.com/@RawkodeAcademy) - hands-on keyboard [coding kata](/archive/reading-writing-and-arithmetic) live without a net
 - 📺 [Tech Ingredients](https://www.youtube.com/@TechIngredients) - the apex engineering professor who delights in what is possible
 
