@@ -12,6 +12,11 @@ tags:
   - social-networks
   - social
   - mastodon
+  - groq
+  - ai
+  - ibm
+  - sambanova
+  - nvidia
 ---
 
 This week we take a look at thought leadership listicle prompts, advances in computing infrastructure, as well as a shot and chaser.
