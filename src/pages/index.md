@@ -1,10 +1,7 @@
 ---
 permalink: /index.html
 title: 'Fudge Sunday'
-description: 'archives from Fudge Sunday weekly newsletter and blog posts from 1998 to Present'
+description: 'Fudge Sunday 🤔💡🤯🤓 is a weekly newsletter written by Jay Cuthrell. Subscribe to get Fudge Sunday 🤔💡🤯🤓 weekly newsletter sent directly to your inbox or visit the archives of Fudge Sunday 🤔💡🤯🤓 weekly newsletter and past blog posts from 1998 to Present.'
 layout: 'home'
-blog:
-  title: 'This is a title'
-  intro: "this is an intro"
 ---
 
