@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Multicloud, XaaS, and Service Mesh"
-description: ''
+description: 'A look at Multicloud Data Services and everything evolving to be a service with an increasing emphasis on observability'
 date: 2021-12-13 01:42:56+00:00
 tags:
   - service-mesh
@@ -10,12 +10,11 @@ tags:
   - weaveworks
   - gitops
   - pac
-
+  - tetrate 
+  - skywalking
+  - hashicorp
 ---
-
-[View online](https://sunday.fudge.org/issues/fudge-sunday-multicloud-xaas-and-service-mesh-916747?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)
-
-[![Start the week more informed](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/923a4f5e-0755-444a-8062-0bdbcc569cf7_1200x115.png "Start the week more informed")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F923a4f5e-0755-444a-8062-0bdbcc569cf7_1200x115.png)This week we take a look at Multicloud Data Services and everything evolving to be a service with an increasing emphasis on observability.
+This week we take a look at Multicloud Data Services and everything evolving to be a service with an increasing emphasis on observability.
 
  **Getting Informed**
 

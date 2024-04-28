@@ -1,17 +1,16 @@
 ---
 title: "Fudge Sunday - Cloud in Public: Impact Mapping"
-description: ''
+description: 'A look at public things for a public cloud'
 date: 2021-11-01 00:00:00+00:00
 tags:
   - cloudinpublic
   - impactmapping
   - mapping
   - observability
+  - terraform
+  - hashicorp
 ---
-
-[View online](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-impact-mapping-826383?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)
-
-[![Start the week more informed](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bbce0cb3-be3a-429a-8c07-bb5a695bf5de_1200x115.png "Start the week more informed")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbce0cb3-be3a-429a-8c07-bb5a695bf5de_1200x115.png)This week we continue to take a look at public things for a public cloud.
+This week we continue to take a look at public things for a public cloud.
 
 ☁️✅⚠️🛑
 

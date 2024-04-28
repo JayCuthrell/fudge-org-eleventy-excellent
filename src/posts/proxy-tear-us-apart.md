@@ -1,8 +1,13 @@
 ---
 title: "Proxy Tear Us Apart"
-description: ''
+description: 'A look at the path from VPN to Beyondcorp-esque alternatives'
 date: 2022-12-11 15:10:50.325363+00:00
-
+tags:
+  - terraform
+  - hashicorp
+  - pulumi
+  - vpn
+  - zerotrust
 ---
 
 Music: \*[INXS - Never Tear Us Apart (1988)](https://www.youtube.com/watch?v=AIBv2GEnXlc)\*

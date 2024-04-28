@@ -1,13 +1,17 @@
 ---
 title: "Fudge Sunday - Peek A Boo"
-description: ''
+description: 'A look at at meta newsletter reading on TypeScript, Prototyping, Consumerized Enterprise, Edge Computing, and the Uncanny Valley'
 date: 2022-02-14 00:04:04+00:00
-
+tags:
+  - hashicorp
+  - aws
+  - azure
+  - bicep
+  - cloudformation
+  - pulumi
 ---
 
-[View online](https://sunday.fudge.org/issues/fudge-sunday-peek-a-boo-1026756?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)
-
-[![Start the week more informed](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4892b2a2-ec84-45fb-8fc3-55806217a50f_1200x115.png "Start the week more informed")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4892b2a2-ec84-45fb-8fc3-55806217a50f_1200x115.png)This week we peek at meta newsletter reading on TypeScript, Prototyping, Consumerized Enterprise, Edge Computing, and the Uncanny Valley.
+This week we peek at meta newsletter reading on TypeScript, Prototyping, Consumerized Enterprise, Edge Computing, and the Uncanny Valley.
 
 [![Devo - Peek A Boo (Official Music Video)](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7d00bd96-34c6-4b4f-9d66-0d584862a118_600x450.jpeg "Devo - Peek A Boo (Official Music Video)")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7d00bd96-34c6-4b4f-9d66-0d584862a118_600x450.jpeg)Devo - Peek A Boo (Official Music Video)
 

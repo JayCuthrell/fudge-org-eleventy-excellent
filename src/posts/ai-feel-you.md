@@ -8,7 +8,10 @@ tags:
   - devx
   - devops
   - llm
-  
+  - terraform
+  - hashicorp
+  - cloudformation
+  - aws
 ---
 
  

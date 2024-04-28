@@ -7,6 +7,7 @@ tags:
   - multicloud
   - paths
   - journeys
+  - hashicorp
 ---
 
 *[Duran Duran - Union Of The Snake (1983)](https://www.youtube.com/watch?v=n6p5Q6_JBes)*

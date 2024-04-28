@@ -1,11 +1,13 @@
 ---
 title: "Fudge Sunday - FinOps Erase and Rewind"
-description: ''
+description: 'A look at FinOps and Swedish rock band lyrics'
 date: 2022-04-24 18:48:29+00:00
-
+tags:
+ - terraform
+ - hashicorp
+ - finops
 ---
-
-[![Start the week more informed](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/32e54642-b8d7-43c7-bfb6-a9e5bf1b643d_1200x115.png "Start the week more informed")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32e54642-b8d7-43c7-bfb6-a9e5bf1b643d_1200x115.png)This week we look at FinOps and Swedish rock band lyrics
+This week we look at FinOps and Swedish rock band lyrics
 
 The Cardigans - Erase & Rewind (1999)
 

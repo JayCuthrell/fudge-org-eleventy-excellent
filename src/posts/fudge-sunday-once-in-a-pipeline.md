@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Once in a Pipeline"
-description: ''
+description: 'A look at FinOps via Fuller, Franklin, Talking Heads, and Cunningham'
 date: 2022-03-20 21:49:21+00:00
 tags:
   - finops
@@ -11,9 +11,9 @@ tags:
   - modelops
   - revops
   - red-hat
-
+  - terraform
+  - hashicorp
 ---
-
 This week we take a look at FinOps via Fuller, Franklin, Talking Heads, and Cunningham.
 
 

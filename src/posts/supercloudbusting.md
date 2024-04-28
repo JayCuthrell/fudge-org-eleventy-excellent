@@ -1,8 +1,13 @@
 ---
 title: "SuperCloudbusting"
-description: ''
+description: 'A look at SuperCloud and MultiCloud'
 date: 2022-07-03 22:24:21.092000+00:00
-
+tags:
+  - hashicorp
+  - supercloud
+  - aws
+  - azure
+  - gcp
 ---
 
 *[Kate Bush - Cloudbusting (1985)](https://www.youtube.com/watch?v=pllRW9wETzw) and may the samples live on for years to come.[1](#footnote-1)*

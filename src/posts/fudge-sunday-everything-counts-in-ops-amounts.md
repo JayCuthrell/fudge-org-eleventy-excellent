@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Everything Counts in Ops Amounts"
-description: ''
+description: 'A look at portmanteaus of Development and Operations (DevOps) making inroads toward operationalizing Finance, Data Management, Machine Learning, Communications, and more'
 date: 2022-03-14 02:31:09+00:00
 tags:
   - finops
@@ -9,11 +9,10 @@ tags:
   - devx
   - rroa
   - graphql
+  - hashicorp
+  - terraform
 ---
-
-[View online](https://sunday.fudge.org/issues/fudge-sunday-everything-counts-in-ops-amounts-1073115?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)
-
-[![Start the week more informed](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/98e287c6-dd12-45ee-8633-e5eb7bc3274f_1200x115.png "Start the week more informed")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F98e287c6-dd12-45ee-8633-e5eb7bc3274f_1200x115.png)This week we take at portmanteaus of Development and Operations (DevOps) making inroad towards operationalizing Finance, Data Management, Machine Learning, Communications, and more
+This week we take a look at portmanteaus of Development and Operations (DevOps) making inroads toward operationalizing Finance, Data Management, Machine Learning, Communications, and more
 
 [![Depeche Mode - Everything Counts (Official Video)](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a272445b-0d4b-4276-913b-d1fb7afc5cab_600x450.jpeg "Depeche Mode - Everything Counts (Official Video)")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa272445b-0d4b-4276-913b-d1fb7afc5cab_600x450.jpeg)Depeche Mode - Everything Counts (Official Video)
 
