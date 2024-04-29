@@ -44,7 +44,7 @@ This week we take a look at what's next in events and efficiency in runtimes.
 
 ## Housekeeping
 
-- If you want to [catch up](hhttps://cuthrell.consulting/services/) in the real world, I have news to share. I'm heading out on the road in 2024 and these are just a sample of the [confirmed events](https://cuthrell.consulting/events/) that I'll be [supporting](https://cuthrell.consulting/services/).
+- If you want to [catch up](https://cuthrell.consulting/services/) in the real world, I have news to share. I'm heading out on the road in 2024 and these are just a sample of the [confirmed events](https://cuthrell.consulting/events/) that I'll be [supporting](https://cuthrell.consulting/services/).
   - [Red Hat Summit and AnsibleFest](https://www.redhat.com/en/summit) in Denver from May 6 - 9, 2024 for [Elevate Technology User Group](https://elevateusergroup.com/events)
   - [Dell Technologies World](https://www.dell.com/en-us/dt/events/delltechnologiesworld/2024/index.htm) in Las Vegas from May 21 - 23, 2024 for [Elevate Technology User Group](https://elevateusergroup.com/events)
   - [Qlik Connect](https://www.qlikconnect.com/) in Orlando from Jun 3 - 5, 2024 for [Tech Field Day](https://techfieldday.com/events/)
