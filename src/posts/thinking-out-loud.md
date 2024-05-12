@@ -23,6 +23,8 @@ tags:
   - reading
   - wishing
   - watching
+  - travel
+  - roadwarrior
 ---
 
 This week I am sharing my thoughts on recent reading, wish lists, and viewing habits.

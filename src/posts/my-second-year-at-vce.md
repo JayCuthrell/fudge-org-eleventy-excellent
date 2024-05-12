@@ -2,7 +2,16 @@
 title: "My Second Year at VCE"
 description: ''
 date: 2012-10-15 00:00:00+00:00
-
+tags: 
+  - newsletter
+  - travel
+  - vce
+  - dell
+  - emc
+  - vmware
+  - cisco
+  - vblock
+  - acadia
 ---
 
 

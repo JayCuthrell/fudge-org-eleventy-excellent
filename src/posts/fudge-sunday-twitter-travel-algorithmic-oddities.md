@@ -2,7 +2,9 @@
 title: "Fudge Sunday - Twitter Travel Algorithmic Oddities "
 description: ''
 date: 2022-05-08 20:10:22+00:00
-
+tags: 
+  - newsletter
+  - travel
 ---
 
 [![Start the week more informed](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/58bceca5-4ca4-43d9-a6d1-e9a1150f82c1_1200x115.png "Start the week more informed")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F58bceca5-4ca4-43d9-a6d1-e9a1150f82c1_1200x115.png)This week we look at IP targeting and geofencing while traveling.

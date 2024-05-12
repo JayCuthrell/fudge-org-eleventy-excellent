@@ -12,6 +12,7 @@ tags:
   - connectivity
   - mobile
   - devices
+  - travel
   - systems
   - broadband
   - technology

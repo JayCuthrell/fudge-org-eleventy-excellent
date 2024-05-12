@@ -1,8 +1,10 @@
 ---
 title: "Tel Aviv Traceroute"
-description: ''
+description: 'Packets of the past'
 date: 2000-04-29 00:59:10+00:00
-
+tags:
+  - travel
+  - roadwarrior
 ---
 
 Greetings from Tel Aviv. My body says it is noon. Everyone else here says it is 7 hours later.

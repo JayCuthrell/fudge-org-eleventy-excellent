@@ -2,7 +2,9 @@
 title: "Fudge Sunday - Reflecting and Projecting"
 description: ''
 date: 2021-06-27 17:53:34+00:00
-
+tags: 
+  - newsletter
+  - travel
 ---
 
 This post is a quick stroll through the past 20 years and looking ahead to the future. What happens when an emerging pattern becomes ubiquitous?

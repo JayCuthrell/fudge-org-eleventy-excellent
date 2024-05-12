@@ -21,12 +21,11 @@ tags:
   - oracle
   - pki
   - bbq
-
 ---
 
-[![Scient](https://substack.com/static/4d05513d8cbb0d6d9d73296f1dcde6b9/75985/11394363596.jpg "Scient")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2F4d05513d8cbb0d6d9d73296f1dcde6b9%2F75985%2F11394363596.jpg)From: Jay Cuthrell
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jcuthrell/2582551200/in/photolist-bScBX-bScGQ-bScuv-kDKeaG-kDHvC4-4WdfuQ-bScLm-bScRi" title="Wayback machine: Red Hat badge for iXL"><img src="https://live.staticflickr.com/3030/2582551200_54422ecac2_z.jpg" width="640" height="480" alt="Wayback machine: Red Hat badge for iXL"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-```
+
 To: All Scient Global
 
 Cc: [jay@cuthrell.com](mailto:jay@cuthrell.com)
@@ -84,5 +83,3 @@ Infrastructure Architect
 Scient ®: Results come from experience™
 
 [jcuthrell@scient.com](mailto:jcuthrell@scient.com) [www.scient.com](http://www.scient.com)
-
-```

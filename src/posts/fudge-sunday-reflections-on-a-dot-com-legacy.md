@@ -2,7 +2,10 @@
 title: "Fudge Sunday - Reflections on a Dot-Com Legacy"
 description: ''
 date: 2019-04-15 03:42:29+00:00
-
+tags: 
+  - newsletter
+  - travel
+  - dotcom
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-reflections-on-a-dot-com-legacy-171926?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

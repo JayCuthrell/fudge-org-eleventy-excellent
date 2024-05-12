@@ -8,8 +8,8 @@ tags:
   - dataops
   - deep-web
   - newsletter
-  - deep-web
-  
+  - deepweb
+  - travel
 ---
 
 [![Start the week more informed](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7ed45742-4a58-4adc-8c9f-a15ea5d1e258_1200x115.png "Start the week more informed")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7ed45742-4a58-4adc-8c9f-a15ea5d1e258_1200x115.png)Enjoy a short summer reading list from 1978-2020 to consider our future.

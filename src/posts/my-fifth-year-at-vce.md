@@ -2,12 +2,15 @@
 title: "My Fifth Year at VCE"
 description: 'Thoughts on my 5th year at VCE'
 date: 2015-10-17 00:00:00+00:00
-tags:
-- vce
-- emc
-- vmware
-- cisco
-- vblock
+tags: 
+  - newsletter
+  - travel
+  - vce
+  - dell
+  - emc
+  - vmware
+  - cisco
+  - vblock
 ---
 
 

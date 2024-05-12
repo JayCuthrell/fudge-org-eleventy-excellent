@@ -1,8 +1,9 @@
 ---
 title: "Here It Comes"
-description: ''
+description: 'a post 9/11 update'
 date: 2001-09-14 00:00:00+00:00
-
+tags: 
+  - travel
 ---
 
 From the US Airways mailing lists for frequent flyers (*emphasis* mine):

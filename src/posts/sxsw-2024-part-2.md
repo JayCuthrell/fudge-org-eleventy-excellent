@@ -36,6 +36,8 @@ tags:
   - networking
   - computation
   - data
+  - travel
+  - roadwarrior
 ---
 
 > See also: [Notes Before SXSW 2024](/archive/notes-before-sxsw-2024/)

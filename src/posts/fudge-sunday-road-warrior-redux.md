@@ -2,7 +2,10 @@
 title: "Fudge Sunday - Road Warrior Redux"
 description: ''
 date: 2019-03-18 05:34:24+00:00
-
+tags: 
+  - newsletter
+  - travel
+  - roadwarrior
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-road-warrior-redux-165427?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

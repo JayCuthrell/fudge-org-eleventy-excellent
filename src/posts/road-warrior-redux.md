@@ -2,7 +2,17 @@
 title: "Road Warrior Redux"
 description: ''
 date: 2019-03-18 00:00:00+00:00
-
+tags: 
+  - newsletter
+  - travel
+  - vce
+  - dell
+  - emc
+  - vmware
+  - cisco
+  - vblock
+  - acadia
+  - roadwarrior
 ---
 
 If you follow my annual blog updates you already know [I’ve been off the road for just over a year](https://fudge.org/archive/my-eighth-year-at-vce/?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter). As with any decrease in travel frequency there are opportunities to learn and plan for an eventual increase. This week I’ll explore some of the things I’ve learned over the past +20 years of being in regular motion around the globe.

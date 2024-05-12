@@ -2,7 +2,11 @@
 title: "My Eighth Year at Dell"
 description: ''
 date: 2018-10-08 00:00:00+00:00
-
+tags: 
+  - newsletter
+  - travel
+  - vce
+  - dell
 ---
 
 The traditional one year blog post continues. The year since my last work related update would best be described as a time of great changes.

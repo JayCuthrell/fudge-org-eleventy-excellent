@@ -2,7 +2,10 @@
 title: "Get It All While You Can"
 description: ''
 date: 2022-07-25 00:50:43.864000+00:00
-
+tags: 
+  - newsletter
+  - cloud
+  - repatriation
 ---
 
 *[Tesla - Ez Come Ez Go (1986)](https://www.youtube.com/watch?v=a40BIowhEOA)*

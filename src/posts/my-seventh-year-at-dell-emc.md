@@ -2,7 +2,16 @@
 title: "My Seventh Year at Dell EMC"
 description: ''
 date: 2017-10-18 00:00:00+00:00
-
+tags: 
+  - newsletter
+  - travel
+  - vce
+  - dell
+  - emc
+  - vmware
+  - cisco
+  - vblock
+  - vxrail
 ---
 
 I started this post ten days ago. The year since my last work related update has been packed with integration activity, organizational changes, epiphanies, and a fair amount of travel.

@@ -2,7 +2,9 @@
 title: "Fudge Sunday - Vacation Edition"
 description: ''
 date: 2019-04-29 05:59:33+00:00
-
+tags: 
+  - newsletter
+  - travel
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-vacation-edition-174385?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

@@ -1,8 +1,16 @@
 ---
 title: "Private Clouds Ahead"
-description: ''
+description: 'Here comes Acadia'
 date: 2010-10-18 00:00:00+00:00
-
+tags: 
+  - newsletter
+  - travel
+  - vce
+  - emc
+  - vmware
+  - cisco
+  - vblock
+  - acadia
 ---
 
 I have an announcement to make…

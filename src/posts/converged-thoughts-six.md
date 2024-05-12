@@ -2,7 +2,9 @@
 title: "Converged Thoughts Six"
 description: ''
 date: 2017-01-03 00:00:00+00:00
-
+tags: 
+  - travel
+  - newsletter
 ---
 
 Broken Wings

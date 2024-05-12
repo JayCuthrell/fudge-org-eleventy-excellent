@@ -2,7 +2,9 @@
 title: "Fudge Sunday - Life at 34,000 Feet"
 description: ''
 date: 2019-04-01 04:23:18+00:00
-
+tags: 
+  - newsletter
+  - travel
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-life-at-34-000-feet-168800?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

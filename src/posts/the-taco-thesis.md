@@ -3,17 +3,18 @@ title: "The Taco Thesis"
 description: 'Thoughts on SxSW 2008'
 date: 2008-03-19 04:43:08+00:00
 tags:
-- sxsw
-- access
-- people
-- social
-- twitter
-- service-provider
-- business-cards
-- wifi
-- community
-- mobile
-- internet
+  - sxsw
+  - access
+  - people
+  - social
+  - twitter
+  - service-provider
+  - business-cards
+  - wifi
+  - community
+  - mobile
+  - internet
+  - travel 
 ---
 
 Last week I attended SXSW Interactive. My goal was to [expand my mind](http://www.communicatrix.com/2008/03/communicatrix-sxsw-20.html).

@@ -19,6 +19,7 @@ tags:
   - dns
   - ipv4
   - ipv6
+  - travel
 ---
 
 Behold, one of my {% footnoteref "ripe", "This is the bigger RIPE Atlas Probe — they truly are quite small." %}probes{% endfootnoteref %}.

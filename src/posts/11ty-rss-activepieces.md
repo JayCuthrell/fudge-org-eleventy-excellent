@@ -17,6 +17,7 @@ tags:
   - pulumi
   - webhooks
   - docker
+  - travel
 ---
 
 This week is a look at enhancing 11ty by extending the RSS feed of my newsletter archive and blog to include an enclosure that borrows from Open Graph image functionality with the intent of populating the input for Activepieces as a [POSSE](/topics/posse) tool for posting to Mastodon and LinkedIn. That was a mouthful.
