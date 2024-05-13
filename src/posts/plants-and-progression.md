@@ -71,7 +71,7 @@ To be clear, these are not [alien crop circles](https://www.npr.org/sections/13.
 
 Source: https://web.archive.org/web/20120630100130/http://www.businessweek.com/stories/2008-12-04/how-to-make-the-drought-in-the-south-pay
 
-Back then, soil sensors captured and wirelessly relayed very basic data such as pH, humidity, and temperature across the sample areas to synthesize analysis and actions that improve the efficacy of irrigation. Water is not an infinite resource and droughts in farming regions mean that the goal back then continues today — only now with [more sophisticated technology](https://modernfarmer.com/2014/06/inside-job-new-chip-tells-farmers-water/) and the promise of greater ubiquity of telecommunications services with Multi-Access Edge Computing (MEC).
+Back then, soil sensors captured and wirelessly relayed very basic data such as pH, humidity, and temperature across the sample areas to synthesize analysis and actions that improve the efficacy of irrigation. Water is not an infinite resource and droughts in farming regions mean that the goal back then continues today — only now with [more sophisticated technology](https://web.archive.org/web/20230609033528/https://modernfarmer.com/2014/06/inside-job-new-chip-tells-farmers-water/) and the promise of greater ubiquity of telecommunications services with Multi-Access Edge Computing (MEC).
 
 ## Links for Learning
 
