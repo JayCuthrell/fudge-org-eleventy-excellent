@@ -13,6 +13,15 @@ tags:
   - tetrate 
   - skywalking
   - hashicorp
+  - solo
+  - isovalent
+  - bouyant
+  - kentik
+  - cillium
+  - tigera
+  - vmware
+  - linkerd
+  - sidecars
 ---
 This week we take a look at Multicloud Data Services and everything evolving to be a service with an increasing emphasis on observability.
 
