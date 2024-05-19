@@ -24,6 +24,10 @@ tags:
   - agents
   - tools
   - synthetic-data
+  - miro
+  - mural
+  - microsoft
+  - monday
 ---
 This week we take a look at what's on my mind as a map.
 
@@ -52,6 +56,14 @@ This week we take a look at what's on my mind as a map.
 Now, back to our regularly scheduled Fudge Sunday newsletter! 🤓
 
 ## Getting Informed
+
+A [mind map](https://en.wikipedia.org/wiki/Mind_map) is a visual from the practice of [mind mapping](https://en.wikipedia.org/wiki/Tony_Buzan). Modern mind mapping software has become popular enough to warrant being a common [feature](https://support.microsoft.com/en-us/office/create-a-mind-map-in-visio-642706c0-7e63-463b-8aa8-a9aa67367989#OfficeVersion=Web) or [visualization](https://community.monday.com/t/a-new-way-to-mind-mapping-on-monday-com/54696) in most modern SaaS collaboration tools.
+
+Typically, the mind map begins with a specific subject or primary topic. From there, the topic can branch into subtopics and continue to subtopics of subtopics. For example, using [markdown and 11ty can create a mind map](https://11ty-mindmap.vercel.app/mindmaps/complex/). Or, you can draw from seemingly [myriad options](https://miro.com/mind-map/) in the [digital drawing board space](https://www.mural.co/templates/mind-map).
+
+But what about seeing relationships between mind maps or many different topics? Let's dig in a bit.
+
+### Mapping Obsidian Mind Maps
 
 Fudge Sunday readers may recall past updates on my use of [Obsidian](https://obsidian.md) as part of my [Zettelkasten](/topics/zettelkasten). As my tastes in tools can be fickle, I am happy to share that my Obsidian vaults have only continued to expand since 2021.
 
