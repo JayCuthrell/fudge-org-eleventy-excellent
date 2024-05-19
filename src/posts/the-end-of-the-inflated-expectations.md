@@ -12,7 +12,8 @@ tags:
   - amazon
   - azure
   - aws
-
+  - obsidian
+  - zettlekasten
 ---
 
 This week we take a look at the hype cycle for Artificial Intelligence (A.I.) and what's next.

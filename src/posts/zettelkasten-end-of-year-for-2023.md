@@ -11,7 +11,7 @@ tags:
   - eleventy
   - 11ty
   - e6y
-
+  - obsidian
 ---
 
 This week we take a look at what I learned this year and my [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) that powers this newsletter and blog archives.

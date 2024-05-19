@@ -9,6 +9,7 @@ tags:
   - bicep
   - cloudformation
   - pulumi
+  - obsidian
 ---
 
 This week we peek at meta newsletter reading on TypeScript, Prototyping, Consumerized Enterprise, Edge Computing, and the Uncanny Valley.

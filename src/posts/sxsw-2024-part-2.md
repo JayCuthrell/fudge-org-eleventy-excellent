@@ -38,6 +38,8 @@ tags:
   - data
   - travel
   - roadwarrior
+  - obsidian
+  - zettlekasten
 ---
 
 > See also: [Notes Before SXSW 2024](/archive/notes-before-sxsw-2024/)

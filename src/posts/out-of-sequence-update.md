@@ -7,7 +7,6 @@ tags:
   - obsidian
   - zettelkasten
   - buttondown
-
 ---
 
 I used Obsidian to craft the content of this newsletter. Powering the jump from an Obsidian note to a Buttondown draft email was accomplished via [obsidian-buttondown](https://github.com/caro401/obsidian-buttondown).

@@ -2,7 +2,10 @@
 title: "Fudge Sunday - Just Can't Get Enough"
 description: ''
 date: 2022-05-01 22:39:55+00:00
-
+tags:
+  - obsidian
+  - zettlekasten
+  - reading
 ---
 
 [![Start the week more informed](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d3c453e5-6aaa-4420-9857-cf088826ce8c_1200x115.png "Start the week more informed")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3c453e5-6aaa-4420-9857-cf088826ce8c_1200x115.png)This week we examine reading lists from 2019-2022.

@@ -7,6 +7,7 @@ tags:
   - learning
   - newsletter
   - buttondown
+  - obsidian
 ---
 
 This week we take a look at my Zettelkasten end of year favorites for 2022.

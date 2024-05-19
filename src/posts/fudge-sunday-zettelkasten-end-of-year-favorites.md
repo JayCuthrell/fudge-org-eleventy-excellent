@@ -6,6 +6,7 @@ tags:
   - zettelkasten
   - learning
   - newsletter
+  - obsidian
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-zettelkasten-end-of-year-favorites-930157?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)

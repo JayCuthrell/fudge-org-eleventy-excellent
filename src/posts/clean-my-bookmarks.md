@@ -10,7 +10,7 @@ tags:
   - servicecatalog
   - platform engineering
   - zettelkasten
-
+  - obsidian
 ---
 
 This week we take a look at the rise, fall, and rebirth of bookmarking services.

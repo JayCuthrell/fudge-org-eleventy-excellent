@@ -15,6 +15,8 @@ tags:
   - link-rot
   - trends
   - analytics
+  - obsidian
+  - zettlekasten
 ---
 
 I've taken a few days to catch up on reading and hoped to exhaustively tag 200+ posts. I say hoped because it was way more fun to play with the different tools than to get the results mapped to the actual tagging. 

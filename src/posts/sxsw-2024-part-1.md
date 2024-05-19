@@ -16,6 +16,8 @@ tags:
   - recruiting
   - privacy
   - design
+  - obsidian
+  - zettlekasten
 ---
 
 > See also: [Notes Before SXSW 2024](/archive/notes-before-sxsw-2024/)
