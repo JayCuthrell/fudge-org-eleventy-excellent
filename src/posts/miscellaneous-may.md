@@ -36,7 +36,7 @@ The manual replication of this newsletter on LinkedIn has grown rapidly and I've
 
 However, while LinkedIn is "free", it is a walled garden ecosystem. I can "see" my followers but cannot bring them over to a new platform with a simple export. So, without resorting to automation that potentially violates LinkedIn terms of service, LinkedIn Newsletters are a silo of sorts.
 
-If you are reading this and have any thoughts. [Let me know if you have feedback](mailt:jay@cuthrell.com?SUBJECT=Paid+newsletter+feedback).
+If you are reading this and have any thoughts. [Let me know if you have feedback](mailto:jay@cuthrell.com?SUBJECT=Paid+newsletter+feedback).
 
 ### Looking ahead
 
@@ -64,7 +64,7 @@ A gaggle of analysts, practitioners, and pundits were present at DTW. I enjoyed 
 
 🧶 Data fabrics architectures will simplify common challenges (lineage, workflow orchestration, workspaces, analytics, monitoring, onboarding, clean rooms, collection, ETL fragility, ELT fragility, lakes instantiation, lake house construction, etc.) to enable outcomes where data already lives.
 
-So, perhaps, _Hot Take Tuesday_ will be a paid part of my newsletter strategy. Again, [let me know if you have feedback](mailt:jay@cuthrell.com?SUBJECT=Paid+newsletter+feedback).
+So, perhaps, _Hot Take Tuesday_ will be a paid part of my newsletter strategy. Again, [let me know if you have feedback](mailto:jay@cuthrell.com?SUBJECT=Paid+newsletter+feedback).
 
 ### BYOAI
 
