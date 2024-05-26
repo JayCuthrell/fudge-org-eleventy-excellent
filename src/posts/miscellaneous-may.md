@@ -1,6 +1,6 @@
 ---
 title: "Miscellaneous May"
-description: "AI chips, BYOAI, VOWEL, and more"
+description: "A.I. chips, B.Y.O.A.I., and V.O.W.E.L."
 date: 2024-05-26
 tags: 
   - newsletter
@@ -24,7 +24,7 @@ tags:
   - vowel
   - reading
 ---
-This week we take a look at AI chips, BYOI, and VOWEL.
+This week we take a look at A.I. chips, B.Y.O.A.I., and V.O.W.E.L.
 
 ## Housekeeping
 
