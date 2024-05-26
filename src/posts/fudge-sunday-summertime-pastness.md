@@ -1,6 +1,6 @@
 ---
 title: "Fudge Sunday - Summertime Pastness"
-description: ''
+description: 'A short summer reading list from 1978-2020 to consider our future'
 date: 2022-04-03 23:47:50+00:00
 tags:
   - finops
@@ -8,7 +8,6 @@ tags:
   - dataops
   - deep-web
   - newsletter
-  - deepweb
   - travel
 ---
 
