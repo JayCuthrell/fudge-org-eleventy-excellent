@@ -15,13 +15,8 @@ layout: base
 <article class="region" style="--region-space-top: var(--space-s)">
   <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
     <li class="card flow overflow-hidden">
-      <h4>Subscribe to Fudge Sunday 🤔💡🤯🤓, a weekly newsletter by Jay Cuthrell published every Sunday.</h4>
-      <form action="https://buttondown.email/api/emails/embed-subscribe/jaycuthrell" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.fudge.org', 'popupwindow')" class="embeddable-buttondown-form">
-      <p><label for="bd-email">Enter your email</label></p>
-      <input type="email" name="email" id="bd-email" />
-      <input type="submit" value="Subscribe" />
-      <input type="hidden" name="tag" value="11ty" />
-      </form>
+      Subscribe to Fudge Sunday 🤔💡🤯🤓, a weekly newsletter by Jay Cuthrell published every Sunday.
+      <iframe scrolling="no" style="width:100%!important;height:230px;border:1px #ccc solid !important" src="https://buttondown.email/jaycuthrell?as_embed=true"></iframe>
     </li>
     
     {% set postslist = collections.posts %} {% for post in postslist.slice(0, 1) %}
