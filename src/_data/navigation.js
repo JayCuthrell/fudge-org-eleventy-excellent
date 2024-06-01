@@ -5,6 +5,10 @@ module.exports = {
       url: '/about/'
     },
     {
+      text: 'Sponsorship',
+      url: '/sponsorship/'
+    },
+    {
       text: 'Archive',
       url: '/archive/'
     },
@@ -18,6 +22,10 @@ module.exports = {
     }
   ],
   bottom: [
+    {
+      text: 'Sponsorship',
+      url: '/sponsorship/'
+    },
     {
       text: 'Disclosure',
       url: 'https://jaycuthrell.com/disclosure'
