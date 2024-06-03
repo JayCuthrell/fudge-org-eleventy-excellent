@@ -71,7 +71,7 @@ For one perspective, I've sifted through a sample of ~100 tech newsletters so fa
 
 ### GenAI Hype
 
-What's different this month and this week is the pace of publishing. For example, consider that I wrong [Tech Journalism (2012)](/archive/tech-journalism) when the demarcations of VC deal flow and tech blogs were muddy at best.
+What's different this month and this week is the pace of publishing. For example, consider that I wrote [Tech Journalism (2012)](/archive/tech-journalism) when the demarcations of VC deal flow and tech blogs were muddy at best.
 
 As for [hype](/topics/hype/), we've been here already. The hype is not a new thing.
 
