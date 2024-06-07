@@ -1,12 +1,19 @@
 ---
 title: "The Promised Landing Zones"
-description: ''
-date: 2023-03-20 00:27:17.179000+00:00
-
+description: 'A look and landing zones at AWS, Azure, GCP, and OCI'
+date: 2023-03-20
+tags:
+  - aws
+  - azure
+  - gcp
+  - oci
+  - landingzones
+  - lz
+  - k8s
+  - apps
+  - cloud
+  - devx
 ---
-
- 
-
 Music: [Bruce Springsteen - The Promised Land (1978)](https://www.youtube.com/watch?v=azQY2YBUMQc)
 
 This week we take a look at the growing adoption of Landing Zones.

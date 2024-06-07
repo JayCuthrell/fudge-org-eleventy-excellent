@@ -1,11 +1,19 @@
 ---
 title: "Build a Cloud Platform Foundation"
-description: ''
-date: 2022-09-25 21:28:46.170000+00:00
-
+description: 'A look at cloud platform foundations and landing zones'
+date: 2022-09-25
+tags:
+  - aws
+  - azure
+  - gcp
+  - oci
+  - landingzones
+  - lz
+  - cpf
+  - devx
 ---
 
-*[Spandau Ballet - Foundation (1983)](https://www.youtube.com/watch?v=XbdHH-MbNrI)*
+Music: [Spandau Ballet - Foundation (1983)](https://www.youtube.com/watch?v=XbdHH-MbNrI)
 
 Getting Informed
 ================
@@ -16,8 +24,10 @@ To be clear, *legacy* would be defined as a working solution or approach. So, *n
 
 Subscribe for free to receive new posts! 🤓
 
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bffac6d5-8e0e-41f7-9120-f7de5273668b_629x396.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbffac6d5-8e0e-41f7-9120-f7de5273668b_629x396.jpeg)Dramatic Reenactment of updates to a developer friendly service catalogIt's better now we're comin' through 🎶
---------------------------------------
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bffac6d5-8e0e-41f7-9120-f7de5273668b_629x396.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbffac6d5-8e0e-41f7-9120-f7de5273668b_629x396.jpeg)Dramatic Reenactment of updates to a developer friendly service catalog 
+
+It's better now we're comin' through 🎶
+------------------------------------
 
 First, you may recall developer experience, or DexEx/DevX, from past posts back in December 2021 and March 2022. In short, developer experience is the empathy that an organization expresses for their developers to enable and empower them.
 
