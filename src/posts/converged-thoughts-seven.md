@@ -1,8 +1,13 @@
 ---
 title: "Converged Thoughts Seven"
 description: ''
-date: 2017-01-04 00:00:00+00:00
-
+date: 2017-01-04
+tags: 
+  - newsletter
+  - future
+  - trends
+  - diaspora
+  - social
 ---
 
 Looking Back & Looking Ahead

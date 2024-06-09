@@ -1,21 +1,24 @@
 ---
 title: "Fudge Sunday - Roll Your Own"
-description: ''
+description: 'A possible result of importing and exporting'
 date: 2019-04-08 02:11:45+00:00
 tags:
   - newsletter
   - posse
   - mastodon
   - social
+  - future
+  - trends
+  - diaspora
 ---
 
 [View online](https://sunday.fudge.org/issues/fudge-sunday-roll-your-own-170346?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=Start+the+week+more+informed)
 
-[![Start the week more informed](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/af5675b1-9ad8-4924-b37c-85629cf1ae0b_1200x115.png "Start the week more informed")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faf5675b1-9ad8-4924-b37c-85629cf1ae0b_1200x115.png)When I started collecting links this week I had no idea how I would arrive at a conclusion. Thank goodness for the tech news cycle and, specifically, Techmeme. I’m already questioning my use of a newsletter service for reasons I hope to make clear below. Let’s get started.
+[![Start the week more informed](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/af5675b1-9ad8-4924-b37c-85629cf1ae0b_1200x115.png "Start the week more informed")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faf5675b1-9ad8-4924-b37c-85629cf1ae0b_1200x115.png)When I started collecting links this week I had no idea how I would conclude. Thank goodness for the tech news cycle and, specifically, Techmeme. I’m already questioning my use of a newsletter service for reasons I hope to make clear below. Let’s get started.
 
  **Go Your Own Way**
 
-I don’t doubt a Fleetwood Mac reference is slightly dated at just over 40 years ago. Still, one thing I have noticed in my regular reading is a renewed interest in repatriation of content from centralized social platform juggernauts to more self-hosted options.
+I don’t doubt a Fleetwood Mac reference is slightly dated at just over 40 years ago. Still, one thing I have noticed in my regular reading is a renewed interest in the repatriation of content from centralized social platform juggernauts to more self-hosted options.
 
 [![March of 2008 is where interest piqued but has it peaked?](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/317313b7-3d08-4ea5-9217-9dcca6a3314c_600x288.png "March of 2008 is where interest piqued but has it peaked?")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F317313b7-3d08-4ea5-9217-9dcca6a3314c_600x288.png)March of 2008 is where interest piqued but has it peaked?
 

@@ -1,11 +1,14 @@
 ---
 title: "Such Tweet Nothing"
-description: ''
+description: 'A look at IndieWeb origins and ActivityPub within the fediverse'
 date: 2023-01-01 23:31:02.583880+00:00
 tags:
   - newsletter
   - mastodon
   - fediverse
+  - future
+  - trends
+  - diaspora
 ---
 
 Music: [Calvin Harris - Sweet Nothing ft. Florence Welch (2012)](https://www.youtube.com/watch?v=17ozSeGw-fY)

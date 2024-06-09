@@ -1,19 +1,21 @@
 ---
 title: "Roll Your Own"
-description: ''
-date: 2019-04-08 00:00:00+00:00
+description: 'A look at platform dependency'
+date: 2019-04-08
 tags:
   - newsletter
   - mastodon
   - posse
+  - future
+  - trends
+  - diaspora
 ---
-
-When I started collecting links this week I had no idea how I would arrive at a conclusion. Thank goodness for the tech news cycle and, specifically, Techmeme. I’m already questioning my use of a newsletter service for reasons I hope to make clear below. Let’s get started.
+When I started collecting links this week I had no idea how I would conclude. Thank goodness for the tech news cycle and, specifically, Techmeme. I’m already questioning my use of a newsletter service for reasons I hope to make clear below. Let’s get started.
 
 Go Your Own Way
 ===============
 
-I don’t doubt a Fleetwood Mac reference is slightly dated at just over 40 years ago. Still, one thing I have noticed in my regular reading is a renewed interest in repatriation of content from centralized social platform juggernauts to more self-hosted options.
+I don’t doubt a Fleetwood Mac reference is slightly dated at just over 40 years ago. Still, one thing I have noticed in my regular reading is a renewed interest in the repatriation of content from centralized social platform juggernauts to more self-hosted options.
 
 [![March of 2008 is where interest piqued but has it peaked?](https://substack.com/static/beeb8b6646806e323d793c62124366c9/0a47e/1a2220c994b78514995db1eaaba6febf.png "March of 2008 is where interest piqued but has it peaked?")](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fstatic%2Fbeeb8b6646806e323d793c62124366c9%2F0a47e%2F1a2220c994b78514995db1eaaba6febf.png)March of 2008 is where interest piqued but has it peaked?
 
