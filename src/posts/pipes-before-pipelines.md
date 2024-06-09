@@ -45,7 +45,7 @@ As the name implies, I would read about a new tool or concept then I would write
 
 One of my ReadWriteHack articles in late 2010 was about Yahoo Pipes. Today, the technique I briefly outlined is one we take for granted using tools like [Grammarly](https://www.grammarly.com) or [Eleventy's Inclusive Language Plugin](https://www.11ty.dev/docs/plugins/inclusive-language/).
 
-{% unfurl "https://readwrite.com/hack-of-the-day-stronger-wordi/" %}
+https://readwrite.com/hack-of-the-day-stronger-wordi/
 
 Yahoo Pipes eventually went offline in late 2015. However, the memory of Yahoo Pipes lives on.
 
@@ -53,7 +53,7 @@ Yahoo Pipes eventually went offline in late 2015. However, the memory of Yahoo P
 
 Yahoo Pipes glimpsed into a lowcode nocode future of user friendlier integration platform as a service (iPaaS). Enjoy this marvelous [Glenn Fleishman](https://www.linkedin.com/in/glenn-fleishman-9b29282a0/) retelling — it is a true love letter to Yahoo Pipes.
 
-{% unfurl "https://retool.com/pipes" %}
+https://retool.com/pipes
 
 # Getting Informed
 
@@ -65,7 +65,7 @@ Almost three decades ago, [data pipelines for mapping visualization and web mapp
 
 For example, many readers might recall or use Google Earth. There was also MSN Virtual Earth.
 
-{% unfurl "https://www.cnet.com/tech/services-and-software/google-earth-vs-virtual-earth-3d-war-of-the-world-viewers/" %}
+https://www.cnet.com/tech/services-and-software/google-earth-vs-virtual-earth-3d-war-of-the-world-viewers/
 
 By 2030, the marketing brand pledge and product capabilities in web mapping will have outpaced science fiction. Again, as a riff on Arthur C. Clarke’s original law:
 
@@ -73,13 +73,13 @@ By 2030, the marketing brand pledge and product capabilities in web mapping will
 
 Today, the modern Google Maps experience is increasingly leveraging A.I. to provide a preview of directions that would have been science fiction in the early days of web mapping. The product marketing name choice of "Immersive View" is an accurate claim.
 
-{% unfurl "https://blog.google/products/maps/google-maps-updates-io-2023/" %}
+https://blog.google/products/maps/google-maps-updates-io-2023/
 
 #### Sounds of Enrichment, Data Pipelines, and the Future
 
 Readers might recall a recent post on the past, present, and future of Apache Parquet.
 
-{% unfurl "https://fudge.org/archive/are-you-gonna-go-parquet/" %}
+https://fudge.org/archive/are-you-gonna-go-parquet/
 
 Readers will probably recognize the familiar three-step pattern of *update, upgrade, upskill/upswing/upstream/upsize* or variants like *modernize, automate, transform* that are vendor specific etc. Or, if you assume that change is hard, this is the hard work of introducing change into IT operations management (ITOM).
 
@@ -93,33 +93,33 @@ It is important to consider where A.I. claims are woven into both the marketing 
 
 We can't all be winners in the [Financial Modeling World Cup](https://fmworldcup.com) let alone the Football/Soccer World Cup, but with A.I. there is a promise of a future where being *okay* at Microsoft Excel might come with an A.I. ability that moves us past Bruce Sterling's "[Clippy++](https://youtube.com/clip/UgkxANEShUnz7mLI6MMA7jMUvc5UZHE4R_N4?feature=shared)" "[spicy autocomplete](https://youtube.com/clip/UgkxANEShUnz7mLI6MMA7jMUvc5UZHE4R_N4?feature=shared)" towards true copilots that help us all [bend it like Beckham](https://www.aps.org/publications/apsnews/200307/beckham.cfm).
 
-{% unfurl "https://textql.webflow.io/blog/ten-year-thesis" %}
-{% unfurl "https://www.generational.pub/p/generative-ai-for-bi" %}
-{% unfurl "https://airbyte.com/blog/why-ai-shouldnt-reinvent-etl" %}
-{% unfurl "https://www.ascend.io/blog/the-case-for-automated-etl-pipelines/" %}
-{% unfurl "https://www.prefect.io/blog/a-platform-approach-to-workflow-orchestration" %}
-{% unfurl "https://www.pecan.ai/blog/what-is-predictive-genai/" %}
-{% unfurl "https://www.dremio.com/blog/using-generative-ai-as-a-data-engineer/" %}
-{% unfurl "https://www.polestarllp.com/blog/generative-ai-redefining-data-engineering" %}
-{% unfurl "https://www.montecarlodata.com/blog-generative-ai-data-engineering/" %}
-{% unfurl "https://www.weka.io/blog/cloud-storage/extracting-the-signals-from-the-noise/" %}
-{% unfurl "https://featurebyte.com/resources/introducing-featurebyte-copilot" %}
-{% unfurl "https://www.prophecy.io/blog/introducing-prophecy-data-copilot" %}
-{% unfurl "https://press.aboutamazon.com/2023/11/aws-announces-amazon-q-to-reimagine-the-future-of-work " %}
-{% unfurl "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-data-dividend-fueling-generative-ai" %}
-{% unfurl "https://www.snaplogic.com/blog/genai-integrate-automate-enterprise-aws" %}
-{% unfurl "https://www.datastax.com/blog/streaming-real-time-data-pipelines-using-generative-ai" %}
+https://textql.webflow.io/blog/ten-year-thesis
+https://www.generational.pub/p/generative-ai-for-bi
+https://airbyte.com/blog/why-ai-shouldnt-reinvent-etl
+https://www.ascend.io/blog/the-case-for-automated-etl-pipelines/
+https://www.prefect.io/blog/a-platform-approach-to-workflow-orchestration
+https://www.pecan.ai/blog/what-is-predictive-genai/
+https://www.dremio.com/blog/using-generative-ai-as-a-data-engineer/
+https://www.polestarllp.com/blog/generative-ai-redefining-data-engineering
+https://www.montecarlodata.com/blog-generative-ai-data-engineering/
+https://www.weka.io/blog/cloud-storage/extracting-the-signals-from-the-noise/
+https://featurebyte.com/resources/introducing-featurebyte-copilot
+https://www.prophecy.io/blog/introducing-prophecy-data-copilot
+https://press.aboutamazon.com/2023/11/aws-announces-amazon-q-to-reimagine-the-future-of-work 
+https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-data-dividend-fueling-generative-ai
+https://www.snaplogic.com/blog/genai-integrate-automate-enterprise-aws
+https://www.datastax.com/blog/streaming-real-time-data-pipelines-using-generative-ai
 
 At the same time, open-source software is increasingly being shared by organizations that are at the forefront of practical applications of data pipelines. Kudos to [Stripe](https://github.com/stripe), [RudderStack](https://github.com/rudderlabs), [Dagster Labs](https://github.com/dagster-io) and others.
 
-{% unfurl "https://github.com/stripe/veneur" %}
-{% unfurl "https://github.com/rudderlabs/rudder-server" %}
-{% unfurl "https://github.com/dagster-io/dagster-open-platform" %}
+https://github.com/stripe/veneur
+https://github.com/rudderlabs/rudder-server
+https://github.com/dagster-io/dagster-open-platform
 
 Lastly, data pipelines are not exclusively the domain of customer data of what you bought that might result in a suggestion of what to buy next in the sense of e-commerce. It is important to remember that there are real-world *implications* around getting real-world data, real-world evidence, and real-time data in the healthcare and life sciences world too ([SPACE, SPIFD, SPIFD2](https://doi.org/10.1002/cpt.2883)).
 
-{% unfurl "https://www.regulations.gov/document/FDA-2023-D-2318-0003/comment" %}
-{% unfurl "https://doi.org/10.1016/j.imr.2023.101000" %}
+https://www.regulations.gov/document/FDA-2023-D-2318-0003/comment
+https://doi.org/10.1016/j.imr.2023.101000
 
 
 So, what will be the next big thing for data pipelines?

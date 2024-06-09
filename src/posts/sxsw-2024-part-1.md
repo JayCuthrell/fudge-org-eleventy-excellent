@@ -28,7 +28,9 @@ I'm on Day 3 at SXSW 2024. My biggest failure so far is related to my quantified
 
 Disclosure, [I work for IBM](https://jaycuthrell.com/disclosure). At SXSW 2024, [IBM is sponsoring the Artificial Intelligence track](https://www.sxsw.com/conference/artificial-intelligence-track/). So far, I've attended two IBMer sessions.
 
-First, I attended [Quantum Computing: Real, Revolutionary, Right Now!](https://schedule.sxsw.com/2024/events/PP140519) featuring [Jay Boisseau](https://www.linkedin.com/in/jayboisseau?trk=public_post_embed-text) of [The Austin Forum on Technology & Society](https://www.linkedin.com/company/austinforum?trk=public_post_embed-text), [Heather Higgins](https://www.linkedin.com/in/heatherhiggs?trk=public_post_embed-text) of [IBM](https://www.linkedin.com/company/ibm?trk=public_post_embed-text), [Rima Alameddine](https://www.linkedin.com/in/alameddinerima?trk=public_post_embed-text) of [IonQ](https://www.linkedin.com/company/ionq.co?trk=public_post_embed-text) , and [Bob Sorensen](https://www.linkedin.com/in/bob-sorensen-b8aa0487?trk=public_post_embed-text) of [Hyperion Research](https://www.linkedin.com/company/hyperion-research-hpc?trk=public_post_embed-text) on an {% footnoteref "panel", "Somehow, the only person I didn't already know on the panel was my fellow IBMer — but now the world is a bit smaller than before. 🤣" %} *awesome panel* {% endfootnoteref %}. While the published stories are just beginning to emerge on practical applications of quantum computing, {% footnoteref "applications", "A novel <a href='https://www.youtube.com/watch?v=jA7iopqDm94'>shipping logistics application of quantum computing</a> from last year was mentioned during the panel." %} *knapsack problem use cases are fascinating* {% endfootnoteref %}.
+First, I attended [Quantum Computing: Real, Revolutionary, Right Now!](https://schedule.sxsw.com/2024/events/PP140519) featuring [Jay Boisseau](https://www.linkedin.com/in/jayboisseau?trk=public_post_embed-text) of [The Austin Forum on Technology & Society](https://www.linkedin.com/company/austinforum?trk=public_post_embed-text), [Heather Higgins](https://www.linkedin.com/in/heatherhiggs?trk=public_post_embed-text) of [IBM](https://www.linkedin.com/company/ibm?trk=public_post_embed-text), [Rima Alameddine](https://www.linkedin.com/in/alameddinerima?trk=public_post_embed-text) of [IonQ](https://www.linkedin.com/company/ionq.co?trk=public_post_embed-text) , and [Bob Sorensen](https://www.linkedin.com/in/bob-sorensen-b8aa0487?trk=public_post_embed-text) of [Hyperion Research](https://www.linkedin.com/company/hyperion-research-hpc?trk=public_post_embed-text) on an awesome panel [^panel].
+
+[^panel]: Somehow, the only person I didn't already know on the panel was my fellow IBMer — but now the world is a bit smaller than before. 🤣 *awesome panel*. While the published stories are just beginning to emerge on practical applications of quantum computing, a novel [shipping logistics application of quantum computing](https://www.youtube.com/watch?v=jA7iopqDm94) from last year was mentioned during the panel. *knapsack problem use cases are fascinating*.
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7172352667053211648" height="688" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
@@ -137,8 +139,6 @@ I kept Obsidian open for a few sessions. I'm sharing a few of my notes in a summ
 - Find us and we will find a way for you to serve
 - Example: OTS to Major is 10 years and this approach does it in 6 months 🤯
 
-
-{% footnotes %}
 
 
 ## Disclosure

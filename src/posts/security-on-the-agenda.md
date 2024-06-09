@@ -25,7 +25,7 @@ I was looking back at my speaking events over the years and remembered the curio
 In all likelihood, if you are reading this then you have probably read or experienced phrasing such as "[security is everyone's job](https://www.technologyreview.com/2021/11/22/1040358/security-is-everyones-job-in-the-workplace/)" while simultaneously wrestling with the perception that [security is a barrier to innovation](https://hbr.org/2019/01/the-era-of-move-fast-and-break-things-is-over). However, even if you are a technology practitioner working in a product-led growth (PLG) culture company that has built a software developer paradise that prizes developer productivity and happiness — there are going to be passing references to security.
 
 > Some data has security or privacy restrictions. You need to work with the appropriate people inside the company to determine how this data is supposed to be treated.
-{% unfurl "https://linkedin.github.io/dph-framework/data-collection-principles.html" %}
+https://linkedin.github.io/dph-framework/data-collection-principles.html
 
 Let's consider a massive multi-disciplinary conference often referred to as nerd spring break: [South by Southwest (SxSW)](https://sxsw.com). As it is only 40 days until SxSW 2024 begins, it is worth looking at how such a diverse menu of nine (9!) days of event programming places security on the agenda.
 

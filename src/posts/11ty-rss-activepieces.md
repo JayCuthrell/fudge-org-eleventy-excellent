@@ -26,7 +26,7 @@ My inspiration? [spyglass.org](https://spyglass.org)
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7161019681313595395" height="385" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
-{% unfurl "https://www.linkedin.com/feed/update/urn:li:activity:7161019682546733056/" %}
+https://www.linkedin.com/feed/update/urn:li:activity:7161019682546733056/
 
 Indeed! 💯 This is why I too am frustrated with basic social network automation and realizing how challenging it is across the various platforms.
 
@@ -118,7 +118,7 @@ Oh, and for Mastodon, the same process but much less to fill into the Activepiec
 
 In case you find examples useful, I've also exported my Activepieces Flows as json files.
 
-{% unfurl "https://github.com/JayCuthrell/activepieces" %}
+https://github.com/JayCuthrell/activepieces
 
 Next, I'll be testing this new approach to see if it works as expected for Fudge Sunday. My understanding is that [LinkedIn OAuth 2.0 tokens expire at 2 months by default](https://learn.microsoft.com/en-us/linkedin/shared/authentication/authentication).
 

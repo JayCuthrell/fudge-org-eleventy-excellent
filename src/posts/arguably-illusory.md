@@ -50,7 +50,7 @@ And now...
 
 > “AI,” in these cases and many others, is a shiny distraction that begs us to “pay no attention to the man behind the curtain.”
 
-{% unfurl "https://www.techpolicy.press/dont-be-fooled-much-ai-is-just-outsourcing-redux/" %}
+https://www.techpolicy.press/dont-be-fooled-much-ai-is-just-outsourcing-redux/
 
 Indeed, we are likely entering the cycle where the acronym A.I. may simply stand for "Arguably Illusory".
 

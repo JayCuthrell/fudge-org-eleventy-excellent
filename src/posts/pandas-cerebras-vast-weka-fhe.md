@@ -42,7 +42,7 @@ This week is a potpourri of topics. Buckle up and let's go down the rabbit hole(
 
 Last year, Gartner published a blog listicle of predictions around data and analytics for the next 5 years in large enterprise organizations. Within Gartner's listicle are ten (10!) crystal ball insights with deeper links to past Gartner publications.
 
-{% unfurl "https://www.gartner.com/en/articles/gartner-strategic-data-and-analytics-predictions-through-2028" %}
+https://www.gartner.com/en/articles/gartner-strategic-data-and-analytics-predictions-through-2028
 
 Listicles, like commercial musicians' throwaways B-sides might become more popular than imagined. A few predictions caught my eye and I'll paraphrase each one.
 
@@ -86,7 +86,7 @@ Fifth, consider what essential cloud service providers are (frankly) missing fro
 
 ![Gartner Magic Quadrant for Distributed Hybrid Infrastructure](/assets/images/screenshots/2024-01-14-14-58-08.png)
 
-{% unfurl "https://www.gartner.com/doc/reprints?id=1-2FG8TML3&ct=231030&st=sb" %}
+https://www.gartner.com/doc/reprints?id=1-2FG8TML3&ct=231030&st=sb
 
 Finally, consider the thought leadership coming from companies such as [Airbyte](https://airbyte.com/blog/integrating-airbyte-with-data-orchestrators-airflow-dagster-and-prefect), [Starburst](https://www.starburst.io/blog/data-driven-innovation/), [Milvus](https://milvus.io/blog/efficient-vector-similarity-search-recommender-workflows-using-milvus-nvidia-merlin.md), [Momento](https://www.gomomento.com/blog/is-s3-express-one-zone-a-serverless-cache), and [Tecton](https://www.tecton.ai/blog/navigating-the-mlops-landscape-4-key-insights-from-applyops/).
 

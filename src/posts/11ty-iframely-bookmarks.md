@@ -22,7 +22,7 @@ tags:
 
 I'm truly enjoying [11ty](/topics/11ty/). I'm also looking to recapture some of the layout options I still miss from Revue (RIP) for unfurled cards the created flexible previews of embedded URLs within my newsletter.
 
-{% unfurl "https://www.techmeme.com/221214/p28#a221214p28" %}
+https://www.techmeme.com/221214/p28#a221214p28
 
 ## Getting Informed
 

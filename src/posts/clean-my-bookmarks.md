@@ -35,9 +35,9 @@ Now it's time for reading 📖, listening 🎧, and watching 📺 suggestions:
 
 It's been almost five (5!) years since the social-bookmarking site, Del.icio.us, was shut down after being acquired by another social-bookmarking site, Pinboard.
 
-{% unfurl "https://www.techmeme.com/170601/p10#a170601p10" %}
+https://www.techmeme.com/170601/p10#a170601p10
 
-{% unfurl "https://www.techmeme.com/181020/p14#a181020p14" %}
+https://www.techmeme.com/181020/p14#a181020p14
 
 ## But I keep falling when I'm higher 🎶
 
