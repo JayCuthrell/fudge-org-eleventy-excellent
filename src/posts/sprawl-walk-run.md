@@ -1,6 +1,6 @@
 ---
 title: "Sprawl Walk Run"
-description: "A look at spreadsheet sprawl and advisable Qlik ecosystem alternatives"
+description: "A look at silo spreadsheet sprawl and advisable Qlik ecosystem alternatives"
 date: 2024-06-30
 tags: 
   - newsletter
@@ -24,7 +24,7 @@ tags:
   - ecosystem
   - vizlib
 ---
-This week we take a look at spreadsheet sprawl and advisable alternatives from the Qlik ecosystem.
+This week we take a look at silo spreadsheet sprawl and advisable alternatives from the Qlik ecosystem.
 
 ## Getting Informed
 
