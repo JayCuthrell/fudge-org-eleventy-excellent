@@ -1,6 +1,6 @@
 ---
 title: "Sprawl Walk Run"
-description: "A look at silo spreadsheet sprawl and advisable Qlik ecosystem alternatives"
+description: "Part 1: A look at silo spreadsheet sprawl and advisable Qlik ecosystem alternatives"
 date: 2024-06-30
 tags: 
   - newsletter
@@ -23,6 +23,7 @@ tags:
   - partners
   - ecosystem
   - vizlib
+  - dataplatforms
 ---
 This week we take a look at silo spreadsheet sprawl and advisable alternatives from the Qlik ecosystem.
 
@@ -66,7 +67,7 @@ This week I caught up with [Inphinity](https://myinphinity.com) to go deeper tha
 - Collaboration and feedback further enrich the feedback loop.
 - Data quality is everyone's job.
 
-During our discussion, I learned about multiple use cases where [Inphinity]() enhances existing Qlik investments. I group these use cases into "planning" and "management".
+During our discussion, I learned about multiple use cases where [Inphinity](https://myinphinity.com) enhances existing Qlik investments. I group these use cases into "planning" and "management".
 
 Planning for many readers might be that time of year when your superior or a peer in Finance sends over a spreadsheet for you to fill out (again). Maybe you are lucky to get a snapshot of last year or you do ZBB. But, does it have to be this way or could you both collaborate and communicate in real-time? Same goes for Sales but perhaps this is a weekly, monthly, quarterly, etc. pattern. Again, does it have to be this way or could you both collaborate and communicate in real-time?
 
@@ -98,7 +99,7 @@ Actionable insights from writeback experiences will be a hallmark of successful 
 
 ### Visualizations
 
-I've crossed my 1000-word limit for this edition. I'll go deeper into visualizations next week.
+I've crossed my 1000-word limit for this edition. I'll go [deeper into visualizations](/run-fly-visualize) next week.
 
 As a preview, several booths at Qlik Connect mentioned "[Vizlib](https://www.youtube.com/watch?v=jK-PNzFfkdE)" in their signage or marketing collateral. Sessions along the edge of the show floor involving the topic of Qlik native visualizations overflowed into the halls.
 
