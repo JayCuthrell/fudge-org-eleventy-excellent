@@ -24,14 +24,20 @@ To be clear, *legacy* would be defined as a working solution or approach. So, *n
 
 Subscribe for free to receive new posts! 🤓
 
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bffac6d5-8e0e-41f7-9120-f7de5273668b_629x396.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbffac6d5-8e0e-41f7-9120-f7de5273668b_629x396.jpeg)Dramatic Reenactment of updates to a developer friendly service catalog 
+![Dramatic Reenactment of updates to a developer-friendly service catalog](/assets/images/screenshots/2024-07-08-18-34-54.png)
+
+Dramatic Reenactment of updates to a developer-friendly service catalog
 
 It's better now we're comin' through 🎶
 ------------------------------------
 
 First, you may recall developer experience, or DexEx/DevX, from past posts back in December 2021 and March 2022. In short, developer experience is the empathy that an organization expresses for their developers to enable and empower them.
 
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/58409c1d-315a-477e-9392-64c82bab22dd_992x992.png)Fudge SundayFudge Sunday - Our Low Code No Code Past, Present, and FutureView online This week we take a quick look at the past, present, and future of Low Code No Code + Developer Evangelism Relations Advocacy. Buckle up for a ride! Getting Informed…Read morea year ago · Jay Cuthrell](https://sunday.fudge.org/p/fudge-sunday-our-low-code-no-code-past-present-and-future-904238?utm_source=substack&utm_campaign=post_embed&utm_medium=web)[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/58409c1d-315a-477e-9392-64c82bab22dd_992x992.png)Fudge SundayFudge Sunday - Everything Counts in Ops AmountsView online This week we take at portmanteaus of Development and Operations (DevOps) making inroad towards operationalizing Finance, Data Management, Machine Learning, Communications, and more…Read more9 months ago · Jay Cuthrell](https://sunday.fudge.org/p/fudge-sunday-everything-counts-in-ops-amounts-1073115?utm_source=substack&utm_campaign=post_embed&utm_medium=web)While you’ve probably heard of DevOps, the term *“platform engineering”* might not be as familiar. For context, one definition of *“platform engineering”* comes from a relatively new[1](#footnote-1) website of the same name:
+[Fudge SundayFudge Sunday - Our Low Code No Code Past, Present, and Future](https://sunday.fudge.org/p/fudge-sunday-our-low-code-no-code-past-present-and-future-904238?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+
+[Fudge SundayFudge Sunday - Everything Counts in Ops Amounts](https://sunday.fudge.org/p/fudge-sunday-everything-counts-in-ops-amounts-1073115?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+
+While you’ve probably heard of DevOps, the term *“platform engineering”* might not be as familiar. For context, one definition of *“platform engineering”* comes from a relatively new[1](#footnote-1) website of the same name:
 
 
 > *Platform engineering is the discipline of designing and building toolchains and workflows that enable self-service capabilities for software engineering organizations in the cloud-native era.*[2](#footnote-2)
@@ -42,7 +48,10 @@ Some would argue that, culturally, DevOps has less appeal in a truly developer e
 
 Others, like Gartner, might argue that hype cycles play out over time and “Platform Engineering” will plateau in 2-5 years.[4](#footnote-4) That said, it is important to consider that emerging technologies might represent a catalyst to the embrace and adoption or convergence of other emerging technologies.
 
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/116589a8-95a4-4756-ab33-0adda4c3d003_2548x2343.png)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F116589a8-95a4-4756-ab33-0adda4c3d003_2548x2343.png)caption...Plans were laid, no compromise was made 🎶
+![Gartner says so!](/assets/images/screenshots/2024-07-08-18-37-28.png)
+
+
+Plans were laid, no compromise was made 🎶
 -----------------------------------------
 
 At this point, you might be saying 
