@@ -80,6 +80,9 @@ module.exports = (eleventyConfig, options = {}) => {
   eleventyConfig.addWatchTarget('./src/assets');
   eleventyConfig.addWatchTarget('./utils/*.js');
 
+  // --------------------- Put ads.txt in root -----------------------
+  eleventyConfig.addPassthroughCopy({ 'src/ads.txt': '/ads.txt' });
+
   // --------------------- layout aliases -----------------------
   eleventyConfig.addLayoutAlias('base', 'base.njk');
   eleventyConfig.addLayoutAlias('page', 'page.njk');
