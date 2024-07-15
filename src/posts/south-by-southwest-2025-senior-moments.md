@@ -84,6 +84,8 @@ My final submission is pending as the entry process began last month and ends ju
 
 ##### Background / Inspiration
 
+First, consider the terms [senior moment](https://www.researchgate.net/publication/223296883_Senior_moments_The_acceptability_of_an_ageist_phrase) and [senior moments](https://aese.psu.edu/outreach/intergenerational/articles/article-2) becoming normalized in everyday language. Are there infant moments, childish moments, junior moments, and adult moments too — or is empathy wasted on the young?
+
 ~20 years ago, I witnessed the frustration of seniors accessing the web, the needless loss of digital mementos, and receiving emails meant to prey upon their kind nature. These thoughts were captured in my blog post "[Internet Access](/archive/internet-access/) (2005)".
 
 ~10 years ago, I was struck by the growing application of technologies where a distinct lack of empathy in design and gaps in ethics were increasingly common. These thoughts were captured in my blog post "[ESTEEM is STEM plus Ethics plus Empathy](/archive/esteem-is-stem-plus-ethics-plus-empathy/) (2014)" and [Have your A.I. call my A.I](/archive/have-your-ai-call-my-ai/) (2016)".
