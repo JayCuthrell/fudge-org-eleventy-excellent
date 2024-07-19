@@ -76,7 +76,7 @@ At this point, you're probably wondering what I am submitting. I've extracted th
 
 My final submission is pending as the entry process began last month and ends just a week from today which is Jul 21, 2024. Then the community voting begins in early August 2024.
 
-#### Senior Moments: When the fiercely agentic meet Agentic AI
+#### ~~Senior Moments: When the fiercely agentic meet Agentic AI~~ Senior Savoir-faire: The fiercely agentic meet Agentic AI
 
 - Panel: 4 speakers
 - Topic: Artificial Intelligence
