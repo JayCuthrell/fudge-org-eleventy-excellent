@@ -10,6 +10,7 @@ tags:
   - python
   - niche
   - telecom
+  - edge
   - cloud
   - ai
   - ml
