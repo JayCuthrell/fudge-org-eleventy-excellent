@@ -1,16 +1,16 @@
 module.exports = {
   url: process.env.URL || 'http://localhost:8080',
   shortSiteName: 'Fudge Sunday',
-  siteName: 'Fudge Sunday 🤔💡🤯🤓',
+  siteName: 'Fudge Sunday 🤔 💡 🤯 🤓',
   siteDescription:
-    'the on again off again blog of Jay Cuthrell and Fudge Sunday 🤔💡🤯🤓 weekly newsletter',
+    'the on again off again blog of Jay Cuthrell and Fudge Sunday 🤔 💡 🤯 🤓 weekly newsletter',
   siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
   skipContent: 'Skip to content',
-  author: 'Jay Cuthrell', // i.e. Lene Saile - author's name. Must be set.
-  authorEmail: 'jay@cuthrell.com', // i.e. hola@lenesaile.com - email of the author
-  authorWebsite: 'https://jaycuthrell.com', // i.e. https.://www.lenesaile.com - the personal site of the author
+  author: 'Jay Cuthrell', 
+  authorEmail: 'jay@cuthrell.com', 
+  authorWebsite: 'https://jaycuthrell.com', 
   themeColor: '#fb923c', //  Manifest: defines the default theme color for the application
   themeBgColor: '#F3F3F3', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   meta_data: {
@@ -23,9 +23,9 @@ module.exports = {
   },
   blog: {
     // this is for the rss feed
-    name: 'Fudge Sunday 🤔💡🤯🤓 weekly newsletter',
+    name: 'Fudge Sunday 🤔 💡 🤯 🤓 weekly newsletter',
     description:
-      'the on again off again blog of Jay Cuthrell and Fudge Sunday 🤔💡🤯🤓 weekly newsletter'
+      'the on again off again blog of Jay Cuthrell and Fudge Sunday 🤔 💡 🤯 🤓 weekly newsletter'
   },
   pagination: {
     itemsPerPage: 20
@@ -43,7 +43,7 @@ module.exports = {
     cif: ''
   },
   "feed": {
-    "subtitle": "fudge.org and Fudge Sunday 🤔💡🤯🤓 weekly newsletter contain the on again off again ramblings of Jay Cuthrell",
+    "subtitle": "fudge.org and Fudge Sunday 🤔 💡 🤯 🤓 weekly newsletter contain the on again off again ramblings of Jay Cuthrell",
     "filename": "rss.xml",
     "path": "/rss.xml",
     "url": "https://fudge.org/rss.xml",
