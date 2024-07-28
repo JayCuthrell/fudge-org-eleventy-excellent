@@ -2,7 +2,8 @@
 title: "My Sixth Year at VCE and My Sixth Week at Dell EMC"
 description: ''
 date: 2016-10-22 00:00:00+00:00
-
+tags:
+  - vce
 ---
 
 Six years! Six weeks! That’s right. I’ve been at VCE for six years as of this update and that means I’ve been at Dell EMC for six weeks. To understand the nuance of VCE it is important to think about the history of VCE and just how far we have come… and where we are going as Dell EMC.

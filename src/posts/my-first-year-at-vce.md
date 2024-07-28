@@ -2,7 +2,8 @@
 title: "My First Year at VCE"
 description: ''
 date: 2011-10-18 00:00:00+00:00
-
+tags:
+  - vce
 ---
 
 *“We eat change for breakfast, lunch, dinner, and snacks in between” — VCE team ethos*

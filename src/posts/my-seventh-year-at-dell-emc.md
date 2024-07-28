@@ -12,6 +12,7 @@ tags:
   - cisco
   - vblock
   - vxrail
+  - vce
 ---
 
 I started this post ten days ago. The year since my last work related update has been packed with integration activity, organizational changes, epiphanies, and a fair amount of travel.

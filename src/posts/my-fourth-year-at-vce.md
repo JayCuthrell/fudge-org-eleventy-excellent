@@ -2,7 +2,8 @@
 title: "My Fourth Year at VCE"
 description: ''
 date: 2014-10-18 00:00:00+00:00
-
+tags:
+  - vce
 ---
 
 Today is my four year mark with VCE.

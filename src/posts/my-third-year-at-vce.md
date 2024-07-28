@@ -2,7 +2,8 @@
 title: "My Third Year at VCE"
 description: ''
 date: 2013-09-07 00:00:00+00:00
-
+tags:
+  - vce
 ---
 
 Next month I’ll reach my 3 year mark with VCE.

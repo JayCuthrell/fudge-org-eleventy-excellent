@@ -19,7 +19,7 @@ Senior executives and technologists start their week more informed with [Fudge S
       LinkedIn subscribers
     </li>
     <li class="card flow overflow-hidden">
-      <h4>182,000+</h4>
+      <h4>20,000+</h4>
       Web visitors per month
     </li>
  </ul>

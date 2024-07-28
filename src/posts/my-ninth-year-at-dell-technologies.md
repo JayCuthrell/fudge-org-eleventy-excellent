@@ -2,7 +2,8 @@
 title: "My Ninth Year at Dell Technologies"
 description: ''
 date: 2019-10-18 00:00:00+00:00
-
+tags:
+  - vce
 ---
 
 The traditional one year blog post continues but the *vce* in the URL slug will change. The year since my last work related update would best be described one door closing and another door opening.
