@@ -15,7 +15,7 @@ Senior executives and technologists with budgetary decision authority start thei
       Email subscribers
     </li>
     <li class="card flow overflow-hidden">
-      <h4>1800+</h4>
+      <h4>1491+</h4>
       LinkedIn subscribers
     </li>
     <li class="card flow overflow-hidden">
