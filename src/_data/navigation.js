@@ -13,6 +13,10 @@ module.exports = {
       url: '/archive/'
     },
     {
+      text: 'Hot Fudge Daily',
+      url: 'https://hot.fudge.org'
+    },
+    {
       text: 'Topics',
       url: '/topics/'
     },

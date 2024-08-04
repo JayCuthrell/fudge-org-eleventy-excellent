@@ -1,9 +1,9 @@
 module.exports = {
   url: process.env.URL || 'http://localhost:8080',
-  shortSiteName: 'Fudge Sunday',
-  siteName: 'Fudge Sunday 🤔 💡 🤯 🤓',
+  shortSiteName: 'Fudge Factor',
+  siteName: 'Fudge Factor 🤔 💡 🤯 🤓',
   siteDescription:
-    'the on again off again blog of Jay Cuthrell and Fudge Sunday 🤔 💡 🤯 🤓 weekly newsletter',
+    'the on again off again blog of Jay Cuthrell and Fudge Factor 🤔 💡 🤯 🤓 weekly newsletter',
   siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
@@ -23,9 +23,9 @@ module.exports = {
   },
   blog: {
     // this is for the rss feed
-    name: 'Fudge Sunday 🤔 💡 🤯 🤓 weekly newsletter',
+    name: 'Fudge Factor 🤔 💡 🤯 🤓 weekly newsletter',
     description:
-      'the on again off again blog of Jay Cuthrell and Fudge Sunday 🤔 💡 🤯 🤓 weekly newsletter'
+      'the on again off again blog of Jay Cuthrell and Fudge Factor 🤔 💡 🤯 🤓 weekly newsletter'
   },
   pagination: {
     itemsPerPage: 20
@@ -43,7 +43,7 @@ module.exports = {
     cif: ''
   },
   "feed": {
-    "subtitle": "fudge.org and Fudge Sunday 🤔 💡 🤯 🤓 weekly newsletter contain the on again off again ramblings of Jay Cuthrell",
+    "subtitle": "fudge.org and Fudge Factor 🤔 💡 🤯 🤓 weekly newsletter contain the on again off again ramblings of Jay Cuthrell",
     "filename": "rss.xml",
     "path": "/rss.xml",
     "url": "https://fudge.org/rss.xml",
