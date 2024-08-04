@@ -1,7 +1,7 @@
 ---
 title: "Fudge Factor"
 description: 'First edition of my new newsletter on our increasingly connected world'
-date: 2024-07-28
+date: 2024-08-04
 tags:
   - newsletter
   - telecom
