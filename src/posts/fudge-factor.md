@@ -75,7 +75,7 @@ Operation, Low-profile Design](https://bcmcom.com/bcm_product_ECM-ADLN-N97.html)
 
 One last thing...
 
-Congratulations to the [Gcore] team on their $60M funding round.[^funding] It was curious to see no mention of Intel in the press release but several [NVIDIA](/topics/nvidia) mentions instead that were syndicated to other outlets.[^intel1] [^intel2] [^intel3]
+Congratulations to the [Gcore](topics/gcore) team on their $60M funding round.[^funding] It was curious to see no mention of Intel in the press release but several [NVIDIA](/topics/nvidia) mentions instead that were syndicated to other outlets.[^intel1] [^intel2] [^intel3]
 
 [^funding]:[Gcore Raises $60M in Series A Funding](https://gcore.com/news/gcore-announces-series-a-fund-raise/)
 
