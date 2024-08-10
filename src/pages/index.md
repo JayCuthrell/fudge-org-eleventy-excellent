@@ -1,7 +1,7 @@
 ---
 permalink: /index.html
 title: 'Fudge Factor'
-description: 'Fudge Factor 🤔💡🤯🤓 is a weekly newsletter written by Jay Cuthrell. Subscribe to get Fudge Factor 🤔💡🤯🤓 weekly newsletter sent directly to your inbox or visit the archives and past blog posts from 1998 to Present.'
+description: 'Fudge Factor 🤔💡🤯🤓 is a blog and newsletter by Jay Cuthrell.'
 layout: 'home'
 ---
 <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
