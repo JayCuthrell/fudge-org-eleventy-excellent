@@ -14,7 +14,7 @@ module.exports = {
   themeColor: '#fb923c', //  Manifest: defines the default theme color for the application
   themeBgColor: '#F3F3F3', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   meta_data: {
-    opengraph_default: '/assets/images/opengraph-default.jpg', // fallback/default meta image
+    opengraph_default: '/assets/images/opengraph-default-fudge-factor.jpg', // fallback/default meta image
     opengraph_default_alt:
       'Visible content: fudge.org is powered by an Eleventy starter based on workflow for Cube CSS, Every Layout, Design Tokens and Tailwind for uitility, based on the concepts explained in buildexcellentwebsit.es ', // alt text for default meta image
     twitterSite: '', // i.e. @site - twitter profile of the site
