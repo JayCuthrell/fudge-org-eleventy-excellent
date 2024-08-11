@@ -99,7 +99,7 @@ Past readers of my prior newsletter might wonder how "Technology" would be just 
 
 ### 🏗️ Use Cases
 
-The "Use Cases" section of the [Fudge [Factor](/) will showcase real-world examples of how converged technologies are applied to impact various sectors and vertical industries, including healthcare, agriculture, retail, and smart cities — perhaps even our homes and day-to-day lives. My greatest hope is that readers will delight in the use of a clever "fudge factor" to solve problems, unlock markets, and create new opportunities.
+The "Use Cases" section of the [Fudge Factor](/) will showcase real-world examples of how converged technologies are applied to impact various sectors and vertical industries, including healthcare, agriculture, retail, and smart cities — perhaps even our homes and day-to-day lives. My greatest hope is that readers will delight in the use of a clever "fudge factor" to solve problems, unlock markets, and create new opportunities.
 
 ### 📐 Standards
 
