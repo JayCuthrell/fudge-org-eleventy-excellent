@@ -17,6 +17,40 @@ tags:
   - audience
 ---
 
+#### UPDATE: We'd appreciate your SXSW Vote
+
+First thing — Please be sure to have [registered](https://id.sxsw.com/sign_in) with a SXSW ID (free).&nbsp;</span> [https://id.sxsw.com/sign_in](https://id.sxsw.com/sign_in)
+
+Second thing — For SXSW 2025, I’m organizing [a panel with amazing speakers](https://panelpicker.sxsw.com/vote/148254). PLEASE [VOTE FOR THE PANEL](https://panelpicker.sxsw.com/vote/148254)! 🤓
+
+Senior Savoir-Faire: The Fiercely Agentic Meet Agentic AI [https://panelpicker.sxsw.com/vote/148254](https://panelpicker.sxsw.com/vote/148254)
+
+[https://panelpicker.sxsw.com/vote/148254](https://panelpicker.sxsw.com/vote/148254)
+
+##### Speakers
+
+- Marian Newsome, Founder and CEO, [Ethical Tech Matters](https://www.ethicaltechmatters.com/)
+- Gina Rosenthal, CEO, [Digital Sunshine Solutions](https://digitalsunshinesolutions.com/)
+- Phaedra Boinodiris, Responsible AI Business Transformation Leader, [IBM](http://www.phaedra.ai/)
+- Smiti Sharma, Founder & CTO, [Sven Consulting](https://www.smitisharma.com/)
+
+Third thing…
+
+> If you are looking for the list of similarly themed panels and talks... I've got you covered! Check out these ten (10!) awesome panels!
+
+1. Identity in the AI Era: Protecting the Most Vulnerable [https://panelpicker.sxsw.com/vote/153306](https://panelpicker.sxsw.com/vote/153306)
+2. Innovating Aging: Health & Medtech Redefining Elder Care [https://panelpicker.sxsw.com/vote/151886](https://panelpicker.sxsw.com/vote/151886)
+3. Digital Age(ing): How tech can empower our aging population [https://panelpicker.sxsw.com/vote/154313](https://panelpicker.sxsw.com/vote/154313)
+4. Silver and Savvy: Redefining Aging Care With AI [https://panelpicker.sxsw.com/vote/153009](https://panelpicker.sxsw.com/vote/153009)
+5. Gaming Without Age Limits: The 50+ Opportunity [https://panelpicker.sxsw.com/vote/147259](https://panelpicker.sxsw.com/vote/147259)
+6. Aging Reimagined: A Strategic Design Approach [https://panelpicker.sxsw.com/vote/152371](https://panelpicker.sxsw.com/vote/152371)
+7. Designing AI & Tech for Older Adults [https://panelpicker.sxsw.com/vote/153061](https://panelpicker.sxsw.com/vote/153061)
+8. It Gets Late Early: Ageism in the Workplace [https://panelpicker.sxsw.com/vote/151313](https://panelpicker.sxsw.com/vote/151313)
+9. I Used To Be Emo, but now, I’m An Adult…how sad! [https://panelpicker.sxsw.com/vote/148425](https://panelpicker.sxsw.com/vote/148425)
+10. Senior Savoir-Faire: The Fiercely Agentic Meet Agentic AI [https://panelpicker.sxsw.com/vote/148254](https://panelpicker.sxsw.com/vote/148254)
+
+---
+
 This week we take a look at my [South by Southwest® (SXSW®)](https://en.wikipedia.org/wiki/South\_by\_Southwest) 2025 [PanelPicker]((https://panelpicker.sxsw.com)) submission.
 
 # Getting Informed
@@ -129,6 +163,8 @@ What I do know is that I have been asking myself if my presence on stage is requ
 So, what will be the next big theme at SXSW 2025?
 
 Until then… Place your bets!
+
+PLEASE [VOTE FOR THE PANEL](https://panelpicker.sxsw.com/vote/148254)! 🤓
 
 # Disclosure
 
