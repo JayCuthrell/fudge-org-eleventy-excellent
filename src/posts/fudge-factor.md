@@ -28,6 +28,7 @@ tags:
   - npu
   - dpu
   - ieee
+  - fudge-factor
 ---
 
 This is the First edition of my new newsletter on our [increasingly connected](/archive/increasingly-connected) world.
