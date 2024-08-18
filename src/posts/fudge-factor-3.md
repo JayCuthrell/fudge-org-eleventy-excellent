@@ -142,3 +142,9 @@ You might have missed the International Geoscience and Remote Sensing Symposium 
 [^IGARSS]:[IGARSS 2024](https://www.2024.ieeeigarss.org/community_contributed_sessions.php)
 
 So, if you are interested in the approximately 30 conferences where [cal/val](/topics/cal-val) topics will come up, check out this [list of all major conferences, workshops and events related to remote sensing](https://airtable.com/appf0nsT6QiuMERwZ/shrqXXMDHSJRan7Qx/tblIkyUmR6LTvrUWJ?viewControls=on). Thanks to [Aravind Ravichandran](https://www.linkedin.com/in/aravindravichandran/) at [Terrawatch](https://terrawatchspace.com) for compiling such a great resource!
+
+> At just under 1300 words, that's all this week. 🤓
+
+## Disclosure
+
+I am linking to my [disclosure](https://jaycuthrell.com/disclosure/).
