@@ -7,7 +7,6 @@ tags:
   - cdn
   - data-protection
   - urls
-  - telegram
   - signal
   - pelican
   - linkedin
@@ -25,7 +24,6 @@ tags:
   - analytics
 
 ---
-
 [20 years](https://fudge.org/archive/the-fudge-faq). Well, it’s probably more than 20 years if I include personal websites that changed. Good times.
 
 # Selective Saving
@@ -58,7 +56,7 @@ After over a decade of Twitter, LinkedIn, etc… I’m trying other alternatives
 
 These days, I try to use [more secure messaging methods](https://ssd.eff.org/en/module/communicating-others).
 
-Feel free to ping me anytime on Keybase, Signal, Wire, Telegram, or Confide.
+Feel free to ping me anytime.
 
 My contact information is available at my personal website:
 
