@@ -110,7 +110,7 @@ However, it isn't up to cloud service providers alone to push technology forward
 - 🔋 Recharging batteries in adverse conditions is not a strong pattern for IIoT either. Lithium thionyl chloride (LiSOCL2)[^battery] battery chemistry developments enable longer lived applications where recharging is not desirable or possible during the lifecycle of the IIoT device.
 - 🧑‍💻 Software application development for IIoT also requires progressive improvements to wider access to more contributors. Node-RED, a flow-based [low-code](/topics/lowcode) programming tool for IIoT event-driven applications, just reached version 4.0.[^nodered]
 
-[^LPWANs]:[LPWANs](https://www.iotforall.com/lpwan-101)
+[^LPWANs]:[LPWANs](https://en.wikipedia.org/wiki/Low-power_wide-area_network)
 [^battery]:[Advanced Lithium Batteries Can Power Devices for Decades](https://www.automationworld.com/factory/digital-transformation/article/33037223/advanced-lithium-batteries-can-power-devices-for-decades)
 [^nodered]:[Node-RED flow-based low-code programming tool for IIoT event-driven applications](https://nodered.org/blog/2024/06/20/version-4-0-released)
 
@@ -118,9 +118,7 @@ Next, let's ponder [IIoT](/topics/iiot) use cases.
 
 ### 🏗️ Use Cases
 
-Predictive maintenance is changing how companies think of preventative maintenance cycles.
-
-Automation of factories, utilities, retail, etc.
+There is more that IIoT can enable than just predictive maintenance data gathering. Let's look at goals, approaches, and impacts.
 
 | Goal    | | Approach    | | Impacts    |
 | :--- | - |  :----------------------------- | - | :------: |
@@ -147,10 +145,12 @@ Next, let's review [IIoT](/topics/iiot) standards.
 
 As a reminder, past editions of this newsletter touched upon [IIoT](/topics/iiot) topics and standards in [Make IIoT Easy On Yourself](/archive/make-iiot-easy-on-yourself/).
 
-SSince IIoT often involves deployment in harsh or hazardous conditions, adhering to ATEX[^atex] (EU), IECEx[^iecex] (International), and UL[^ul] (US) standards is crucial for safety, compliance, reliability, interoperability, and wider global market adoption.
+SSince IIoT often involves deployment in harsh or hazardous conditions, adhering to ATEX[^atex114] (EU), IECEx[^iecex] (International), and UL[^ul] (US) standards is crucial for safety, compliance, reliability, interoperability, and wider global market adoption.
 
 [^iecex]:[IECEx](https://www.iecex.com/information/frequently-asked-questions/)
-[^atex]:[ATEX 114](https://www.processsensing.com/en-us/blog/understanding-atex-iecex-hazardous-areas.htm)
+
+[^atex114]:[ATEX 114](https://www.processsensing.com/en-us/blog/understanding-atex-iecex-hazardous-areas.htm)
+
 [^ul]:[UL](https://www.ul.com/services/cybersecurity/industry-40-cybersecurity)
 
 For industrial automation and control systems (IACS), the news cycle has shown the need for pragmatic cybersecurity approaches for both IT and OT. Over time, cybersecurity considerations have driven the ISA/IEC 62443[^isa] standard.
