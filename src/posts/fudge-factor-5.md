@@ -145,7 +145,7 @@ Next, let's review [IIoT](/topics/iiot) standards.
 
 As a reminder, past editions of this newsletter touched upon [IIoT](/topics/iiot) topics and standards in [Make IIoT Easy On Yourself](/archive/make-iiot-easy-on-yourself/).
 
-SSince IIoT often involves deployment in harsh or hazardous conditions, adhering to ATEX[^atex114] (EU), IECEx[^iecex] (International), and UL[^ul] (US) standards is crucial for safety, compliance, reliability, interoperability, and wider global market adoption.
+Since IIoT often involves deployment in harsh or hazardous conditions, adhering to ATEX[^atex114] (EU), IECEx[^iecex] (International), and UL[^ul] (US) standards is crucial for safety, compliance, reliability, interoperability, and wider global market adoption.
 
 [^iecex]:[IECEx](https://www.iecex.com/information/frequently-asked-questions/)
 
