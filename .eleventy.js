@@ -61,6 +61,10 @@ const editOnGithub = require('eleventy-plugin-edit-on-github');
 const EleventyFetch = require("@11ty/eleventy-fetch");
 const pluginUnfurl = require("eleventy-plugin-unfurl");
 const footnotes = require('eleventy-plugin-footnotes');
+// codeblock graphs
+// the plugin
+// const codeblocks = require('@code-blocks/eleventy-plugin');
+// const charts = require('@code-blocks/charts');
 
 const templateReturn = (template, boolean) => {
   if (boolean) {
@@ -159,7 +163,10 @@ module.exports = (eleventyConfig, options = {}) => {
     duration: "6w",
     template: ({ title, publisher, url, logo }) => `<em><a href="${url}" class="unfurl">Source: ${publisher} — ${title}</a></em>`
   });
+  // footnotes
   eleventyConfig.addPlugin(footnotes, { /* … */ });
+  // charts
+  // eleventyConfig.addPlugin(codeblocks([charts]));
 
   // 	--------------------- Passthrough File Copy -----------------------
   // same path
