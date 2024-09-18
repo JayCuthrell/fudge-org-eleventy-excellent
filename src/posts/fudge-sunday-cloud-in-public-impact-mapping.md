@@ -16,11 +16,11 @@ This week we continue to take a look at public things for a public cloud.
 
 This issue is part 5 of a 5 part series
 
-1. [Fudge Sunday - Cloud in Public: Status Dashboards](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-status-dashboards-783150?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-2. [Fudge Sunday - Cloud in Public: Engineering SLO](https://sunday.fudge.org/archive/794553?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-3. [Fudge Sunday - Cloud in Public: DevCommsOps](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-devcommsops-805563?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-4. [Fudge Sunday - Cloud in Public: Mean Time To RCA](https://sunday.fudge.org/archive/815545?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-5. [Fudge Sunday - Cloud in Public: Impact Mapping](https://sunday.fudge.org/archive/826383?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+1. [Fudge Sunday - Cloud in Public: Status Dashboards](/archive/fudge-sunday-cloud-in-public-status-dashboards/)
+2. [Fudge Sunday - Cloud in Public: Engineering SLO](/archive/fudge-sunday-cloud-in-public-engineering-slo/)
+3. [Fudge Sunday - Cloud in Public: DevCommsOps](/archive/fudge-sunday-cloud-in-public-devcommsops/)
+4. [Fudge Sunday - Cloud in Public: Mean Time To RCA](/archive/fudge-sunday-cloud-in-public-mean-time-to-rca/)
+5. [Fudge Sunday - Cloud in Public: Impact Mapping](/archive/fudge-sunday-cloud-in-public-impact-mapping/)
 
 As of this issue, we now have historical perspectives and definitions for [status dashboards](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-status-dashboards-783150?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [Engineering SLO](https://sunday.fudge.org/archive/794553?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), [DevCommsOps](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-devcommsops-805563?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter), and [Mean Time to RCA](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-mean-time-to-rca-815545?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter). Next, let’s talk about the increasing importance of dependency mapping across hyperscale public cloud service providers and consider [business value engineering](https://www.youtube.com/watch?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter&v=_EEJXAuryS8) and customer journeys.
 

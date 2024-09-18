@@ -23,11 +23,11 @@ tags:
 
 This issue is part 1 of a 5 part series
 
-1. [Fudge Sunday - Cloud in Public: Status Dashboards](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-status-dashboards-783150?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-2. [Fudge Sunday - Cloud in Public: Engineering SLO](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-engineering-slo-794553?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-3. [Fudge Sunday - Cloud in Public: DevCommsOps](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-devcommsops-805563?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
-4. [Fudge Sunday - Cloud in Public: Mean Time To RCA](https://sunday.fudge.org/archive/815545?utm_campaign=Fudge%20Sunday&utm_medium=email&utm_source=Revue%20newsletter)
-5. [Fudge Sunday - Cloud in Public: Impact Mapping](https://sunday.fudge.org/issues/fudge-sunday-cloud-in-public-impact-mapping-826383?utm_campaign=Start%20the%20week%20more%20informed&utm_medium=email&utm_source=Revue%20newsletter)
+1. [Fudge Sunday - Cloud in Public: Status Dashboards](/archive/fudge-sunday-cloud-in-public-status-dashboards/)
+2. [Fudge Sunday - Cloud in Public: Engineering SLO](/archive/fudge-sunday-cloud-in-public-engineering-slo/)
+3. [Fudge Sunday - Cloud in Public: DevCommsOps](/archive/fudge-sunday-cloud-in-public-devcommsops/)
+4. [Fudge Sunday - Cloud in Public: Mean Time To RCA](/archive/fudge-sunday-cloud-in-public-mean-time-to-rca/)
+5. [Fudge Sunday - Cloud in Public: Impact Mapping](/archive/fudge-sunday-cloud-in-public-impact-mapping/)
 
  **Last Week**
 
