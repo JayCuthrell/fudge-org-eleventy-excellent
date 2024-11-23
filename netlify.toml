@@ -20,10 +20,6 @@ package = "netlify-plugin-cache"
   publish = "dist"
 
 [[redirects]]
-  from = "/.well-known/atproto-did"
-  to = "atproto-did.txt"
-  status = 302
-[[redirects]]
   from = "/.well-known/host-meta*"
   to = "https://fed.brid.gy/.well-known/host-meta:splat"
   status = 302

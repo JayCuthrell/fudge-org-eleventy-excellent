@@ -86,6 +86,7 @@ module.exports = (eleventyConfig, options = {}) => {
 
   // --------------------- Put ads.txt in root -----------------------
   eleventyConfig.addPassthroughCopy({ 'src/ads.txt': '/ads.txt' });
+  eleventyConfig.addPassthroughCopy({ 'src/atproto-did.txt': '.well-known/atproto-did' });
 
   // --------------------- layout aliases -----------------------
   eleventyConfig.addLayoutAlias('base', 'base.njk');
