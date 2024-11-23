@@ -21,7 +21,7 @@ package = "netlify-plugin-cache"
 
 [[redirects]]
   from = "/.well-known/atproto-did"
-  to = "/well-known/atproto-did"
+  to = "atproto-did.txt"
   status = 302
 [[redirects]]
   from = "/.well-known/host-meta*"
