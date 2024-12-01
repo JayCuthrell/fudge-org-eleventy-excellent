@@ -21,7 +21,7 @@ export const svgToJpeg = async function () {
         console.log('making opengraph images');
         await Image(imageUrl, {
           formats: ['jpeg'],
-          outputDir: ogImagesDir,
+          outputDir: socialPreviewImagesDir,
           filenameFormat: function (id, src, width, format, options) {
             return `${outputFilename}.${format}`;
           }
