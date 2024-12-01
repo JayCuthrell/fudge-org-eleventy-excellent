@@ -1,87 +1,55 @@
-{% set assetHash = global.random() %}
+{% set assetHash = helpers.random() %}
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{ meta.lang }}">
+  <!-- The order of elements in the head follows recommendations by Harry Roberts. learn more here: https://www.youtube.com/watch?v=MHyAOZ45vnU -->
+
   <head>
-    <!-- charset/http-equiv/viewport -->
+    <!-- 1 charset/viewport -->
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    
-    <!-- title -->
+    <!-- 2 title -->
     <title>
-      {% if seo.title %} {{ seo.title }}
-      {% elif title %}
-      {{ title }} ({{ date | formatDate('YYYY') }}) by {{ meta.author }}
-      {% else %}
-      {{ meta.siteName }}
-      {% endif %}
+      {%- if seo.title -%}
+        {{ seo.title }}
+      {%- elif title -%}
+        {{ title }} ({{ date | formatDate('YYYY') }}) by {{ meta.author.name }}
+      {%- else -%}
+        {{ siteName }}
+      {%- endif -%}
     </title>
 
-    <!-- synchronous js / schema  -->
-    {% include "schemas/base-schema.njk" %} {% if schema == 'archive' %}
-    <!-- include archive schema  -->
-    {%- include "schemas/archive-schema.njk" %} {% endif %}
+    <base href="{{ page.url }}" />
 
-    <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" />
+    <!-- 3 synchronous js  -->
+    {% include "head/js-inline.njk" %}
 
-    <!-- preloads -->
-    <link
-      rel="preload"
-      href="/assets/fonts/inter/inter-v7-latin-500.woff2"
-      as="font"
-      type="font/woff2"
-      crossorigin
-    />
-    <link
-      rel="preload"
-      href="/assets/fonts/inter/inter-v7-latin-700.woff2"
-      as="font"
-      type="font/woff2"
-      crossorigin
-    />
-    <link
-      rel="preload"
-      href="/assets/fonts/redhat/red-hat-display-v7-latin-900.woff2"
-      as="font"
-      type="font/woff2"
-      crossorigin
-    />
+    <!-- 4 schema settings -->
+    {% include "head/schema.njk" %}
 
-    <!-- preloads in page data -->
-    {% if preloads -%}
-    <!-- prettier-ignore -->
-    <link rel="preload"
-            href="{{ preloads.href }}"
-            as="{{ preloads.as }}"
-            {% if preloads.type %}type={{ preloads.type }}{% endif %}{% if preloads.imagesrcset %}imagesrcset="{{ preloads.imagesrcset }}" {% endif %}
-            {% if preloads.crossorigin %}crossorigin{% endif %} />
-    {% endif %}
+    <!-- 5 CSS  -->
+    <!-- <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" /> -->
+    {% include "head/css-inline.njk" %}
 
-    <!-- defered js  -->
-    <script type="module" src="/assets/scripts/app.js?{{ assetHash }}" defer></script>
+    <!-- 6 preloads  -->
+    {% include "head/preloads.njk" %}
 
-    <!-- everything else: meta tags, icons, open graph etc.  -->
-    {% include "partials/meta-info.njk" %}
+    <!-- 7 defer  -->
+    {% include "head/js-defer.njk" %}
+
+    <!-- 8 meta tags, icons, open graph etc.  -->
+    {% include "head/meta-info.njk" %}
   </head>
 
-  <body>
-    <!-- header -->
+  <body class="{{ layout }}">
     {% include "partials/header.njk" %}
 
-    <!-- content slot -->
     <main id="main" class="flow">{{ content | safe }}</main>
 
-    <!-- footer -->
     {% include "partials/footer.njk" %}
 
-    <!-- youtube if actvated in yaml -->
-    {% if youtube %}
-    <script
-      type="module"
-      src="https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1.4.0/lite-youtube.min.js"
-    ></script>
-    {% endif %}
+    <script type="module" src="/assets/scripts/components/custom-easteregg.js"></script>
+    <custom-easteregg></custom-easteregg>
   </body>
 </html>

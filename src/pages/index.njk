@@ -1,0 +1,39 @@
+---
+layout: 'base'
+permalink: /index.html
+title: 'Fudge Factor'
+description: 'Fudge Factor 🤔💡🤯🤓 is a blog and newsletter by Jay Cuthrell.'
+blog:
+  title: 'Recent editions'
+  intro: ''
+---
+
+<div class="wrapper">
+  <header class="full | section" style="--spot-color: var(--color-primary)">
+    <div class="section__inner flow region">
+      <h1 class="text-center text-base-light">{{ title }}</h1>
+    </div>
+  </header>
+
+  <section class="full | region">
+    <div class="wrapper flow prose">
+      <h2>{{ blog.title }}</h2>
+      <!-- blog intro text is optional. -->
+
+      {% if blog.intro %}
+        <p>{{ blog.intro }}</p>
+      {% endif %}
+
+      <div class="feature |  region">
+        <custom-masonry layout="50-50">
+          <!-- loop posts -->
+          {% set itemList = collections.allPosts %}
+					{% asyncEach item in itemList.slice(0, 4) %}
+						{% set definedDate = item.date %}
+						{% include "partials/card-blog.njk" %}
+					{% endeach %}
+        </custom-masonry>
+      </div>
+    </div>
+  </section>
+</div>

@@ -1,7 +1,7 @@
-<div class="my-s-m cluster">
-  {% for tag in tags | sort %} {% if tag != "posts" %}
-  <a href="/topics/{{ tag }}" class="button">
-    {{ tag }}
-  </a>
-  {% endif %} {% endfor %}
-</div>
+{% if tags.size > 1 %}
+  <div class="my-s-m cluster">
+    {% for tag in tags %}
+      <a href="/topics/{{ tag }}"> {{ tag }} </a>
+    {% endfor %}
+  </div>
+{% endif %}

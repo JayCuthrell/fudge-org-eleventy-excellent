@@ -118,7 +118,7 @@ Finally, as for the emerging technologies that I want to align with for [cuthrel
 
 Additionally, I plan to explore a few ideas around GenAI and Fudge Sunday newsletter. For example...you'll note that I add this to each page I've produced on ```fudge.org``` has an image and link in the footer:
 
-[![Written by Human, Not by AI](/assets/images/Written-By-Human-Not-By-AI-Badge-white.svg)](https://notbyai.fyi/)
+[![Written by Human, Not by AI](/assets/images/template/Written-By-Human-Not-By-AI-Badge-white.svg)](https://notbyai.fyi/)
 
 As a reminder, the words you are seeing in Fudge Sunday were created by me. However, the world of GenAI might have a place in my workflow going forward. A few weeks ago, [Marshall Kirkpatrick](https://www.linkedin.com/in/marshallkirkpatrick/) piqued my GenAI curiosity 🤔 for how I could apply it to Fudge Sunday. Last week, [Elizabeth Quintanilla](https://www.linkedin.com/in/elizabethquintanilla/) expanded my mind 🤯 with her GenAI skills on Canva, Adobe, and more. So, stay tuned.
 

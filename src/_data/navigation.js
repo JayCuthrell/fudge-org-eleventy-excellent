@@ -1,5 +1,13 @@
-module.exports = {
+export default {
   top: [
+    {
+      text: 'Archive',
+      url: '/archive/'
+    },
+    {
+      text: 'Topics',
+      url: '/topics/'
+    },
     {
       text: 'About',
       url: '/about/'
@@ -9,20 +17,12 @@ module.exports = {
       url: '/sponsorship/'
     },
     {
-      text: 'Archive',
-      url: '/archive/'
+      text: 'RSS',
+      url: '/rss.xml'
     },
     {
       text: 'Hot Fudge Daily',
       url: 'https://hot.fudge.org'
-    },
-    {
-      text: 'Topics',
-      url: '/topics/'
-    },
-    {
-      text: 'RSS',
-      url: '/rss.xml'
     }
   ],
   bottom: [

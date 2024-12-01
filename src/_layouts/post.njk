@@ -1,65 +1,67 @@
 ---
 layout: base
-schema: archive
-preloads:
-  href: '/assets/fonts/robotomono/robotomono-variablefont_wght-webfont.woff2'
-  as: 'font'
-  type: 'font/woff2'
-  crossorigin: true
+schema: blog
 ---
 {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
 {% set nextPost = collections.posts | getNextCollectionItem(page) %}
 
-<article class="region blog">
+<article class="region blog" style="--region-space-top: var(--space-xl-2xl)">
   <div class="wrapper flow prose">
     <h6>
-{% if nextPost %}<a href="{{ nextPost.url }}"> ⬅️ {{ nextPost.data.title }}</a>{% endif %} 
-{% if previousPost %} <a href="">🧭</a> <a href="{{ previousPost.url }}">{{ previousPost.data.title }} ➡️ </a>{% endif %}
-</h6>
+      {% if nextPost %}<a href="{{ nextPost.url }}"> ⬅️ {{ nextPost.data.title }}</a>{% endif %} 
+      {% if previousPost %} <a href="">🧭</a> <a href="{{ previousPost.url }}">{{ previousPost.data.title }} ➡️ </a>{% endif %}
+    </h6>
     <h1 class="gradient-text">{{ title }}</h1>
-    
-    {% set definedDate = date %} {% include "partials/date.njk" %} by <a href="/about/">{{ meta.author }}</a>
 
-  <h6>
-   Share and discuss on 
-   <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ meta.url }}{{ page.url }}">LinkedIn</a> or 
-   <a href="https://news.ycombinator.com/submitlink?u={{ meta.url }}{{ page.url }}&t={{ title }} ({{ date | formatDate('YYYY') }})">HN</a>
-  </h6>
+    {% if image %}
+      <!-- image -->
+      {% image image, alt or title, credit, "eager", "feature" %}
+    {% endif %}
+
+    <p class="meta | cluster" style="--gutter: var(--space-xs-s)">
+      
+      <!-- date -->
+      {% set definedDate = date %} {% include "partials/date.njk" %} 
+       by <a href="/about/">{{ meta.author.name }}</a>
+      {%
+        if tags.length >
+        1
+      %}
+        <!-- tags -->
+        {% for tag in tags %}{% if tag != "posts" %}
+          <a class="button post-tag" href="/topics/{{ tag }}"> {{ tag }} </a>
+        {% endif %}{% endfor %}
+      {% endif %}
+    </p>
 
     {{ content | safe }}
+    {% include 'partials/edit-on.njk' %}
 
-  <p>
-    Topics:       
-    <!-- include tags -->
-    {% include "partials/post-tags.njk" %}
-  </p>
-  <p align="right">  
-  ✍️ 🤓 {% gh_edit page %} 🐙 ✍️
-  </p>
+    <h6>
+      {% if nextPost %}<a href="{{ nextPost.url }}"> ⬅️ {{ nextPost.data.title }}</a>{% endif %} 
+      {% if previousPost %} <a href="">🧭</a> <a href="{{ previousPost.url }}">{{ previousPost.data.title }} ➡️ </a>{% endif %}
+    </h6>
+    <h6>
+      Share and discuss on 
+      <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ meta.url }}{{ page.url }}">LinkedIn</a> or 
+      <a href="https://news.ycombinator.com/submitlink?u={{ meta.url }}{{ page.url }}&t={{ title }} ({{ date | formatDate('YYYY') }})">HN</a>
+    </h6>
+    
+  </div>
 
-<p>
-{% if nextPost %} ⬅️ Previously: <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>{% endif %}
-</p>
-<p>
-{% if previousPost %} ➡️ Next: <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>{% endif %}
-</p>
-
-  <h6>
-   Share and discuss on 
-   <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ meta.url }}{{ page.url }}">LinkedIn</a> or 
-   <a href="https://news.ycombinator.com/submitlink?u={{ meta.url }}{{ page.url }}&t={{ title }} ({{ date | formatDate('YYYY') }})">HN</a>
-  </h6>
-
-  <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    <li class="card flow overflow-hidden">
-      <h4>Get Fudge Factor each week</h4>
-      <form action="https://buttondown.email/api/emails/embed-subscribe/jaycuthrell" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.fudge.org', 'popupwindow')" class="embeddable-buttondown-form">
-      <p><label for="bd-email">Enter your email</label></p>
-      <input type="email" name="email" id="bd-email" />
-      <input type="submit" value="Subscribe" />
-      <input type="hidden" name="tag" value="11ty" />
-      </form>
-    </li>
-  </ul>
+  <!--  h-card infos: https://indieweb.org/authorship -->
+  <div hidden class="h-entry">
+    <a class="u-url" href="{{ page.url | url | absoluteUrl(meta.url) }}">{{ title }}</a>
+    <a class="p-name u-url" rel="author" href="{{ meta.url }}">{{ meta.author.name }}</a>
+    <img
+      class="u-author h-card"
+      src="{{ meta.author.avatar | url | absoluteUrl(meta.url) }}"
+      alt="{{ meta.author.name }}"
+    />
   </div>
 </article>
+
+{%- css "inline" -%}
+  {%- include 'css/post.css' -%}
+  {%- include 'css/footnotes.css' -%}
+{%- endcss -%}

@@ -1,51 +1,56 @@
-{% set activePage = page.url | url %}
-
-<footer class="site-foot sticky top-[100vh]" role="contentinfo">
+<footer class="site-footer ">
   <div class="wrapper">
-    <div class="site-foot__inner">
-      <nav id="footernav" class="site-foot__inner text-step-0" aria-label="Footer">
-
-        &copy; {% year %} <a href="/" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }}</a>
+    <div class="footer__meta | cluster">
+      <nav class="footer__meta | cluster text-step-0" aria-label="{{ meta.navigation.ariaBottom }}">
+        &copy; {% year %}
+        <a href="/" {% if page.url == "/" %}aria-current="page"{% endif %}
+          ><span class="font-display">{{ meta.siteName }}</span> <small>{{ pkg.version }}</small>
+        </a>
 
         {% for item in navigation.bottom %}
-
-        <a
-          href="{{ item.url }}"
-          {{
-          helpers.getLinkActiveState(item.url,
-          page.url)
-          |
-          safe
-          }}
-          >{{ item.text }}</a
-        >
-
+          <a
+            href="{{ item.url }}"
+            {{
+              helpers.getLinkActiveState(item.url,
+              page.url)
+              |
+              safe
+            }}
+            >{{ item.text }}</a
+          >
         {% endfor %}
       </nav>
 
-      <nav id="social" class="site-foot__inner" aria-label="Social links">
-        {% for item in social %}
+      <nav class="footer__meta | cluster" aria-label="{{ meta.navigation.ariaPlatforms }}">
+        <!-- gets the first item from the feed loop set in meta -->
+        <a href="{{ meta.blog.feedLinks[1].url }}" rel="alternate" type="{{ meta.blog.feedLinks[0].type }}">
+          <span class="visually-hidden">{{ meta.blog.feedLinks[0].title }}</span>
+          {% svg "misc/rss" %}
+        </a>
 
-        {% if item.platform == "rss" %}
-        <a href="{{ meta.url }}/{{ locale }}{{ item.url }}" rel="alternate" type="application/rss+xml">
-        {% else %}
-        <a href="{{ item.url }}" rel="me">
+        {% for key, value in personal.platforms %}
+          {% if value != "" %}
+            <!-- regular platforms -->
+            <a href="{{ value }}" rel="me">
+              <span class="visually-hidden">{{ key | capitalize }}</span>
+              {% svg 'platform/' + key %}
+            </a>
           {% endif %}
-          <span class="sr-only">{{ item.platform }}</span>
-          <div aria-hidden="true">{% include 'icons/social-' + item.icon %}</div>
-          </a
-          >
         {% endfor %}
-
-        
-        </nav>
-        <small>Based upon <a href="https://github.com/madrilene/eleventy-excellent">Eleventy Excellent</a></small>
-         <p align="right">
-         <a href="https://notbyai.fyi"><img src="/assets/images/Written-By-Human-Not-By-AI-Badge-white.svg" alt="Written by Human, Not by AI" width="131" height="42"></a>
+      </nav>
+      <p align="right">
          <a href="https://app.netlify.com/sites/fudge-org-eleventy-excellent/deploys"><img src="https://api.netlify.com/api/v1/badges/a33dfa3c-cf79-4281-a11f-7417a35d8f20/deploy-status"></a>
          </p>
     </div>
-  </div>
 
-  <!-- lang menu -->
+    <!-- theme switch -->
+    {% include 'partials/theme-switch.njk' %}
+
+    <aside class="creator">
+      <a class="cluster" href="{{ meta.creator.website }}"
+        >Made with <span class="visually-hidden">love</span> <span>{% svg "misc/heart" %}</span> by
+        {{ meta.creator.name }}</a
+      >
+    </aside>
+  </div>
 </footer>

@@ -1,4 +1,4 @@
-src/assets/helperfiles/*
-src/feed.njk
-src/feed2.njk
-src/social-preview.njk
+src/**/*.md
+src/_includes/components/**/custom-*.njk
+src/common/*
+src/_includes/scripts/*

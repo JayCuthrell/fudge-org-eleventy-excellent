@@ -2,24 +2,16 @@
 layout: base
 ---
 
-<header class="section spot-color-secondary">
-  <div class="section__inner region">
-    <div class="wrapper flow">
-      <section class="prose text-center">
-        <h1 class="fade-in">{{ title }}</h1>
-      </section>
+<div class="wrapper">
+  <header class="full | section" style="--spot-color: var(--color-primary)">
+    <div class="section__inner flow region">
+      <h1 class="text-center text-base-light">{{ title }}</h1>
     </div>
-  </div>
-</header>
-<article class="region page">
-  <div class="wrapper flow prose">
+  </header>
+</div>
+<article class="region">
+  <div class="wrapper flow">
+  
     {{ content | safe }}
-      {% set orderedCollection = collections | sortObjectByKey %}
-      {% for tag, posts in orderedCollection %}
-        {% if tag != "newsletter" and tag != "null" and tag != "postsbyyear" and tag != "postsByYear" and tag != "all" and tag != "posts" %}
-            <a href="/topics/{{ tag }}/" class="button">{{ tag }}</a>
-        {% endif %}
-      {% endfor %}
-
   </div>
 </article>
