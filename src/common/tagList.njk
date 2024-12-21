@@ -12,7 +12,7 @@ eleventyComputed:
 <custom-masonry layout="50-50">
   {% set itemList = collections[tag] | reverse %}
   {% for item in itemList %}
-
+    {% set definedDate = item.date %}
 		{% include "partials/card-tag.njk" %}
   {% endfor %}
 </custom-masonry>

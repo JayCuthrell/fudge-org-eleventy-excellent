@@ -4,7 +4,7 @@ fontBody: "'Inclusive Sans', Ubuntu" # needed created in local development, font
 background: '#343434'
 text: '#FBFBFB'
 colors: ['#dd4462', '#c73d58', '#b1364e', '#9a3044']
-siteUrl: 'eleventy-excellent.netlify.app'
+siteUrl: 'fudge.org'
 pagination:
   data: collections.posts
   size: 1
@@ -8215,7 +8215,7 @@ M189.971085,38.839527
 z"/>
 </svg>
 
-  <!-- date -->
+<!-- date -->
   <text
     font-family="Redhat, Roboto, 'Helvetica Neue', sans-serif"
     font-size="24"
@@ -8224,7 +8224,7 @@ z"/>
     letter-spacing="-1"
   >
     <tspan x="255" y="{{ verticalStartingPoint - 120 }}">
-      {{ preview.date | formatDate('DD / MM / YYYY') }}
+      {{ post.date | formatDate('MMMM D, YYYY') }}
     </tspan>
   </text>
 
