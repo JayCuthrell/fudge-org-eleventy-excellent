@@ -92,6 +92,9 @@ export default async function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy(path)
   );
 
+  // --------------------- Put /assets/css/pretty-feed-v3.xsl in place for rss.xml -----------------------
+  eleventyConfig.addPassthroughCopy({ 'src/assets/css/pretty-feed-v3.xsl': '/assets/css/pretty-feed-v3.xsl' });
+
   // --------------------- Put ads.txt in root -----------------------
   eleventyConfig.addPassthroughCopy({ 'src/ads.txt': '/ads.txt' });
 
