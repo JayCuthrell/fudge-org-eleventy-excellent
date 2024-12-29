@@ -6,6 +6,7 @@ schema: blog
 {% set nextPost = collections.posts | getNextCollectionItem(page) %}
 
 <article class="region blog" style="--region-space-top: var(--space-xl-2xl)">
+  {% include 'partials/sponsor-top.njk' %}
   <div class="wrapper flow prose">
     <h6>
       {% if nextPost %}<a href="{{ nextPost.url }}"> ⬅️ {{ nextPost.data.title }}</a>{% endif %} 
